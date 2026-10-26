@@ -16,6 +16,8 @@ export function Explore() {
   const [sheet, setSheet] = useState(false);
   const [page, setPage] = useState(1);
 
+  // follow the URL when it changes from outside (links, back/forward)
+  useEffect(() => setText(state.q ?? ""), [state.q]);
   // debounce typing into the URL
   useEffect(() => {
     const t = setTimeout(() => text !== (state.q ?? "") && set("q", text.trim()), 250);

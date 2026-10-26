@@ -1,0 +1,4646 @@
+[
+ {
+  "id": "2024-06-11-S2-Q094",
+  "sectionSubject": "Computer Science",
+  "text": "Which one of the following is the characteristic of a multimedia system?",
+  "textHi": "निम्नलिखित में से कौन एक मल्टीमीडिया प्रणाली की विशेषता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "High storage"
+   },
+   {
+    "label": "B",
+    "text": "High data rate"
+   },
+   {
+    "label": "C",
+    "text": "Both High storage and high data rate"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Both High storage and high data rate",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q094"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q097",
+  "sectionSubject": "Computer Science",
+  "text": "Joint Photographic Experts Group (JPEG) is used to compress___________",
+  "textHi": "संयुक्त फोटोग्राफिक विशेषज्ञ समूह (JPEG) का उपयोग ___________ को संपीड़ित करने के लिए किया जाता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "videos"
+   },
+   {
+    "label": "B",
+    "text": "music"
+   },
+   {
+    "label": "C",
+    "text": "images"
+   },
+   {
+    "label": "D",
+    "text": "frames"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "images",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q097"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q098",
+  "sectionSubject": "Computer Science",
+  "text": "___ signal varies continuously over space and/or time.",
+  "textHi": "___ सिग्नल अंतरिक्ष और/या समय पर लगातार भिन्न होता है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "Analog"
+   },
+   {
+    "label": "B",
+    "text": "Digital"
+   },
+   {
+    "label": "C",
+    "text": "Monolog"
+   },
+   {
+    "label": "D",
+    "text": "Multilog"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Analog",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q098"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q099",
+  "sectionSubject": "Computer Science",
+  "text": "___________ animation is used to animate things that are smaller than life size.",
+  "textHi": "___________ एनीमेशन का उपयोग उन चीजों को चेतन करने के लिए किया जाता है जो जीवन के आकार से छोटी हैं।",
+  "options": [
+   {
+    "label": "A",
+    "text": "Immersive"
+   },
+   {
+    "label": "B",
+    "text": "Claymotion"
+   },
+   {
+    "label": "C",
+    "text": "Stop motion"
+   },
+   {
+    "label": "D",
+    "text": "Augmented"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Stop motion",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q099"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q101",
+  "sectionSubject": "Art of Teaching",
+  "text": "The rules of presenting the contents to make them easy are called",
+  "textHi": "विषय वस्‍तु को आसान बनाकर प्रस्तुत करने के नियम कहलाते हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "Method of teaching"
+   },
+   {
+    "label": "B",
+    "text": "Maxims of teaching"
+   },
+   {
+    "label": "C",
+    "text": "Techniques of teaching"
+   },
+   {
+    "label": "D",
+    "text": "Teaching strategies"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Maxims of teaching",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q101"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q102",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following is an independent variable in the teaching-learning process?",
+  "textHi": "निम्नलिखित में से कौन सा शिक्षण-अधिगम प्रक्रिया में एक स्वतंत्र चर है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Teacher"
+   },
+   {
+    "label": "B",
+    "text": "Student"
+   },
+   {
+    "label": "C",
+    "text": "Institution"
+   },
+   {
+    "label": "D",
+    "text": "Parents"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Teacher",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q102"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q103",
+  "sectionSubject": "Art of Teaching",
+  "text": "All are the characteristics of learning except",
+  "textHi": "एक को छोड़कर सभी सीखने की विशेषताएँ हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "learning is a progress of the organism"
+   },
+   {
+    "label": "B",
+    "text": "learning is a process related to educating environment"
+   },
+   {
+    "label": "C",
+    "text": "learning is the result of practice"
+   },
+   {
+    "label": "D",
+    "text": "learning reinforces further learning"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "learning is a process related to educating environment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q103"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q104",
+  "sectionSubject": "Art of Teaching",
+  "text": "Bloom’s taxonomy of educational objectives are classified into.",
+  "textHi": "ब्लूम के शैक्षिक उद्देेश्यों के वर्गीकरण को निम्न में वर्गीकृत किया गया है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "Five domains"
+   },
+   {
+    "label": "B",
+    "text": "Six domains"
+   },
+   {
+    "label": "C",
+    "text": "Four domains"
+   },
+   {
+    "label": "D",
+    "text": "Three domains"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Three domains",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q104"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q105",
+  "sectionSubject": "Art of Teaching",
+  "text": "The Characteristic of behavioral objective is",
+  "textHi": "व्यवहारिक उद्देेश्य की विशेषता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Observable and Immeasurable"
+   },
+   {
+    "label": "B",
+    "text": "Non- observable"
+   },
+   {
+    "label": "C",
+    "text": "Observable and measurable"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Observable and measurable",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q105"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q106",
+  "sectionSubject": "Art of Teaching",
+  "text": "Problem solving involves",
+  "textHi": "समस्या समाधान में शामिल है",
+  "options": [
+   {
+    "label": "A",
+    "text": "imagination"
+   },
+   {
+    "label": "B",
+    "text": "reflective thinking"
+   },
+   {
+    "label": "C",
+    "text": "divergent thinking"
+   },
+   {
+    "label": "D",
+    "text": "convergent thinking"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "reflective thinking",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q106"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q107",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following is the advantages of Assignment method?",
+  "textHi": "निम्नलिखित में से कौन सा असाइनमेंट विधि का लाभ है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "It provides opportunity in self-learning for the students"
+   },
+   {
+    "label": "B",
+    "text": "Better learning experiences will be gained when combined with other environmental science\nteaching methods"
+   },
+   {
+    "label": "C",
+    "text": "Teacher acts as a guide and student's active participation is encouraged"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q107"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q108",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which one of the following four teaching methodologies followed by four different\nScience teachers for teaching the topic 'Air Pollution' is most appropriate?",
+  "textHi": "'वायु प्रदूषण' विषय को पढ़ाने के लिए चार अलग-अलग विज्ञान शिक्षकों द्वारा अपनाई गई निम्नलिखित चार शिक्षण पद्धतियों में\nसे कौन सी सबसे उपयुक्त है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Dictating the answers to all questions in the exercise after completing the topic"
+   },
+   {
+    "label": "B",
+    "text": "Showing a documentary film on 'Air Pollution' to the students"
+   },
+   {
+    "label": "C",
+    "text": "Asking the students to collect air samples before and after Diwali, study their quality and\ntabulate the findings"
+   },
+   {
+    "label": "D",
+    "text": "Asking the students to read the topic from the textbook loudly and explaining the meaning of\nconcepts/terms"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Asking the students to collect air samples before and after Diwali, study their quality and\ntabulate the findings",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q108"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q109",
+  "sectionSubject": "Art of Teaching",
+  "text": "In British approach of lesson planning, more emphasis is on",
+  "textHi": "ब्रिटिश दृष्टिकोण में पाठ योजना पर अधिक बल दिया जाता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Activity"
+   },
+   {
+    "label": "B",
+    "text": "Teacher"
+   },
+   {
+    "label": "C",
+    "text": "Content presentation"
+   },
+   {
+    "label": "D",
+    "text": "Teacher and content presentation"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Teacher and content presentation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q109"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q110",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which type of lesson plan is based on Taxonomies?",
+  "textHi": "किस प्रकार की पाठ योजना वर्गीकरण पर आधारित है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Bloom’s Taxonomy"
+   },
+   {
+    "label": "B",
+    "text": "Flink’s Taxonomy"
+   },
+   {
+    "label": "C",
+    "text": "Solo’s Taxonomy"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q110"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q111",
+  "sectionSubject": "Art of Teaching",
+  "text": "Consider the following statements about Micro Teaching – • (a) It is completed in less\ntime in small size class. • (b) In micro teaching, teaching skills are enhanced through support. • (c)\nMicro teaching is a practice session in a controlled environment. • (d) In this, only one teaching\nskill is practiced at a time.",
+  "textHi": "\"सूक्ष्म शिक्षण के बारे में निम्नलिखित कथनों पर विचार करें - (ए) छोटे आकार की कक्षा में यह कम समय में पूरा हो जाता है।\n(बी) सूक्ष्म शिक्षण में, समर्थन के माध्यम से शिक्षण कौशल को बढ़ाया जाता है। (सी) सूक्ष्म शिक्षण एक नियंत्रित वातावरण में\nएक अभ्यास सत्र है। (d) इसमें एक समय में केवल एक ही शिक्षण कौशल का अभ्यास किया जाता है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "Statements a and b are correct"
+   },
+   {
+    "label": "B",
+    "text": "Statements a, b and c are correct"
+   },
+   {
+    "label": "C",
+    "text": "Statements a, c and d are correct"
+   },
+   {
+    "label": "D",
+    "text": "Statements a, b, c and d are correct"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Statements a, b, c and d are correct",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q111"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q112",
+  "sectionSubject": "Art of Teaching",
+  "text": "In micro teaching, feedback is given through audio cassette and video film. What has\nbeen recommended in place of audio and video in Indian conditions?",
+  "textHi": "सूक्ष्म शिक्षण में ऑडियो कैसेट एवं वीडियो फिल्म के माध्यम से फीडबैक दिया जाता है। भारतीय परिस्थितियों में ऑडियो और\nवीडियो के स्थान पर क्या अनुशंसित किया गया है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Gramophone"
+   },
+   {
+    "label": "B",
+    "text": "Human observer"
+   },
+   {
+    "label": "C",
+    "text": "Filmstrip"
+   },
+   {
+    "label": "D",
+    "text": "mobile"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Human observer",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q112"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q113",
+  "sectionSubject": "Art of Teaching",
+  "text": "The specialty of the Indian model of micro teaching is not –",
+  "textHi": "सूक्ष्म शिक्षण के भारतीय मॉडल की विशेषता यह नहीं है -",
+  "options": [
+   {
+    "label": "A",
+    "text": "Immediately after the completion of the micro lesson, feedback is given to the teacher by fellow\nstudents."
+   },
+   {
+    "label": "B",
+    "text": "Audio cassettes and video films are used during the micro teaching process."
+   },
+   {
+    "label": "C",
+    "text": "Simulated classroom is used in micro teaching process."
+   },
+   {
+    "label": "D",
+    "text": "During micro teaching, the student teacher plays the role of teacher, student and supervisor."
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Audio cassettes and video films are used during the micro teaching process.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q113"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q114",
+  "sectionSubject": "Art of Teaching",
+  "text": "Cognitive engagement of children within a constructive classroom can be facilitated\nby- (i) Children’s talk (ii) Emotions of a teacher (iii) Positive interpersonal relationships among\nchildren (iv) Externally imposed discipline",
+  "textHi": "\"रचनात्मक कक्षा में बच्चों के संज्ञानात्मक जुड़ाव को सुगम बनाया जा सकता है- (i) बच्चों की बातें (ii) एक शिक्षक की भावनाएँ\n(iii) बच्चों के बीच सकारात्मक पारस्परिक संबंध (iv) बाह्य रूप से थोपा गया अनुशासन",
+  "options": [
+   {
+    "label": "A",
+    "text": "(iii)"
+   },
+   {
+    "label": "B",
+    "text": "(iv)"
+   },
+   {
+    "label": "C",
+    "text": "(i), (ii), (iii)"
+   },
+   {
+    "label": "D",
+    "text": "(i), (ii), (iv)"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "(i), (ii), (iii)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q114"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q115",
+  "sectionSubject": "Art of Teaching",
+  "text": "Arrangement of physical resources is",
+  "textHi": "भौतिक संसाधनों की व्यवस्था है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Instructional tasks"
+   },
+   {
+    "label": "B",
+    "text": "None instructional tasks"
+   },
+   {
+    "label": "C",
+    "text": "Both"
+   },
+   {
+    "label": "D",
+    "text": "None"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "None instructional tasks",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q115"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q116",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following is an indirect method of user study?",
+  "textHi": "निम्नलिखित में से कौन उपयोगकर्ता अध्ययन की एक अप्रत्यक्ष विधि है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Questionnaire"
+   },
+   {
+    "label": "B",
+    "text": "Analysis of library records"
+   },
+   {
+    "label": "C",
+    "text": "Operations research"
+   },
+   {
+    "label": "D",
+    "text": "Diary"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Analysis of library records",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q116"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q117",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which one of the following classrooms encourages rich learning?",
+  "textHi": "निम्‍नलिखित में से कौन-सी कक्षा समृद्ध शिक्षा को प्रोोत्‍साहित करती है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "A classroom with a variety of material displayed in the class beyond the reach of children so\nthat the material lasts longer"
+   },
+   {
+    "label": "B",
+    "text": "A classroom with open activity corners and a variety of children's literature in open shelves\naccessible any time of the day"
+   },
+   {
+    "label": "C",
+    "text": "A classroom with neatly organized material in cupboards brought out once a week for free play"
+   },
+   {
+    "label": "D",
+    "text": "A classroom with structured and planned learning driven by textbook content"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "A classroom with open activity corners and a variety of children's literature in open shelves\naccessible any time of the day",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q117"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q118",
+  "sectionSubject": "Art of Teaching",
+  "text": "An effective teacher should",
+  "textHi": "एक प्रभावी शिक्षक को................चाहिए",
+  "options": [
+   {
+    "label": "A",
+    "text": "maintain distance from the media"
+   },
+   {
+    "label": "B",
+    "text": "be systematic and methodical in classroom management"
+   },
+   {
+    "label": "C",
+    "text": "be cold and hostile"
+   },
+   {
+    "label": "D",
+    "text": "have pessimistic and regressive outlook"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "be systematic and methodical in classroom management",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q118"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q119",
+  "sectionSubject": "Art of Teaching",
+  "text": "In Which of the following a teacher must be able to",
+  "textHi": "एक शिक्षक को निम्नलिखित में से क्या करने में सक्षम होना चाहिए?",
+  "options": [
+   {
+    "label": "A",
+    "text": "gain respect of the students"
+   },
+   {
+    "label": "B",
+    "text": "make ths subject interesting"
+   },
+   {
+    "label": "C",
+    "text": "teach the students as per their desire"
+   },
+   {
+    "label": "D",
+    "text": "teach the students as per their need"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "make ths subject interesting",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q119"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q120",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following devices is suitable for classroom audio-visual?",
+  "textHi": "निम्नलिखित में से कौन सा उपकरण कक्षा के ऑडियो-विज़ुुअल के लिए उपयुक्त है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "TV"
+   },
+   {
+    "label": "B",
+    "text": "Digital projector"
+   },
+   {
+    "label": "C",
+    "text": "Cinema"
+   },
+   {
+    "label": "D",
+    "text": "Film strip projector"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Digital projector",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q120"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q121",
+  "sectionSubject": "Art of Teaching",
+  "text": "Formative assessment is an assessment _______ learning.",
+  "textHi": "रचनात्मक मूल्यांकन सीखने _______ आकलन है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "to"
+   },
+   {
+    "label": "B",
+    "text": "of"
+   },
+   {
+    "label": "C",
+    "text": "by"
+   },
+   {
+    "label": "D",
+    "text": "for"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "for",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q121"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q122",
+  "sectionSubject": "Art of Teaching",
+  "text": "What is the primary purpose of formative assessment?",
+  "textHi": "रचनात्मक मूल्यांकन का प्राथमिक उद्देेश्य क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "To assign grades to students"
+   },
+   {
+    "label": "B",
+    "text": "To assess students’ mastery of content"
+   },
+   {
+    "label": "C",
+    "text": "To provide feedback and guide instruction"
+   },
+   {
+    "label": "D",
+    "text": "To compare students’ performance to a standard"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "To provide feedback and guide instruction",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q122"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q123",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which assessment technique involves students working together to solve a problem\nor complete a task?",
+  "textHi": "किस आकलन तकनीक में छात्रों को किसी समस्या को हल करने या किसी कार्य को पूरा करने के लिए मिलकर काम करना\nशामिल है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Formative assessment"
+   },
+   {
+    "label": "B",
+    "text": "Summative assessment"
+   },
+   {
+    "label": "C",
+    "text": "Collaborative assessment"
+   },
+   {
+    "label": "D",
+    "text": "Group assessment"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Collaborative assessment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q123"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q124",
+  "sectionSubject": "Art of Teaching",
+  "text": "Curriculum is supposed to:",
+  "textHi": "पाठ्यचर्या माना जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Be organized by the school"
+   },
+   {
+    "label": "B",
+    "text": "Achieve the objective"
+   },
+   {
+    "label": "C",
+    "text": "Be organized by the school and Achieve the objective both"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Be organized by the school and Achieve the objective both",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q124"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q125",
+  "sectionSubject": "Art of Teaching",
+  "text": "Student’s needs and interests are important in",
+  "textHi": "छात्रों की आवश्यकताएं और रुचियां .................. के लिए महत्वपूर्ण हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "Sociological foundation"
+   },
+   {
+    "label": "B",
+    "text": "Psychological foundation"
+   },
+   {
+    "label": "C",
+    "text": "Economical foundation"
+   },
+   {
+    "label": "D",
+    "text": "Historical foundation"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Psychological foundation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q125"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q126",
+  "sectionSubject": "Art of Teaching",
+  "text": "Given below are two statements: Statement I: Implicit memory refers to international\nor conscious recollection of information Statement II: Explicit memory refers to memories people\nare not consciously aware of, but that can affect their subsequent performance and behaviour. In\nlight of the above statements, choose the most appropriate answer from the options given below",
+  "textHi": "नीचे दो कथन दिए गए हैं: कथन I: अंतर्निहित स्मृति सूचना के अंतर्राष्ट्रीीय या सचेतन स्मरण को संदर्भित करती है कथन II:\nस्पष्ट स्मृति उन यादों को संदर्भित करती है जिनके बारे में लोग सचेत रूप से नहीं जानते हैं, लेकिन यह उनके बाद के प्रदर्शन\nऔर व्यवहार को प्रभावित कर सकती है। उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें",
+  "options": [
+   {
+    "label": "A",
+    "text": "Both statement I and Statement II are correct"
+   },
+   {
+    "label": "B",
+    "text": "Both statement I and Statement II are incorrect"
+   },
+   {
+    "label": "C",
+    "text": "Statement I is correct but Statement II is incorrect"
+   },
+   {
+    "label": "D",
+    "text": "Statement I incorrect but Statement II is correct"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Both statement I and Statement II are incorrect",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q126"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q127",
+  "sectionSubject": "Art of Teaching",
+  "text": "Student-Centric Classroom is mean for __________",
+  "textHi": "छात्र-केंद्रित कक्षा __________ के लिए है",
+  "options": [
+   {
+    "label": "A",
+    "text": "addressing individual differences"
+   },
+   {
+    "label": "B",
+    "text": "reducing teacher-oriented lectures"
+   },
+   {
+    "label": "C",
+    "text": "recalling the previous knowledge"
+   },
+   {
+    "label": "D",
+    "text": "engaging the entire class"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "addressing individual differences",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q127"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q128",
+  "sectionSubject": "Art of Teaching",
+  "text": "Why is teacher training necessary?",
+  "textHi": "शिक्षक प्रशिक्षण क्यों आवश्यक है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Increase teaching skills"
+   },
+   {
+    "label": "B",
+    "text": "Understand methods of school organisation"
+   },
+   {
+    "label": "C",
+    "text": "Upgrade knowledge of content"
+   },
+   {
+    "label": "D",
+    "text": "All these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q128"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q129",
+  "sectionSubject": "Art of Teaching",
+  "text": "Examples of audio-visual aids are",
+  "textHi": "ऑडियो-विजुअल एड्स के उदाहरण हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "TV"
+   },
+   {
+    "label": "B",
+    "text": "Museum"
+   },
+   {
+    "label": "C",
+    "text": "Radio"
+   },
+   {
+    "label": "D",
+    "text": "TV and Museum"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "TV",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q129"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q130",
+  "sectionSubject": "Art of Teaching",
+  "text": "To describe various types and parts of a plant a section was taught by using multi-\nmedia, while the other section was taught through diagram drawn on the black board. Children of\nfirst section understood the concept better. This could be due to",
+  "textHi": "एक पौधे के विभिन्न प्रकारों और भागों का वर्णन करने के लिए, एक भाग को मल्टी-मीडिया का उपयोग करके पढ़ाया गया था,\nजबकि दूसरे भाग को ब्लैक बोर्ड पर खींचे गए आरेख के माध्यम से पढ़ाया गया था। पहले भाग के बच्चों ने अवधारणा को बेहतर\nढंग से समझा। यह निम्न के कारण हो सकता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "they were bright students"
+   },
+   {
+    "label": "B",
+    "text": "black board is not a good visual aid"
+   },
+   {
+    "label": "C",
+    "text": "audio-visual aids engages all the senses for better retention"
+   },
+   {
+    "label": "D",
+    "text": "use of multimedia is comparatively less costly"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "audio-visual aids engages all the senses for better retention",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q130"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q131",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "What was the name Udham Singh told the police in jail?",
+  "textHi": "ऊधम सिंह ने जेल में पुलिस को अपना नाम क्या बताया था?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Mohammad"
+   },
+   {
+    "label": "B",
+    "text": "Ram Singh"
+   },
+   {
+    "label": "C",
+    "text": "Azad"
+   },
+   {
+    "label": "D",
+    "text": "Mohammed Singh Azad"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Mohammed Singh Azad",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q131"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q132",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "India ranks _________ in the world in terms of water availability per person per\nannum.",
+  "textHi": "प्रति व्यक्ति प्रतिवर्ष पानी की उपलब्धता के मामले में भारत दुनिया में _________ स्थान पर है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "133"
+   },
+   {
+    "label": "B",
+    "text": "135"
+   },
+   {
+    "label": "C",
+    "text": "17"
+   },
+   {
+    "label": "D",
+    "text": "98"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "133",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q132"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q133",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "In federalism, power is divided between various constituent units and:",
+  "textHi": "संघवाद में, शक्ति विभिन्न घटक इकाइयों के बीच विभाजित होती है और:",
+  "options": [
+   {
+    "label": "A",
+    "text": "central authority"
+   },
+   {
+    "label": "B",
+    "text": "states"
+   },
+   {
+    "label": "C",
+    "text": "both central authority and states"
+   },
+   {
+    "label": "D",
+    "text": "none of these"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "central authority",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q133"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q134",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Who formed Bihar Provincial Kisan Sabha?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Swami Sahajanand Saraswati"
+   },
+   {
+    "label": "B",
+    "text": "Ram Sundar Singh"
+   },
+   {
+    "label": "C",
+    "text": "Ganga Sharan Sinha"
+   },
+   {
+    "label": "D",
+    "text": "Ramanand Mishra"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Swami Sahajanand Saraswati",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q134"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q135",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Who was the author of “Mahatma Gandhi and Bihar, Some Reminiscences”?",
+  "textHi": "\"महात्मा गांधी और बिहार, कुछ यादें\" के लेखक कौन थे?",
+  "options": [
+   {
+    "label": "A",
+    "text": "J.P. Narayan"
+   },
+   {
+    "label": "B",
+    "text": "Karpoori Thakur"
+   },
+   {
+    "label": "C",
+    "text": "Ramavriksha Benipuri"
+   },
+   {
+    "label": "D",
+    "text": "Dr. Rajendra Prasad"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Dr. Rajendra Prasad",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q135"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q136",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of these are recreation activities?",
+  "textHi": "इनमें से कौन सी मनोरंजन गतिविधियाँ हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "painting"
+   },
+   {
+    "label": "B",
+    "text": "listening to music"
+   },
+   {
+    "label": "C",
+    "text": "reading a book"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q136"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q137",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Select the incorrect match.",
+  "textHi": "गलत मिलान का चयन करें.",
+  "options": [
+   {
+    "label": "A",
+    "text": "Postman – Delivers letters"
+   },
+   {
+    "label": "B",
+    "text": "Cobbler – Mends shoes"
+   },
+   {
+    "label": "C",
+    "text": "Teacher – Maintains law and order"
+   },
+   {
+    "label": "D",
+    "text": "Nurse – Treats people who are ill."
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Teacher – Maintains law and order",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q137"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q138",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following pairs is incorrectly matched?",
+  "textHi": "निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "iron : anaemia"
+   },
+   {
+    "label": "B",
+    "text": "vitamin B5 : pellagra"
+   },
+   {
+    "label": "C",
+    "text": "vitamin B3 : niacin"
+   },
+   {
+    "label": "D",
+    "text": "vitamin k : blood clotting"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "vitamin B5 : pellagra",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q138"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q139",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "…………………… occurs because of scarcity or irregular distribution of rains",
+  "textHi": "…………………… वर्षा की कमी या अनियमित वितरण के कारण होता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Cyclone"
+   },
+   {
+    "label": "B",
+    "text": "Earthquake"
+   },
+   {
+    "label": "C",
+    "text": "Droughts"
+   },
+   {
+    "label": "D",
+    "text": "Tsunami"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Droughts",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q139"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q140",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following sea Port is nearest to Rourkela Steel Plant?",
+  "textHi": "निम्नलिखित में से कौन सा समुद्रीी बंदरगाह राउरकेला स्टील प्लांट के सबसे नजदीक है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Haldia"
+   },
+   {
+    "label": "B",
+    "text": "Vishakhapattanam"
+   },
+   {
+    "label": "C",
+    "text": "Kandla"
+   },
+   {
+    "label": "D",
+    "text": "Paradip"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Paradip",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q140"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q141",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Radish is an example of which shape",
+  "textHi": "मूली किस आकृति का उदाहरण है",
+  "options": [
+   {
+    "label": "A",
+    "text": "cube"
+   },
+   {
+    "label": "B",
+    "text": "Circle"
+   },
+   {
+    "label": "C",
+    "text": "Cone"
+   },
+   {
+    "label": "D",
+    "text": "cylinder"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Cone",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q141"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q142",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "A sphere has only 1",
+  "textHi": "एक गोले में केवल 1 ---- होता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "face"
+   },
+   {
+    "label": "B",
+    "text": "vertex"
+   },
+   {
+    "label": "C",
+    "text": "edge"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "face",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q142"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q143",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The number whose thousands digit is 8, tens digit is 4 and units digit is 2-",
+  "textHi": "वो संख्‍या जिसके हजार का अंक 8, दहाई का अंक 4 और इकाई का अंक 2 है-",
+  "options": [
+   {
+    "label": "A",
+    "text": "2048"
+   },
+   {
+    "label": "B",
+    "text": "8042"
+   },
+   {
+    "label": "C",
+    "text": "8402"
+   },
+   {
+    "label": "D",
+    "text": "2408"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "8042",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q143"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q144",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "2/10 + 3/100 + 4/1000",
+  "textHi": "2/10 + 3/100 + 4/1000",
+  "options": [
+   {
+    "label": "A",
+    "text": "1.285"
+   },
+   {
+    "label": "B",
+    "text": "0.234"
+   },
+   {
+    "label": "C",
+    "text": "6.738"
+   },
+   {
+    "label": "D",
+    "text": "9.211"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "0.234",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q144"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q146",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Find out the odd element from the given options:-",
+  "textHi": "नीचे दिये गए विकल्‍पों में से विषम तत्‍व को ज्ञात कीजिए",
+  "options": [
+   {
+    "label": "A",
+    "text": "Tomato"
+   },
+   {
+    "label": "B",
+    "text": "Radish"
+   },
+   {
+    "label": "C",
+    "text": "Brinjal"
+   },
+   {
+    "label": "D",
+    "text": "Lady Finger"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Radish",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q146"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q147",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "In the given number series what number will come in place of the question mark\nSymbol.\n6, 7, 15, 46, 185, ?\n6, 7, 15, 46, 185, ?",
+  "textHi": "दिये गये संख्‍या श्रृंृंखला में प्रश्‍नवाचक चिह्न के स्‍थान पर कौन - सी संख्‍या आयेगी।",
+  "options": [
+   {
+    "label": "A",
+    "text": "236"
+   },
+   {
+    "label": "B",
+    "text": "445"
+   },
+   {
+    "label": "C",
+    "text": "926"
+   },
+   {
+    "label": "D",
+    "text": "986"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "926",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q147"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q148",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "A person starts walking to wards East. After walking 10 m. he turns to the left after\nwalking 15 m. he again turns to the left. In which direction is he going at the end ?",
+  "textHi": "एक व्‍यक्ति पूरब दिशा की ओर चलना प्रारम्‍भ करता है। 10M चलने के बाद वायी और मुड़ जाता है, 15M चलने के बाद वह\nपुन: बायी ओर मुड़ जाता है। वह अंत में किस दिशा में जा रहा है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "West"
+   },
+   {
+    "label": "B",
+    "text": "North"
+   },
+   {
+    "label": "C",
+    "text": "South"
+   },
+   {
+    "label": "D",
+    "text": "South-East"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "West",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q148"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q149",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which figures represents the relationship between Orange, Potato and Fruit?",
+  "textHi": "नारंगी, आलु, फल के बीच के संबंध को कौन-सी आकृति प्रदर्शित करती है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Figure A: two overlapping circles, a small circle inside one of them"
+   },
+   {
+    "label": "B",
+    "text": "Figure B: a small circle inside a larger circle, plus a separate circle"
+   },
+   {
+    "label": "C",
+    "text": "Figure C: three separate circles"
+   },
+   {
+    "label": "D",
+    "text": "Figure D: three concentric circles"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Figure B: a small circle inside a larger circle, plus a separate circle",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q149"
+  ],
+  "figure": "figures/8c0c0f5a-q149-1.png",
+  "notes": [
+   "The options are drawings inside the figure; the source text only says 'Option (A) is Correct' etc. The descriptions here are transcriptions of the drawings."
+  ]
+ },
+ {
+  "id": "2024-06-11-S2-Q150",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "If + means*, *means -, -means ÷ and ÷ means+, then\n288-24÷8+3=?\n288-24÷8+3=?",
+  "textHi": "यदि + का अर्थ *, * का अर्थ -, - का अर्थ ÷ और ÷ का अर्थ + हो, तो",
+  "options": [
+   {
+    "label": "A",
+    "text": "36"
+   },
+   {
+    "label": "B",
+    "text": "60"
+   },
+   {
+    "label": "C",
+    "text": "23"
+   },
+   {
+    "label": "D",
+    "text": "98"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "36",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S2-Q150"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q001",
+  "sectionSubject": "Computer Science",
+  "text": "Convert the Boolean function F(A, B, C) = Σ(2, 4, 5, 6) to its simplified SOP form.",
+  "textHi": "बूलियन फ़ंक्शन F (A, B, C) = σ (2, 4, 5, 6) को अपने सरलीकृत SOP रूप में बदलें।",
+  "options": [
+   {
+    "label": "A",
+    "text": "A + B + C"
+   },
+   {
+    "label": "B",
+    "text": "A'B + AC"
+   },
+   {
+    "label": "C",
+    "text": "A + B + C'"
+   },
+   {
+    "label": "D",
+    "text": "A'B'C"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "A + B + C'",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q001"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q002",
+  "sectionSubject": "Computer Science",
+  "text": "What is the key advantage of using EEPROM over EPROM in terms of data\nerasing and reprogramming?",
+  "textHi": "डेटा मिटाने और रिप्रोग्रामिंग के संदर्भ में EPROM पर EEPROM का उपयोग करने का महत्वपूर्ण लाभ क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "EEPROM is faster than EPROM"
+   },
+   {
+    "label": "B",
+    "text": "EEPROM does not require UV light for erasing"
+   },
+   {
+    "label": "C",
+    "text": "EEPROM has higher capacity than EPROM"
+   },
+   {
+    "label": "D",
+    "text": "EEPROM is volatile, while EPROM is non-volatile"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "EEPROM does not require UV light for erasing",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q002"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q004",
+  "sectionSubject": "Computer Science",
+  "text": "In a Johnson counter, how many possible states can be represented by 'n' flip-\nflops?",
+  "textHi": "जॉनसन काउंटर में, कितने संभावित राज्यों को 'एन' फ्लिप-फ्लॉप द्वारा प्रतिनिधित्व किया जा सकता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "n"
+   },
+   {
+    "label": "B",
+    "text": "2n"
+   },
+   {
+    "label": "C",
+    "text": "2^n"
+   },
+   {
+    "label": "D",
+    "text": "2^(n-1)"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "2^n",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q004"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q005",
+  "sectionSubject": "Computer Science",
+  "text": "Which logic family uses both depletion and enhancement mode MOSFETs for its\noperation?",
+  "textHi": "कौन सा लॉजिक परिवार अपने संचालन के लिए रिक्तीकरण और वृद्धि मोड MOSFETs दोनों का उपयोग करता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "TTL"
+   },
+   {
+    "label": "B",
+    "text": "ECL"
+   },
+   {
+    "label": "C",
+    "text": "PMOS\npmos"
+   },
+   {
+    "label": "D",
+    "text": "CMOS\ncmos"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "CMOS\ncmos",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q005"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q006",
+  "sectionSubject": "Computer Science",
+  "text": "Gray Code is commonly used in which application?",
+  "textHi": "ग्रे कोड आमतौर पर किस एप्लिकेशन में उपयोग किया जाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Digital communications"
+   },
+   {
+    "label": "B",
+    "text": "Data encryption"
+   },
+   {
+    "label": "C",
+    "text": "Analog-to-digital conversion"
+   },
+   {
+    "label": "D",
+    "text": "Error detection"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Analog-to-digital conversion",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q006"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q011",
+  "sectionSubject": "Computer Science",
+  "text": "What does the term \"microcomputer\" generally refer to in the context of\ncomputing?",
+  "textHi": "माइक्रो कंप्यूटर शब्द आमतौर पर कंप्यूटिंग के संदर्भ में क्या संदर्भित करता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "A computer system that is larger than a mainframe"
+   },
+   {
+    "label": "B",
+    "text": "A computer system that is small and typically used by a single person"
+   },
+   {
+    "label": "C",
+    "text": "A computer system that is used exclusively by large corporations"
+   },
+   {
+    "label": "D",
+    "text": "A computer system that is part of a network"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "A computer system that is small and typically used by a single person",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q011"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q012",
+  "sectionSubject": "Computer Science",
+  "text": "The microprocessor that powered the first microcomputer kit, the Altair 8800, was\nthe Intel 8080. When was the Altair 8800 introduced?",
+  "textHi": "माइक्रोप्रोसेसर जिसने पहले माइक्रो कंप्यूटर किट, Altair 8800 को संचालित किया, वह इंटेल 8080 था। Altair 8800\nकब पेश किया गया था?",
+  "options": [
+   {
+    "label": "A",
+    "text": "1965"
+   },
+   {
+    "label": "B",
+    "text": "1975"
+   },
+   {
+    "label": "C",
+    "text": "1985"
+   },
+   {
+    "label": "D",
+    "text": "1995"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "1975",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q012"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q013",
+  "sectionSubject": "Computer Science",
+  "text": "What is the Gray Code equivalent of the binary number 1101?",
+  "textHi": "बाइनरी नंबर 1101 के बराबर ग्रे कोड क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "1110"
+   },
+   {
+    "label": "B",
+    "text": "1011"
+   },
+   {
+    "label": "C",
+    "text": "1010"
+   },
+   {
+    "label": "D",
+    "text": "1001"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "1011",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q013"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q015",
+  "sectionSubject": "Computer Science",
+  "text": "Conditional asymptotic notation is used to analyze an algorithm's behavior under\nspecific conditions. When removing the condition from \"O(f(n)) if g(n)\", what notation is\nobtained?",
+  "textHi": "विशिष्ट परिस्थितियों में एक एल्गोरिथ्म के व्यवहार का विश्लेषण करने के लिए सशर्त स्पर्शोन्मुख संकेतन का उपयोग\nकिया जाता है। \"O (f (n)) से स्थिति को हटाते समय यदि g (n)\", तो क्या संकेतन प्राप्त होता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "O(f(n))"
+   },
+   {
+    "label": "B",
+    "text": "O(g(n))"
+   },
+   {
+    "label": "C",
+    "text": "O(f(n) + g(n))"
+   },
+   {
+    "label": "D",
+    "text": "O(f(n) * g(n))"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "O(f(n))",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q015"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q017",
+  "sectionSubject": "Computer Science",
+  "text": "The recurrence equation T(n) = 2T(n/2) + n represents the time complexity of which\nalgorithmic paradigm? Using the Master Theorem, what would be the value of \"a,\" \"b,\" and\n\"f(n)\" in the theorem?",
+  "textHi": "पुनरावृत्ति समीकरण t (n) = 2T (n/2) + n उस एल्गोरिथम प्रतिमान की समय जटिलता का प्रतिनिधित्व करता है? मास्टर\nप्रमेय का उपयोग करते हुए, प्रमेय में \"ए,\" \"बी,\" और \"एफ (एन)\" का मूल्य क्या होगा?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Divide and Conquer; a = 2, b = 2, f(n) = n"
+   },
+   {
+    "label": "B",
+    "text": "Greedy Algorithms; a = 2, b = 2, f(n) = n"
+   },
+   {
+    "label": "C",
+    "text": "Dynamic Programming; a = 2, b = 2, f(n) = n"
+   },
+   {
+    "label": "D",
+    "text": "Brute Force; a = 2, b = 2, f(n) = n"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Divide and Conquer; a = 2, b = 2, f(n) = n",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q017"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q018",
+  "sectionSubject": "Computer Science",
+  "text": "What is the worst-case time complexity of the linear search algorithm for an array\nof size \"n\"?",
+  "textHi": "आकार \"एन\" के एक सरणी के लिए रैखिक खोज एल्गोरिथ्म की सबसे खराब स्थिति की जटिलता क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "O(log n)"
+   },
+   {
+    "label": "B",
+    "text": "O(n)"
+   },
+   {
+    "label": "C",
+    "text": "O(n^2)"
+   },
+   {
+    "label": "D",
+    "text": "O(1)"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "O(n)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q018"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q019",
+  "sectionSubject": "Computer Science",
+  "text": "The first problem to be proven NP-Complete was the:",
+  "textHi": "एनपी-पूर्ण साबित होने वाली पहली समस्या थी:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Travelling Salesman Problem"
+   },
+   {
+    "label": "B",
+    "text": "Hamiltonian Cycle Problem"
+   },
+   {
+    "label": "C",
+    "text": "Boolean Satisfiability Problem (SAT)"
+   },
+   {
+    "label": "D",
+    "text": "Knapsack Problem"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Boolean Satisfiability Problem (SAT)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q019"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q020",
+  "sectionSubject": "Computer Science",
+  "text": "In a biconnected graph, the number of biconnected components is equal to:",
+  "textHi": "एक बाइसेन्टेड ग्राफ में, बाइसेन्टेड घटकों की संख्या बराबर है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "The number of vertices"
+   },
+   {
+    "label": "B",
+    "text": "The number of edges"
+   },
+   {
+    "label": "C",
+    "text": "The number of cut vertices"
+   },
+   {
+    "label": "D",
+    "text": "One less than the number of vertices"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "The number of cut vertices",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q020"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q021",
+  "sectionSubject": "Computer Science",
+  "text": "In an extended binary tree, internal nodes represent:",
+  "textHi": "एक विस्तारित बाइनरी पेड़ में, आंतरिक नोड्स प्रतिनिधित्व करते हैं:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Leaf nodes"
+   },
+   {
+    "label": "B",
+    "text": "Arithmetic operators"
+   },
+   {
+    "label": "C",
+    "text": "Operands\noperands"
+   },
+   {
+    "label": "D",
+    "text": "Numbers"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Arithmetic operators",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q021"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q022",
+  "sectionSubject": "Computer Science",
+  "text": "In the array representation of a binary tree, if the node at index \"i\" is not null, its\nleft child will be at index:",
+  "textHi": "एक बाइनरी ट्री के सरणी प्रतिनिधित्व में, यदि सूचकांक में नोड \"i\" शून्य नहीं है, तो इसका बायाँ बच्चा सूचकांक में होगा:",
+  "options": [
+   {
+    "label": "A",
+    "text": "2i"
+   },
+   {
+    "label": "B",
+    "text": "2i + 1"
+   },
+   {
+    "label": "C",
+    "text": "2i - 1"
+   },
+   {
+    "label": "D",
+    "text": "i + 1"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "2i + 1",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q022"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q023",
+  "sectionSubject": "Computer Science",
+  "text": "A connected component in an undirected graph is a subset of vertices that are\nconnected by:",
+  "textHi": "एक अप्रत्यक्ष ग्राफ में एक जुड़ा हुआ घटक वर्टिस का एक सबसेट है जो द्वारा जुड़े हुए हैं:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Cycles"
+   },
+   {
+    "label": "B",
+    "text": "Paths"
+   },
+   {
+    "label": "C",
+    "text": "Edges"
+   },
+   {
+    "label": "D",
+    "text": "Weights"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Edges",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q023"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q024",
+  "sectionSubject": "Computer Science",
+  "text": "Which graph representation is more memory-efficient for sparse graphs?",
+  "textHi": "विरल रेखांकन के लिए कौन सा ग्राफ प्रतिनिधित्व अधिक मेमोरी-कुशल है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Adjacency matrix"
+   },
+   {
+    "label": "B",
+    "text": "Adjacency list"
+   },
+   {
+    "label": "C",
+    "text": "Edge list"
+   },
+   {
+    "label": "D",
+    "text": "Incidence matrix"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Adjacency list",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q024"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q026",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is an example of a problem that can be solved using\nbacktracking?",
+  "textHi": "निम्नलिखित में से कौन एक समस्या का एक उदाहरण है जिसे बैकट्रैकिंग का उपयोग करके हल किया जा सकता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Calculating the factorial of a number"
+   },
+   {
+    "label": "B",
+    "text": "Finding the largest element in an array"
+   },
+   {
+    "label": "C",
+    "text": "Solving the Sudoku puzzle"
+   },
+   {
+    "label": "D",
+    "text": "Sorting an array using quicksort"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Solving the Sudoku puzzle",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q026"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q028",
+  "sectionSubject": "Computer Science",
+  "text": "The purpose of a firewall in an operating system is to:",
+  "textHi": "एक ऑपरेटिंग सिस्टम में एक फ़ायरवॉल का उद्देश्य है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Control the flow of information between processes"
+   },
+   {
+    "label": "B",
+    "text": "Manage the allocation of CPU time to processes"
+   },
+   {
+    "label": "C",
+    "text": "Protect a network by filtering incoming and outgoing traffic"
+   },
+   {
+    "label": "D",
+    "text": "Optimize memory management algorithms"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Protect a network by filtering incoming and outgoing traffic",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q028"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q029",
+  "sectionSubject": "Computer Science",
+  "text": "The file organization method that uses a table to map logical file addresses to\nphysical block addresses is known as:",
+  "textHi": "फ़ाइल संगठन विधि जो भौतिक ब्लॉक पते के लिए तार्किक फ़ाइल पते को मैप करने के लिए एक तालिका का उपयोग\nकरती है: के रूप में जाना जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Contiguous allocation"
+   },
+   {
+    "label": "B",
+    "text": "Linked allocation"
+   },
+   {
+    "label": "C",
+    "text": "Indexed allocation"
+   },
+   {
+    "label": "D",
+    "text": "Variable allocation"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Indexed allocation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q029"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q030",
+  "sectionSubject": "Computer Science",
+  "text": "Which storage allocation strategy allows multiple processes to reside in memory\nsimultaneously without requiring contiguous memory blocks?",
+  "textHi": "कौन सी स्टोरेज आवंटन रणनीति कई प्रक्रियाओं को सन्निहित मेमोरी ब्लॉक की आवश्यकता के बिना एक साथ स्मृति में\nनिवास करने की अनुमति देती है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Best Fit"
+   },
+   {
+    "label": "B",
+    "text": "Worst Fit"
+   },
+   {
+    "label": "C",
+    "text": "First Fit"
+   },
+   {
+    "label": "D",
+    "text": "Paging"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Paging",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q030"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q034",
+  "sectionSubject": "Computer Science",
+  "text": "What does an RDBMS consist of?",
+  "textHi": "RDBMS में क्या शामिल है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Collection of Records"
+   },
+   {
+    "label": "B",
+    "text": "Collection of Keys"
+   },
+   {
+    "label": "C",
+    "text": "Collection of Tables"
+   },
+   {
+    "label": "D",
+    "text": "Collection of Fields"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Collection of Tables",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q034"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q036",
+  "sectionSubject": "Computer Science",
+  "text": "Which one of the following commands is used to restore the database to the last\ncommitted state?",
+  "textHi": "डेटाबेस को अंतिम प्रतिबद्ध स्थिति में पुनर्स्थापित करने के लिए निम्नलिखित में से किस एक कमांड का उपयोग किया\nजाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Savepoint"
+   },
+   {
+    "label": "B",
+    "text": "Rollback"
+   },
+   {
+    "label": "C",
+    "text": "Commit"
+   },
+   {
+    "label": "D",
+    "text": "Both \"Savepoint\" & \"Rollback\""
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Rollback",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q036"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q037",
+  "sectionSubject": "Computer Science",
+  "text": "A huge collection of the information or data accumulated form several different\nsources is known as ________:",
+  "textHi": "कई अलग-अलग स्रोतों से संचित जानकारी या डेटा का एक विशाल संग्रह _______ के रूप में जाना जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Data Management"
+   },
+   {
+    "label": "B",
+    "text": "Data Mining"
+   },
+   {
+    "label": "C",
+    "text": "Data Warehouse"
+   },
+   {
+    "label": "D",
+    "text": "Both \"Data Mining\" and \"Data Warehouse\""
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Data Warehouse",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q037"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q045",
+  "sectionSubject": "Computer Science",
+  "text": "Flow control is used to:",
+  "textHi": "प्रवाह नियंत्रण का उपयोग निम्न के लिए किया जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Prevent data loss during transmission."
+   },
+   {
+    "label": "B",
+    "text": "Increase the data rate of transmission."
+   },
+   {
+    "label": "C",
+    "text": "Enable simultaneous transmission in both directions."
+   },
+   {
+    "label": "D",
+    "text": "Improve error correction capabilities"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Prevent data loss during transmission.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q045"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q048",
+  "sectionSubject": "Computer Science",
+  "text": "What are the key characteristics of software engineering?",
+  "textHi": "सॉफ्टवेयर इंजीनियरिंग की प्रमुख विशेषताएं क्या हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Reusability, adaptability, and modifiability"
+   },
+   {
+    "label": "B",
+    "text": "Hardware-centric, one-time development, individual effort"
+   },
+   {
+    "label": "C",
+    "text": "Rigorous process, quantitative approach, systematic documentation"
+   },
+   {
+    "label": "D",
+    "text": "Rapid development, subjective decision-making, informal communication"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Rigorous process, quantitative approach, systematic documentation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q048"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q049",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is NOT a software metric?",
+  "textHi": "निम्नलिखित में से कौन सा सॉफ्टवेयर मीट्रिक नहीं है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Lines of Code (LOC)"
+   },
+   {
+    "label": "B",
+    "text": "Number of defects"
+   },
+   {
+    "label": "C",
+    "text": "Processor speed"
+   },
+   {
+    "label": "D",
+    "text": "Function Points (FP)"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Processor speed",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q049"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q050",
+  "sectionSubject": "Computer Science",
+  "text": "Which software design approach is based on creating modular, functional\ncomponents?",
+  "textHi": "कौन सा सॉफ्टवेयर डिजाइन दृष्टिकोण मॉड्यूलर, कार्यात्मक घटक बनाने पर आधारित है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Object-Oriented Design"
+   },
+   {
+    "label": "B",
+    "text": "Function-Oriented Design"
+   },
+   {
+    "label": "C",
+    "text": "Prototype Design"
+   },
+   {
+    "label": "D",
+    "text": "Waterfall Design"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Function-Oriented Design",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q050"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q053",
+  "sectionSubject": "Computer Science",
+  "text": "Software maintenance refers to:",
+  "textHi": "सॉफ्टवेयर रखरखाव को संदर्भित करता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Developing new software from scratch"
+   },
+   {
+    "label": "B",
+    "text": "Enhancing the performance of software"
+   },
+   {
+    "label": "C",
+    "text": "Fixing defects and updating existing software"
+   },
+   {
+    "label": "D",
+    "text": "Testing software before release"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Fixing defects and updating existing software",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q053"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q058",
+  "sectionSubject": "Computer Science",
+  "text": "Which keyword is used to catch and handle exceptions in a try-catch block?",
+  "textHi": "ट्राई-कैच ब्लॉक में अपवादों को पकड़ने और संभालने के लिए किस कीवर्ड का उपयोग किया जाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "throw"
+   },
+   {
+    "label": "B",
+    "text": "catch"
+   },
+   {
+    "label": "C",
+    "text": "exception"
+   },
+   {
+    "label": "D",
+    "text": "handle"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "catch",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q058"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q060",
+  "sectionSubject": "Computer Science",
+  "text": "What does the term \"method overriding\" refer to in OOP?",
+  "textHi": "ओओपी में \"विधि ओवरराइडिंग\" शब्द क्या दर्शाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Creating multiple methods with the same name in a class"
+   },
+   {
+    "label": "B",
+    "text": "Defining a method in a derived class with the same name as in the base class"
+   },
+   {
+    "label": "C",
+    "text": "Reimplementing all methods in a class hierarchy"
+   },
+   {
+    "label": "D",
+    "text": "Defining private methods in a class"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Defining a method in a derived class with the same name as in the base class",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q060"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q062",
+  "sectionSubject": "Computer Science",
+  "text": "What is the primary purpose of XML?",
+  "textHi": "XML का प्राथमिक उद्देश्य क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Creating complex animations"
+   },
+   {
+    "label": "B",
+    "text": "Styling web pages"
+   },
+   {
+    "label": "C",
+    "text": "Storing and transporting structured data"
+   },
+   {
+    "label": "D",
+    "text": "Displaying images"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Storing and transporting structured data",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q062"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q066",
+  "sectionSubject": "Computer Science",
+  "text": "How can you prevent SQL injection vulnerabilities in your PHP code?",
+  "textHi": "आप अपने PHP कोड में SQL इंजेक्शन कमजोरियों को कैसे रोक सकते हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "By using short and simple SQL queries"
+   },
+   {
+    "label": "B",
+    "text": "By not using user input in queries"
+   },
+   {
+    "label": "C",
+    "text": "By removing error handling from the code"
+   },
+   {
+    "label": "D",
+    "text": "By disabling database privileges"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "By not using user input in queries",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q066"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q079",
+  "sectionSubject": "Computer Science",
+  "text": "IIoT stands for?",
+  "textHi": "Iiot के लिए खड़ा है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Industrial Internet of Things"
+   },
+   {
+    "label": "B",
+    "text": "Intelligent Internet of Things"
+   },
+   {
+    "label": "C",
+    "text": "Internal Internet of Things"
+   },
+   {
+    "label": "D",
+    "text": "Institutional Internet of Things"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Industrial Internet of Things",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q079"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q084",
+  "sectionSubject": "Computer Science",
+  "text": "Input segments of AI programming contain(s)?",
+  "textHi": "एआई प्रोग्रामिंग के इनपुट सेगमेंट में शामिल हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Sound"
+   },
+   {
+    "label": "B",
+    "text": "Smell"
+   },
+   {
+    "label": "C",
+    "text": "Touch"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "None of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q084"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q088",
+  "sectionSubject": "Computer Science",
+  "text": "Which type of e‐commerce focuses on consumers dealing with each other?",
+  "textHi": "किस प्रकार का ई is कॉमर्स एक -दूसरे से निपटने वाले उपभोक्ताओं पर ध्यान केंद्रित करता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "B2B"
+   },
+   {
+    "label": "B",
+    "text": "B2C"
+   },
+   {
+    "label": "C",
+    "text": "C2C"
+   },
+   {
+    "label": "D",
+    "text": "C2B"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "C2C",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q088"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q089",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is a useful security mechanism when considering business\nstrategy and IT?",
+  "textHi": "व्यवसाय की रणनीति और आईटी पर विचार करते समय निम्नलिखित में से कौन एक उपयोगी सुरक्षा तंत्र है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Encryption"
+   },
+   {
+    "label": "B",
+    "text": "Decryption"
+   },
+   {
+    "label": "C",
+    "text": "Firewall"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q089"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q090",
+  "sectionSubject": "Computer Science",
+  "text": "During E‐commerce transaction we should ensure‐‐‐‐‐‐‐‐‐‐‐‐‐",
+  "textHi": "ई - कॉमर्स लेनदेन के दौरान हमें - - - - - - - - - - - - - सुनिश्चित करना चाहिए",
+  "options": [
+   {
+    "label": "A",
+    "text": "Integrity"
+   },
+   {
+    "label": "B",
+    "text": "Confidentiality"
+   },
+   {
+    "label": "C",
+    "text": "Security"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q090"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q091",
+  "sectionSubject": "Computer Science",
+  "text": "What is the legal protection afforded an expression of an idea, such as a song,\nvideo game, and some types of proprietary documents?",
+  "textHi": "कानूनी संरक्षण एक विचार की अभिव्यक्ति क्या है, जैसे कि एक गीत, वीडियो गेम और कुछ प्रकार के मालिकाना\nदस्तावेज?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Ethics"
+   },
+   {
+    "label": "B",
+    "text": "Copyright"
+   },
+   {
+    "label": "C",
+    "text": "Intelctual Property"
+   },
+   {
+    "label": "D",
+    "text": "Fairuse Doctrin"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Copyright",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q091"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q092",
+  "sectionSubject": "Computer Science",
+  "text": "What does A stands for in CIA",
+  "textHi": "CIA में क्या है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Assured"
+   },
+   {
+    "label": "B",
+    "text": "Actual"
+   },
+   {
+    "label": "C",
+    "text": "Availability"
+   },
+   {
+    "label": "D",
+    "text": "Any"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Availability",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q092"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q093",
+  "sectionSubject": "Computer Science",
+  "text": "What is a program, when installed on a computer, records every keystroke and\nmouse click?",
+  "textHi": "एक प्रोग्राम क्या है, जब कंप्यूटर पर इंस्टॉल किया जाता है, तो हर कीस्ट्रोक और माउस क्लिक को रिकॉर्ड करता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Key logger system"
+   },
+   {
+    "label": "B",
+    "text": "Hardware Key logger"
+   },
+   {
+    "label": "C",
+    "text": "Cookie"
+   },
+   {
+    "label": "D",
+    "text": "Add Logger"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Key logger system",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q093"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q095",
+  "sectionSubject": "Computer Science",
+  "text": "We can divide audio and video services into__________",
+  "textHi": "हम ऑडियो और वीडियो सेवाओं को __________ में विभाजित कर सकते हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "2 broad categories."
+   },
+   {
+    "label": "B",
+    "text": "1 broad categories"
+   },
+   {
+    "label": "C",
+    "text": "4 broad categories."
+   },
+   {
+    "label": "D",
+    "text": "3 broad categories."
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "3 broad categories.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q095"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q096",
+  "sectionSubject": "Computer Science",
+  "text": "Morphing is",
+  "textHi": "मॉर्फिंग है",
+  "options": [
+   {
+    "label": "A",
+    "text": "picture enhancing technique"
+   },
+   {
+    "label": "B",
+    "text": "picture manipulation"
+   },
+   {
+    "label": "C",
+    "text": "transformation from one image to other"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "transformation from one image to other",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q096"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q098",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following image processing approaches is the fastest, most accurate,\nand flexible?",
+  "textHi": "निम्नलिखित में से कौन सा छवि प्रसंस्करण दृष्टिकोण सबसे तेज, सबसे सटीक और लचीला है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Photographic"
+   },
+   {
+    "label": "B",
+    "text": "Electronic"
+   },
+   {
+    "label": "C",
+    "text": "Digital"
+   },
+   {
+    "label": "D",
+    "text": "Optical"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Digital",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q098"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q099",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following tool is used in tasks such as zooming, shrinking, rotating,\netc.?",
+  "textHi": "निम्नलिखित में से किस उपकरण का उपयोग ज़ूमिंग, सिकुड़ना, घूर्णन, आदि जैसे कार्यों में किया जाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Filters"
+   },
+   {
+    "label": "B",
+    "text": "Sampling"
+   },
+   {
+    "label": "C",
+    "text": "Interpolation"
+   },
+   {
+    "label": "D",
+    "text": "None of the Mentioned"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Interpolation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q099"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q101",
+  "sectionSubject": "Art of Teaching",
+  "text": "What are required for good teaching?",
+  "textHi": "अच्छे शिक्षण के लिए क्या आवश्यक हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Diagnosis"
+   },
+   {
+    "label": "B",
+    "text": "Remedy"
+   },
+   {
+    "label": "C",
+    "text": "Direction & Feedback"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q101"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q102",
+  "sectionSubject": "Art of Teaching",
+  "text": "In the context of a dynamic teaching environment, which of the following\nstatement is true?",
+  "textHi": "गतिशील शिक्षण वातावरण के संदर्भ में, निम्नलिखित में से कौन सा कथन सत्य है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Teacher is a dependent variable and student is an independent variable."
+   },
+   {
+    "label": "B",
+    "text": "Teacher is an independent variable and the student is a dependent variable."
+   },
+   {
+    "label": "C",
+    "text": "Both teacher and student are intervening variables."
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Teacher is an independent variable and the student is a dependent variable.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q102"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q103",
+  "sectionSubject": "Art of Teaching",
+  "text": "What are the key concepts of problem based learning?",
+  "textHi": "समस्या आधारित शिक्षा की प्रमुख अवधारणाएँ क्या हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "class activities are constructed around a problem"
+   },
+   {
+    "label": "B",
+    "text": "students have to take initiatives to enquire and learn"
+   },
+   {
+    "label": "C",
+    "text": "students are empowered to take a responsible role in their learning"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q103"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q104",
+  "sectionSubject": "Art of Teaching",
+  "text": "The five domain taxonomy of instructional objective was proposed by",
+  "textHi": "अनुदेशात्मक उद्देश्य के पांच क्षेत्र वर्गीकरण किनके द्वारा प्रस्तावित किया गया था?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Anderson & Krathwohl"
+   },
+   {
+    "label": "B",
+    "text": "Mc Cormack and Yager"
+   },
+   {
+    "label": "C",
+    "text": "Jerome S. Bruner"
+   },
+   {
+    "label": "D",
+    "text": "Benjamin S. Bloom"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Benjamin S. Bloom",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q104"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q105",
+  "sectionSubject": "Art of Teaching",
+  "text": "Psychomotor domain was classified by Simpson in",
+  "textHi": "मनोशरीर क्रियात् मक क्षेत्र(डोमेन) को सिम्पसन द्वारा वर्गीकृत किया गया था",
+  "options": [
+   {
+    "label": "A",
+    "text": "1962"
+   },
+   {
+    "label": "B",
+    "text": "1972"
+   },
+   {
+    "label": "C",
+    "text": "1982"
+   },
+   {
+    "label": "D",
+    "text": "1992"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "1972",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q105"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q106",
+  "sectionSubject": "Art of Teaching",
+  "text": "In which approach different skills are used in order to learn new things?",
+  "textHi": "नई चीजें सीखने के लिए किस दृष्टिकोण में विभिन्न कौशलों का उपयोग किया जाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Activity approach"
+   },
+   {
+    "label": "B",
+    "text": "Process approach"
+   },
+   {
+    "label": "C",
+    "text": "Integrated approach"
+   },
+   {
+    "label": "D",
+    "text": "Conceptual approach"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Process approach",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q106"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q107",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following statements about assignments is correct?",
+  "textHi": "असाइनमेंट के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Assignments provide learners an opportunity to search for information construct their own\nideas and articulate them"
+   },
+   {
+    "label": "B",
+    "text": "Assignments can be done by parents, brothers or sisters depending on the talent that they\npossess"
+   },
+   {
+    "label": "C",
+    "text": "Assignments need to be given as classwork followed by homework every day to provide\nvariety and practice"
+   },
+   {
+    "label": "D",
+    "text": "Assignments should be the only method of assessment"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Assignments provide learners an opportunity to search for information construct their own\nideas and articulate them",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q107"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q109",
+  "sectionSubject": "Art of Teaching",
+  "text": "How many aspects are in lesson plans based on Flink’s Taxonomy ?",
+  "textHi": "फ्लिंक के वर्गीकरण पर आधारित पाठ योजनाओं में कितने पहलू हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "7"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "6",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q109"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q110",
+  "sectionSubject": "Art of Teaching",
+  "text": "Read a piece of literature and answer guiding questions about it is an example of",
+  "textHi": "साहित्य का एक अंश पढ़ना और उसके बारे में मार्गदर्शक प्रश्नों का उत्तर देना इसका एक उदाहरण है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Engage"
+   },
+   {
+    "label": "B",
+    "text": "Elaborate"
+   },
+   {
+    "label": "C",
+    "text": "Explore"
+   },
+   {
+    "label": "D",
+    "text": "Explain"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Explore",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q110"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q111",
+  "sectionSubject": "Art of Teaching",
+  "text": "Micro-teaching is a scaled down teaching encounter to reduce the duration of\nperiod of",
+  "textHi": "सूक्ष्म-शिक्षण की अवधि को सरल करने के लिए एक छोटा शिक्षण अनुभव है...................",
+  "options": [
+   {
+    "label": "A",
+    "text": "5 to 10 minutes"
+   },
+   {
+    "label": "B",
+    "text": "30 to 50 minutes"
+   },
+   {
+    "label": "C",
+    "text": "1 to 2 hours"
+   },
+   {
+    "label": "D",
+    "text": "2 to 3 hours"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "5 to 10 minutes",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q111"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q112",
+  "sectionSubject": "Art of Teaching",
+  "text": "How many planning elements involved in discussion method",
+  "textHi": "चर्चा पद्धति में कितने नियोजन तत्व सम्मिलित होते हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "5"
+   },
+   {
+    "label": "B",
+    "text": "7"
+   },
+   {
+    "label": "C",
+    "text": "8"
+   },
+   {
+    "label": "D",
+    "text": "6"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "6",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q112"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q113",
+  "sectionSubject": "Art of Teaching",
+  "text": "In teaching experienced members guide the immature one’s for",
+  "textHi": "शिक्षण में अनुभवी सदस्य अपरिपक्व व्यक्ति का मार्गदर्शन...............द्वारा करते हैं।",
+  "options": [
+   {
+    "label": "A",
+    "text": "Spending time"
+   },
+   {
+    "label": "B",
+    "text": "Qualification"
+   },
+   {
+    "label": "C",
+    "text": "Quality of life"
+   },
+   {
+    "label": "D",
+    "text": "Adjustment of life"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Adjustment of life",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q113"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q114",
+  "sectionSubject": "Art of Teaching",
+  "text": "3. Given below are two statements: Statement (I): Learning is also considered as a\nsocial construct Statement (II): Social construct is characterised by development of socially\ndesired behaviour. In the light of above statements, choose the most appropriate answers\nfrom the given options.",
+  "textHi": "\"3. नीचे दो कथन दिए गए हैं: कथन (I): सीखना एक सामाजिक निर्माण भी माना जाता है कथन (II): सामाजिक निर्माण\nकी विशेषता सामाजिक रूप से वांछित व्यवहार का विकास है। उपरोक्त कथनों के आलोक में दिए गए विकल्पों में से\nसबसे उपयुक्त उत्तर चुनें।\"",
+  "options": [
+   {
+    "label": "A",
+    "text": "Both Statement (I) and Statement (II) are correct."
+   },
+   {
+    "label": "B",
+    "text": "Both Statement (I) and Statement (II) are incorrect."
+   },
+   {
+    "label": "C",
+    "text": "Statement (I) is correct but Statement (II) is incorrect."
+   },
+   {
+    "label": "D",
+    "text": "Statement (I) is incorrect but Statement (II) is correct."
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Both Statement (I) and Statement (II) are correct.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q114"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q115",
+  "sectionSubject": "Art of Teaching",
+  "text": "Assessment of how well a school is performing is",
+  "textHi": "कोई स्कूल कितना अच्छा प्रदर्शन कर रहा है इसका आकलन करता है-",
+  "options": [
+   {
+    "label": "A",
+    "text": "Administration"
+   },
+   {
+    "label": "B",
+    "text": "Supervision"
+   },
+   {
+    "label": "C",
+    "text": "Inspection"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Inspection",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q115"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q116",
+  "sectionSubject": "Art of Teaching",
+  "text": "Children acquire gender roles through all of the following, except-",
+  "textHi": "बच् चे ............... को छोड़कर अन् य सभी के द्वारा लिंग भूमिकाएँ ग्रहण करते हैं।",
+  "options": [
+   {
+    "label": "A",
+    "text": "media"
+   },
+   {
+    "label": "B",
+    "text": "socialization"
+   },
+   {
+    "label": "C",
+    "text": "culture"
+   },
+   {
+    "label": "D",
+    "text": "tutoring"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "tutoring",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q116"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q117",
+  "sectionSubject": "Art of Teaching",
+  "text": "The National Curriculum Framework-2005 derives its understanding from-",
+  "textHi": "राष् ट्रीय पाठयचर्या फ्रेमवर्क-2005 ने अपनी समझ ............. से प्राप् त की है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "humanism"
+   },
+   {
+    "label": "B",
+    "text": "behaviourism"
+   },
+   {
+    "label": "C",
+    "text": "constructivism"
+   },
+   {
+    "label": "D",
+    "text": "cognitive theories"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "constructivism",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q117"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q118",
+  "sectionSubject": "Art of Teaching",
+  "text": "As a facilitator of learning, a teacher requires",
+  "textHi": "सीखने के सुगमकर्ता के रूप में एक शिक्षक की आवश्यकता होती है",
+  "options": [
+   {
+    "label": "A",
+    "text": "two months leave"
+   },
+   {
+    "label": "B",
+    "text": "one year training"
+   },
+   {
+    "label": "C",
+    "text": "opportunities for professional and academic advancement"
+   },
+   {
+    "label": "D",
+    "text": "opportunities to travel around the world"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "opportunities for professional and academic advancement",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q118"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q120",
+  "sectionSubject": "Art of Teaching",
+  "text": "The most appropriate attitude towards the society is",
+  "textHi": "समाज के प्रति सबसे उपयुक्त दृष्टिकोण है",
+  "options": [
+   {
+    "label": "A",
+    "text": "to have relation with some people only"
+   },
+   {
+    "label": "B",
+    "text": "to have relation with all people in general"
+   },
+   {
+    "label": "C",
+    "text": "to have special relation with people"
+   },
+   {
+    "label": "D",
+    "text": "to have relation only with one's own reliable people"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "to have relation with all people in general",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q120"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q121",
+  "sectionSubject": "Art of Teaching",
+  "text": "Hands on assessment are otherwise known as:",
+  "textHi": "स् वयं आकलन .......... के रूप में जाना जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "formative assessment"
+   },
+   {
+    "label": "B",
+    "text": "summative assessment"
+   },
+   {
+    "label": "C",
+    "text": "Performance assessment"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Performance assessment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q121"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q122",
+  "sectionSubject": "Art of Teaching",
+  "text": "An assessment that is carried out throughout the course is called",
+  "textHi": "पूरे पाठ्यक्रम में किए गए आकलन को कहा जाता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "initial assessment"
+   },
+   {
+    "label": "B",
+    "text": "diagnostic assessment"
+   },
+   {
+    "label": "C",
+    "text": "formative assessment"
+   },
+   {
+    "label": "D",
+    "text": "summative assessment"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "formative assessment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q122"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q123",
+  "sectionSubject": "Art of Teaching",
+  "text": "Measurement answers the question?",
+  "textHi": "मापन प्रश्न का उत्तर देता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "How well"
+   },
+   {
+    "label": "B",
+    "text": "How much"
+   },
+   {
+    "label": "C",
+    "text": "How far"
+   },
+   {
+    "label": "D",
+    "text": "How good"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "How good",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q123"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q124",
+  "sectionSubject": "Art of Teaching",
+  "text": "Learning means:",
+  "textHi": "सीखने का अर्थ है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Teaching process"
+   },
+   {
+    "label": "B",
+    "text": "Curriculum change"
+   },
+   {
+    "label": "C",
+    "text": "Change in behaviour"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Change in behaviour",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q124"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q125",
+  "sectionSubject": "Art of Teaching",
+  "text": "When, What, Why & How, to teach is the main task of:",
+  "textHi": "कब, क्या, क्यों और कैसे, पढ़ाना मुख्य कार्य है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Educational psychology"
+   },
+   {
+    "label": "B",
+    "text": "Educational philosophy"
+   },
+   {
+    "label": "C",
+    "text": "Economics"
+   },
+   {
+    "label": "D",
+    "text": "History"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Educational philosophy",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q125"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q126",
+  "sectionSubject": "Art of Teaching",
+  "text": "If a student mischiefs in the class the teacher has to:",
+  "textHi": "यदि कोई छात्र कक्षा में शरारत करता है तो शिक्षक को यह करना होगा:",
+  "options": [
+   {
+    "label": "A",
+    "text": "report to the headmaster"
+   },
+   {
+    "label": "B",
+    "text": "report to the parents"
+   },
+   {
+    "label": "C",
+    "text": "undertake a case study on the student"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "undertake a case study on the student",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q126"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q127",
+  "sectionSubject": "Art of Teaching",
+  "text": "To be able to create a positive learning environment within the classroom, it is\nimportant that the teachers-",
+  "textHi": "कक्षा के भीतर सकारात्मक शिक्षण वातावरण बनाने में सक्षम होने के लिए, यह महत्वपूर्ण है कि शिक्षक-",
+  "options": [
+   {
+    "label": "A",
+    "text": "follow the fixed time table well"
+   },
+   {
+    "label": "B",
+    "text": "are able to discipline children using awards and punishments"
+   },
+   {
+    "label": "C",
+    "text": "are able to include children’s emotions within learning process"
+   },
+   {
+    "label": "D",
+    "text": "are able to discriminate between the ‘abilities’ of children and make groupings accordingly"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "are able to include children’s emotions within learning process",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q127"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q128",
+  "sectionSubject": "Art of Teaching",
+  "text": "Suppose you get a Hindi Medium student who has learnt English. He is given five\nsentences to be translated from Hindi to English. As an evaluator, which aspect would you try\nto evaluate in him?",
+  "textHi": "मान लीजिए आपको एक हिंदी माध्यम का छात्र मिलता है जिसने अंग्रेजी सीखी है। उसे हिंदी से अंग्रेजी में अनुवाद करने के\nलिए पांच वाक्य दिए गए हैं। एक मूल्यांकनकर्ता के रूप में, आप उसमें किस पहलू का मूल्यांकन करने का प्रयास करेंगे?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Application"
+   },
+   {
+    "label": "B",
+    "text": "Knowledge"
+   },
+   {
+    "label": "C",
+    "text": "Synthesis"
+   },
+   {
+    "label": "D",
+    "text": "Understanding"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Understanding",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q128"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q129",
+  "sectionSubject": "Art of Teaching",
+  "text": "If a teacher does not use any kind of teaching aid while teaching in the classroom\nhow will it affect his/her teaching? Choose the correct option.",
+  "textHi": "यदि कोई शिक्षक कक्षा में पढ़ाते समय किसी भी प्रकार की शिक्षण सामग्री का उपयोग नहीं करता है, तो यह उसके\nशिक्षण को कैसे प्रभावित करेगा, सही विकल्प का चयन कीजिए।",
+  "options": [
+   {
+    "label": "A",
+    "text": "It makes students passive and uninterested in studying"
+   },
+   {
+    "label": "B",
+    "text": "It is not necessary as a good teacher can make the lesson effective without use of teaching\naid"
+   },
+   {
+    "label": "C",
+    "text": "It is advantageous to a teacher as he/she can escape from the arrangement of teaching aid"
+   },
+   {
+    "label": "D",
+    "text": "It affects the learning domains of students by bringing down their learning rate"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "It affects the learning domains of students by bringing down their learning rate",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q129"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q130",
+  "sectionSubject": "Art of Teaching",
+  "text": "The cheapest and the most easily accessible aid among the audio teaching aids is",
+  "textHi": "श्रव् य शिक्षण सहायक सामग्री में सबसे सस्ती और सबसे आसानी से सुलभ उपकरण है",
+  "options": [
+   {
+    "label": "A",
+    "text": "television"
+   },
+   {
+    "label": "B",
+    "text": "tape recorder"
+   },
+   {
+    "label": "C",
+    "text": "radio"
+   },
+   {
+    "label": "D",
+    "text": "film"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "radio",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q130"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q131",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which organization was the main political organization before the establishment of\nthe Indian National Congress?",
+  "textHi": "काँग्रेस की स्थान से पूर्व प्रमुख राजनीतिक संगठन निम्नलिखित में कौन था?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Bengal British Indian Society"
+   },
+   {
+    "label": "B",
+    "text": "Indian League"
+   },
+   {
+    "label": "C",
+    "text": "Indian Association"
+   },
+   {
+    "label": "D",
+    "text": "Bombay Association"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Indian Association",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q131"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q132",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Land which is left uncultivated for more than 5 agricultural years is known as\n________.",
+  "textHi": "वह भूमि जो 5 कृषि वर्षों से अधिक समय तक बंजर पड़ी रहती है, कहलाती है________.",
+  "options": [
+   {
+    "label": "A",
+    "text": "Culturable wasteland"
+   },
+   {
+    "label": "B",
+    "text": "Barren land"
+   },
+   {
+    "label": "C",
+    "text": "Pastures"
+   },
+   {
+    "label": "D",
+    "text": "Fallow Lands"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Culturable wasteland",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q132"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q133",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "When did the French Revolution begin?",
+  "textHi": "फ्रांसीसी क्रांति कब शुरू हुई?",
+  "options": [
+   {
+    "label": "A",
+    "text": "1789"
+   },
+   {
+    "label": "B",
+    "text": "1799"
+   },
+   {
+    "label": "C",
+    "text": "1804"
+   },
+   {
+    "label": "D",
+    "text": "1815"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "1789",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q133"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q134",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Who was the first Vice Chancellor/Principal of Bihar Vidyapeeth?",
+  "textHi": "बिहार विद्यापीठ के पहले कुलपति / प्राचार्य कौन थे?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Maulana Mazha ul Haq"
+   },
+   {
+    "label": "B",
+    "text": "Dr. Rajendra Prasad"
+   },
+   {
+    "label": "C",
+    "text": "Dr. Sachchidanand Sinha"
+   },
+   {
+    "label": "D",
+    "text": "Brajkishore Babu"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Brajkishore Babu",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q134"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q135",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Who is the author of the book ‘Panchashati Galpo’?",
+  "textHi": "पंचशती गैल्पो' पुस्तक के लेखक कौन हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Krishna Sobti"
+   },
+   {
+    "label": "B",
+    "text": "Nirmal Verma"
+   },
+   {
+    "label": "C",
+    "text": "Mannu Bhandari"
+   },
+   {
+    "label": "D",
+    "text": "Atin Bandyopadhyay"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Atin Bandyopadhyay",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q135"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q137",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following is an omnivorous animal?",
+  "textHi": "निम्नलिखित में से कौन सर्वाहारी जानवर है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Dog"
+   },
+   {
+    "label": "B",
+    "text": "Tiger"
+   },
+   {
+    "label": "C",
+    "text": "Goat"
+   },
+   {
+    "label": "D",
+    "text": "Horse"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Dog",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q137"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q138",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which nutrients help our growth?",
+  "textHi": "कौन से पोषक तत्व हमारे विकास में मदद करते हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Proteins."
+   },
+   {
+    "label": "B",
+    "text": "Fats and carbohydrates"
+   },
+   {
+    "label": "C",
+    "text": "Vitamin and minerals."
+   },
+   {
+    "label": "D",
+    "text": "All of these."
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Proteins.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q138"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q139",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following is a set of diseases spread by mosquitoes?",
+  "textHi": "निम्नलिखित में से कौन मच्छरों द्वारा फैलने वाली बीमारियों का एक समूह है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "typhoid, cholera, chikungunya"
+   },
+   {
+    "label": "B",
+    "text": "malaria, HIV-AIDS, dengue"
+   },
+   {
+    "label": "C",
+    "text": "HIV-AIDS, cholera, dengue"
+   },
+   {
+    "label": "D",
+    "text": "dengue, malaria, chikungunya"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "dengue, malaria, chikungunya",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q139"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q140",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following is the main purpose of carbohydrates in the body?",
+  "textHi": "निम्नलिखित में से कौन सा शरीर में कार्बोहाइड्रेट का मुख्य उद्देश्य है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "They provide chemicals repairing cells, and aid in digestion."
+   },
+   {
+    "label": "B",
+    "text": "They help regulate hormones and maintain body temperature within the body"
+   },
+   {
+    "label": "C",
+    "text": "They are the main source of energy for everybody."
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "They are the main source of energy for everybody.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q140"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q141",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The shape of carrot is similar to ---------",
+  "textHi": "गाजर का आकार ------ के समान होता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "cuboid"
+   },
+   {
+    "label": "B",
+    "text": "Circle"
+   },
+   {
+    "label": "C",
+    "text": "Cone"
+   },
+   {
+    "label": "D",
+    "text": "volume"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Cone",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q141"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q142",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "What cross-section do you get when you give a horizontal cut to a brick?",
+  "textHi": "जब आप एक ईंट को क्षैतिज कट देते हैं तो आपको कौन सा अनुप्रस्थ काट मिलता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Triangle"
+   },
+   {
+    "label": "B",
+    "text": "circle"
+   },
+   {
+    "label": "C",
+    "text": "Square"
+   },
+   {
+    "label": "D",
+    "text": "rectangle"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "rectangle",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q142"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q143",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Sum of two negative number is always",
+  "textHi": "दो ऋणात्मक संख्याओं का योग सदैव होता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "Positive"
+   },
+   {
+    "label": "B",
+    "text": "Negative"
+   },
+   {
+    "label": "C",
+    "text": "0"
+   },
+   {
+    "label": "D",
+    "text": "1"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Negative",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q143"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q144",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Factors of 20 are",
+  "textHi": "20 के गुणनखंड हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "1, 20"
+   },
+   {
+    "label": "B",
+    "text": "4, 5"
+   },
+   {
+    "label": "C",
+    "text": "10, 2"
+   },
+   {
+    "label": "D",
+    "text": "1, 2, 4, 5, 10, 20"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "1, 2, 4, 5, 10, 20",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q144"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q145",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "A truck has 673 boxes of candies. Each box has a dozen candies in it. What is the\ntotal number of candies on the truck?",
+  "textHi": "एक ट्रक में कैंडी के 673 डिब्बे हैं। प्रत्येक डिब्बे में एक दर्जन कैंडी हैं। ट्रक पर कैंडी की कुल संख्या कितनी है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "8076"
+   },
+   {
+    "label": "B",
+    "text": "8067"
+   },
+   {
+    "label": "C",
+    "text": "8066"
+   },
+   {
+    "label": "D",
+    "text": "8077"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "8076",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q145"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q146",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Choose the correct option instead of the question mark in the given question .\nacme : mace :: alga : ?\nacme : mace :: alga : ?",
+  "textHi": "दिए गये प्रश् न में प्रश् नवाचक चिह्न के स् थान पर सही विकल् प को चुनें।",
+  "options": [
+   {
+    "label": "A",
+    "text": "glaa"
+   },
+   {
+    "label": "B",
+    "text": "gall"
+   },
+   {
+    "label": "C",
+    "text": "gala"
+   },
+   {
+    "label": "D",
+    "text": "laga"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "gala",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q146"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q147",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "If Red is called Blue, orange is called green, green is called white, white is called\nyellow,",
+  "textHi": "यदि लाल को नीला कहा जाए, नारंगी को हरा कहा जाए, हरा को सफेद कहा जाए, सफेद को पीला कहा जाए, तो का\nक् या रंग होगा?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Blue"
+   },
+   {
+    "label": "B",
+    "text": "Red"
+   },
+   {
+    "label": "C",
+    "text": "White"
+   },
+   {
+    "label": "D",
+    "text": "Green"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "White",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q147"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q148",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Praveen walks 30m to wards east, tarns right and walks 20m, then turns right and\nwalks 20m. How far is he now from starting point?",
+  "textHi": "प्रवीण 30 मीटर पूरब की ओर चला, दाऍ मुड़कर 20 मीटर चला और फिर दाऍ मुड़कर 20 मीटर चला। अब वह प्रारम्भिक\nस् थान से कितना दूर है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "50 m."
+   },
+   {
+    "label": "B",
+    "text": "40 m."
+   },
+   {
+    "label": "C",
+    "text": "20 m."
+   },
+   {
+    "label": "D",
+    "text": "10 m."
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "10 m.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q148"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q149",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "What is the number of owners who are neither engineer nor a good administrator? (Venn diagram: triangle E = Engineer, circle F = Good administrator, circle G = Owner; region values: E only 1, E∩F only 4, E∩F∩G 7, E∩G only 5, F only 3, F∩G only 6, G only 2)",
+  "textHi": "कौन-सी संख्या ऐसे मालिकों के लिए है जो न तो इन्जीनियर है और न अच्छे प्रशासक है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "7"
+   },
+   {
+    "label": "B",
+    "text": "6"
+   },
+   {
+    "label": "C",
+    "text": "4"
+   },
+   {
+    "label": "D",
+    "text": "2"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "2",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q149"
+  ],
+  "figure": "figures/0c22c865-q149-1.png",
+  "notes": [
+   "The source lists options as 'Option (A) is Correct' etc.; the values A) 7 B) 6 C) 4 D) 2 are printed inside the figure."
+  ]
+ },
+ {
+  "id": "2024-06-12-S1-Q150",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "63. A,B,C,D and E five boys sitting in a circle. C is sitting immediate left of E. A is\nsitting between D and E. Then who is sitting between B and A ?",
+  "textHi": "63. A,B,C,D एवं E पॉंच लडके एक वृत् त में बैठे है। C,E के ठीक बाई ओर बैठा है। A,D और E के बीच में बैठा है। तो\nB और A के बीच में कौन बैठा है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "C"
+   },
+   {
+    "label": "B",
+    "text": "E"
+   },
+   {
+    "label": "C",
+    "text": "D"
+   },
+   {
+    "label": "D",
+    "text": "None"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "D",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q150"
+  ],
+  "figure": null,
+  "notes": []
+ }
+]

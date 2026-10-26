@@ -1,0 +1,9 @@
+node_modules
+dist
+.venv
+pipeline/cache
+__pycache__
+.pytest_cache
+public/pdfs
+.DS_Store
+*.log

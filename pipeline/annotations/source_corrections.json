@@ -1,0 +1,42 @@
+{
+  "_about": "Question text that exists in the PDF only as an embedded image (no text layer). No OCR engine is installed in this environment, so these were transcribed by reading the rendered figure. Keys are '<pdf md5 prefix>:<question number>'. The figure is still shown next to the transcription in the app.",
+  "ab51135e:5": {
+    "text": "Convert the Boolean function F(A, B, C) = Σ(0, 1, 3, 5) to its simplified SOP form.",
+    "method": "transcribed-from-image"
+  },
+  "ab51135e:15": {
+    "text": "In conditional asymptotic notation, \"θ(f(n)) if g(n)\" indicates that the algorithm's complexity is both upper and lower bounded by f(n) when:",
+    "method": "transcribed-from-image"
+  },
+  "ab51135e:69": {
+    "text": "Given: L1 = {x ∈ Σ* | x contains odd no's of 0's}\nL2 = {x ∈ Σ* | x contains odd no's of 1's}\nNo of final states in Language L1 U L2?",
+    "method": "transcribed-from-image"
+  },
+  "ab51135e:70": {
+    "text": "The minimum number of productions required to produce a language consisting of palindrome strings over Σ={a, b} is",
+    "method": "transcribed-from-image"
+  },
+  "ab51135e:72": {
+    "text": "The minimum number of productions required to produce a language consisting of palindromes as a strings defined over Σ={0,1} is",
+    "method": "transcribed-from-image"
+  },
+  "0c22c865:149": {
+    "text": "What is the number of owners who are neither engineer nor a good administrator? (Venn diagram: triangle E = Engineer, circle F = Good administrator, circle G = Owner; region values: E only 1, E∩F only 4, E∩F∩G 7, E∩G only 5, F only 3, F∩G only 6, G only 2)",
+    "textHi": "कौन-सी संख्या ऐसे मालिकों के लिए है जो न तो इन्जीनियर है और न अच्छे प्रशासक है?",
+    "options": ["7", "6", "4", "2"],
+    "optionsNote": "The source lists options as 'Option (A) is Correct' etc.; the values A) 7 B) 6 C) 4 D) 2 are printed inside the figure.",
+    "method": "transcribed-from-image"
+  },
+  "8c0c0f5a:149": {
+    "text": "Which figures represents the relationship between Orange, Potato and Fruit?",
+    "textHi": "नारंगी, आलु, फल के बीच के संबंध को कौन-सी आकृति प्रदर्शित करती है?",
+    "options": [
+      "Figure A: two overlapping circles, a small circle inside one of them",
+      "Figure B: a small circle inside a larger circle, plus a separate circle",
+      "Figure C: three separate circles",
+      "Figure D: three concentric circles"
+    ],
+    "optionsNote": "The options are drawings inside the figure; the source text only says 'Option (A) is Correct' etc. The descriptions here are transcriptions of the drawings.",
+    "method": "transcribed-from-image"
+  }
+}

@@ -1,0 +1,446 @@
+[
+ {
+  "id": "2023-09-12-S1",
+  "label": "STET 2023 · 12 Sep 2023 · Shift 1",
+  "shortLabel": "12 Sep 23 S1",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2023",
+  "year": 2023,
+  "date": "2023-09-12",
+  "dateSource": "Printed in paper header (Exam Date)",
+  "shift": 1,
+  "shiftSource": "Printed in paper header ([SHIFT - n])",
+  "timeStart": "10:00 AM",
+  "timeEnd": "12:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "QUESTION PAPER Uchcha Madhyamic Computer Science [SHIFT - 1]",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "bseb_question_paper",
+  "sourceFormatLabel": "BSEB question paper with answers (Word export)",
+  "answerKeySource": "Answer printed in the source paper ('Right Answer' / 'Right Option Id')",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Stet 2023-CS(shift-1)-1.pdf",
+   "md5": "9ca3661c08b5263590041cb14aed102c",
+   "pages": 35,
+   "url": "pdfs/2023-09-12-S1.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2023-09-12-S2",
+  "label": "STET 2023 · 12 Sep 2023 · Shift 2",
+  "shortLabel": "12 Sep 23 S2",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2023",
+  "year": 2023,
+  "date": "2023-09-12",
+  "dateSource": "Printed in paper header (Exam Date)",
+  "shift": 2,
+  "shiftSource": "Printed in paper header ([SHIFT - n])",
+  "timeStart": "03:00 PM",
+  "timeEnd": "05:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "QUESTION PAPER Uchcha Madhyamic Computer Science [SHIFT - 2]",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "bseb_question_paper",
+  "sourceFormatLabel": "BSEB question paper with answers (Word export)",
+  "answerKeySource": "Answer printed in the source paper ('Right Answer' / 'Right Option Id')",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Stet 2023-CS(shift-2)-1.pdf",
+   "md5": "0aa63026a1796df1959ef9d402ba9b4d",
+   "pages": 35,
+   "url": "pdfs/2023-09-12-S2.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2023-09-18-S3",
+  "label": "STET 2023 · 18 Sep 2023 · Shift 3",
+  "shortLabel": "18 Sep 23 S3",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2023",
+  "year": 2023,
+  "date": "2023-09-18",
+  "dateSource": "Printed in paper header (Exam Date)",
+  "shift": 3,
+  "shiftSource": "Filename (header value was malformed)",
+  "timeStart": "03:00 PM",
+  "timeEnd": "05:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "QUESTION PAPER Uchcha Madhyamic Computer Science [SHIFT - 31]",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "bseb_question_paper",
+  "sourceFormatLabel": "BSEB question paper with answers (Word export)",
+  "answerKeySource": "Answer printed in the source paper ('Right Answer' / 'Right Option Id')",
+  "metaConflicts": [
+   "header prints shift '31' (apparent typo); shift 3 taken from filename"
+  ],
+  "pdf": {
+   "name": "Stet 2023-CS(shift-3)-1.pdf",
+   "md5": "ab51135ebabe3725b4f87329f30773d4",
+   "pages": 35,
+   "url": "pdfs/2023-09-18-S3.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2024-06-11-S1",
+  "label": "STET 2024 (First) · 11 Jun 2024 · Shift 1",
+  "shortLabel": "11 Jun 24 S1",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2024 (First)",
+  "year": 2024,
+  "date": "2024-06-11",
+  "dateSource": "Response sheet field (Date of Examination)",
+  "shift": 1,
+  "shiftSource": "Annotation added to the PDF by its uploader (not an official field)",
+  "timeStart": "10:00 AM",
+  "timeEnd": "12:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "203",
+  "sourceFormat": "bseb_sify_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet, bilingual EN/HI (Telegram-watermarked print-out)",
+  "answerKeySource": "'Correct Answer' field of the BSEB candidate response sheet (btet.sifyreg.com print-out)",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Stet 2024-CS(shift-1).pdf",
+   "md5": "12299c6363ac09bd01e7e47738a59af0",
+   "pages": 75,
+   "url": "pdfs/2024-06-11-S1.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2024-06-11-S2",
+  "label": "STET 2024 (First) · 11 Jun 2024 · Shift 2",
+  "shortLabel": "11 Jun 24 S2",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2024 (First)",
+  "year": 2024,
+  "date": "2024-06-11",
+  "dateSource": "Response sheet field (Date of Examination)",
+  "shift": 2,
+  "shiftSource": "Annotation added to the PDF by its uploader (not an official field)",
+  "timeStart": "03:00 PM",
+  "timeEnd": "05:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "Not available",
+  "sourceFormat": "bseb_sify_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet, bilingual EN/HI (Telegram-watermarked print-out)",
+  "answerKeySource": "'Correct Answer' field of the BSEB candidate response sheet (btet.sifyreg.com print-out)",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Stet 2024-CS(shift-2).pdf",
+   "md5": "8c0c0f5a853a943636c19d6314f64fdf",
+   "pages": 74,
+   "url": "pdfs/2024-06-11-S2.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2024-06-12-S1",
+  "label": "STET 2024 (First) · 12 Jun 2024 · Shift 1",
+  "shortLabel": "12 Jun 24 S1",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2024 (First)",
+  "year": 2024,
+  "date": "2024-06-12",
+  "dateSource": "Response sheet field (Date of Examination)",
+  "shift": 1,
+  "shiftSource": "Annotation added to the PDF by its uploader (not an official field)",
+  "timeStart": "10:00 AM",
+  "timeEnd": "12:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "213",
+  "sourceFormat": "bseb_sify_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet, bilingual EN/HI (Telegram-watermarked print-out)",
+  "answerKeySource": "'Correct Answer' field of the BSEB candidate response sheet (btet.sifyreg.com print-out)",
+  "metaConflicts": [
+   "filename says shift-3 but the document says shift 1 on 2024-06-12; the document value is used"
+  ],
+  "pdf": {
+   "name": "Stet 2024-CS(shift-3).pdf",
+   "md5": "0c22c86559c66097181c84d768921154",
+   "pages": 71,
+   "url": "pdfs/2024-06-12-S1.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2025-11-03-S1",
+  "label": "STET 2025 · 03 Nov 2025 · Shift 1",
+  "shortLabel": "03 Nov 25 S1",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2025",
+  "year": 2025,
+  "date": "2025-11-03",
+  "dateSource": "Response sheet field (Test Date)",
+  "shift": 1,
+  "shiftSource": "Cover page added by the republisher (Adda247)",
+  "timeStart": "9:00 AM",
+  "timeEnd": "11:30 AM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "digialm_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet (Adda247 republication)",
+  "answerKeySource": "Option marked correct (green tick) on the response sheet republished by Adda247",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-1-Eng.pdf",
+   "md5": "05429388f30ed1d114f04c82b1db7679",
+   "pages": 56,
+   "url": "pdfs/2025-11-03-S1.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I Computer Science(226)",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2025-11-03-S2",
+  "label": "STET 2025 · 03 Nov 2025 · Shift 2",
+  "shortLabel": "03 Nov 25 S2",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2025",
+  "year": 2025,
+  "date": "2025-11-03",
+  "dateSource": "Response sheet field (Test Date)",
+  "shift": 2,
+  "shiftSource": "Cover page added by the republisher (Adda247)",
+  "timeStart": "2:00 PM",
+  "timeEnd": "4:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "digialm_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet (Adda247 republication)",
+  "answerKeySource": "Option marked correct (green tick) on the response sheet republished by Adda247",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-2-Eng.pdf",
+   "md5": "67dd04473fa8bffb458d5c0aaab5171b",
+   "pages": 56,
+   "url": "pdfs/2025-11-03-S2.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I Computer Science(226)",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2025-11-04-S2",
+  "label": "STET 2025 · 04 Nov 2025 · Shift 2",
+  "shortLabel": "04 Nov 25 S2",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2025",
+  "year": 2025,
+  "date": "2025-11-04",
+  "dateSource": "Response sheet field (Test Date)",
+  "shift": 2,
+  "shiftSource": "Cover page added by the republisher (Adda247)",
+  "timeStart": "2:00 PM",
+  "timeEnd": "4:30 PM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "digialm_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet (Adda247 republication)",
+  "answerKeySource": "Option marked correct (green tick) on the response sheet republished by Adda247",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-04-Nov-2025-Shift-2-Eng.pdf",
+   "md5": "fa049836c1befe4d7d97b876404c5feb",
+   "pages": 56,
+   "url": "pdfs/2025-11-04-S2.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I Computer Science(226)",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ },
+ {
+  "id": "2025-11-07-S1",
+  "label": "STET 2025 · 07 Nov 2025 · Shift 1",
+  "shortLabel": "07 Nov 25 S1",
+  "exam": "Bihar STET",
+  "board": "Bihar School Examination Board",
+  "session": "STET 2025",
+  "year": 2025,
+  "date": "2025-11-07",
+  "dateSource": "Response sheet field (Test Date)",
+  "shift": 1,
+  "shiftSource": "Cover page added by the republisher (Adda247)",
+  "timeStart": "9:00 AM",
+  "timeEnd": "11:30 AM",
+  "paper": "Paper II (Classes 11-12)",
+  "paperSource": "Paper II",
+  "subject": "Computer Science",
+  "subjectCode": "226",
+  "sourceFormat": "digialm_response_sheet",
+  "sourceFormatLabel": "Candidate response sheet (Adda247 republication)",
+  "answerKeySource": "Option marked correct (green tick) on the response sheet republished by Adda247",
+  "metaConflicts": [],
+  "pdf": {
+   "name": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-07-Nov-2025-Shift-1-Eng.pdf",
+   "md5": "528a8d0db763f13d6b94fda44f0adfd8",
+   "pages": 56,
+   "url": "pdfs/2025-11-07-S1.pdf"
+  },
+  "questionCount": 150,
+  "sections": [
+   {
+    "name": "Part I Computer Science(226)",
+    "count": 100
+   },
+   {
+    "name": "Part II",
+    "count": 30
+   },
+   {
+    "name": "Part III",
+    "count": 20
+   }
+  ]
+ }
+]

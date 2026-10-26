@@ -1,0 +1,4720 @@
+[
+ {
+  "id": "2024-06-11-S2-Q065",
+  "sectionSubject": "Computer Science",
+  "text": "What is the role of a Document Type Definition (DTD) in XML?",
+  "textHi": "XML में दस्तावेज़ प्रकार परिभाषा (DTD) की भूमिका क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "It defines the structure and data types of XML documents."
+   },
+   {
+    "label": "B",
+    "text": "It provides a list of external resources for an XML document."
+   },
+   {
+    "label": "C",
+    "text": "It specifies the styling rules for XML elements."
+   },
+   {
+    "label": "D",
+    "text": "It encrypts the content of an XML document"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "It defines the structure and data types of XML documents.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q062",
+   "2023-09-18-S3-Q065",
+   "2024-06-11-S2-Q065"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q063",
+  "sectionSubject": "Computer Science",
+  "text": "What does PHP stand for?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Personal Home Page"
+   },
+   {
+    "label": "B",
+    "text": "Professional Hypertext Processor"
+   },
+   {
+    "label": "C",
+    "text": "Preprocessed Hypertext Pages"
+   },
+   {
+    "label": "D",
+    "text": "PHP: Hypertext Preprocessor"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "PHP: Hypertext Preprocessor",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q063"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q064",
+  "sectionSubject": "Computer Science",
+  "text": "How do you comment a single line in PHP?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "// This is a comment @"
+   },
+   {
+    "label": "B",
+    "text": "/* This is a comment */"
+   },
+   {
+    "label": "C",
+    "text": "<!-- This is a comment -->"
+   },
+   {
+    "label": "D",
+    "text": "** This is a comment **"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "// This is a comment @",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q064"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q067",
+  "sectionSubject": "Computer Science",
+  "text": "Which SQL command is used to remove a table from a database?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "DELETE TABLE"
+   },
+   {
+    "label": "B",
+    "text": "DROP TABLE"
+   },
+   {
+    "label": "C",
+    "text": "REMOVE TABLE"
+   },
+   {
+    "label": "D",
+    "text": "ERASE TABLE"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "DROP TABLE",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q067"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q073",
+  "sectionSubject": "Computer Science",
+  "text": "A context free grammar G is in Chomsky normal form if every production is of the\nform",
+  "textHi": "एक संदर्भ मुक्त व्याकरण जी चॉम्स्की सामान्य रूप में है यदि हर उत्पादन फॉर्म का है",
+  "options": [
+   {
+    "label": "A",
+    "text": "A → BC or A → A"
+   },
+   {
+    "label": "B",
+    "text": "A → BC or A → a"
+   },
+   {
+    "label": "C",
+    "text": "A → BCa or B → b"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "A → BC or A → a",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q070",
+   "2024-06-11-S2-Q073"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q071",
+  "sectionSubject": "Computer Science",
+  "text": "The context free grammar S → SS | 0S1 | 1S0 | ɛ generates",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Equal number of 0’s and 1’s"
+   },
+   {
+    "label": "B",
+    "text": "Unequal number of 0’s and 1’s"
+   },
+   {
+    "label": "C",
+    "text": "Any number of 0’s followed by any number of 1’s"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Equal number of 0’s and 1’s",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q071"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q073",
+  "sectionSubject": "Computer Science",
+  "text": "A universal Turing machine is a",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Single tape Turing machine"
+   },
+   {
+    "label": "B",
+    "text": "Two-tape Turing machine"
+   },
+   {
+    "label": "C",
+    "text": "Reprogrammable Truing machine"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Reprogrammable Truing machine",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q073"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q077",
+  "sectionSubject": "Computer Science",
+  "text": "__________ is an online storage drive which can be browsed and from which items\ncan be shared?",
+  "textHi": "__________ एक ऑनलाइन स्टोरेज ड्राइव है जिसे ब्राउज़ किया जा सकता है और किन वस्तुओं को साझा किया जा\nसकता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Find my iPhone"
+   },
+   {
+    "label": "B",
+    "text": "iWeb Publish"
+   },
+   {
+    "label": "C",
+    "text": "MobileMe Gallery"
+   },
+   {
+    "label": "D",
+    "text": "iDesk"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "iDesk",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q079",
+   "2024-06-11-S2-Q077"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q081",
+  "sectionSubject": "Computer Science",
+  "text": "What is the frame?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Data type"
+   },
+   {
+    "label": "B",
+    "text": "Data Structure"
+   },
+   {
+    "label": "C",
+    "text": "A way of representing knowledge"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "A way of representing knowledge",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q081"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q085",
+  "sectionSubject": "Computer Science",
+  "text": "What is hyponymy relation?",
+  "textHi": "सम्मोहन संबंध क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "A is part of B"
+   },
+   {
+    "label": "B",
+    "text": "B has A as a part of itself"
+   },
+   {
+    "label": "C",
+    "text": "A is subordinate of B"
+   },
+   {
+    "label": "D",
+    "text": "A is superordinate of B"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "A is subordinate of B",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q082",
+   "2024-06-11-S2-Q085"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q086",
+  "sectionSubject": "Computer Science",
+  "text": "Which among the following is/are the best example of semantic networks?",
+  "textHi": "निम्नलिखित में से कौन सा है/सिमेंटिक नेटवर्क का सबसे अच्छा उदाहरण है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Wordnet"
+   },
+   {
+    "label": "B",
+    "text": "Human Food Chain"
+   },
+   {
+    "label": "C",
+    "text": "MYSIN"
+   },
+   {
+    "label": "D",
+    "text": "Autonomous car driver"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Wordnet",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q083",
+   "2024-06-11-S1-Q086"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q087",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is not a Characteristics of Expert Systems?",
+  "textHi": "निम्नलिखित में से कौन विशेषज्ञ प्रणालियों की विशेषता नहीं है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Understandable"
+   },
+   {
+    "label": "B",
+    "text": "Highly responsive"
+   },
+   {
+    "label": "C",
+    "text": "Unreliable"
+   },
+   {
+    "label": "D",
+    "text": "High performance"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Unreliable",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q085",
+   "2024-06-11-S1-Q087"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q086",
+  "sectionSubject": "Computer Science",
+  "text": "which of the following is Capabilities of Expert Systems?",
+  "textHi": "निम्नलिखित में से कौन सा विशेषज्ञ प्रणालियों की क्षमताएं हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Possessing human capabilities"
+   },
+   {
+    "label": "B",
+    "text": "Suggesting alternative options to a problem"
+   },
+   {
+    "label": "C",
+    "text": "Refining their own knowledge"
+   },
+   {
+    "label": "D",
+    "text": "Substituting human decision makers"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Suggesting alternative options to a problem",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q086",
+   "2024-06-12-S1-Q086"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q087",
+  "sectionSubject": "Computer Science",
+  "text": "What is the full form of JESS in Expert System Technology?",
+  "textHi": "विशेषज्ञ प्रणाली प्रौद्योगिकी में जेस का पूरा रूप क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Java Expert System Shell"
+   },
+   {
+    "label": "B",
+    "text": "Javascript Expert System Shell"
+   },
+   {
+    "label": "C",
+    "text": "Java Expert Sub System"
+   },
+   {
+    "label": "D",
+    "text": "Javascript Expert Sub System"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Java Expert System Shell",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q087",
+   "2024-06-12-S1-Q087"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q088",
+  "sectionSubject": "Computer Science",
+  "text": "During E-commerce transaction we should ensure-------------",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Integrity"
+   },
+   {
+    "label": "B",
+    "text": "Confidentiality"
+   },
+   {
+    "label": "C",
+    "text": "Security"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q088"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q089",
+  "sectionSubject": "Computer Science",
+  "text": "Public key cryptography is also known as ---------------cryptography.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Private key"
+   },
+   {
+    "label": "B",
+    "text": "Symetric"
+   },
+   {
+    "label": "C",
+    "text": "Asymetric"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Asymetric",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q089"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q092",
+  "sectionSubject": "Computer Science",
+  "text": "Which one is used toidentify mobile money",
+  "textHi": "मोबाइल के पैसे का उपयोग करने के लिए किसका उपयोग किया जाता है",
+  "options": [
+   {
+    "label": "A",
+    "text": "MCID"
+   },
+   {
+    "label": "B",
+    "text": "MMID"
+   },
+   {
+    "label": "C",
+    "text": "RSID"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "MMID",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q092",
+   "2024-06-11-S2-Q092"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q093",
+  "sectionSubject": "Computer Science",
+  "text": "Unclassified email is called?",
+  "textHi": "UNCLASSIFIED ईमेल कहा जाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Extra mail"
+   },
+   {
+    "label": "B",
+    "text": "Spam"
+   },
+   {
+    "label": "C",
+    "text": "junk mail"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "junk mail",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q093",
+   "2024-06-11-S1-Q093"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q094",
+  "sectionSubject": "Computer Science",
+  "text": "_____ refers to simulated motion pictures showing movement of drawn objects.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Motion"
+   },
+   {
+    "label": "B",
+    "text": "Animation"
+   },
+   {
+    "label": "C",
+    "text": "VR"
+   },
+   {
+    "label": "D",
+    "text": "SMD"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Animation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q094"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q097",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is an example of Digital Image Processing?",
+  "textHi": "निम्नलिखित में से कौन डिजिटल छवि प्रसंस्करण का एक उदाहरण है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Computer Graphics"
+   },
+   {
+    "label": "B",
+    "text": "Pixels"
+   },
+   {
+    "label": "C",
+    "text": "Camera Mechanism"
+   },
+   {
+    "label": "D",
+    "text": "All of the mentioned"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the mentioned",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q095",
+   "2024-06-12-S1-Q097"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q100",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is the next step in image processing after compression?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Representation and description"
+   },
+   {
+    "label": "B",
+    "text": "Morphological processing"
+   },
+   {
+    "label": "C",
+    "text": "Segmentation"
+   },
+   {
+    "label": "D",
+    "text": "Wavelets"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Morphological processing",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q097",
+   "2023-09-18-S3-Q100"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q098",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is the abbreviation of JPEG?",
+  "textHi": "निम्नलिखित में से कौन JPEG का संक्षिप्त नाम है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Joint Photographic Experts Group"
+   },
+   {
+    "label": "B",
+    "text": "Joint Photographs Expansion Group"
+   },
+   {
+    "label": "C",
+    "text": "Joint Photographic Expanded Group"
+   },
+   {
+    "label": "D",
+    "text": "Joint Photographic Expansion Group"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Joint Photographic Experts Group",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q098",
+   "2024-06-11-S1-Q098"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q100",
+  "sectionSubject": "Computer Science",
+  "text": "Which gray-level transformation increases the dynamic range of gray-level in the\nimage?",
+  "textHi": "कौन सा ग्रे-स्तरीय परिवर्तन छवि में ग्रे-स्तर की गतिशील सीमा को बढ़ाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Negative transformations"
+   },
+   {
+    "label": "B",
+    "text": "Contrast stretching"
+   },
+   {
+    "label": "C",
+    "text": "Power-law transformations"
+   },
+   {
+    "label": "D",
+    "text": "None of the mentioned"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Contrast stretching",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q099",
+   "2024-06-12-S1-Q100"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q100",
+  "sectionSubject": "Computer Science",
+  "text": "Multimedia is widely used to add special_____ to movies",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Arrangement"
+   },
+   {
+    "label": "B",
+    "text": "Attachment"
+   },
+   {
+    "label": "C",
+    "text": "Effects"
+   },
+   {
+    "label": "D",
+    "text": "Control"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Effects",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q100"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q102",
+  "sectionSubject": "Art of Teaching",
+  "text": "One of the following is law of learning",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "law of motivation"
+   },
+   {
+    "label": "B",
+    "text": "law of listening"
+   },
+   {
+    "label": "C",
+    "text": "law of exercise"
+   },
+   {
+    "label": "D",
+    "text": "law of communication"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "law of exercise",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q102"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q103",
+  "sectionSubject": "Art of Teaching",
+  "text": "One of them is a method of teaching",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "drilling"
+   },
+   {
+    "label": "B",
+    "text": "illustration"
+   },
+   {
+    "label": "C",
+    "text": "demonstration"
+   },
+   {
+    "label": "D",
+    "text": "lecture and demonstration"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "lecture and demonstration",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q103"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q104",
+  "sectionSubject": "Art of Teaching",
+  "text": "To make learner an active partner in learning",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "provide objectives"
+   },
+   {
+    "label": "B",
+    "text": "provde content"
+   },
+   {
+    "label": "C",
+    "text": "provide writes"
+   },
+   {
+    "label": "D",
+    "text": "provide lecture"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "provide objectives",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q104"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q107",
+  "sectionSubject": "Art of Teaching",
+  "text": "general to specific approach is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "deductive"
+   },
+   {
+    "label": "B",
+    "text": "game based"
+   },
+   {
+    "label": "C",
+    "text": "blended"
+   },
+   {
+    "label": "D",
+    "text": "experimental"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "deductive",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q107"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q105",
+  "sectionSubject": "Art of Teaching",
+  "text": "Inductive method is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "drilling"
+   },
+   {
+    "label": "B",
+    "text": "exercising"
+   },
+   {
+    "label": "C",
+    "text": "moving from specific to general"
+   },
+   {
+    "label": "D",
+    "text": "moving from general to specific"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "moving from specific to general",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q108",
+   "2023-09-18-S3-Q105"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q111",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following is an effective method to enhance problem-solving skills in children?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "giving them opportunities to brainstorm and make intuitive guesses"
+   },
+   {
+    "label": "B",
+    "text": "discouraging independent thinking and focusing on declarative knowledge"
+   },
+   {
+    "label": "C",
+    "text": "encouraging them to avoid difficult problems"
+   },
+   {
+    "label": "D",
+    "text": "providing them with ready-made solutions to problems"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "giving them opportunities to brainstorm and make intuitive guesses",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q111"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q112",
+  "sectionSubject": "Art of Teaching",
+  "text": "Experiential learning stresses on:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "learning as a product rather than a process."
+   },
+   {
+    "label": "B",
+    "text": "control of teacher on the learning of children."
+   },
+   {
+    "label": "C",
+    "text": "the role of reinforcement in learning."
+   },
+   {
+    "label": "D",
+    "text": "importance of critical reflection."
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "importance of critical reflection.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q112"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q113",
+  "sectionSubject": "Art of Teaching",
+  "text": "Read the following statement and choose the correct option:\nAssertion (A) : Teachers should create a meaningful environment which seeks active participation and engagement of all children.\nReason ( R) : All children are intrinsically motivated to learn and are capable of learning.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "(A) is true, but ( R) is false."
+   },
+   {
+    "label": "B",
+    "text": "both (A) and ( R) are false."
+   },
+   {
+    "label": "C",
+    "text": "both (A) and ( R) are true and ( R) is the correct explanation of (A)"
+   },
+   {
+    "label": "D",
+    "text": "both (A) and ( R) are true, but ( R) is not the correct explanation of (A)"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "both (A) and ( R) are true, but ( R) is not the correct explanation of (A)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q113"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q114",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following is not a characteristic of a good achievement test ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Validity"
+   },
+   {
+    "label": "B",
+    "text": "Ambiguity"
+   },
+   {
+    "label": "C",
+    "text": "Reliability"
+   },
+   {
+    "label": "D",
+    "text": "Objectivity"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Ambiguity",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q114"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q115",
+  "sectionSubject": "Art of Teaching",
+  "text": "“Spare the rod and spoil the child”, gives the message that",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "children should be beaten with rods."
+   },
+   {
+    "label": "B",
+    "text": "Corporal punishment is not acceptable."
+   },
+   {
+    "label": "C",
+    "text": "undesirable behaviour must be punished."
+   },
+   {
+    "label": "D",
+    "text": "Punishment in the class should be banned."
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "undesirable behaviour must be punished.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q115"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q116",
+  "sectionSubject": "Art of Teaching",
+  "text": "What is the use of text book in class?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To explain ideas & thought"
+   },
+   {
+    "label": "B",
+    "text": "To achieve learning objectives"
+   },
+   {
+    "label": "C",
+    "text": "To delimit what is to be taught"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "To achieve learning objectives",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q116"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q117",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following statement is not true?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Through the text book, the memory power of the student is developed"
+   },
+   {
+    "label": "B",
+    "text": "Through the text book, reasoning power of the student is developed"
+   },
+   {
+    "label": "C",
+    "text": "Textbooks distract students from studies."
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Textbooks distract students from studies.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q117"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q118",
+  "sectionSubject": "Art of Teaching",
+  "text": "The criteria for teacher effectiveness are-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Ability"
+   },
+   {
+    "label": "B",
+    "text": "Product"
+   },
+   {
+    "label": "C",
+    "text": "Process"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q118"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q119",
+  "sectionSubject": "Art of Teaching",
+  "text": "The primary responsibility for the teacher's adjustment",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "with the children"
+   },
+   {
+    "label": "B",
+    "text": "with the principal"
+   },
+   {
+    "label": "C",
+    "text": "the teacher himself"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "the teacher himself",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q119"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q120",
+  "sectionSubject": "Art of Teaching",
+  "text": "Characteristics of teacher centre method are-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Formality"
+   },
+   {
+    "label": "B",
+    "text": "Teacher's sovereignty"
+   },
+   {
+    "label": "C",
+    "text": "Ignoring new technology"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q120"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q121",
+  "sectionSubject": "Art of Teaching",
+  "text": "A good evaluation does not have-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Validity"
+   },
+   {
+    "label": "B",
+    "text": "Reliability"
+   },
+   {
+    "label": "C",
+    "text": "Objectivity"
+   },
+   {
+    "label": "D",
+    "text": "Subjectivity"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Subjectivity",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q121"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q122",
+  "sectionSubject": "Art of Teaching",
+  "text": "The Matriculation examination conducted by Bihar School Examination Board is of _________ type.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "External examination"
+   },
+   {
+    "label": "B",
+    "text": "Criterion referenced Evaluation"
+   },
+   {
+    "label": "C",
+    "text": "summative evaluation"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q122"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q123",
+  "sectionSubject": "Art of Teaching",
+  "text": "What type of evaluation is grading system?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Absolute evaluation"
+   },
+   {
+    "label": "B",
+    "text": "Relative evaluation"
+   },
+   {
+    "label": "C",
+    "text": "Both of the above"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Both of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q123"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q124",
+  "sectionSubject": "Art of Teaching",
+  "text": "The outline of the content is-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Curriculum"
+   },
+   {
+    "label": "B",
+    "text": "Syllabus"
+   },
+   {
+    "label": "C",
+    "text": "Lesson"
+   },
+   {
+    "label": "D",
+    "text": "Unit"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Syllabus",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q124"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q125",
+  "sectionSubject": "Art of Teaching",
+  "text": "Transmission of values, norms and belifs conveyed in the classroom atmosphere is-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Core curriculum"
+   },
+   {
+    "label": "B",
+    "text": "Hidden curriculum"
+   },
+   {
+    "label": "C",
+    "text": "Content Curriculum"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Hidden curriculum",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q125"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q126",
+  "sectionSubject": "Art of Teaching",
+  "text": "The psychological factor influencing Learning is -",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "The salary of a teacher"
+   },
+   {
+    "label": "B",
+    "text": "The nature of subject"
+   },
+   {
+    "label": "C",
+    "text": "Caste of students"
+   },
+   {
+    "label": "D",
+    "text": "The interest of students"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "The interest of students",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q126"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q127",
+  "sectionSubject": "Art of Teaching",
+  "text": "Teaching Learning process is from",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "simple to complex"
+   },
+   {
+    "label": "B",
+    "text": "concrete to Abstract"
+   },
+   {
+    "label": "C",
+    "text": "Known to unknown"
+   },
+   {
+    "label": "D",
+    "text": "All the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q127"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q128",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of these is not a factor affecting teaching-learning",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Maturity"
+   },
+   {
+    "label": "B",
+    "text": "Readiness"
+   },
+   {
+    "label": "C",
+    "text": "level of aspiration"
+   },
+   {
+    "label": "D",
+    "text": "Geographical boundary"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Geographical boundary",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q128"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q129",
+  "sectionSubject": "Art of Teaching",
+  "text": "Mnemonics is-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Theoritical Teaching aid"
+   },
+   {
+    "label": "B",
+    "text": "Visual teaching aid"
+   },
+   {
+    "label": "C",
+    "text": "Memory teaching aid"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Memory teaching aid",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q129"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q130",
+  "sectionSubject": "Art of Teaching",
+  "text": "Benefits of hands-on-learning are",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To learn new skills"
+   },
+   {
+    "label": "B",
+    "text": "Encourages interaction with nature"
+   },
+   {
+    "label": "C",
+    "text": "Both of the above"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Both of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q130"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q131",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Who were associated with the Indian league established in 1875 in Calcutta (now Kolkata) ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Sisir Kumar Ghosh and Arvindo Ghosh"
+   },
+   {
+    "label": "B",
+    "text": "Kali Mohan Das and Arvindo Ghosh"
+   },
+   {
+    "label": "C",
+    "text": "Sisir Kumar Ghosh and Sambhu Charan Mukherjee"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Sisir Kumar Ghosh and Sambhu Charan Mukherjee",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q131"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q132",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which is the only state in India producing muga silk ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Assam"
+   },
+   {
+    "label": "B",
+    "text": "Bihar"
+   },
+   {
+    "label": "C",
+    "text": "Orissa"
+   },
+   {
+    "label": "D",
+    "text": "West Bengal"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Assam",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q132"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q133",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which among the following is the effect of currency devaluation?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Increase in imports"
+   },
+   {
+    "label": "B",
+    "text": "decrease in inflation"
+   },
+   {
+    "label": "C",
+    "text": "increase in exports"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "increase in exports",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q133"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q134",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "I It was the first India’s Civil Disobedience movement launched by Mahatma Gandhi.\nII. It was a protest against the injustice meted out to tenant farmers in Champaran district of Bihar. Which of the above statement(s) is/are correct about\nChamparan Satyagraha?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Only I"
+   },
+   {
+    "label": "B",
+    "text": "Only II"
+   },
+   {
+    "label": "C",
+    "text": "Both I and II"
+   },
+   {
+    "label": "D",
+    "text": "Neither I nor II"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Both I and II",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q134"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q135",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which Union Ministry conducted the ‘Mother Tongue Survey of India (MTSI)’?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Ministry of Education"
+   },
+   {
+    "label": "B",
+    "text": "Ministry of Home Affairs"
+   },
+   {
+    "label": "C",
+    "text": "Ministry of Culture"
+   },
+   {
+    "label": "D",
+    "text": "Ministry of External Affairs"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Ministry of Home Affairs",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q135"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q136",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following gasses are called Greenhouse gasses?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Methane"
+   },
+   {
+    "label": "B",
+    "text": "Nitrogen"
+   },
+   {
+    "label": "C",
+    "text": "Carbon dioxide"
+   },
+   {
+    "label": "D",
+    "text": "Both a and c"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Both a and c",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q136"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q137",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "How many main components are there in integrated waste management?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Two"
+   },
+   {
+    "label": "B",
+    "text": "Three"
+   },
+   {
+    "label": "C",
+    "text": "Seven"
+   },
+   {
+    "label": "D",
+    "text": "Eleven"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Two",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q137"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q138",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which type of farming causes more deforestation?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Subsistence farming"
+   },
+   {
+    "label": "B",
+    "text": "Commercial farming"
+   },
+   {
+    "label": "C",
+    "text": "Mixed farming"
+   },
+   {
+    "label": "D",
+    "text": "Dairy farming"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Subsistence farming",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q138"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q139",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The El-Nino Phenomenon occurs in",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Atlantic Ocean"
+   },
+   {
+    "label": "B",
+    "text": "Pacific Ocean"
+   },
+   {
+    "label": "C",
+    "text": "Indian Ocean"
+   },
+   {
+    "label": "D",
+    "text": "Arctic Ocean"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Pacific Ocean",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q139"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q140",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The Gangetic dolphin belongs to which of the following categories of fauna?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Endangered species"
+   },
+   {
+    "label": "B",
+    "text": "Vulnerable species"
+   },
+   {
+    "label": "C",
+    "text": "Rare species"
+   },
+   {
+    "label": "D",
+    "text": "Extinct species"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Vulnerable species",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q140"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q141",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Of the 20 cycles sold by Ajay, average cost of 12 cycles is Rs. 18000. In total he earned Rs. 300000. What was the average cost of remaining cycles?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Rs. 10500"
+   },
+   {
+    "label": "B",
+    "text": "Rs. 7500"
+   },
+   {
+    "label": "C",
+    "text": "Rs. 9125"
+   },
+   {
+    "label": "D",
+    "text": "Rs. 9750"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Rs. 10500",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q141"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q142",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Calculate the compound interest on Rs. 4000 for 2 years at 20% per annum when compounded annually.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "1856.4"
+   },
+   {
+    "label": "B",
+    "text": "1756.4"
+   },
+   {
+    "label": "C",
+    "text": "1846.4"
+   },
+   {
+    "label": "D",
+    "text": "1746.4"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "1856.4",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q142"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q143",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "11.71 – 0.86 + 1.78 – 9.20 = ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "2.43"
+   },
+   {
+    "label": "B",
+    "text": "2.45"
+   },
+   {
+    "label": "C",
+    "text": "3.13"
+   },
+   {
+    "label": "D",
+    "text": "3.43"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "3.43",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q143"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q144",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The sum of two numbers is 156 and their HCF is 13. The numbers of such number pairs is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "2"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "4"
+   },
+   {
+    "label": "D",
+    "text": "3"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "2",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q144"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q145",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "50 If the height of the building and distance from the building foot’s to a point is increased by 20%, then the angle of elevation on the top of the building",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Increases"
+   },
+   {
+    "label": "B",
+    "text": "Decreases"
+   },
+   {
+    "label": "C",
+    "text": "Do not change"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Do not change",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q145"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q146",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Umbrage : Offense :: Elation : ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Decoration"
+   },
+   {
+    "label": "B",
+    "text": "Penance"
+   },
+   {
+    "label": "C",
+    "text": "Jubilance"
+   },
+   {
+    "label": "D",
+    "text": "Meaning"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Jubilance",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q146"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q147",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Choose the word which is least like the other words in the group",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Fir"
+   },
+   {
+    "label": "B",
+    "text": "Tail"
+   },
+   {
+    "label": "C",
+    "text": "Trunk"
+   },
+   {
+    "label": "D",
+    "text": "Feather"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Fir",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q147"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q148",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "7,11,13,17, 19, __",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "21"
+   },
+   {
+    "label": "B",
+    "text": "29"
+   },
+   {
+    "label": "C",
+    "text": "23"
+   },
+   {
+    "label": "D",
+    "text": "31"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "23",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q148"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q149",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "If SPIDER is written as PSDIRE in a certain code, how would COMMON be written in that code?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "OCMMON"
+   },
+   {
+    "label": "B",
+    "text": "OCMOMN"
+   },
+   {
+    "label": "C",
+    "text": "OCMMNO"
+   },
+   {
+    "label": "D",
+    "text": "OCOMMO"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "OCMMNO",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q149"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-12-S2-Q150",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Introducing a man, a woman said, \"His wife is the only daughter of my father\". How is that man related to the woman?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Brother"
+   },
+   {
+    "label": "B",
+    "text": "Father-in-law"
+   },
+   {
+    "label": "C",
+    "text": "Maternal Uncle"
+   },
+   {
+    "label": "D",
+    "text": "Husband"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Husband",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q150"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q003",
+  "sectionSubject": "Computer Science",
+  "text": "Which flip-flop type is known for having a forbidden state, where both inputs are\nset to '1'?",
+  "textHi": "किस फ्लिप-फ्लॉप प्रकार को निषिद्ध स्थिति के लिए जाना जाता है, जहां दोनों इनपुट '1' पर सेट हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "S-R flip-flop"
+   },
+   {
+    "label": "B",
+    "text": "J-K flip-flop"
+   },
+   {
+    "label": "C",
+    "text": "D flip-flop"
+   },
+   {
+    "label": "D",
+    "text": "T flip-flop"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "S-R flip-flop",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q002",
+   "2024-06-12-S1-Q003"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q006",
+  "sectionSubject": "Computer Science",
+  "text": "In a ROM-based design, how are logic functions implemented?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "By programming the inputs and outputs of the ROM"
+   },
+   {
+    "label": "B",
+    "text": "By using a combination of AND gates and OR gates"
+   },
+   {
+    "label": "C",
+    "text": "By using only NAND gates"
+   },
+   {
+    "label": "D",
+    "text": "By using only XOR gates"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "By using a combination of AND gates and OR gates",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q006"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q009",
+  "sectionSubject": "Computer Science",
+  "text": "In Hamming Code, how are parity bits positioned within a data unit?",
+  "textHi": "हैमिंग कोड में, एक डेटा यूनिट के भीतर समता बिट्स कैसे तैनात हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "At the beginning of the data unit"
+   },
+   {
+    "label": "B",
+    "text": "At the end of the data unit"
+   },
+   {
+    "label": "C",
+    "text": "At specific positions based on powers of 2"
+   },
+   {
+    "label": "D",
+    "text": "At random positions within the data unit"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "At specific positions based on powers of 2",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q008",
+   "2024-06-12-S1-Q009"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q016",
+  "sectionSubject": "Computer Science",
+  "text": "When analyzing the time complexity of an algorithm using Big-O notation, what\nproperty allows us to ignore lower-order terms?",
+  "textHi": "बिग-ओ नोटेशन का उपयोग करके एक एल्गोरिथ्म की समय जटिलता का विश्लेषण करते समय, क्या संपत्ति हमें निम्न-\nक्रम शब्दों को अनदेखा करने की अनुमति देती है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Reflexivity"
+   },
+   {
+    "label": "B",
+    "text": "Addition"
+   },
+   {
+    "label": "C",
+    "text": "Multiplication"
+   },
+   {
+    "label": "D",
+    "text": "Ignorability of Constants"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Ignorability of Constants",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q016",
+   "2024-06-12-S1-Q016"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q020",
+  "sectionSubject": "Computer Science",
+  "text": "In the context of the All-Pair Shortest Paths algorithm, what does the term \"transitive\nproperty\" refer to?",
+  "textHi": "ऑल-पेयर शॉर्टेस्ट पाथ्स एल्गोोरिथ्म के संदर्भ में, \"सकल घरेलू संपत्ति \" शब्द क्या संदर्भित करता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "The property of having a cyclic path"
+   },
+   {
+    "label": "B",
+    "text": "The property of having all vertices connected to each other"
+   },
+   {
+    "label": "C",
+    "text": "The property of being able to reach one vertex from another"
+   },
+   {
+    "label": "D",
+    "text": "The property of a path being shorter than another path"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "The property of being able to reach one vertex from another",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q018",
+   "2024-06-11-S1-Q020"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q024",
+  "sectionSubject": "Computer Science",
+  "text": "Counting Sort is particularly efficient for sorting arrays where the range of elements is:",
+  "textHi": "गिनती सॉर्ट विशेष रूप से सरणियों को छांटने के लिए कुशल है जहां तत्वोंों की सीमा है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Very large"
+   },
+   {
+    "label": "B",
+    "text": "Very small"
+   },
+   {
+    "label": "C",
+    "text": "Constant"
+   },
+   {
+    "label": "D",
+    "text": "Sorted"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Very small",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q021",
+   "2024-06-11-S1-Q024"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q024",
+  "sectionSubject": "Computer Science",
+  "text": "Index sequential search is an improvement over sequential search that uses:",
+  "textHi": "अनुक्रमित अनुक्रमिक खोज अनुक्रमिक खोज पर एक सुधार है जो उपयोग करता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Linked lists for efficient searching"
+   },
+   {
+    "label": "B",
+    "text": "Arrays for efficient searching"
+   },
+   {
+    "label": "C",
+    "text": "Hashing for efficient searching"
+   },
+   {
+    "label": "D",
+    "text": "Binary search trees for efficient searching"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Linked lists for efficient searching",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q022",
+   "2024-06-11-S2-Q024"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q024",
+  "sectionSubject": "Computer Science",
+  "text": "In the context of linked lists, what is the time complexity for inserting a node at the end of the list, assuming \"n\" is the number of nodes?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "O(1)"
+   },
+   {
+    "label": "B",
+    "text": "O(n)"
+   },
+   {
+    "label": "C",
+    "text": "O(log n)"
+   },
+   {
+    "label": "D",
+    "text": "O(n^2)"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "O(n)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q024"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q026",
+  "sectionSubject": "Computer Science",
+  "text": "In a triplet representation of a sparse matrix, each non-zero element is represented by:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Its value and column index"
+   },
+   {
+    "label": "B",
+    "text": "Its value, row index, and column index"
+   },
+   {
+    "label": "C",
+    "text": "Its value and row index"
+   },
+   {
+    "label": "D",
+    "text": "Its row index"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Its value, row index, and column index",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q026"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q027",
+  "sectionSubject": "Computer Science",
+  "text": "Which method is used to transfer small amounts of data between the CPU and I/O device using programmed I/O?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Polling"
+   },
+   {
+    "label": "B",
+    "text": "DMA"
+   },
+   {
+    "label": "C",
+    "text": "Interrupt-Driven I/O"
+   },
+   {
+    "label": "D",
+    "text": "Parallel I/O"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Polling",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q027"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q028",
+  "sectionSubject": "Computer Science",
+  "text": "Which storage allocation strategy allocates the largest available block of memory to a\nprocess, ensuring that the remaining space is maximized?",
+  "textHi": "कौन सा स्टोरेज एलोकेशन स्ट्रेेटेजी एक प्रक्रिया के लिए मेमोरी का सबसे बड़ा उपलब्ध ब्लॉक आवंटित करता है, यह सुनिश्चित\nकरता है कि शेष स्थान अधिकतम है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Best Fit"
+   },
+   {
+    "label": "B",
+    "text": "Worst Fit"
+   },
+   {
+    "label": "C",
+    "text": "First Fit"
+   },
+   {
+    "label": "D",
+    "text": "Next Fit"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Worst Fit",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q029",
+   "2024-06-11-S2-Q028"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q031",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is a solution to the deadlock problem that involves ensuring\nthat processes hold all required resources before starting execution?",
+  "textHi": "निम्नलिखित में से कौन सा गतिरोध समस्या का एक समाधान है जिसमें यह सुनिश्चित करना शामिल है कि निष्पादन शुरू\nकरने से पहले सभी आवश्यक संसाधन हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Avoidance"
+   },
+   {
+    "label": "B",
+    "text": "Detection"
+   },
+   {
+    "label": "C",
+    "text": "Prevention"
+   },
+   {
+    "label": "D",
+    "text": "Termination"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Prevention",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q031",
+   "2024-06-12-S1-Q031"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q033",
+  "sectionSubject": "Computer Science",
+  "text": "In a preemptive multitasking system, a process in the \"running\" state may be\ninterrupted by:",
+  "textHi": "एक प्रीीमेप्टिव मल्टीीटास्किंं ग सिस्टम में, \"रनिंंग\" राज्य में एक प्रक्रि या को बाधित किया जा सकता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "An I/O operation"
+   },
+   {
+    "label": "B",
+    "text": "Another process"
+   },
+   {
+    "label": "C",
+    "text": "A hardware error"
+   },
+   {
+    "label": "D",
+    "text": "The user"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Another process",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q033",
+   "2024-06-11-S1-Q033"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q035",
+  "sectionSubject": "Computer Science",
+  "text": "Rows of a relation are known as the _______.",
+  "textHi": "एक संबंध की पंक्तियों को _______ के रूप में जाना जाता है।",
+  "options": [
+   {
+    "label": "A",
+    "text": "Degree"
+   },
+   {
+    "label": "B",
+    "text": "Tuples"
+   },
+   {
+    "label": "C",
+    "text": "Entity"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Tuples",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q035",
+   "2024-06-12-S1-Q035"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q038",
+  "sectionSubject": "Computer Science",
+  "text": "Which one of the following commands is used for removing (or deleting) a relation\nforms the SQL database?",
+  "textHi": "SQL डेटाबेस के संबंध को हटाने (या हटाने) के लिए निम्नलिखित में से किस आदेश का उपयोग किया जाता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Delete"
+   },
+   {
+    "label": "B",
+    "text": "Drop"
+   },
+   {
+    "label": "C",
+    "text": "Remove"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Drop",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q037",
+   "2024-06-12-S1-Q038"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q039",
+  "sectionSubject": "Computer Science",
+  "text": "Database Management System is a type of _________software",
+  "textHi": "डेटाबेस प्रबंधन प्रणाली एक प्रकार की _________software",
+  "options": [
+   {
+    "label": "A",
+    "text": "It is a kind of application software"
+   },
+   {
+    "label": "B",
+    "text": "It is a kind of general software"
+   },
+   {
+    "label": "C",
+    "text": "It is a type of system software"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "It is a type of system software",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q038",
+   "2024-06-12-S1-Q039"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q040",
+  "sectionSubject": "Computer Science",
+  "text": "Which one of the following is a type of Data Manipulation Command?",
+  "textHi": "निम्नलिखित में से कौन सा डेटा मैनिपुलेशन कमांड का एक प्रकार है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Delete"
+   },
+   {
+    "label": "B",
+    "text": "Alter"
+   },
+   {
+    "label": "C",
+    "text": "Create"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Delete",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q039",
+   "2024-06-12-S1-Q040"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q043",
+  "sectionSubject": "Computer Science",
+  "text": "What is the primary function of SNMP (Simple Network Management Protocol)?",
+  "textHi": "एसएनएमपी (सरल नेटवर्क प्रबंधन प्रोटोकॉल) का प्राथमिक कार्य क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "File transfer"
+   },
+   {
+    "label": "B",
+    "text": "Remote terminal access"
+   },
+   {
+    "label": "C",
+    "text": "Network management and monitoring"
+   },
+   {
+    "label": "D",
+    "text": "Web browsing"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Network management and monitoring",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q042",
+   "2024-06-12-S1-Q043"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q046",
+  "sectionSubject": "Computer Science",
+  "text": "Which sublayer of the Data Link Layer manages access to the shared\ncommunication medium?",
+  "textHi": "लेयर की कौन सी उपपरत साझा संचार माध्यम तक पहुँच का प्रबंधन करती है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Logical Link Control (LLC)"
+   },
+   {
+    "label": "B",
+    "text": "Media Access Control (MAC)"
+   },
+   {
+    "label": "C",
+    "text": "Flow Control Sublayer"
+   },
+   {
+    "label": "D",
+    "text": "Error Control Sublayer"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Media Access Control (MAC)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q043",
+   "2024-06-12-S1-Q046"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q045",
+  "sectionSubject": "Computer Science",
+  "text": "SNMP (Simple Network Management Protocol) is used for:",
+  "textHi": "SNMP (सरल नेटवर्क प्रबंधन प्रोोटोकॉल) का उपयोग निम्न के लिए किया जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Managing network devices and monitoring"
+   },
+   {
+    "label": "B",
+    "text": "Secure data transmission"
+   },
+   {
+    "label": "C",
+    "text": "Routing data between networks"
+   },
+   {
+    "label": "D",
+    "text": "Ensuring data integrity"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Managing network devices and monitoring",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q046",
+   "2024-06-11-S1-Q045"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q047",
+  "sectionSubject": "Computer Science",
+  "text": "TCP regulates the end-to-end packet flow by use of:",
+  "textHi": "टीसीपी किसके उपयोग से एंड-टू-एंड पैकेट प्रवाह को नियंत्रित करता है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Source quench messages"
+   },
+   {
+    "label": "B",
+    "text": "A window size advertisement"
+   },
+   {
+    "label": "C",
+    "text": "Fixed size segments"
+   },
+   {
+    "label": "D",
+    "text": "Binary exponential backoff"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "A window size advertisement",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q047",
+   "2024-06-11-S1-Q047"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q051",
+  "sectionSubject": "Computer Science",
+  "text": "White Box Testing is also known as:",
+  "textHi": "व्हाइट बॉक्स परीक्षण के रूप में भी जाना जाता है:",
+  "options": [
+   {
+    "label": "A",
+    "text": "Functional Testing"
+   },
+   {
+    "label": "B",
+    "text": "Black Box Testing"
+   },
+   {
+    "label": "C",
+    "text": "Glass Box Testing"
+   },
+   {
+    "label": "D",
+    "text": "Unit Testing"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Glass Box Testing",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q049",
+   "2024-06-12-S1-Q051"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q054",
+  "sectionSubject": "Computer Science",
+  "text": "The model used for estimating software maintenance costs is called:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "COCOMO"
+   },
+   {
+    "label": "B",
+    "text": "Putnam's Model"
+   },
+   {
+    "label": "C",
+    "text": "Musa's Basic Model"
+   },
+   {
+    "label": "D",
+    "text": "Boehm's Model"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Putnam's Model",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q054"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q056",
+  "sectionSubject": "Computer Science",
+  "text": "What is the purpose of data abstraction in OOP?",
+  "textHi": "ओओपी में डेटा एब्स्ट्रक्शन का उद्देेश्य क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "To hide the implementation details"
+   },
+   {
+    "label": "B",
+    "text": "To expose all internal details"
+   },
+   {
+    "label": "C",
+    "text": "To limit the scope of data"
+   },
+   {
+    "label": "D",
+    "text": "To make methods public"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "To hide the implementation details",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q057",
+   "2024-06-11-S2-Q056"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q056",
+  "sectionSubject": "Computer Science",
+  "text": "What is polymorphism in OOP?",
+  "textHi": "ओओपी में बहुरूपता क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Using abstract classes only"
+   },
+   {
+    "label": "B",
+    "text": "The ability of objects to take on multiple forms"
+   },
+   {
+    "label": "C",
+    "text": "A type of inheritance"
+   },
+   {
+    "label": "D",
+    "text": "A method with no implementation"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "The ability of objects to take on multiple forms",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q058",
+   "2024-06-12-S1-Q056"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q061",
+  "sectionSubject": "Computer Science",
+  "text": "Which keyword is used to indicate that a class or method can be accessed by other classes within the same package?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "private"
+   },
+   {
+    "label": "B",
+    "text": "protected"
+   },
+   {
+    "label": "C",
+    "text": "package-private"
+   },
+   {
+    "label": "D",
+    "text": "public"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "package-private",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q061"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q061",
+  "sectionSubject": "Computer Science",
+  "text": "What is the function of a DNS (Domain Name System)?",
+  "textHi": "DNS (Domain Name System) का कार्य क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Sending emails"
+   },
+   {
+    "label": "B",
+    "text": "Translating domain names to IP addresses"
+   },
+   {
+    "label": "C",
+    "text": "Managing databases"
+   },
+   {
+    "label": "D",
+    "text": "Providing website security"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Translating domain names to IP addresses",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q062",
+   "2024-06-12-S1-Q061"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q063",
+  "sectionSubject": "Computer Science",
+  "text": "What is the purpose of CSS media queries?",
+  "textHi": "सीएसएस मीडिया प्रश्नोंों का उद्देेश्य क्या है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "To add multimedia content to a webpage"
+   },
+   {
+    "label": "B",
+    "text": "To create animations"
+   },
+   {
+    "label": "C",
+    "text": "To apply different styles based on the device's characteristics"
+   },
+   {
+    "label": "D",
+    "text": "To define color schemes for a website"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "To apply different styles based on the device's characteristics",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q063",
+   "2024-06-11-S1-Q063"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q068",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is not a part of quin-tuple (five tuple) finite automata?",
+  "textHi": "निम्नलिखित में से कौन सा क्विन-ट्यूूपल (पांच टपल) परिमित ऑटोमेटा का हिस्सा नहीं है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Input alphabet"
+   },
+   {
+    "label": "B",
+    "text": "Output Alphabet"
+   },
+   {
+    "label": "C",
+    "text": "Initial State"
+   },
+   {
+    "label": "D",
+    "text": "Transition function"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Output Alphabet",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q068",
+   "2024-06-11-S2-Q068"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q069",
+  "sectionSubject": "Computer Science",
+  "text": "Given: L1 = {x ∈ Σ* | x contains odd no's of 0's}\nL2 = {x ∈ Σ* | x contains odd no's of 1's}\nNo of final states in Language L1 U L2?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "1"
+   },
+   {
+    "label": "B",
+    "text": "2"
+   },
+   {
+    "label": "C",
+    "text": "3"
+   },
+   {
+    "label": "D",
+    "text": "4"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "3",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q069"
+  ],
+  "figure": "figures/ab51135e-q069-1.png",
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q072",
+  "sectionSubject": "Computer Science",
+  "text": "The minimum number of productions required to produce a language consisting of palindromes as a strings defined over Σ={0,1} is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "7"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "5",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q072"
+  ],
+  "figure": "figures/ab51135e-q072-1.png",
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q073",
+  "sectionSubject": "Computer Science",
+  "text": "The language L={0ᵐ1ᵐ0ᵐ| m ≥ 1} is a",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Regular language"
+   },
+   {
+    "label": "B",
+    "text": "Context free language"
+   },
+   {
+    "label": "C",
+    "text": "Both (A) and (B)"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "None of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q073"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q077",
+  "sectionSubject": "Computer Science",
+  "text": "__________ is a light weight IoT protocol",
+  "textHi": "__________ एक हल्के वजन IoT प्रोटोकॉल है",
+  "options": [
+   {
+    "label": "A",
+    "text": "IP"
+   },
+   {
+    "label": "B",
+    "text": "CoAP"
+   },
+   {
+    "label": "C",
+    "text": "HTTP"
+   },
+   {
+    "label": "D",
+    "text": "MQTT"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "MQTT",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q076",
+   "2024-06-12-S1-Q077"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q077",
+  "sectionSubject": "Computer Science",
+  "text": "SCADA is a ______________.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Hardware"
+   },
+   {
+    "label": "B",
+    "text": "System"
+   },
+   {
+    "label": "C",
+    "text": "Process"
+   },
+   {
+    "label": "D",
+    "text": "Protocol"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Process",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q077"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q078",
+  "sectionSubject": "Computer Science",
+  "text": "Resource management includes?",
+  "textHi": "संसाधन प्रबंधन में शामिल हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "IoT devices"
+   },
+   {
+    "label": "B",
+    "text": "IoT cloud"
+   },
+   {
+    "label": "C",
+    "text": "IoT web"
+   },
+   {
+    "label": "D",
+    "text": "IoT networks"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "IoT cloud",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q080",
+   "2024-06-11-S2-Q078"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q083",
+  "sectionSubject": "Computer Science",
+  "text": "Forward chaining systems are _____________ where as backward chaining\nsystems are _________",
+  "textHi": "फॉरवर्ड चेनिंग सिस्टम _____________ हैं जहां पिछड़े चेनिंग सिस्टम _________ हैं",
+  "options": [
+   {
+    "label": "A",
+    "text": "Goal-driven, goal-driven"
+   },
+   {
+    "label": "B",
+    "text": "Goal-driven, data-driven"
+   },
+   {
+    "label": "C",
+    "text": "Data-driven, goal-driven"
+   },
+   {
+    "label": "D",
+    "text": "Data-driven, data-driven"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Data-driven, goal-driven",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q084",
+   "2024-06-12-S1-Q083"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q085",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is not a Capabilities of Expert Systems?",
+  "textHi": "निम्नलिखित में से कौन विशेषज्ञ प्रणालियों की क्षमता नहीं है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Advising"
+   },
+   {
+    "label": "B",
+    "text": "Demonstrating"
+   },
+   {
+    "label": "C",
+    "text": "Explaining"
+   },
+   {
+    "label": "D",
+    "text": "Expanding"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Expanding",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q087",
+   "2024-06-12-S1-Q085"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S1-Q088",
+  "sectionSubject": "Computer Science",
+  "text": "Which products are people most likely to be more uncomfortable buying on the\nInternet?",
+  "textHi": "इंटरनेट पर कौन से उत्पाद अधिक असहज होने की संभावना है?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Books"
+   },
+   {
+    "label": "B",
+    "text": "Movie ticket"
+   },
+   {
+    "label": "C",
+    "text": "Furniture"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Furniture",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q088",
+   "2024-06-11-S1-Q088"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q091",
+  "sectionSubject": "Computer Science",
+  "text": "The study of encryption is called---------------",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Encryption"
+   },
+   {
+    "label": "B",
+    "text": "Cryptography"
+   },
+   {
+    "label": "C",
+    "text": "Decryption"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Cryptography",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q091"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q092",
+  "sectionSubject": "Computer Science",
+  "text": "OTP stands for",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "One time password"
+   },
+   {
+    "label": "B",
+    "text": "One time Process"
+   },
+   {
+    "label": "C",
+    "text": "One time processor"
+   },
+   {
+    "label": "D",
+    "text": "One time Processing"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "One time password",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q092"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q093",
+  "sectionSubject": "Computer Science",
+  "text": "Secret key is used for",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Public Key Cryptography"
+   },
+   {
+    "label": "B",
+    "text": "Private key cryptography"
+   },
+   {
+    "label": "C",
+    "text": "Asymetric Key Cryptography"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Private key cryptography",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q093"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q094",
+  "sectionSubject": "Computer Science",
+  "text": "Real time streaming protocol is used ___________",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "to control streaming media servers"
+   },
+   {
+    "label": "B",
+    "text": "for establishing and controlling media sessions between endpoints"
+   },
+   {
+    "label": "C",
+    "text": "to provide real time control of playback of media files from the server"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q094"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-12-S1-Q094",
+  "sectionSubject": "Computer Science",
+  "text": "In Audio and Video Compression, term RBG expresses_________",
+  "textHi": "ऑडियो और वीडियो संपीड़न में, शब्द rbg व्यक्त करता है _________",
+  "options": [
+   {
+    "label": "A",
+    "text": "red, black, grey"
+   },
+   {
+    "label": "B",
+    "text": "blue, grey, white."
+   },
+   {
+    "label": "C",
+    "text": "red, blue, green."
+   },
+   {
+    "label": "D",
+    "text": "red, bluish, greyish."
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "red, blue, green.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q095",
+   "2024-06-12-S1-Q094"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q096",
+  "sectionSubject": "Computer Science",
+  "text": "MP3 produces three data rates from 96 Kbps to_____________",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "164 kbps"
+   },
+   {
+    "label": "B",
+    "text": "256 kbps"
+   },
+   {
+    "label": "C",
+    "text": "128kbps"
+   },
+   {
+    "label": "D",
+    "text": "320 kbps"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "164 kbps",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q096"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2024-06-11-S2-Q100",
+  "sectionSubject": "Computer Science",
+  "text": "What are the categories of digital image processing?",
+  "textHi": "डिजिटल छवि प्रसंस्करण की श्रेेणियां क्या हैं?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Image Enhancement"
+   },
+   {
+    "label": "B",
+    "text": "Image Classification and Analysis"
+   },
+   {
+    "label": "C",
+    "text": "Image Transformation"
+   },
+   {
+    "label": "D",
+    "text": "All of the mentioned"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the mentioned",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q098",
+   "2024-06-11-S2-Q100"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q101",
+  "sectionSubject": "Art of Teaching",
+  "text": "In a class with large strength the best used method is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "debate and discussion"
+   },
+   {
+    "label": "B",
+    "text": "group work"
+   },
+   {
+    "label": "C",
+    "text": "lecture"
+   },
+   {
+    "label": "D",
+    "text": "sely study"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "lecture",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q101"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q102",
+  "sectionSubject": "Art of Teaching",
+  "text": "To improve co-operation in a mixed class of boys and girls the best method will be",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "group work"
+   },
+   {
+    "label": "B",
+    "text": "lecture"
+   },
+   {
+    "label": "C",
+    "text": "demonstration"
+   },
+   {
+    "label": "D",
+    "text": "blended"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "group work",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q102"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q103",
+  "sectionSubject": "Art of Teaching",
+  "text": "One of them is not the focal point of tripolar process of teaching",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "teaching methods"
+   },
+   {
+    "label": "B",
+    "text": "teacher"
+   },
+   {
+    "label": "C",
+    "text": "pupil"
+   },
+   {
+    "label": "D",
+    "text": "content"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "teaching methods",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q103"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q104",
+  "sectionSubject": "Art of Teaching",
+  "text": "The goal of teaching is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "to give information"
+   },
+   {
+    "label": "B",
+    "text": "involve people in activity"
+   },
+   {
+    "label": "C",
+    "text": "to inculcate knowledge"
+   },
+   {
+    "label": "D",
+    "text": "desirable change in behaviour"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "desirable change in behaviour",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q104"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q106",
+  "sectionSubject": "Art of Teaching",
+  "text": "Socratic method is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "lecture demonstration"
+   },
+   {
+    "label": "B",
+    "text": "inquiry"
+   },
+   {
+    "label": "C",
+    "text": "question Answer"
+   },
+   {
+    "label": "D",
+    "text": "drill"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "question Answer",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q106"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q107",
+  "sectionSubject": "Art of Teaching",
+  "text": "One of them is not true about project method",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "it is teacher centred"
+   },
+   {
+    "label": "B",
+    "text": "accomplished in real life"
+   },
+   {
+    "label": "C",
+    "text": "happens in social environment"
+   },
+   {
+    "label": "D",
+    "text": "purposeful activity"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "it is teacher centred",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q107"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q108",
+  "sectionSubject": "Art of Teaching",
+  "text": "Drama or role play is best suited to teach",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "science"
+   },
+   {
+    "label": "B",
+    "text": "Maths"
+   },
+   {
+    "label": "C",
+    "text": "History"
+   },
+   {
+    "label": "D",
+    "text": "geography"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "History",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q108"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q109",
+  "sectionSubject": "Art of Teaching",
+  "text": "Example of a psychomotor activity is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "performs an experiment"
+   },
+   {
+    "label": "B",
+    "text": "narrates a story"
+   },
+   {
+    "label": "C",
+    "text": "demonstrates"
+   },
+   {
+    "label": "D",
+    "text": "computes result of two experiment"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "performs an experiment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q109"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q110",
+  "sectionSubject": "Art of Teaching",
+  "text": "The rule of presenting the contents to make them easy is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "method of teaching"
+   },
+   {
+    "label": "B",
+    "text": "maxims of teaching"
+   },
+   {
+    "label": "C",
+    "text": "techniques of teaching"
+   },
+   {
+    "label": "D",
+    "text": "teaching strategies"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "maxims of teaching",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q110"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q112",
+  "sectionSubject": "Art of Teaching",
+  "text": "Home work in a lesson plan should realte to",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "previous knowledge"
+   },
+   {
+    "label": "B",
+    "text": "recapitulation"
+   },
+   {
+    "label": "C",
+    "text": "student activity"
+   },
+   {
+    "label": "D",
+    "text": "new ideas realted to previous knowledge"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "new ideas realted to previous knowledge",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q112"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q113",
+  "sectionSubject": "Art of Teaching",
+  "text": "Probing question in a lesson plan demands",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "previous knowledge"
+   },
+   {
+    "label": "B",
+    "text": "prior experience"
+   },
+   {
+    "label": "C",
+    "text": "content knowledge"
+   },
+   {
+    "label": "D",
+    "text": "all the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "all the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q113"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q114",
+  "sectionSubject": "Art of Teaching",
+  "text": "To assertain that specific objective has been achieved we use",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "black board"
+   },
+   {
+    "label": "B",
+    "text": "statement of aim"
+   },
+   {
+    "label": "C",
+    "text": "recapitulation"
+   },
+   {
+    "label": "D",
+    "text": "evaluation"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "evaluation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q114"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q115",
+  "sectionSubject": "Art of Teaching",
+  "text": "Teaching point is mentioned in the lesson plan in",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "the first column"
+   },
+   {
+    "label": "B",
+    "text": "second column"
+   },
+   {
+    "label": "C",
+    "text": "third column"
+   },
+   {
+    "label": "D",
+    "text": "fourth column"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "the first column",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q115"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q116",
+  "sectionSubject": "Art of Teaching",
+  "text": "In which type of test the analysis of item is necessary:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Standardized test"
+   },
+   {
+    "label": "B",
+    "text": "Teacher made tests"
+   },
+   {
+    "label": "C",
+    "text": "Both A and B"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Standardized test",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q116"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q117",
+  "sectionSubject": "Art of Teaching",
+  "text": "In which type of test the students’ performance is compared with other students:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Objective referenced test"
+   },
+   {
+    "label": "B",
+    "text": "Norm-referenced test"
+   },
+   {
+    "label": "C",
+    "text": "Criterion-referenced test"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Norm-referenced test",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q117"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q118",
+  "sectionSubject": "Art of Teaching",
+  "text": "The planned interview is called:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Structural interview"
+   },
+   {
+    "label": "B",
+    "text": "Focused interview"
+   },
+   {
+    "label": "C",
+    "text": "Panel interview"
+   },
+   {
+    "label": "D",
+    "text": "Group interview"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Structural interview",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q118"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q119",
+  "sectionSubject": "Art of Teaching",
+  "text": "In which interview method, the discussion is concentrated on one method:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Structural interview"
+   },
+   {
+    "label": "B",
+    "text": "Focused interview"
+   },
+   {
+    "label": "C",
+    "text": "Panel interview"
+   },
+   {
+    "label": "D",
+    "text": "Group interview"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Focused interview",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q119"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q120",
+  "sectionSubject": "Art of Teaching",
+  "text": "Item analysis generally focuses to find out:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Effectiveness of distractors"
+   },
+   {
+    "label": "B",
+    "text": "Facility index"
+   },
+   {
+    "label": "C",
+    "text": "Discrimination power"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q120"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q121",
+  "sectionSubject": "Art of Teaching",
+  "text": "In the true-false test the most significant advantage is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Elimination of guessing"
+   },
+   {
+    "label": "B",
+    "text": "Wide sampling"
+   },
+   {
+    "label": "C",
+    "text": "Items validity"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Wide sampling",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q121"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q122",
+  "sectionSubject": "Art of Teaching",
+  "text": "If any item has difficulty index 5% then it is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Difficult"
+   },
+   {
+    "label": "B",
+    "text": "Very easy"
+   },
+   {
+    "label": "C",
+    "text": "Easy"
+   },
+   {
+    "label": "D",
+    "text": "Acceptable"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Difficult",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q122"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q123",
+  "sectionSubject": "Art of Teaching",
+  "text": "Generally the type of marking and reporting system is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Letters to the parent"
+   },
+   {
+    "label": "B",
+    "text": "Traditional marking system"
+   },
+   {
+    "label": "C",
+    "text": "Pass-fail system"
+   },
+   {
+    "label": "D",
+    "text": "All above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q123"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q124",
+  "sectionSubject": "Art of Teaching",
+  "text": "Measurement is basically the:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Numerical value"
+   },
+   {
+    "label": "B",
+    "text": "Qualitative value"
+   },
+   {
+    "label": "C",
+    "text": "Value judgment"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Numerical value",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q124"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q125",
+  "sectionSubject": "Art of Teaching",
+  "text": "Basically evaluation is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Qualitative value"
+   },
+   {
+    "label": "B",
+    "text": "Numerical value"
+   },
+   {
+    "label": "C",
+    "text": "Value judgment"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Value judgment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q125"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q126",
+  "sectionSubject": "Art of Teaching",
+  "text": "In a paper the score of a student is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Evaluation"
+   },
+   {
+    "label": "B",
+    "text": "Test"
+   },
+   {
+    "label": "C",
+    "text": "Measurement"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Measurement",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q126"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q127",
+  "sectionSubject": "Art of Teaching",
+  "text": "A test usually answers the question:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "How good"
+   },
+   {
+    "label": "B",
+    "text": "How well"
+   },
+   {
+    "label": "C",
+    "text": "How much"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "None of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q127"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q128",
+  "sectionSubject": "Art of Teaching",
+  "text": "______ is used to monitor the learning process.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Summative evaluation"
+   },
+   {
+    "label": "B",
+    "text": "Formative evaluation"
+   },
+   {
+    "label": "C",
+    "text": "Placement evaluation"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Formative evaluation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q128"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q129",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which scale is used for attitude measurement?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Projective scale"
+   },
+   {
+    "label": "B",
+    "text": "Likert scale"
+   },
+   {
+    "label": "C",
+    "text": "Ordinal scale"
+   },
+   {
+    "label": "D",
+    "text": "Technical scale"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Likert scale",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q129"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q130",
+  "sectionSubject": "Art of Teaching",
+  "text": "An aptitude test is used to measure:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Present attainment"
+   },
+   {
+    "label": "B",
+    "text": "Attained ability"
+   },
+   {
+    "label": "C",
+    "text": "Potential ability"
+   },
+   {
+    "label": "D",
+    "text": "Overall mental ability"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Attained ability",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q130"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q131",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Who among the following is known to oppose the Age of consent bill?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Behramji Malabari"
+   },
+   {
+    "label": "B",
+    "text": "Bal Gangadhar Tilak"
+   },
+   {
+    "label": "C",
+    "text": "Mahatma Gandhi"
+   },
+   {
+    "label": "D",
+    "text": "Bipin Chandra Pal"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Bal Gangadhar Tilak",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q131"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q132",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which Indian state share the longest land border with Bhutan?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Assam"
+   },
+   {
+    "label": "B",
+    "text": "Sikkim"
+   },
+   {
+    "label": "C",
+    "text": "Arunachal Pradesh"
+   },
+   {
+    "label": "D",
+    "text": "West Bengal"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Assam",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q132"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q133",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The power of the commercial banks to expand deposits through expanding their loans and advances is known as which among the following?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Capital Expansion"
+   },
+   {
+    "label": "B",
+    "text": "Credit Expansion"
+   },
+   {
+    "label": "C",
+    "text": "Credit Control"
+   },
+   {
+    "label": "D",
+    "text": "Credit Creation"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Credit Creation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q133"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2023-09-18-S3-Q134",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Bihar Socialist Party was born in 1934 with its Secretary",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Acharya Narendra Dev"
+   },
+   {
+    "label": "B",
+    "text": "Jayaprakash Narayan"
+   },
+   {
+    "label": "C",
+    "text": "Rambriksh Benipuri"
+   },
+   {
+    "label": "D",
+    "text": "Karpoori Thakur"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Jayaprakash Narayan",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q134"
+  ],
+  "figure": null,
+  "notes": []
+ }
+]

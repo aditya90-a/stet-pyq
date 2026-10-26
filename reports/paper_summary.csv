@@ -1,0 +1,11 @@
+﻿paper,label,date,shift,pdf,questions,repeated,repeatedPct,exactRepeats,paraphrasedRepeats,conceptRepeats,keyCoverage,issues
+2023-09-12-S1,STET 2023 · 12 Sep 2023 · Shift 1,2023-09-12,1,Stet 2023-CS(shift-1)-1.pdf,150,93,62.0,91,2,2,150,0
+2023-09-12-S2,STET 2023 · 12 Sep 2023 · Shift 2,2023-09-12,2,Stet 2023-CS(shift-2)-1.pdf,150,94,62.7,90,4,1,150,0
+2023-09-18-S3,STET 2023 · 18 Sep 2023 · Shift 3,2023-09-18,3,Stet 2023-CS(shift-3)-1.pdf,150,92,61.3,87,5,4,150,0
+2024-06-11-S1,STET 2024 (First) · 11 Jun 2024 · Shift 1,2024-06-11,1,Stet 2024-CS(shift-1).pdf,150,79,52.7,76,3,4,150,0
+2024-06-11-S2,STET 2024 (First) · 11 Jun 2024 · Shift 2,2024-06-11,2,Stet 2024-CS(shift-2).pdf,150,47,31.3,41,6,8,150,1
+2024-06-12-S1,STET 2024 (First) · 12 Jun 2024 · Shift 1,2024-06-12,1,Stet 2024-CS(shift-3).pdf,150,61,40.7,58,3,8,150,1
+2025-11-03-S1,STET 2025 · 03 Nov 2025 · Shift 1,2025-11-03,1,Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-1-Eng.pdf,150,56,37.3,51,5,6,150,0
+2025-11-03-S2,STET 2025 · 03 Nov 2025 · Shift 2,2025-11-03,2,Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-2-Eng.pdf,150,41,27.3,40,1,6,150,0
+2025-11-04-S2,STET 2025 · 04 Nov 2025 · Shift 2,2025-11-04,2,Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-04-Nov-2025-Shift-2-Eng.pdf,150,50,33.3,46,4,4,150,0
+2025-11-07-S1,STET 2025 · 07 Nov 2025 · Shift 1,2025-11-07,1,Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-07-Nov-2025-Shift-1-Eng.pdf,150,50,33.3,44,8,5,150,1

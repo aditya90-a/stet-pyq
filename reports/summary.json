@@ -1,0 +1,28 @@
+{
+ "filesDiscovered": 11,
+ "pdfsDiscovered": 10,
+ "pdfsProcessed": 10,
+ "pdfsFailed": 0,
+ "duplicateFiles": 0,
+ "questions": 1500,
+ "uniqueQuestions": 1136,
+ "uniqueAfterExactOnly": 1167,
+ "papers": 10,
+ "years": 3,
+ "sessions": 3,
+ "examDays": 7,
+ "shifts": 10,
+ "repeatGroups": 300,
+ "exactGroups": 291,
+ "paraphraseGroups": 24,
+ "conceptGroups": 303,
+ "questionsInRepeatGroups": 663,
+ "crossSessionGroups": 290,
+ "keyConflicts": 232,
+ "reviewPairsPending": 0,
+ "issuesBySeverity": {
+  "info": 388,
+  "warning": 14
+ },
+ "pagesTotal": 549
+}

@@ -1,0 +1,5612 @@
+{
+ "issues": [
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-1-Eng.pdf page 2 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-1-Eng.pdf page 3 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-1-Eng.pdf page 54 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-1-Eng.pdf page 55 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-2-Eng.pdf page 2 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-2-Eng.pdf page 3 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-2-Eng.pdf page 54 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-03-Nov-2025-Shift-2-Eng.pdf page 55 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-04-Nov-2025-Shift-2-Eng.pdf page 2 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-04-Nov-2025-Shift-2-Eng.pdf page 3 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-04-Nov-2025-Shift-2-Eng.pdf page 54 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-04-Nov-2025-Shift-2-Eng.pdf page 55 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-07-Nov-2025-Shift-1-Eng.pdf page 2 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-07-Nov-2025-Shift-1-Eng.pdf page 3 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-07-Nov-2025-Shift-1-Eng.pdf page 54 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "info",
+   "code": "page-without-text",
+   "message": "Bihar-STET-Class-11-12-Computer-Science-Official-Paper-II-Held-On_-07-Nov-2025-Shift-1-Eng.pdf page 55 has no text layer (cover/advert or scanned)",
+   "questionId": null,
+   "paperId": null
+  },
+  {
+   "severity": "warning",
+   "code": "duplicate-options",
+   "message": "two options have identical text",
+   "questionId": "2025-11-03-S1-Q041",
+   "paperId": "2025-11-03-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "duplicate-options",
+   "message": "two options have identical text",
+   "questionId": "2025-11-04-S2-Q072",
+   "paperId": "2025-11-04-S2"
+  },
+  {
+   "severity": "warning",
+   "code": "blank-option",
+   "message": "option(s) A blank in source",
+   "questionId": "2025-11-07-S1-Q082",
+   "paperId": "2025-11-07-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "extraction-note",
+   "message": "option A is blank in the source PDF",
+   "questionId": "2025-11-07-S1-Q082",
+   "paperId": "2025-11-07-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "duplicate-options",
+   "message": "two options have identical text",
+   "questionId": "2023-09-12-S1-Q022",
+   "paperId": "2023-09-12-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "duplicate-options",
+   "message": "two options have identical text",
+   "questionId": "2023-09-12-S2-Q004",
+   "paperId": "2023-09-12-S2"
+  },
+  {
+   "severity": "warning",
+   "code": "duplicate-options",
+   "message": "two options have identical text",
+   "questionId": "2023-09-12-S2-Q070",
+   "paperId": "2023-09-12-S2"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2023-09-18-S3-Q005",
+   "paperId": "2023-09-18-S3"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2023-09-18-S3-Q015",
+   "paperId": "2023-09-18-S3"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2023-09-18-S3-Q069",
+   "paperId": "2023-09-18-S3"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2023-09-18-S3-Q070",
+   "paperId": "2023-09-18-S3"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2023-09-18-S3-Q072",
+   "paperId": "2023-09-18-S3"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q001",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q002",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q003",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q004",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q005",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q006",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q007",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q008",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q009",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q010",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q011",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q012",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q013",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q014",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q015",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q016",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q017",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q018",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q019",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q020",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q021",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q022",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q023",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q024",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q025",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q027",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q029",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q030",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q031",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q032",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q033",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q034",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q036",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q037",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q038",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q039",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q040",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q042",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q043",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q044",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q045",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q047",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q048",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q049",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q051",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q052",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q053",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q054",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q055",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q056",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q057",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q058",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q059",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q060",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q061",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q062",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q063",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q065",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q067",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q068",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q069",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q070",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q071",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q072",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q073",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q074",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q075",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q076",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q077",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q079",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q080",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q082",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q083",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q084",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q085",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q086",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q088",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q089",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q090",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q092",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q093",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q094",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q095",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q097",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q098",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q099",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q100",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q101",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q102",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q103",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q104",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q105",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q106",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q107",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q108",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q111",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q112",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q113",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q114",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q115",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q116",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q117",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q118",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q119",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q120",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q121",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q122",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q123",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q124",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q125",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q126",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q127",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q129",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q131",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q132",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q133",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q135",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q136",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q137",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q138",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q140",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q141",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q145",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q146",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S1-Q148",
+   "paperId": "2024-06-11-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q001",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q002",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q004",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q005",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q006",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q007",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q008",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q009",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q010",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q011",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q012",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q014",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q015",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q016",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q019",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q020",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q021",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q022",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q028",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q029",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q031",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q032",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q033",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q034",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q035",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q036",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q038",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q041",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q043",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q044",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q045",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q046",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q047",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q048",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q049",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q050",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q051",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q053",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q054",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q056",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q057",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q058",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q059",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q060",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q062",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q064",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "warning",
+   "code": "hindi-order",
+   "message": "Hindi text still shows visual-order artefacts after repair",
+   "questionId": "2024-06-11-S2-Q065",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q065",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q066",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q067",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q068",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q069",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q071",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "warning",
+   "code": "duplicate-options",
+   "message": "two options have identical text",
+   "questionId": "2024-06-11-S2-Q073",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q074",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q075",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q076",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q077",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q078",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q080",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q082",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q083",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q085",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q087",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q088",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q090",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q091",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q095",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q096",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q097",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q099",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q100",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q104",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q105",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q107",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q108",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q111",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q112",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q113",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q114",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q116",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q117",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q118",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q119",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q120",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q121",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q122",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q124",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q125",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q126",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q127",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q128",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q130",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q133",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q138",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q140",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q146",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: collapsed-duplicate-matra",
+   "questionId": "2024-06-11-S2-Q148",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2024-06-11-S2-Q149",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "warning",
+   "code": "extraction-note",
+   "message": "The options are drawings inside the figure; the source text only says 'Option (A) is Correct' etc. The descriptions here are transcriptions of the drawings.",
+   "questionId": "2024-06-11-S2-Q149",
+   "paperId": "2024-06-11-S2"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q001",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q002",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q003",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q004",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q005",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q006",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q007",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q008",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q009",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q010",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q011",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q012",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q014",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q015",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q016",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q017",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q018",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q019",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q020",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q021",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q022",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q023",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q024",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q025",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q026",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q027",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q028",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q029",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q030",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q031",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q032",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q033",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q034",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q035",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q036",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q037",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q038",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q039",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q040",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q041",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q042",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q043",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q044",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q045",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q046",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q047",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q048",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q049",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q050",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q051",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q052",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q053",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q054",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q055",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q056",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q057",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q058",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q059",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q060",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q061",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q062",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q063",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q064",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q065",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q066",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q067",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q068",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q069",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q070",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q071",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q072",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q073",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q074",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q075",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q076",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q078",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q079",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q080",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q081",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q082",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q083",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q084",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q085",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q086",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q087",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q088",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q089",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q090",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q091",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q092",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q093",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q094",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q095",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q096",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q097",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q098",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q099",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q100",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q101",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q102",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q103",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q104",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q105",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q106",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q107",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q108",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q109",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q110",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q111",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q112",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q113",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q114",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q115",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q116",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q117",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q118",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q119",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q120",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q121",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q122",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q123",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q124",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q125",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q126",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q127",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q128",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q129",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q130",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q131",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q132",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q133",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q134",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q135",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q136",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q137",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q138",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q139",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q140",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q142",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q145",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q146",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q147",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q148",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "text-transcribed",
+   "message": "question text not from the PDF text layer (transcribed-from-image)",
+   "questionId": "2024-06-12-S1-Q149",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "info",
+   "code": "hindi-repaired",
+   "message": "Hindi text auto-repaired: visual-order-reordered",
+   "questionId": "2024-06-12-S1-Q149",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "extraction-note",
+   "message": "The source lists options as 'Option (A) is Correct' etc.; the values A) 7 B) 6 C) 4 D) 2 are printed inside the figure.",
+   "questionId": "2024-06-12-S1-Q149",
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "metadata-conflict",
+   "message": "header prints shift '31' (apparent typo); shift 3 taken from filename",
+   "questionId": null,
+   "paperId": "2023-09-18-S3"
+  },
+  {
+   "severity": "warning",
+   "code": "metadata-conflict",
+   "message": "filename says shift-3 but the document says shift 1 on 2024-06-12; the document value is used",
+   "questionId": null,
+   "paperId": "2024-06-12-S1"
+  },
+  {
+   "severity": "warning",
+   "code": "within-paper-duplicate",
+   "message": "group EX0041 has two copies inside paper(s) ['2025-11-04-S2']",
+   "questionId": null,
+   "paperId": null
+  }
+ ],
+ "keyConflicts": [
+  {
+   "id": "2025-11-03-S1-Q005",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Showing only the essential features to the outside world is usually the textbook definition of abstraction (option D), while the source key marks information hiding (B). Encapsulation and information hiding are closely related, so more than one option is defensible."
+  },
+  {
+   "id": "2025-11-03-S1-Q011",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2025-11-03-S1-Q026",
+   "status": "disputed",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2025-11-03-S1-Q031",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2025-11-03-S1-Q034",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The key's wording is loose: memory-mapped I/O lets the processor access I/O devices using ordinary memory addresses, rather than letting external devices access the microcontroller's memory. Option C is the nearest choice but is imprecisely worded."
+  },
+  {
+   "id": "2025-11-03-S1-Q036",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Standard TTL runs from a nominal 5 V supply (4.75-5.25 V), so neither '3.3-5.0 V' nor '5-12 V' is exact. The key gives C, but B is arguably closer."
+  },
+  {
+   "id": "2025-11-03-S1-Q041",
+   "status": "disputed",
+   "key": "D",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option C, source key gives D"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2025-11-03-S1-Q049",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The tag name is missing. For the likely tag <font>, 'type' is not valid, but 'colour' (British spelling) is also not valid; the correct attribute is 'color'. So both B and D are invalid."
+  },
+  {
+   "id": "2025-11-03-S1-Q055",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "In n-bit 1's complement the range is −(2^(n−1) − 1) to +(2^(n−1) − 1). None of the options gives this: A is the 2's complement range and the keyed option C is incorrect (its upper limit 2^(n−1) cannot be represented)."
+  },
+  {
+   "id": "2025-11-03-S1-Q072",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "F = Π(1,2,4,6) has four maxterms: (A+B+C')(A+B'+C)(A'+B+C)(A'+B'+C). The keyed option A contains only the first three and omits (A'+B'+C), so no option is fully correct."
+  },
+  {
+   "id": "2025-11-03-S1-Q075",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "The papers did not agree on the key: another copy marked 'To identify potential risks in the project'. Staffing level estimation is about the number of people (resources) needed, which supports option C."
+  },
+  {
+   "id": "2025-11-03-S1-Q079",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The standard protocol for secure remote login is SSH, which is not listed. Telnet (keyed) provides remote login but sends everything, including passwords, in plain text, so it is not secure; HTTPS is secure but not for remote login."
+  },
+  {
+   "id": "2025-11-03-S1-Q081",
+   "status": "disputed",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2025-11-03-S1-Q084",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "I could not verify a default value for the Modbus TCP transaction identifier: it is a 2-byte field chosen by the client and copied by the server in its reply. The keyed value 1 cannot be confirmed from the protocol specification."
+  },
+  {
+   "id": "2025-11-03-S1-Q086",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "The source key marks D (repeated concatenation), but context-free languages ARE closed under concatenation and its repetition (Kleene star). The property they lack is closure under intersection (B)."
+  },
+  {
+   "id": "2025-11-03-S1-Q088",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both 'Array implementation' (keyed) and 'Static implementation' describe a fixed-size stack, so two options are defensible."
+  },
+  {
+   "id": "2025-11-03-S1-Q098",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both n == 0 and n == 1 are valid base cases: since 0! = 1, n == 0 is the mathematically complete base case, while n == 1 works when n starts from 1. The source key marks n == 1."
+  },
+  {
+   "id": "2025-11-03-S1-Q103",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "The source key marks C, but the usual textbook comparison is that the curriculum is to the education system what the constitution is to a country (option B)."
+  },
+  {
+   "id": "2025-11-03-S1-Q104",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "In the 5E model, project work is most often placed in the Elaborate stage (applying learning), though some sources place hands-on activities under Explore. The source key marks Explore (A)."
+  },
+  {
+   "id": "2025-11-03-S1-Q109",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Role play and drama suit history strongly (re-enacting events) but are also widely used in language teaching (option D), so the choice is not clear-cut."
+  },
+  {
+   "id": "2025-11-03-S1-Q117",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "The source key marks C (egocentrism), but egocentrism is a recognised limitation of the preoperational stage. The development of symbolic thought (B) is an achievement of that stage, not a limitation."
+  },
+  {
+   "id": "2025-11-03-S1-Q126",
+   "status": "disputed",
+   "key": "B",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option C, source key gives B"
+   ],
+   "aiNote": "The source key marks B (sharing a bench), but setting tasks that must be done together (C) is the pedagogically stronger way to build cooperation."
+  },
+  {
+   "id": "2025-11-03-S2-Q004",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "NP-completeness was introduced by Stephen Cook (1971, Cook-Levin theorem). Karp (1972) then showed 21 problems NP-complete via reductions. The source key marks B (Karp)."
+  },
+  {
+   "id": "2025-11-03-S2-Q013",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "L = {a^p | p prime} is not regular and not context-free (pumping lemmas) but is decidable, so a Turing machine accepts it. The source key marks C ('not accepted by a Turing machine'), which is incorrect."
+  },
+  {
+   "id": "2025-11-03-S2-Q026",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Statements (a) and (b) are both false: regular languages are a proper subset of CFLs, which are a proper subset of recursive languages. Because two options are individually false, only D ('both') is fully right; the source key marks B alone."
+  },
+  {
+   "id": "2025-11-03-S2-Q044",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Option B states the standard form of the Church-Turing thesis, and option A bundles it with 'a TM as a general-purpose computer' as some textbooks do. The options overlap; the key A is defensible but not unambiguous."
+  },
+  {
+   "id": "2025-11-03-S2-Q047",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The wording is incomplete ('open system ___'). The intended source likely refers to open-source software evolving faster, giving B, but the source key marks C (hardware and software), so the key is not clearly supported."
+  },
+  {
+   "id": "2025-11-03-S2-Q057",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both SFTP and SCP provide encrypted file transfer over SSH, so options A and C are both defensible; the key A (SFTP) is the more usual answer for 'a network protocol'."
+  },
+  {
+   "id": "2025-11-03-S2-Q058",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The source key (C, replace with its parent) is incorrect. The node is replaced by its single child, which is the left child if only a left child exists and the right child otherwise; options A and B are each true only in one case."
+  },
+  {
+   "id": "2025-11-03-S2-Q062",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question is poorly defined: in Hamming codes the parity bits sit at power-of-2 positions and each covers a specific set of bits, so 'distance between parity bits' is not a standard notion. No option is clearly correct."
+  },
+  {
+   "id": "2025-11-03-S2-Q069",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The code as printed has errors: `S` is assigned but `s` (different case) is used, giving a NameError, and 'a ' with a space returns 10 which is not an option. The key C (3) matches `find('a', 2)` without the space."
+  },
+  {
+   "id": "2025-11-03-S2-Q074",
+   "status": "disputed",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "Papers use different wording for the options (All of the above / All of these), but the key is the same in both."
+  },
+  {
+   "id": "2025-11-03-S2-Q084",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "F = Σ(0,1,2,4,5,6,8,9,10,12,13,14) has 3, 7, 11, 15 missing, so F = C′ + D′. None of the options equals this; the key A is a sum of minterms that includes 15, which is not in F."
+  },
+  {
+   "id": "2025-11-03-S2-Q088",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question is vaguely worded: borrowing from a digit that is 1 turns it into 0, which is a decrement by 1 (option C) and also 'becomes 0' (option D). The key C is acceptable but D is equally defensible."
+  },
+  {
+   "id": "2025-11-03-S2-Q092",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "F = Σ(0,1,2,3,5) simplifies to A′ + B′C. None of the options equals this function (e.g. option A reduces to A + B′), so the key A is not correct."
+  },
+  {
+   "id": "2025-11-03-S2-Q093",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "In OS memory management, load control sets the number of resident processes (degree of multiprogramming) to avoid thrashing; none of the options states this and the key C (even CPU distribution) does not match."
+  },
+  {
+   "id": "2025-11-03-S2-Q094",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "In 2's complement addition the carry out of the MSB is discarded (ignored). Adding the carry to the LSB (end-around carry) is the rule for 1's complement. The source key marks B."
+  },
+  {
+   "id": "2025-11-03-S2-Q101",
+   "status": "disputed",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "Different papers keyed different options ('during the preparation for teaching-practice' and 'during the teaching-practice'); the question is a matter of opinion."
+  },
+  {
+   "id": "2025-11-03-S2-Q118",
+   "status": "disputed",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives D"
+   ],
+   "aiNote": "Educational psychology treats reward (positive reinforcement) as the means of making learning attractive; punishment tends to produce fear and dislike of learning. The source key D (both) is not supported."
+  },
+  {
+   "id": "2025-11-03-S2-Q122",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The item is incomplete and the options are near-synonyms (guide, helper, teacher, director). The key C cannot be verified from the wording."
+  },
+  {
+   "id": "2025-11-03-S2-Q127",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "All four options are plausible uses of combined assessment for learning and assessment of learning. The key D cannot be uniquely defended."
+  },
+  {
+   "id": "2025-11-03-S2-Q131",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Two statements are incorrect: Tetris is played on a 10-wide by 20-tall playfield (not 10x10), and lines are cleared by filling a horizontal row with blocks of any colour, not same-colour alignment. The key D is only one of two incorrect options."
+  },
+  {
+   "id": "2025-11-03-S2-Q138",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question is unclear: vitamins A and K are found in green vegetables, liver, egg and dairy foods, none of which appear. The listed options (rice crop, poultry feed, parasites, manure) cannot be verified, so the key B is unsupported."
+  },
+  {
+   "id": "2025-11-03-S2-Q149",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Key is A (statement 2 treated as false because the IPC still applies to past offences and pending cases). Most references say BNS repealed and replaced the IPC, which would make C correct; the word 'completely' makes the item debatable."
+  },
+  {
+   "id": "2025-11-04-S2-Q005",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Textbook wordings differ between 'variables' and 'terms'; the keyed answer C (Terms) cannot be verified with certainty."
+  },
+  {
+   "id": "2025-11-04-S2-Q014",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "Copies in other papers were keyed 'File Level'; that is not a standard level, and Physical Level is correct."
+  },
+  {
+   "id": "2025-11-04-S2-Q039",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Depends on whether one or all solutions are wanted: A (stop) fits a single-solution search, B (continue) fits the classic all-solutions version, which the key follows."
+  },
+  {
+   "id": "2025-11-04-S2-Q040",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options B and D both describe the same receiver check in different words; the key is B."
+  },
+  {
+   "id": "2025-11-04-S2-Q041",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Key marks Data Rate, but 'maximum amount of data over a channel per unit time' is the usual definition of bandwidth (channel capacity)."
+  },
+  {
+   "id": "2025-11-04-S2-Q045",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "'sealed' is C#, 'final' is Java/C++; the question names no language, so both A and B are defensible. Key is A."
+  },
+  {
+   "id": "2025-11-04-S2-Q049",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Basic Quick Sort also has O(n²) worst case, so A and C are both correct; key is C."
+  },
+  {
+   "id": "2025-11-04-S2-Q050",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "C ('closest to the goal') and D ('minimum heuristic cost') describe the same selection rule; key is C."
+  },
+  {
+   "id": "2025-11-04-S2-Q052",
+   "status": "disputed",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "Copies in other papers were keyed 'File Level'; that is not a standard level, and Physical Level is correct."
+  },
+  {
+   "id": "2025-11-04-S2-Q055",
+   "status": "disputed",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "Another paper's copy is keyed 'All of these', which is the same option wording."
+  },
+  {
+   "id": "2025-11-04-S2-Q056",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Standard text: the old primary receives redo logs from the old backup site to catch up. 'Primary Logs' (key B) is not a recognised term."
+  },
+  {
+   "id": "2025-11-04-S2-Q058",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The true expansion is Wireless Sensor Network; every option ends with 'Protocol'. B is the nearest, matching the key."
+  },
+  {
+   "id": "2025-11-04-S2-Q063",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both Prototype and Spiral models use iterative prototyping; key is B (Spiral)."
+  },
+  {
+   "id": "2025-11-04-S2-Q067",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Textbooks usually say cookies are stored as plain-text files; key D (browser's cache) is a looser statement. Both can be argued."
+  },
+  {
+   "id": "2025-11-04-S2-Q070",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Traditional answer is hierarchical, network, relational (A); key B reflects a modern classification."
+  },
+  {
+   "id": "2025-11-04-S2-Q072",
+   "status": "disputed",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives D"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2025-11-04-S2-Q082",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both statements are true; whether R explains A is debatable (B or A). Key is A."
+  },
+  {
+   "id": "2025-11-04-S2-Q085",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "9 states if the trap state is omitted (the key), 10 if the DFA is complete with a dead state."
+  },
+  {
+   "id": "2025-11-04-S2-Q088",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Many sources describe 4 layers (PHY, MAC, NWK, APL); others count 5 by splitting the application layer. Key is B (5)."
+  },
+  {
+   "id": "2025-11-04-S2-Q091",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Correct minimal SOP is A′B′ + A′C + B′C, which is not among the options. Key B (A′B + AC) covers m2, m3, m5, m7 and misses m0 and m1."
+  },
+  {
+   "id": "2025-11-04-S2-Q099",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The 8086 was released in 1978; none of the options is correct. The key B (1981) is the IBM PC date, not the 8086's."
+  },
+  {
+   "id": "2025-11-04-S2-Q106",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "IEP is a special education tool (A); key B (child-centred) is a broader description that can also be argued."
+  },
+  {
+   "id": "2025-11-04-S2-Q108",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Wording is not clearly tied to one thinker; Montessori is the most likely, but the key is A (Frobel). Cannot be verified."
+  },
+  {
+   "id": "2025-11-04-S2-Q109",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Standard drawback: skills may not transfer to real classes (A). Key D (longer duration) is questionable since micro-teaching reduces duration."
+  },
+  {
+   "id": "2025-11-04-S2-Q111",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Pedagogic advice differs: video as an introduction (C) versus as reinforcement (B, the key)."
+  },
+  {
+   "id": "2025-11-04-S2-Q117",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Assessment of students' learning is a core classroom-process component, so B cannot be the exception; evaluating teacher performance (A) is the odd one out."
+  },
+  {
+   "id": "2025-11-04-S2-Q145",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The expression looks garbled; it was probably meant to be 27^65 (remainder 3, option D) but as printed the plain number 2765 gives remainder 5, which matches the key."
+  },
+  {
+   "id": "2025-11-04-S2-Q148",
+   "status": "disputed",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives D"
+   ],
+   "aiNote": "The Vernacular Press Act was passed in 1878 (Lord Lytton), which is option A. The source key marks D (1778), which is impossible because the British Raj and the Irish Press Act of the 1870s came much later."
+  },
+  {
+   "id": "2025-11-07-S1-Q002",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "None of the options equals Π(0,2,4,5,7). The correct simplified POS is (A+C)(A′+C′)(A′+B) or equivalently (A+C)(A′+C′)(B+C). Option D, (A+B)(A+C′)(B+C), is zero at minterms 0,1,3,4 and so is a different function."
+  },
+  {
+   "id": "2025-11-07-S1-Q008",
+   "status": "disputed",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives A"
+   ],
+   "aiNote": "DBA stands for Database Administrator (option B). The source key marks A (Data Bank Administrator), which is not the standard expansion."
+  },
+  {
+   "id": "2025-11-07-S1-Q017",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Option A states the basic difference, but option B (HDD is slower than SSD) is also generally true, so more than one option is defensible. The source key marks A."
+  },
+  {
+   "id": "2025-11-07-S1-Q025",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "A gateway is the node that serves as the entry and exit point of a network. The source key marks D (Repeater), which only regenerates signals and cannot be the entry point."
+  },
+  {
+   "id": "2025-11-07-S1-Q032",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The wording is unclear. Frames consist of slots with facets such as values, default values and procedures, so option B could also be defended. The source key marks A."
+  },
+  {
+   "id": "2025-11-07-S1-Q035",
+   "status": "disputed",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option C, source key gives A"
+   ],
+   "aiNote": "Both DFS and BFS can be used to find connected components (start a traversal from every unvisited vertex), so the correct option is C. The source key marks A (DFS only)."
+  },
+  {
+   "id": "2025-11-07-S1-Q036",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The number of SCADA levels depends on the reference. The commonly cited functional hierarchy (levels 0 to 4) has five levels, while the source key gives four. The question cannot be settled from the text alone."
+  },
+  {
+   "id": "2025-11-07-S1-Q039",
+   "status": "disputed",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option C, source key gives A"
+   ],
+   "aiNote": "The SQL clause/statement that retrieves rows is SELECT (option C). The source key marks A (SEARCH), which is not an SQL keyword for this."
+  },
+  {
+   "id": "2025-11-07-S1-Q040",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The wording is unclear and the notation is non-standard. Conditional asymptotic notation Θ(f(n)) | g(n) means the bound holds when the condition g(n) is true, so C is plausible; the source key also marks C."
+  },
+  {
+   "id": "2025-11-07-S1-Q056",
+   "status": "disputed",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives D"
+   ],
+   "aiNote": "The recurrence splits a problem of size n into subproblems of sizes n/2 and n/3 and combines them in O(n) time, which is the divide-and-conquer form. The source key marks D (Backtracking), which does not produce a recurrence of this type."
+  },
+  {
+   "id": "2025-11-07-S1-Q063",
+   "status": "disputed",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives A"
+   ],
+   "aiNote": "Don't-care cells have an unspecified (undefined) output and may be treated as 0 or 1 to make larger groups. They are not cells to be excluded from simplification, so option B fits better than the source key A."
+  },
+  {
+   "id": "2025-11-07-S1-Q066",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Threads are stored in the otherwise NULL pointer fields, so they take the same space as ordinary pointers (plus possibly a tag bit). The source key says less; the question is loosely worded and the key is not clearly supported."
+  },
+  {
+   "id": "2025-11-07-S1-Q067",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The function Σ(0,1,2,3,8,9,10,11) simplifies to B′, which is not among the options. A+B+C+D equals 1 for all minterms except 0, so it does not match. The question has no correct option."
+  },
+  {
+   "id": "2025-11-07-S1-Q090",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The read range depends on the RFID module and frequency (for example, a common 13.56 MHz RC522 module reads at a few centimetres, other modules read at about 10 cm or more). No single maximum applies without the specific module. The source key marks B."
+  },
+  {
+   "id": "2025-11-07-S1-Q094",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both D1.del(1) (SyntaxError, as `del` is a keyword and not a method) and D1.clear(1) (TypeError, as clear() takes no arguments) produce errors, so options C and D are both incorrect. The source key marks only C."
+  },
+  {
+   "id": "2025-11-07-S1-Q098",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question is poorly worded: K-map groups must be of adjacent cells (including wrap-around), and pair, quad and octet only name group sizes. No option clearly matches the description. The source key marks A."
+  },
+  {
+   "id": "2025-11-07-S1-Q103",
+   "status": "disputed",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option D, source key gives B"
+   ],
+   "aiNote": "The 'Guidelines on Information Literacy for Lifelong Learning' were prepared for IFLA (Lau, 2006). ACRL is known for the Information Literacy Competency Standards for Higher Education. The source key marks B (ACRL)."
+  },
+  {
+   "id": "2025-11-07-S1-Q115",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "CCE is usually credited to CBSE, which introduced it in 2009 after the RTE Act, although NCERT had earlier proposed the idea. Sources differ, and the source key marks C (NCERT)."
+  },
+  {
+   "id": "2025-11-07-S1-Q122",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The sentence appears to come from a specific text on instructional objectives and the correct term cannot be verified. The word 'general' (key D) does not clearly fit the idea of demonstrating success through desired outcomes, but I cannot say that another option is certainly right."
+  },
+  {
+   "id": "2025-11-07-S1-Q124",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options B and C are also ordinary duties of a class teacher (health advice, class cleanliness), so 'All of these' (D) is defensible. The source key marks A only."
+  },
+  {
+   "id": "2025-11-07-S1-Q149",
+   "status": "disputed",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option C, source key gives A"
+   ],
+   "aiNote": "Working gives 2∠BAD − ∠ABC = 2(130°) − 50° = 210°, option C. The source key A (230°) does not match the rhombus properties."
+  },
+  {
+   "id": "2023-09-12-S1-Q001",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "F = Σ(0,1,2,4,5,6,8,9,10,12,13,14) has 3, 7, 11, 15 missing, so F = C′ + D′. None of the options equals this; the key A is a sum of minterms that includes 15, which is not in F."
+  },
+  {
+   "id": "2023-09-12-S1-Q004",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Strictly, CMOS uses complementary enhancement-mode n- and p-MOSFETs; depletion-mode loads belong to NMOS logic. The wording is imprecise, but D is the intended answer among the options."
+  },
+  {
+   "id": "2023-09-12-S1-Q006",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "F = Σ(0,1,2,3,5) simplifies to A′ + B′C. None of the options equals this function (e.g. option A reduces to A + B′), so the key A is not correct."
+  },
+  {
+   "id": "2023-09-12-S1-Q007",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "For plain unsigned binary addition a carry-out is simply kept as an extra bit or signals overflow; adding it back to the LSB (end-around carry) applies to 1's complement arithmetic, which the question never states. B is the intended answer."
+  },
+  {
+   "id": "2023-09-12-S1-Q008",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both A and C are badly worded. In the standard method the LSB of the multiplier is multiplied by the multiplicand first, which fits C, but the source key marks A."
+  },
+  {
+   "id": "2023-09-12-S1-Q009",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question is poorly defined: in Hamming codes the parity bits sit at power-of-2 positions and each covers a specific set of bits, so 'distance between parity bits' is not a standard notion. No option is clearly correct."
+  },
+  {
+   "id": "2023-09-12-S1-Q022",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Notation varies: many textbooks (e.g. Horowitz) write a directed edge as <A, B> and an undirected one as (A, B), but CLRS and many courses write (A, B) for directed edges too. The source key A follows the latter convention."
+  },
+  {
+   "id": "2023-09-12-S1-Q031",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "In OS memory management, load control sets the number of resident processes (degree of multiprogramming) to avoid thrashing; none of the options states this and the key C (even CPU distribution) does not match."
+  },
+  {
+   "id": "2023-09-12-S1-Q040",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2023-09-12-S1-Q054",
+   "status": "disputed",
+   "key": "B",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "independent AI check gives option C, source key gives B"
+   ],
+   "aiNote": "The papers did not agree on the key: another copy marked 'To identify potential risks in the project'. Staffing level estimation is about the number of people (resources) needed, which supports option C."
+  },
+  {
+   "id": "2023-09-12-S1-Q059",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Showing only the essential features to the outside world is usually the textbook definition of abstraction (option D), while the source key marks information hiding (B). Encapsulation and information hiding are closely related, so more than one option is defensible."
+  },
+  {
+   "id": "2023-09-12-S1-Q072",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "No option is correct: the minimal DFA for strings ending in 101 needs 4 states (q0, 1, 10, 101), and an NFA also needs 4 states. The source key B (2) is not possible."
+  },
+  {
+   "id": "2023-09-12-S1-Q074",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "The source key marks D (repeated concatenation), but context-free languages ARE closed under concatenation and its repetition (Kleene star). The property they lack is closure under intersection (B)."
+  },
+  {
+   "id": "2023-09-12-S1-Q078",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The true expansion is Wireless Sensor Network; every option ends with 'Protocol'. B is the nearest, matching the key."
+  },
+  {
+   "id": "2023-09-12-S1-Q079",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The number of SCADA levels depends on the reference. The commonly cited functional hierarchy (levels 0 to 4) has five levels, while the source key gives four. The question cannot be settled from the text alone."
+  },
+  {
+   "id": "2023-09-12-S1-Q082",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Perl is not a language commonly associated with AI. The classic AI languages are Lisp (A) and Prolog (C), and C++ is also widely used; the key B (Perl) looks wrong. Options A and C are both defensible."
+  },
+  {
+   "id": "2023-09-12-S1-Q114",
+   "status": "disputed",
+   "key": "C",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "independent AI check gives option D, source key gives C"
+   ],
+   "aiNote": "Different papers keyed different options ('during the preparation for teaching-practice' and 'during the teaching-practice'); the question is a matter of opinion."
+  },
+  {
+   "id": "2023-09-12-S1-Q125",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Textbooks usually describe curriculum as dynamic, flexible, creative, critical, and both conservative (transmitting culture) and progressive; 'active' is not a standard term, but the question has no clear reference list. The key D is plausible but uncertain."
+  },
+  {
+   "id": "2023-09-12-S1-Q126",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Opinion-based question: fundamentalism, casteism and regionalism are all commonly named challenges to Indian democracy, so 'All the above' (D) is at least as defensible as the key A."
+  },
+  {
+   "id": "2023-09-12-S1-Q127",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Opinion-based: 'equally' (C) is the principled answer (impartiality), while the key A (as a friend) is also a commonly stated ideal. Treat as ambiguous."
+  },
+  {
+   "id": "2023-09-12-S1-Q147",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Two defensible readings: Ear is the only sense organ (not an internal organ) giving D, while Heart is the only unpaired organ giving the key B. The question has no unique answer."
+  },
+  {
+   "id": "2023-09-12-S2-Q001",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The expression evaluates to 000010, which is not among the options; the source key (000000) is not the result of the stated expression."
+  },
+  {
+   "id": "2023-09-12-S2-Q002",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Gray code is the unit-distance code, but it is not strictly self-complementing (that describes Excess-3, 2421 etc.); the question mixes two properties. C is the only option fitting the single-bit-change property."
+  },
+  {
+   "id": "2023-09-12-S2-Q004",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "None of the options is a minimised expression: each is just a list of unrelated minterm products with repeats. The minimal SOP is A'C' + A'D' + BC' + B'CD'."
+  },
+  {
+   "id": "2023-09-12-S2-Q005",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "A binary-to-Gray converter is a code converter (built from XOR gates), which is none of the listed circuits exactly; the key (Encoder) is only loosely right."
+  },
+  {
+   "id": "2023-09-12-S2-Q009",
+   "status": "disputed",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives A"
+   ],
+   "aiNote": "Don't-care cells have an unspecified (undefined) output and may be treated as 0 or 1 to make larger groups. They are not cells to be excluded from simplification, so option B fits better than the source key A."
+  },
+  {
+   "id": "2023-09-12-S2-Q012",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The XOR of the MSB with the next bit gives the second bit of the Gray code, not its LSB in general; it equals the LSB only for a 2-bit number. The question is poorly worded and B is the only plausible choice."
+  },
+  {
+   "id": "2023-09-12-S2-Q023",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question gives no basis for choosing CSC over CSR: both suit matrices with few non-zeros per row and column, and the next question (2023-09-12-S2-Q024) is keyed CSR. The key C is not distinguishable from B."
+  },
+  {
+   "id": "2023-09-12-S2-Q029",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options A and D are duplicates (FCFS) and are not related to priority; B (SJN) is a priority scheduler where the priority is the burst time, and C (multilevel queue) assigns priorities to queues. Both B and C are defensible."
+  },
+  {
+   "id": "2023-09-12-S2-Q032",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Poorly framed: the command interpreter (shell) exists to give users an interface to OS services, and A is a loose statement. D is also not clearly wrong, so the item has no clean answer."
+  },
+  {
+   "id": "2023-09-12-S2-Q038",
+   "status": "disputed",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives A"
+   ],
+   "aiNote": "The degree of a relation is its number of attributes (columns); 'Row' (A) refers to the cardinality/number of tuples. B (Degree) is correct, though 'Column' (C) is also a loose synonym. The source key A is wrong."
+  },
+  {
+   "id": "2023-09-12-S2-Q046",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2023-09-12-S2-Q048",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both Prototype and Spiral models use iterative prototyping; key is B (Spiral)."
+  },
+  {
+   "id": "2023-09-12-S2-Q070",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2023-09-12-S2-Q075",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The read range depends on the RFID module and frequency (for example, a common 13.56 MHz RC522 module reads at a few centimetres, other modules read at about 10 cm or more). No single maximum applies without the specific module. The source key marks B."
+  },
+  {
+   "id": "2023-09-12-S2-Q093",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "\"Unclassified\" is probably a slip for \"unsolicited\". Unsolicited bulk email is usually called spam, and \"junk mail\" is a synonym, so both B and C are defensible. The key gives C."
+  },
+  {
+   "id": "2023-09-12-S2-Q095",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question is poorly framed. \"Pixels\" are image elements, not an example of image processing, and computer graphics is usually treated as a separate field. D is the answer intended by the common MCQ source the item follows."
+  },
+  {
+   "id": "2023-09-12-S2-Q103",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Demonstration (C) and drill (A) are also commonly called teaching methods, so more than one option is defensible. The key's D (lecture and demonstration) is the most complete named method."
+  },
+  {
+   "id": "2023-09-12-S2-Q137",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question depends on a specific textbook classification that is not standard; I could not independently verify that the number of main components is two. Key A (Two) is not confirmed."
+  },
+  {
+   "id": "2023-09-12-S2-Q138",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Key marks subsistence farming (A), but commercial farming (plantations, ranching) is the usual textbook answer; shifting cultivation is also blamed in India. Both defensible."
+  },
+  {
+   "id": "2023-09-12-S2-Q140",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Source key marks Vulnerable (B). The IUCN Red List currently lists the Ganges river dolphin as Endangered (it was Vulnerable in older assessments)."
+  },
+  {
+   "id": "2023-09-12-S2-Q142",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Correct compound interest is Rs. 1760 (amount 5760), which is not among the options; the key A (1856.4) is incorrect for the stated data."
+  },
+  {
+   "id": "2023-09-18-S3-Q004",
+   "status": "disputed",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2023-09-18-S3-Q005",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Correct minimal SOP is A′B′ + A′C + B′C, which is not among the options. Key B (A′B + AC) covers m2, m3, m5, m7 and misses m0 and m1."
+  },
+  {
+   "id": "2023-09-18-S3-Q007",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "In 2's complement addition the carry out of the MSB is discarded (ignored). Adding the carry to the LSB (end-around carry) is the rule for 1's complement. The source key marks B."
+  },
+  {
+   "id": "2023-09-18-S3-Q010",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The 8086 was released in 1978; none of the options is correct. The key B (1981) is the IBM PC date, not the 8086's."
+  },
+  {
+   "id": "2023-09-18-S3-Q012",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question is poorly worded: K-map groups must be of adjacent cells (including wrap-around), and pair, quad and octet only name group sizes. No option clearly matches the description. The source key marks A."
+  },
+  {
+   "id": "2023-09-18-S3-Q013",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options B and D both describe the same receiver check in different words; the key is B."
+  },
+  {
+   "id": "2023-09-18-S3-Q015",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The wording is unclear and the notation is non-standard. Conditional asymptotic notation Θ(f(n)) | g(n) means the bound holds when the condition g(n) is true, so C is plausible; the source key also marks C."
+  },
+  {
+   "id": "2023-09-18-S3-Q020",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The source key (C, replace with its parent) is incorrect. The node is replaced by its single child, which is the left child if only a left child exists and the right child otherwise; options A and B are each true only in one case."
+  },
+  {
+   "id": "2023-09-18-S3-Q022",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Key marks Linked lists (A). Index sequential search uses an index table, normally an array of key-pointer entries searched by binary or linear search; the options are poorly framed. Arrays (B) seems more defensible than linked lists."
+  },
+  {
+   "id": "2023-09-18-S3-Q023",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both 'Array implementation' (keyed) and 'Static implementation' describe a fixed-size stack, so two options are defensible."
+  },
+  {
+   "id": "2023-09-18-S3-Q051",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "The papers did not agree on the key: another copy marked 'To identify potential risks in the project'. Staffing level estimation is about the number of people (resources) needed, which supports option C."
+  },
+  {
+   "id": "2023-09-18-S3-Q054",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Key marks Putnam's model, which is a development effort/schedule model (SLIM). Maintenance cost is usually linked to Boehm's maintenance effort model (ACT-based) or COCOMO II; options A and D are both Boehm's work, so the question is flawed."
+  },
+  {
+   "id": "2023-09-18-S3-Q060",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "'sealed' is C#, 'final' is Java/C++; the question names no language, so both A and B are defensible. Key is A."
+  },
+  {
+   "id": "2023-09-18-S3-Q074",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "L = {a^p | p prime} is not regular and not context-free (pumping lemmas) but is decidable, so a Turing machine accepts it. The source key marks C ('not accepted by a Turing machine'), which is incorrect."
+  },
+  {
+   "id": "2023-09-18-S3-Q076",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both CoAP (B) and MQTT (D) are well known lightweight IoT protocols; the key marks only MQTT."
+  },
+  {
+   "id": "2023-09-18-S3-Q077",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "Source key marks Process (C). SCADA (Supervisory Control and Data Acquisition) is a system/architecture, not a process; of the options, System (B) is correct."
+  },
+  {
+   "id": "2023-09-18-S3-Q079",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Many sources describe 4 layers (PHY, MAC, NWK, APL); others count 5 by splitting the application layer. Key is B (5)."
+  },
+  {
+   "id": "2023-09-18-S3-Q080",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question is incomplete and the options are not parallel; the key B (IoT cloud) cannot be verified."
+  },
+  {
+   "id": "2023-09-18-S3-Q082",
+   "status": "disputed",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": "Papers use different wording for the options (All of the above / All of these), but the key is the same in both."
+  },
+  {
+   "id": "2023-09-18-S3-Q085",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The wording is unclear. Frames consist of slots with facets such as values, default values and procedures, so option B could also be defended. The source key marks A."
+  },
+  {
+   "id": "2023-09-18-S3-Q096",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "MP3 supports many bitrates (32-320 kbps); the claim of three rates is textbook-specific and 164 kbps is not a standard rate (160 kbps probably intended). Key A is the only plausible option but cannot be verified."
+  },
+  {
+   "id": "2023-09-18-S3-Q127",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "Source key marks None of the above (D). The standard formulation is: test = how well; measurement = how much; evaluation = how good/worthwhile."
+  },
+  {
+   "id": "2023-09-18-S3-Q130",
+   "status": "disputed",
+   "key": "B",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option C, source key gives B"
+   ],
+   "aiNote": "Source key marks Attained ability (B), but an aptitude test measures potential ability or capacity to learn; attained ability is measured by achievement tests."
+  },
+  {
+   "id": "2023-09-18-S3-Q136",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "All four options (grass for grazing, gums and resins, medicine, bamboo for baskets) are direct forest products or uses, so the question has no clearly correct option; the source key B (gums and resins) is not defensible without the original textbook context."
+  },
+  {
+   "id": "2023-09-18-S3-Q142",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Compound interest on Rs. 1000 for 2 years at 2% is 1000×(1.02² − 1) = Rs. 40.40, which is not among the options (20 to 20.6). The key C (20.4) looks like a lost digit; none of the options is actually correct."
+  },
+  {
+   "id": "2024-06-11-S1-Q003",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question is poorly framed: any counter (ripple, synchronous, decade, Gray) can be a modulo-N counter. The key A (ripple counter) has no clear justification."
+  },
+  {
+   "id": "2024-06-11-S1-Q004",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "CMOS (B) is the usual answer for high fan-out and TTL compatibility (via HCT variants), while BiCMOS (the source key C) is also a defensible choice; the options are not mutually exclusive."
+  },
+  {
+   "id": "2024-06-11-S1-Q005",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The expression evaluates to 000010, which is not among the options; the source key (000000) is not the result of the stated expression."
+  },
+  {
+   "id": "2024-06-11-S1-Q006",
+   "status": "disputed",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives D"
+   ],
+   "aiNote": "The source key D (both +0 and -0) is the opposite of the question: sign-magnitude and one's complement have two zeros, while two's complement has one. The only option denoting a single zero is A (0)."
+  },
+  {
+   "id": "2024-06-11-S1-Q007",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "None of the options is a minimised expression: each is just a list of unrelated minterm products with repeats. The minimal SOP is A'C' + A'D' + BC' + B'CD'."
+  },
+  {
+   "id": "2024-06-11-S1-Q008",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "For plain unsigned binary addition a carry-out is simply kept as an extra bit or signals overflow; adding it back to the LSB (end-around carry) applies to 1's complement arithmetic, which the question never states. B is the intended answer."
+  },
+  {
+   "id": "2024-06-11-S1-Q016",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The recurrence T(n)=2T(n-1)+n solves to Θ(2ⁿ) and does not characterise any listed paradigm; a naive recursive solution (backtracking or brute force) fits better than dynamic programming (the source key A), but the question is ill-posed."
+  },
+  {
+   "id": "2024-06-11-S1-Q017",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "NP-completeness was introduced by Stephen Cook (1971, Cook-Levin theorem). Karp (1972) then showed 21 problems NP-complete via reductions. The source key marks B (Karp)."
+  },
+  {
+   "id": "2024-06-11-S1-Q022",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The source key (C, replace with its parent) is incorrect. The node is replaced by its single child, which is the left child if only a left child exists and the right child otherwise; options A and B are each true only in one case."
+  },
+  {
+   "id": "2024-06-11-S1-Q023",
+   "status": "disputed",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option C, source key gives A"
+   ],
+   "aiNote": "Both DFS and BFS can be used to find connected components (start a traversal from every unvisited vertex), so the correct option is C. The source key marks A (DFS only)."
+  },
+  {
+   "id": "2024-06-11-S1-Q025",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both 'Array implementation' (keyed) and 'Static implementation' describe a fixed-size stack, so two options are defensible."
+  },
+  {
+   "id": "2024-06-11-S1-Q036",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "Copies in other papers were keyed 'File Level'; that is not a standard level, and Physical Level is correct."
+  },
+  {
+   "id": "2024-06-11-S1-Q037",
+   "status": "disputed",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "medium",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2024-06-11-S1-Q038",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Standard text: the old primary receives redo logs from the old backup site to catch up. 'Primary Logs' (key B) is not a recognised term."
+  },
+  {
+   "id": "2024-06-11-S1-Q040",
+   "status": "disputed",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives A"
+   ],
+   "aiNote": "The degree of a relation is its number of attributes (columns); 'Row' (A) refers to the cardinality/number of tuples. B (Degree) is correct, though 'Column' (C) is also a loose synonym. The source key A is wrong."
+  },
+  {
+   "id": "2024-06-11-S1-Q052",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both Prototype and Spiral models use iterative prototyping; key is B (Spiral)."
+  },
+  {
+   "id": "2024-06-11-S1-Q073",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "L = {a^p | p prime} is not regular and not context-free (pumping lemmas) but is decidable, so a Turing machine accepts it. The source key marks C ('not accepted by a Turing machine'), which is incorrect."
+  },
+  {
+   "id": "2024-06-11-S1-Q075",
+   "status": "disputed",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2024-06-11-S1-Q081",
+   "status": "disputed",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Another paper's copy is keyed 'All of these', which is the same option wording."
+  },
+  {
+   "id": "2024-06-11-S1-Q091",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Textbooks and quiz banks commonly give EFT (electronic funds transfer) as the backbone of e-payments, but EPS (electronic payment system) is also defensible; the source key marks B (EPS). The question is open to either reading."
+  },
+  {
+   "id": "2024-06-11-S1-Q093",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "\"Unclassified\" is probably a slip for \"unsolicited\". Unsolicited bulk email is usually called spam, and \"junk mail\" is a synonym, so both B and C are defensible. The key gives C."
+  },
+  {
+   "id": "2024-06-11-S1-Q110",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "No standard source fixes the number of lesson-plan types by timeline (daily, weekly, unit, term, yearly are variously listed). I cannot verify the key B (3)."
+  },
+  {
+   "id": "2024-06-11-S1-Q111",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "I could not verify which author gave this exact wording; D.W. Allen is the best-known micro-teaching name, but the source key marks C (Pack and Tucker). Unverified."
+  },
+  {
+   "id": "2024-06-11-S1-Q113",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "All three statements (children's expressions not heard, passive education, children speak only to answer) describe a traditional teacher-guided class, so D (more than one option is correct) is the most defensible; the source key B names only one of them."
+  },
+  {
+   "id": "2024-06-11-S1-Q116",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question does not say whether it is from the library-management viewpoint; the shift to electronic resources is a technological change, usually treated as part of the external environment (D), while the source key marks B (internal environment). Not verifiable."
+  },
+  {
+   "id": "2024-06-11-S1-Q125",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Prior (advance) planning is generally listed as a characteristic of the subject-centred curriculum, whereas activity-centred and learner-centred curricula are flexible and emerge from learners' interests. The source key D (all of these) seems doubtful."
+  },
+  {
+   "id": "2024-06-11-S1-Q126",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Awareness of the environment is necessary at all stages because human survival depends on it (A). Regional variation (B, the source key) is a fact, not the reason such awareness is needed at every stage."
+  },
+  {
+   "id": "2024-06-11-S1-Q127",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "Public speaking and debate training builds control over emotions, creative language use and voice modulation; \"Concept\" (understanding of content) is not developed by the training itself. The source key marks B (control over emotions), which is an expected outcome."
+  },
+  {
+   "id": "2024-06-11-S1-Q131",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Karamchand Gandhi (B) and Kaba Gandhi (D) are the same person (Kaba is his popular name), so two options are defensible; the source key B is the full name."
+  },
+  {
+   "id": "2024-06-11-S2-Q001",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both Johnson and ring counters use feedback and produce non-binary sequences; the question does not separate them. I lean to Johnson (twisted-ring) counter (A), but the source key marks B (ring counter)."
+  },
+  {
+   "id": "2024-06-11-S2-Q002",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": "The conversion needs S = D and R = D'. The source key B (S = D', R = D) would make Q = D', i.e. an inverting latch."
+  },
+  {
+   "id": "2024-06-11-S2-Q008",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The right operation depends on the method: in one's-complement subtraction the magnitude of a negative result is obtained by inverting the bits (A, the source key), while in general the positive value is obtained by subtracting the result from 0 (C, i.e. taking the 2's complement). Both options are defensible."
+  },
+  {
+   "id": "2024-06-11-S2-Q010",
+   "status": "disputed",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option C, source key gives A"
+   ],
+   "aiNote": "Gray code of binary 0100 is 0110 (C). The source key A (0011) is incorrect."
+  },
+  {
+   "id": "2024-06-11-S2-Q018",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": null,
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "B ≤p A with A NP-complete only shows that B is no harder than A (B is in NP); B can be in P or NP-complete, so none of the options follows. The source key A states the reverse of the correct theorem (it would hold if A reduced to B with B in NP)."
+  },
+  {
+   "id": "2024-06-11-S2-Q019",
+   "status": "disputed",
+   "key": "B",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option D, source key gives B"
+   ],
+   "aiNote": "A 3-connected graph needs minimum degree 3, hence at least ceil(3n/2) edges; n-1 edges form only a tree, which is not even biconnected. The source key B (n - 1) is therefore wrong; the question itself is also poorly worded."
+  },
+  {
+   "id": "2024-06-11-S2-Q022",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "A complete binary tree has all levels full except possibly the last, filled from the left. None of the options states this; B describes a perfect binary tree, which is the closest, so the source key B is only an approximation."
+  },
+  {
+   "id": "2024-06-11-S2-Q024",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Key marks Linked lists (A). Index sequential search uses an index table, normally an array of key-pointer entries searched by binary or linear search; the options are poorly framed. Arrays (B) seems more defensible than linked lists."
+  },
+  {
+   "id": "2024-06-11-S2-Q033",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Poorly framed: the command interpreter (shell) exists to give users an interface to OS services, and A is a loose statement. D is also not clearly wrong, so the item has no clean answer."
+  },
+  {
+   "id": "2024-06-11-S2-Q070",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "No option is correct: the minimal DFA for strings ending in 101 needs 4 states (q0, 1, 10, 101), and an NFA also needs 4 states. The source key B (2) is not possible."
+  },
+  {
+   "id": "2024-06-11-S2-Q073",
+   "status": "disputed",
+   "key": "B",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option A, source key gives B"
+   ],
+   "aiNote": ""
+  },
+  {
+   "id": "2024-06-11-S2-Q074",
+   "status": "disputed",
+   "key": "C",
+   "ai": "A",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option A, source key gives C"
+   ],
+   "aiNote": "The Boolean satisfiability problem is decidable (try all 2ⁿ assignments); it is NP-complete, not unsolvable. Only the halting problem is undecidable, so A is correct; the source key C is wrong."
+  },
+  {
+   "id": "2024-06-11-S2-Q076",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The answer depends on definition: Modbus allows slave addresses 1-247 (247 slaves), a single RS-485 segment supports 32 unit loads, and 256 is not a stated limit. The source key D (256) cannot be verified."
+  },
+  {
+   "id": "2024-06-11-S2-Q078",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The question is incomplete and the options are not parallel; the key B (IoT cloud) cannot be verified."
+  },
+  {
+   "id": "2024-06-11-S2-Q082",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "Completeness means the algorithm can derive every sentence that is entailed; being truth-preserving is soundness, a different property. The correct option is B, while the source key marks D."
+  },
+  {
+   "id": "2024-06-11-S2-Q083",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Face recognition is usually called narrow/weak AI (A), but the classification \"applied AI\" (B, the source key) is also used for practical systems such as security and face recognition. The options overlap."
+  },
+  {
+   "id": "2024-06-11-S2-Q103",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options A, B and D can all be called characteristics of learning; the stem seems to have lost its intended wording. The key (B) is plausible but not clearly the only exception."
+  },
+  {
+   "id": "2024-06-11-S2-Q119",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The stem is incomplete ('In Which of the following a teacher must be able to'), and options A, B and D all describe reasonable teacher abilities, so no single answer is clearly intended."
+  },
+  {
+   "id": "2024-06-11-S2-Q120",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "TV, digital projector and film-strip projector can all be used in a classroom; the question does not say what the criterion is. The key (digital projector) is the most modern and flexible choice only."
+  },
+  {
+   "id": "2024-06-11-S2-Q145",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The expression looks garbled; it was probably meant to be 27^65 (remainder 3, option D) but as printed the plain number 2765 gives remainder 5, which matches the key."
+  },
+  {
+   "id": "2024-06-12-S1-Q001",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "None of the four options equals Σ(2,4,5,6); the simplified SOP is AB' + BC'. The source key (C, A + B + C') is not equivalent to the function."
+  },
+  {
+   "id": "2024-06-12-S1-Q004",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "The source key marks C (2^n), which is the count for a binary counter. A Johnson counter with n flip-flops has 2n states, option B."
+  },
+  {
+   "id": "2024-06-12-S1-Q005",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Strictly, CMOS uses complementary enhancement-mode devices; depletion-mode loads are characteristic of NMOS. No option fits perfectly, but CMOS (the key) is the only MOSFET family among sensible choices besides PMOS."
+  },
+  {
+   "id": "2024-06-12-S1-Q007",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "A",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "A binary-to-Gray converter is a code converter (built from XOR gates), which is none of the listed circuits exactly; the key (Encoder) is only loosely right."
+  },
+  {
+   "id": "2024-06-12-S1-Q008",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both A and C are badly worded. In the standard method the LSB of the multiplier is multiplied by the multiplicand first, which fits C, but the source key marks A."
+  },
+  {
+   "id": "2024-06-12-S1-Q020",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "The stem seems garbled. A biconnected graph has no cut vertices and exactly one biconnected component. The key (C, cut vertices) is correct only for a different statement, such as 'in a connected graph, the number of blocks is related to cut vertices'."
+  },
+  {
+   "id": "2024-06-12-S1-Q022",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The answer depends on indexing: 2i for a 1-based array, 2i + 1 for a 0-based array. The key (2i + 1) assumes 0-based indexing, which the stem does not state."
+  },
+  {
+   "id": "2024-06-12-S1-Q023",
+   "status": "disputed",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives C"
+   ],
+   "aiNote": "The key marks C (edges). A connected component is a maximal set of vertices in which every pair is joined by a path, so paths (B) is the standard answer."
+  },
+  {
+   "id": "2024-06-12-S1-Q027",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "B",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question gives no basis for choosing CSC over CSR: both suit matrices with few non-zeros per row and column, and the next question (2023-09-12-S2-Q024) is keyed CSR. The key C is not distinguishable from B."
+  },
+  {
+   "id": "2024-06-12-S1-Q032",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options A and D are duplicates (FCFS) and are not related to priority; B (SJN) is a priority scheduler where the priority is the burst time, and C (multilevel queue) assigns priorities to queues. Both B and C are defensible."
+  },
+  {
+   "id": "2024-06-12-S1-Q072",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "consistent",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "The source key marks D (repeated concatenation), but context-free languages ARE closed under concatenation and its repetition (Kleene star). The property they lack is closure under intersection (B)."
+  },
+  {
+   "id": "2024-06-12-S1-Q077",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Both CoAP (B) and MQTT (D) are well known lightweight IoT protocols; the key marks only MQTT."
+  },
+  {
+   "id": "2024-06-12-S1-Q078",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The true expansion is Wireless Sensor Network; every option ends with 'Protocol'. B is the nearest, matching the key."
+  },
+  {
+   "id": "2024-06-12-S1-Q080",
+   "status": "ambiguous",
+   "key": "B",
+   "ai": null,
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "I could not verify a default value for the Modbus TCP transaction identifier: it is a 2-byte field chosen by the client and copied by the server in its reply. The keyed value 1 cannot be confirmed from the protocol specification."
+  },
+  {
+   "id": "2024-06-12-S1-Q081",
+   "status": "disputed",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "conflict",
+   "notes": [
+    "the same question is keyed differently in another paper",
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Papers use different wording for the options (All of the above / All of these), but the key is the same in both."
+  },
+  {
+   "id": "2024-06-12-S1-Q084",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question is unclear: sound, smell and touch can all be sensory inputs to an AI system, and the source text does not state which framework 'input segments' refers to. The key (D) is only plausible."
+  },
+  {
+   "id": "2024-06-12-S1-Q097",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "consistent",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question is poorly framed. \"Pixels\" are image elements, not an example of image processing, and computer graphics is usually treated as a separate field. D is the answer intended by the common MCQ source the item follows."
+  },
+  {
+   "id": "2024-06-12-S1-Q104",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "medium",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "The key marks D (Bloom). Bloom's taxonomy has three domains. The five-domain taxonomy of objectives (used for science instruction) is attributed to McCormack and Yager, so B is the better answer."
+  },
+  {
+   "id": "2024-06-12-S1-Q123",
+   "status": "disputed",
+   "key": "D",
+   "ai": "B",
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "independent AI check gives option B, source key gives D"
+   ],
+   "aiNote": "The key marks D (How good). Measurement is quantitative and answers 'how much'; evaluation answers 'how good' or 'how well'."
+  },
+  {
+   "id": "2024-06-12-S1-Q129",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "Options A and D both describe harmful effects, and B also has some merit; the key is D but the question does not clearly rule out A."
+  },
+  {
+   "id": "2024-06-12-S1-Q138",
+   "status": "ambiguous",
+   "key": "A",
+   "ai": "D",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The key marks A (Proteins), the classic 'body-building' nutrient, but carbohydrates, fats, vitamins and minerals also support growth, so D is defensible."
+  },
+  {
+   "id": "2024-06-12-S1-Q147",
+   "status": "ambiguous",
+   "key": "C",
+   "ai": "C",
+   "aiConfidence": "low",
+   "crossPaper": "none",
+   "notes": [
+    "AI review flags the question as ambiguous or flawed"
+   ],
+   "aiNote": "The question stem is cut off; the actual question (the colour asked about) is missing. The key (White) would fit 'colour of grass' but this cannot be confirmed."
+  },
+  {
+   "id": "2024-06-12-S1-Q148",
+   "status": "ambiguous",
+   "key": "D",
+   "ai": null,
+   "aiConfidence": "high",
+   "crossPaper": "none",
+   "notes": [
+    "AI review found no option it could confirm as correct"
+   ],
+   "aiNote": "Net displacement is 20 m south and 10 m east of the start, which is √500 ≈ 22.4 m; none of the options (50, 40, 20, 10 m) is correct. The key (10 m) gives only the horizontal offset."
+  }
+ ],
+ "reviewPairs": []
+}

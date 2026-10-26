@@ -1,0 +1,4750 @@
+[
+ {
+  "id": "2025-11-03-S1-Q001",
+  "sectionSubject": "Computer Science",
+  "text": "What is the main purpose of inheritance in OOP?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To create instances of classes"
+   },
+   {
+    "label": "B",
+    "text": "To prevent data abstraction"
+   },
+   {
+    "label": "C",
+    "text": "To establish a parent-child relationship between classes"
+   },
+   {
+    "label": "D",
+    "text": "To define exceptions"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "To establish a parent-child relationship between classes",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q060",
+   "2024-06-11-S1-Q057",
+   "2025-11-03-S1-Q001"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q002",
+  "sectionSubject": "Computer Science",
+  "text": "Microcontrollers find application in various fields. What is a typical application of\nmicrocontrollers in the automotive industry?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Operating systems for computers"
+   },
+   {
+    "label": "B",
+    "text": "Entertainment systems in airplanes"
+   },
+   {
+    "label": "C",
+    "text": "Engine control in cars"
+   },
+   {
+    "label": "D",
+    "text": "Weather forecasting systems"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Engine control in cars",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q013",
+   "2025-11-03-S1-Q002"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q003",
+  "sectionSubject": "Computer Science",
+  "text": "The term \"FAT\" is stands for_____",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "File Allocation Tree"
+   },
+   {
+    "label": "B",
+    "text": "File Allocation Table"
+   },
+   {
+    "label": "C",
+    "text": "File Allocation Graph"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "File Allocation Table",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q039",
+   "2024-06-11-S2-Q036",
+   "2025-11-03-S1-Q003"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q004",
+  "sectionSubject": "Computer Science",
+  "text": "What is CRUD an acronym for in database operations?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Create, Read, Update, Delete"
+   },
+   {
+    "label": "B",
+    "text": "Cache, Read, Update, Delete"
+   },
+   {
+    "label": "C",
+    "text": "Copy, Replace, Update, Delete"
+   },
+   {
+    "label": "D",
+    "text": "Collect, Read, Use, Discard"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Create, Read, Update, Delete",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q066",
+   "2025-11-03-S1-Q004"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q005",
+  "sectionSubject": "Computer Science",
+  "text": "Which principle ensures that only essential information is visible to the outside world?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Polymorphism"
+   },
+   {
+    "label": "B",
+    "text": "Information hiding"
+   },
+   {
+    "label": "C",
+    "text": "Encapsulation"
+   },
+   {
+    "label": "D",
+    "text": "Abstraction"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Information hiding",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q059",
+   "2025-11-03-S1-Q005"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q006",
+  "sectionSubject": "Computer Science",
+  "text": "Contention-based MAC protocols are commonly used in:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Ethernet networks"
+   },
+   {
+    "label": "B",
+    "text": "Token Ring networks"
+   },
+   {
+    "label": "C",
+    "text": "ATM networks"
+   },
+   {
+    "label": "D",
+    "text": "Point-to-Point networks"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Ethernet networks",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q045",
+   "2025-11-03-S1-Q006"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q007",
+  "sectionSubject": "Computer Science",
+  "text": "Stealing someone's intellectual work and representing it as your own is known as\n………….",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Fraud"
+   },
+   {
+    "label": "B",
+    "text": "Identity Theft"
+   },
+   {
+    "label": "C",
+    "text": "Online Stealing"
+   },
+   {
+    "label": "D",
+    "text": "Plagiarism"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Plagiarism",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q007"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q008",
+  "sectionSubject": "Computer Science",
+  "text": "Even with two-factor authentication, users may still be vulnerable\nto_____________attacks",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Scripting"
+   },
+   {
+    "label": "B",
+    "text": "Cross attack"
+   },
+   {
+    "label": "C",
+    "text": "Man-in-the-middle"
+   },
+   {
+    "label": "D",
+    "text": "Radiant"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Man-in-the-middle",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S1-Q080",
+   "2025-11-03-S1-Q008"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q009",
+  "sectionSubject": "Computer Science",
+  "text": "What is the term for the ability of a class to provide different implementations of a\nmethod based on the input parameters?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Overloading"
+   },
+   {
+    "label": "B",
+    "text": "Polymorphism"
+   },
+   {
+    "label": "C",
+    "text": "Inheritance"
+   },
+   {
+    "label": "D",
+    "text": "Encapsulation"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Overloading",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S1-Q060",
+   "2025-11-03-S1-Q009"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q010",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following refers to creating products tailored to individual customers?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Customization"
+   },
+   {
+    "label": "B",
+    "text": "Adaptation"
+   },
+   {
+    "label": "C",
+    "text": "Direct material"
+   },
+   {
+    "label": "D",
+    "text": "Auction"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Customization",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q091",
+   "2025-11-03-S1-Q010"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q011",
+  "sectionSubject": "Computer Science",
+  "text": "The length of an IPv6 address is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "32 bits"
+   },
+   {
+    "label": "B",
+    "text": "64 bits"
+   },
+   {
+    "label": "C",
+    "text": "128 bits"
+   },
+   {
+    "label": "D",
+    "text": "256 bits"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "128 bits",
+  "keyTextsAcrossCopies": [
+   "128 bits",
+   "128bits"
+  ],
+  "copies": [
+   "2023-09-12-S2-Q046",
+   "2025-11-03-S1-Q011"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q012",
+  "sectionSubject": "Computer Science",
+  "text": "A website or online platform where individuals or groups regularly publish written\ncontent, typically in a reverse chronological order is known as :",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "News Group"
+   },
+   {
+    "label": "B",
+    "text": "Blog"
+   },
+   {
+    "label": "C",
+    "text": "Chat Group"
+   },
+   {
+    "label": "D",
+    "text": "Social Networking"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Blog",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q012"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q013",
+  "sectionSubject": "Computer Science",
+  "text": "A text file song .txt contains the following contents in it:\nLife goes on as it never ends\nWhat will be the output of the following code snippet?\nf1 = open (\"song.txt\", \"r\")\ns1 = f1. read (5)\ns2 = f1. readline (4)\ns3 = f1. read (3)\nprint (s1, s3, sep = \"#\")",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "goes # on"
+   },
+   {
+    "label": "B",
+    "text": "Life #goes # on"
+   },
+   {
+    "label": "C",
+    "text": "Life # on"
+   },
+   {
+    "label": "D",
+    "text": "Error"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Life # on",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q013"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q014",
+  "sectionSubject": "Computer Science",
+  "text": "Who used the term \"IoT\" fist?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Steve Jobs"
+   },
+   {
+    "label": "B",
+    "text": "Bill Simpson"
+   },
+   {
+    "label": "C",
+    "text": "Kevin Aston"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Kevin Aston",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q075",
+   "2025-11-03-S1-Q014"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q015",
+  "sectionSubject": "Computer Science",
+  "text": "Which programming languages are commonly supported by Dreamweaver for web\ndevelopment?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Python and Ruby"
+   },
+   {
+    "label": "B",
+    "text": "HTML and CSS @"
+   },
+   {
+    "label": "C",
+    "text": "C++ and Java"
+   },
+   {
+    "label": "D",
+    "text": "PHP and MySQL"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "HTML and CSS @",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q066",
+   "2025-11-03-S1-Q015"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q016",
+  "sectionSubject": "Computer Science",
+  "text": "What is the purpose of a constructor in OOP?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To destroy objects"
+   },
+   {
+    "label": "B",
+    "text": "To create instances of abstract classes"
+   },
+   {
+    "label": "C",
+    "text": "To initialize object properties"
+   },
+   {
+    "label": "D",
+    "text": "To define abstract methods"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "To initialize object properties",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q016"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q017",
+  "sectionSubject": "Computer Science",
+  "text": "What is the main advantage of using abstract classes over interfaces?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Abstract classes can have multiple inheritance, unlike interfaces"
+   },
+   {
+    "label": "B",
+    "text": "Interfaces can have constructors, while abstract classes cannot"
+   },
+   {
+    "label": "C",
+    "text": "Abstract classes can provide default implementations of methods"
+   },
+   {
+    "label": "D",
+    "text": "Interfaces allow for private access modifiers, unlike abstract classes"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Abstract classes can provide default implementations of methods",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q056",
+   "2025-11-03-S1-Q017"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q018",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following networking devices is used to regenerate and transmit the\nweakened signal ahead ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Hub"
+   },
+   {
+    "label": "B",
+    "text": "Ethernet Card"
+   },
+   {
+    "label": "C",
+    "text": "Repeater"
+   },
+   {
+    "label": "D",
+    "text": "Modern"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Repeater",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q018"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q019",
+  "sectionSubject": "Computer Science",
+  "text": "The maximum length (in bytes) of an IPv4 datagram is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "32"
+   },
+   {
+    "label": "B",
+    "text": "256"
+   },
+   {
+    "label": "C",
+    "text": "1024"
+   },
+   {
+    "label": "D",
+    "text": "65535"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "65535",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q047",
+   "2025-11-03-S1-Q019"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q020",
+  "sectionSubject": "Computer Science",
+  "text": "Ginni has created a table, SCORES in MySQL to store runs scored by players in a\ncricket match. The table contains the following records:\nTable : Scores\nPLAYER SCORE\nRanveer 50\nSukesh 35\nMirza 10\nJohn 51\nMurugan 70\nWhich of the following statements will give 10 as output?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "SELECT MAX (Score) FROM Scores;"
+   },
+   {
+    "label": "B",
+    "text": "SELECT MIN (Score) FROM Scores;"
+   },
+   {
+    "label": "C",
+    "text": "SELECT SUM (Score) FROM Scores;"
+   },
+   {
+    "label": "D",
+    "text": "SELECT AVG (Score) FROM Scores;"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "SELECT MIN (Score) FROM Scores;",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q020"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q021",
+  "sectionSubject": "Computer Science",
+  "text": "…………………..data type is used to implement Queue data structure in Python.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Sets"
+   },
+   {
+    "label": "B",
+    "text": "Dictionary"
+   },
+   {
+    "label": "C",
+    "text": "Tuple"
+   },
+   {
+    "label": "D",
+    "text": "List"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "List",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q021"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q022",
+  "sectionSubject": "Computer Science",
+  "text": "In an ideal microcomputer, where is the Arithmetic Logic Unit (ALU) located?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "CPU"
+   },
+   {
+    "label": "B",
+    "text": "Memory"
+   },
+   {
+    "label": "C",
+    "text": "Input devices"
+   },
+   {
+    "label": "D",
+    "text": "Output devices"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "CPU",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q009",
+   "2025-11-03-S1-Q022"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q023",
+  "sectionSubject": "Computer Science",
+  "text": "What consists of the identification of risks or threats, the implementation of security\nmeasures, and the monitoring of those measures for effectiveness?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Risk assessment"
+   },
+   {
+    "label": "B",
+    "text": "Security"
+   },
+   {
+    "label": "C",
+    "text": "Risk Management"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Risk Management",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q023"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q024",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following attributes is not a valid attribute of the tag in HTML ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "text"
+   },
+   {
+    "label": "B",
+    "text": "background"
+   },
+   {
+    "label": "C",
+    "text": "bgcolor"
+   },
+   {
+    "label": "D",
+    "text": "width"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "width",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q024"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q025",
+  "sectionSubject": "Computer Science",
+  "text": "SQL applies conditions on the groups through………clause after groups have been\nformed.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "where"
+   },
+   {
+    "label": "B",
+    "text": "having"
+   },
+   {
+    "label": "C",
+    "text": "new"
+   },
+   {
+    "label": "D",
+    "text": "all"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "having",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q025"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q026",
+  "sectionSubject": "Computer Science",
+  "text": "Given binary numbers A = 101010 and B = 111111, what is the result of (A AND B) OR (A\nXOR B)?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "111111"
+   },
+   {
+    "label": "B",
+    "text": "101111"
+   },
+   {
+    "label": "C",
+    "text": "111010"
+   },
+   {
+    "label": "D",
+    "text": "101010"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "111111",
+  "keyTextsAcrossCopies": [
+   "11111",
+   "111111"
+  ],
+  "copies": [
+   "2023-09-18-S3-Q004",
+   "2025-11-03-S1-Q026"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q027",
+  "sectionSubject": "Computer Science",
+  "text": "A Language for which DFA exist is a________",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Regular Language"
+   },
+   {
+    "label": "B",
+    "text": "Non-Regular Language"
+   },
+   {
+    "label": "C",
+    "text": "Any language"
+   },
+   {
+    "label": "D",
+    "text": "Cannot be said"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Regular Language",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q069",
+   "2024-06-12-S1-Q068",
+   "2025-11-03-S1-Q027"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q028",
+  "sectionSubject": "Computer Science",
+  "text": "What is the difference between a website and a web page?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "A website is a collection of web pages, while a web page is a single document that is\ndisplayed on the web."
+   },
+   {
+    "label": "B",
+    "text": "A website is a software program, while a web page is a hardware device."
+   },
+   {
+    "label": "C",
+    "text": "A website is a physical object, while a web page is a logical object."
+   },
+   {
+    "label": "D",
+    "text": "All of the above."
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "A website is a collection of web pages, while a web page is a single document that is\ndisplayed on the web.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q028"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q029",
+  "sectionSubject": "Computer Science",
+  "text": "The “Turing Machine” showed that you could use a/an _____ system to program any\nalgorithmic task.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "binary"
+   },
+   {
+    "label": "B",
+    "text": "electro-chemical"
+   },
+   {
+    "label": "C",
+    "text": "recursive"
+   },
+   {
+    "label": "D",
+    "text": "semantic"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "binary",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q084",
+   "2025-11-03-S1-Q029"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q030",
+  "sectionSubject": "Computer Science",
+  "text": "What is the term for a condition that occurs during program execution that disrupts the\nnormal flow of instructions?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Abstraction"
+   },
+   {
+    "label": "B",
+    "text": "Inheritance"
+   },
+   {
+    "label": "C",
+    "text": "Exception"
+   },
+   {
+    "label": "D",
+    "text": "Encapsulation"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Exception",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q061",
+   "2025-11-03-S1-Q030"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q031",
+  "sectionSubject": "Computer Science",
+  "text": "The term \"Data\" refers to:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "The electronic representation of the information(or data)"
+   },
+   {
+    "label": "B",
+    "text": "Basic information"
+   },
+   {
+    "label": "C",
+    "text": "Raw Facts and figures"
+   },
+   {
+    "label": "D",
+    "text": "Both A and C"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Raw Facts and figures",
+  "keyTextsAcrossCopies": [
+   "Raw Facts and figures",
+   "Row Facts and figures"
+  ],
+  "copies": [
+   "2023-09-12-S1-Q040",
+   "2024-06-11-S1-Q037",
+   "2025-11-03-S1-Q031"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q032",
+  "sectionSubject": "Computer Science",
+  "text": "Which among the following was the first web browser ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Internet Explorer"
+   },
+   {
+    "label": "B",
+    "text": "Mosaic"
+   },
+   {
+    "label": "C",
+    "text": "Google Chrome"
+   },
+   {
+    "label": "D",
+    "text": "Opera"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Mosaic",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q032"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q033",
+  "sectionSubject": "Computer Science",
+  "text": "Which among the following search algorithm requires least memory?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Optimal Search"
+   },
+   {
+    "label": "B",
+    "text": "Linear Search"
+   },
+   {
+    "label": "C",
+    "text": "DFS"
+   },
+   {
+    "label": "D",
+    "text": "BFS"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "DFS",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S1-Q083",
+   "2025-11-03-S1-Q033"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q034",
+  "sectionSubject": "Computer Science",
+  "text": "What is the primary role of the memory-mapped I/O technique in a microcontroller?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "It increases the speed of program execution"
+   },
+   {
+    "label": "B",
+    "text": "It provides additional memory space for data storage"
+   },
+   {
+    "label": "C",
+    "text": "It allows external devices to access the microcontroller's memory"
+   },
+   {
+    "label": "D",
+    "text": "It eliminates the need for I/O operations"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "It allows external devices to access the microcontroller's memory",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q034"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q035",
+  "sectionSubject": "Computer Science",
+  "text": "Context switching in an operating system refers to the process of:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Switching between user and kernel modes"
+   },
+   {
+    "label": "B",
+    "text": "Switching between processes to allow multitasking"
+   },
+   {
+    "label": "C",
+    "text": "Switching between different file systems"
+   },
+   {
+    "label": "D",
+    "text": "Switching between different operating systems"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Switching between processes to allow multitasking",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q035"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q036",
+  "sectionSubject": "Computer Science",
+  "text": "What is the typical operating voltage range for TTL logic family?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "1.8 V to 3.3 V"
+   },
+   {
+    "label": "B",
+    "text": "3.3 V to 5.0 V"
+   },
+   {
+    "label": "C",
+    "text": "5.0 V to 12 V"
+   },
+   {
+    "label": "D",
+    "text": "-5.0 V to 5.0 V"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "5.0 V to 12 V",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q036"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q037",
+  "sectionSubject": "Computer Science",
+  "text": "Communication over mobile phone is an example of which type of communication\nmode?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Simplex"
+   },
+   {
+    "label": "B",
+    "text": "Half - Duplex"
+   },
+   {
+    "label": "C",
+    "text": "Full - Duplex"
+   },
+   {
+    "label": "D",
+    "text": "Double - Duplex"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Full - Duplex",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q037"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q038",
+  "sectionSubject": "Computer Science",
+  "text": "The advantage of using an expert system development tool is___________?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "imposed structure"
+   },
+   {
+    "label": "B",
+    "text": "knowledge engineering assistance"
+   },
+   {
+    "label": "C",
+    "text": "rapid prototyping"
+   },
+   {
+    "label": "D",
+    "text": "all of the mentioned"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "all of the mentioned",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q086",
+   "2025-11-03-S1-Q038"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q039",
+  "sectionSubject": "Computer Science",
+  "text": "Consider the statements given below and then choose the correct output from the\ngiven options :\ndef Change (N) :\nN=N+10\nprint (N , end= '$$ ' )\nN=15\nChange (N)\nprint (N)",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "25$$15"
+   },
+   {
+    "label": "B",
+    "text": "15$$25"
+   },
+   {
+    "label": "C",
+    "text": "25$$25"
+   },
+   {
+    "label": "D",
+    "text": "2525$$"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "25$$15",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q039"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q040",
+  "sectionSubject": "Computer Science",
+  "text": "_________________ is two dimensional data structure in Python with row index and\ncolumn index.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "DataFrame"
+   },
+   {
+    "label": "B",
+    "text": "List"
+   },
+   {
+    "label": "C",
+    "text": "Tuple"
+   },
+   {
+    "label": "D",
+    "text": "Series"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "DataFrame",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q040"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q041",
+  "sectionSubject": "Computer Science",
+  "text": "What is the output of the following expression?\nSports = \"Paralympic Games\"\nprint ( Sports. Split ( \"m\"))",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "[ ' Paraly ' , 'm' , 'pic Ga', 'm', ' es']"
+   },
+   {
+    "label": "B",
+    "text": "('Paraly', 'm', 'pic Games')"
+   },
+   {
+    "label": "C",
+    "text": "('Paraly', 'pic Ga', 'es')"
+   },
+   {
+    "label": "D",
+    "text": "[ 'Paraly', 'pic Ga', 'es']"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "[ 'Paraly', 'pic Ga', 'es']",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q041"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q042",
+  "sectionSubject": "Computer Science",
+  "text": "A PDA chooses the next move based on",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Current state"
+   },
+   {
+    "label": "B",
+    "text": "Next input symbol"
+   },
+   {
+    "label": "C",
+    "text": "Both (a) and (b)"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "None of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q042"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q043",
+  "sectionSubject": "Computer Science",
+  "text": "A photograph is an analog image and a ___ can convert it into a digital image.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Printer"
+   },
+   {
+    "label": "B",
+    "text": "Scanner"
+   },
+   {
+    "label": "C",
+    "text": "Webcam"
+   },
+   {
+    "label": "D",
+    "text": "Camera"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Scanner",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q043"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q044",
+  "sectionSubject": "Computer Science",
+  "text": "A problem is said to be in NP if:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Its solution can be verified in polynomial time"
+   },
+   {
+    "label": "B",
+    "text": "It can be solved using a non-deterministic algorithm"
+   },
+   {
+    "label": "C",
+    "text": "It is not solvable"
+   },
+   {
+    "label": "D",
+    "text": "It has exponential complexity"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Its solution can be verified in polynomial time",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S1-Q018",
+   "2025-11-03-S1-Q044"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q045",
+  "sectionSubject": "Computer Science",
+  "text": "The protocol that is used to send e-mails is _________.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "HTTP"
+   },
+   {
+    "label": "B",
+    "text": "POP"
+   },
+   {
+    "label": "C",
+    "text": "SMTP"
+   },
+   {
+    "label": "D",
+    "text": "FTP"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "SMTP",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q045"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q046",
+  "sectionSubject": "Computer Science",
+  "text": "In OOP, what is method overloading?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Creating multiple constructors"
+   },
+   {
+    "label": "B",
+    "text": "Using multiple inheritance"
+   },
+   {
+    "label": "C",
+    "text": "Defining multiple methods with the same name but different parameters"
+   },
+   {
+    "label": "D",
+    "text": "Inheriting multiple methods from a parent class"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Defining multiple methods with the same name but different parameters",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q046"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q047",
+  "sectionSubject": "Computer Science",
+  "text": "Private Key cryptography is also known as ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐cryptography.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Private key"
+   },
+   {
+    "label": "B",
+    "text": "Symetric"
+   },
+   {
+    "label": "C",
+    "text": "Asymetric"
+   },
+   {
+    "label": "D",
+    "text": "None of the above"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Symetric",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q047"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q048",
+  "sectionSubject": "Computer Science",
+  "text": "Which maintenance process model focuses on fixing defects as they are identified?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Waterfall Model"
+   },
+   {
+    "label": "B",
+    "text": "Corrective Maintenance"
+   },
+   {
+    "label": "C",
+    "text": "Perfective Maintenance"
+   },
+   {
+    "label": "D",
+    "text": "Adaptive Maintenance"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Corrective Maintenance",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q053",
+   "2025-11-03-S1-Q048"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q049",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following attributes is not a valid attribute of the tag in HTML ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "face"
+   },
+   {
+    "label": "B",
+    "text": "type"
+   },
+   {
+    "label": "C",
+    "text": "size"
+   },
+   {
+    "label": "D",
+    "text": "colour"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "type",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q049"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q050",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is the first and foremost step in Image Processing?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Image acquisition"
+   },
+   {
+    "label": "B",
+    "text": "Segmentation"
+   },
+   {
+    "label": "C",
+    "text": "Image enhancement"
+   },
+   {
+    "label": "D",
+    "text": "Image restoration"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Image acquisition",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q099",
+   "2025-11-03-S1-Q050"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q051",
+  "sectionSubject": "Computer Science",
+  "text": "What is the expanded form of TCP in TCP/IP ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Transmission Control Protocol"
+   },
+   {
+    "label": "B",
+    "text": "Transmission Central Protocol"
+   },
+   {
+    "label": "C",
+    "text": "Transfer Control Protocol"
+   },
+   {
+    "label": "D",
+    "text": "Transport Central Protocol"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Transmission Control Protocol",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q051"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q052",
+  "sectionSubject": "Computer Science",
+  "text": "The kernel operates in a privileged mode, also known as:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "User mode"
+   },
+   {
+    "label": "B",
+    "text": "Debug mode"
+   },
+   {
+    "label": "C",
+    "text": "Supervisor mode"
+   },
+   {
+    "label": "D",
+    "text": "Interrupt mode"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Supervisor mode",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q052"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q053",
+  "sectionSubject": "Computer Science",
+  "text": "The \"inode\" in a Unix-like file system is used to:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Store the contents of the file"
+   },
+   {
+    "label": "B",
+    "text": "Store the file's name and location"
+   },
+   {
+    "label": "C",
+    "text": "Store the attributes and metadata of the file"
+   },
+   {
+    "label": "D",
+    "text": "Store the directory structure of the file system"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Store the attributes and metadata of the file",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q028",
+   "2025-11-03-S1-Q053"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q054",
+  "sectionSubject": "Computer Science",
+  "text": "The term HTTP stand for:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Hyper Terminal Tracing Program"
+   },
+   {
+    "label": "B",
+    "text": "Hypertext Tracing Program"
+   },
+   {
+    "label": "C",
+    "text": "Hypertext Transfer Protocol"
+   },
+   {
+    "label": "D",
+    "text": "Hypertext Tracing Protocol"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Hypertext Transfer Protocol",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q045",
+   "2025-11-03-S1-Q054"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q055",
+  "sectionSubject": "Computer Science",
+  "text": "The range of numbers that can be represented in an n-bit 1's complement system is\nfrom:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "-2^(n-1) to 2^(n-1) - 1"
+   },
+   {
+    "label": "B",
+    "text": "0 to 2^n - 1"
+   },
+   {
+    "label": "C",
+    "text": "-2^(n-1) to 2^(n-1)"
+   },
+   {
+    "label": "D",
+    "text": "-2^n to 2^n - 1"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "-2^(n-1) to 2^(n-1)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q055"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q056",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following are advantages normally associated with B2B e‐commerce?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Wide Reach"
+   },
+   {
+    "label": "B",
+    "text": "Shorter Cycle Time"
+   },
+   {
+    "label": "C",
+    "text": "Reduced Cost"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q089",
+   "2025-11-03-S1-Q056"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q057",
+  "sectionSubject": "Computer Science",
+  "text": "____________ offers the ability to query the data and insert, alter, and delete tuples.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Transaction Control Language (TCL)"
+   },
+   {
+    "label": "B",
+    "text": "Data Control Language (DCL)"
+   },
+   {
+    "label": "C",
+    "text": "Data Definition Language (DDL)"
+   },
+   {
+    "label": "D",
+    "text": "Data Manipulation Language (DML)"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Data Manipulation Language (DML)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q034",
+   "2025-11-03-S1-Q057"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q058",
+  "sectionSubject": "Computer Science",
+  "text": "Program Analysis Tools are used for:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Designing software architecture"
+   },
+   {
+    "label": "B",
+    "text": "Measuring software reliability"
+   },
+   {
+    "label": "C",
+    "text": "Automatically generating test cases"
+   },
+   {
+    "label": "D",
+    "text": "Analysing code for errors and performance bottlenecks"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Analysing code for errors and performance bottlenecks",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q058"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q059",
+  "sectionSubject": "Computer Science",
+  "text": "In OOP, what does the term \"method signature\" refer to?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "The name of the method"
+   },
+   {
+    "label": "B",
+    "text": "The return type of the method"
+   },
+   {
+    "label": "C",
+    "text": "The parameters of the method"
+   },
+   {
+    "label": "D",
+    "text": "The combination of method name and parameter types"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "The combination of method name and parameter types",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q059"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q060",
+  "sectionSubject": "Computer Science",
+  "text": "Which testing approach involves testing individual components or units of code?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Integration Testing"
+   },
+   {
+    "label": "B",
+    "text": "System Testing"
+   },
+   {
+    "label": "C",
+    "text": "Unit Testing"
+   },
+   {
+    "label": "D",
+    "text": "Acceptance Testing"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Unit Testing",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q051",
+   "2025-11-03-S1-Q060"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q061",
+  "sectionSubject": "Computer Science",
+  "text": "For a 2-D array represented in row-major order, the index formula to access the element\nat row \"i\" and column \"j\" using the base address \"B\" is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Index = B + (i * n + j)"
+   },
+   {
+    "label": "B",
+    "text": "Index = B + (j * n + i)"
+   },
+   {
+    "label": "C",
+    "text": "Index = B + (i + j)"
+   },
+   {
+    "label": "D",
+    "text": "Index = B + (i * m + j)"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Index = B + (i * n + j)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q026",
+   "2024-06-11-S1-Q027",
+   "2025-11-03-S1-Q061"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q062",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is not a limitation of file system?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Data Redundancy"
+   },
+   {
+    "label": "B",
+    "text": "Data Inconsistency"
+   },
+   {
+    "label": "C",
+    "text": "Data dependence"
+   },
+   {
+    "label": "D",
+    "text": "Storing Space"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Storing Space",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q062"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q063",
+  "sectionSubject": "Computer Science",
+  "text": "What is the purpose of ARP (Address Resolution Protocol)?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To assign IP addresses to devices"
+   },
+   {
+    "label": "B",
+    "text": "To resolve domain names to IP addresses"
+   },
+   {
+    "label": "C",
+    "text": "To map MAC addresses to IP addresses"
+   },
+   {
+    "label": "D",
+    "text": "To manage network congestion"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "To map MAC addresses to IP addresses",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q047",
+   "2025-11-03-S1-Q063"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q064",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is not a Web Service ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Using Diksha learning portal"
+   },
+   {
+    "label": "B",
+    "text": "Sending and receiving email"
+   },
+   {
+    "label": "C",
+    "text": "File transfer over Bluetooth"
+   },
+   {
+    "label": "D",
+    "text": "Using a banking portal for online transaction"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "File transfer over Bluetooth",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q064"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q065",
+  "sectionSubject": "Computer Science",
+  "text": "What is a NoSQL database?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "A NoSQL database is a database that does not use the relational model."
+   },
+   {
+    "label": "B",
+    "text": "A No SQL database is a database that is not managed by a DBMS."
+   },
+   {
+    "label": "C",
+    "text": "A No SQL database is a database that is not stored on a physical device."
+   },
+   {
+    "label": "D",
+    "text": "All of the above."
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "A NoSQL database is a database that does not use the relational model.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q065"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q066",
+  "sectionSubject": "Computer Science",
+  "text": "Where will the Hill Climbing Algorithm terminate?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Stopping Criterion met"
+   },
+   {
+    "label": "B",
+    "text": "Global Min/Max is achieved"
+   },
+   {
+    "label": "C",
+    "text": "No neighbor has higher value"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "No neighbor has higher value",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q083",
+   "2025-11-03-S1-Q066"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q067",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following operator evaluates to True if the variable on either side of the\noperator points towards the same memory location and False otherwise ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "is"
+   },
+   {
+    "label": "B",
+    "text": "is not"
+   },
+   {
+    "label": "C",
+    "text": "and"
+   },
+   {
+    "label": "D",
+    "text": "or"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "is",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q067"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q068",
+  "sectionSubject": "Computer Science",
+  "text": "In 3G and 4G mobile technologies, the character ‘G’ stands for :",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Generation"
+   },
+   {
+    "label": "B",
+    "text": "GPRS"
+   },
+   {
+    "label": "C",
+    "text": "Grid"
+   },
+   {
+    "label": "D",
+    "text": "Google"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Generation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q068"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q069",
+  "sectionSubject": "Computer Science",
+  "text": "What is MISO pin in the RFID Module?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Master In Slave Out"
+   },
+   {
+    "label": "B",
+    "text": "Manage Internal Slave Output"
+   },
+   {
+    "label": "C",
+    "text": "Master Internal Search Optimization"
+   },
+   {
+    "label": "D",
+    "text": "Manage Input Slave Op"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Master In Slave Out",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q069"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q070",
+  "sectionSubject": "Computer Science",
+  "text": "Halting state of Turing machine are:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Start and stop"
+   },
+   {
+    "label": "B",
+    "text": "Accept and reject"
+   },
+   {
+    "label": "C",
+    "text": "Start and reject"
+   },
+   {
+    "label": "D",
+    "text": "Reject and allow"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Accept and reject",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q070"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q071",
+  "sectionSubject": "Computer Science",
+  "text": "_________ are used to overcome the challenges of managing the resources of the IoT.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Clustering"
+   },
+   {
+    "label": "B",
+    "text": "Software agents"
+   },
+   {
+    "label": "C",
+    "text": "Synchronization techniques"
+   },
+   {
+    "label": "D",
+    "text": "Cluster, Software agent, and Synchronization techniques"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Cluster, Software agent, and Synchronization techniques",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q080",
+   "2025-11-03-S1-Q071"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q072",
+  "sectionSubject": "Computer Science",
+  "text": "What is the POS form of the Boolean expression F(A, B, C) = Π(1, 2, 4, 6)?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "(A + B + C ') (A + B' + C)(A '+ B + C)"
+   },
+   {
+    "label": "B",
+    "text": "(A' + B + C) (A '+ B + C)"
+   },
+   {
+    "label": "C",
+    "text": "(A' + B + C ') (A + B + C') (A '+ B + C)"
+   },
+   {
+    "label": "D",
+    "text": "(A + B' + C) (A + B '+ C) (A' + B + C)"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "(A + B + C ') (A + B' + C)(A '+ B + C)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q072"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q073",
+  "sectionSubject": "Computer Science",
+  "text": "____________attribute is used to specify the location of an image file.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "alt"
+   },
+   {
+    "label": "B",
+    "text": "src"
+   },
+   {
+    "label": "C",
+    "text": "align"
+   },
+   {
+    "label": "D",
+    "text": "name"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "src",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q073"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q074",
+  "sectionSubject": "Computer Science",
+  "text": "If NFA of 5 states excluding the initial state is converted into DFA, maximum possible\nnumber of states for the DFA is?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "64"
+   },
+   {
+    "label": "B",
+    "text": "32"
+   },
+   {
+    "label": "C",
+    "text": "128"
+   },
+   {
+    "label": "D",
+    "text": "187"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "64",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q073",
+   "2024-06-12-S1-Q071",
+   "2025-11-03-S1-Q074"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q075",
+  "sectionSubject": "Computer Science",
+  "text": "What is the purpose of staffing level estimation in software project management?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To determine the number of hardware components required"
+   },
+   {
+    "label": "B",
+    "text": "To identify potential risks in the project"
+   },
+   {
+    "label": "C",
+    "text": "To allocate appropriate resources to the project"
+   },
+   {
+    "label": "D",
+    "text": "To estimate the maintenance costs of the software"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "To allocate appropriate resources to the project",
+  "keyTextsAcrossCopies": [
+   "To allocate appropriate resources to the project",
+   "To identify potential risks in the project"
+  ],
+  "copies": [
+   "2023-09-12-S1-Q054",
+   "2023-09-18-S3-Q051",
+   "2025-11-03-S1-Q075"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q076",
+  "sectionSubject": "Computer Science",
+  "text": "What is DBMS?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "DBMS is a collection of queries"
+   },
+   {
+    "label": "B",
+    "text": ") DBMS is a high-level language"
+   },
+   {
+    "label": "C",
+    "text": "DBMS is a programming language"
+   },
+   {
+    "label": "D",
+    "text": "DBMS stores, modifies and retrieves data"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "DBMS stores, modifies and retrieves data",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q034",
+   "2025-11-03-S1-Q076"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q077",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is the correct identifier ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "global"
+   },
+   {
+    "label": "B",
+    "text": "Break"
+   },
+   {
+    "label": "C",
+    "text": "def"
+   },
+   {
+    "label": "D",
+    "text": "with"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Break",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q077"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q078",
+  "sectionSubject": "Computer Science",
+  "text": "What is the time complexity of the Divide and Conquer algorithm for finding the\nmaximum and minimum elements in an array of size \"n\"?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "O(n)"
+   },
+   {
+    "label": "B",
+    "text": "O(log n)"
+   },
+   {
+    "label": "C",
+    "text": "O(n log n)"
+   },
+   {
+    "label": "D",
+    "text": "O(n^2)"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "O(n)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q018",
+   "2025-11-03-S1-Q078"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q079",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following protocol is used for secure remote login ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "FTP"
+   },
+   {
+    "label": "B",
+    "text": "HTTPS"
+   },
+   {
+    "label": "C",
+    "text": "TELNET"
+   },
+   {
+    "label": "D",
+    "text": "HTTP"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "TELNET",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q079"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q080",
+  "sectionSubject": "Computer Science",
+  "text": "Which property of dynamic programming is particularly useful for solving Optimal\nBinary Search Tree problems?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Optimal substructure"
+   },
+   {
+    "label": "B",
+    "text": "Greedy choice property"
+   },
+   {
+    "label": "C",
+    "text": "Divide and Conquer"
+   },
+   {
+    "label": "D",
+    "text": "Linear programming"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Optimal substructure",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q016",
+   "2025-11-03-S1-Q080"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q081",
+  "sectionSubject": "Computer Science",
+  "text": "Which among the following are the limiting factors of IoT?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Low power"
+   },
+   {
+    "label": "B",
+    "text": "Low processing power"
+   },
+   {
+    "label": "C",
+    "text": "Low memory"
+   },
+   {
+    "label": "D",
+    "text": "All of the above"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of the above",
+  "keyTextsAcrossCopies": [
+   "All of the above",
+   "All of these"
+  ],
+  "copies": [
+   "2024-06-11-S1-Q075",
+   "2025-11-03-S1-Q081"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q082",
+  "sectionSubject": "Computer Science",
+  "text": "In the context of dynamic programming for solving multistage graph problems, what is\nmemoization used for?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Dividing the graph into stages"
+   },
+   {
+    "label": "B",
+    "text": "Sorting the vertices in the graph"
+   },
+   {
+    "label": "C",
+    "text": "Storing solutions to overlapping subproblems"
+   },
+   {
+    "label": "D",
+    "text": "Finding the shortest path"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Storing solutions to overlapping subproblems",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q082"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q083",
+  "sectionSubject": "Computer Science",
+  "text": "How is the width of the data bus typically measured in a microcomputer system?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "In kilobytes (KB)"
+   },
+   {
+    "label": "B",
+    "text": "In megahertz (MHz)"
+   },
+   {
+    "label": "C",
+    "text": "In bits"
+   },
+   {
+    "label": "D",
+    "text": "In address lines"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "In bits",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q012",
+   "2025-11-03-S1-Q083"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q084",
+  "sectionSubject": "Computer Science",
+  "text": "The default value of the transaction identifier in a Modbus TCP packet is?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "0"
+   },
+   {
+    "label": "B",
+    "text": "1"
+   },
+   {
+    "label": "C",
+    "text": "2"
+   },
+   {
+    "label": "D",
+    "text": "3"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "1",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q080",
+   "2025-11-03-S1-Q084"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q085",
+  "sectionSubject": "Computer Science",
+  "text": "In the Divide and Conquer algorithm for finding the maximum and minimum elements,\nhow are the results from the left and right subarrays combined?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "By taking the average of the maximum and minimum values"
+   },
+   {
+    "label": "B",
+    "text": "By comparing the maximum of the left and right subarrays and the minimum of the left\nand right subarrays"
+   },
+   {
+    "label": "C",
+    "text": "By adding the maximum of the left subarray to the minimum of the right subarray"
+   },
+   {
+    "label": "D",
+    "text": "By multiplying the maximum of the left subarray with the minimum of the right subarray"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "By comparing the maximum of the left and right subarrays and the minimum of the left\nand right subarrays",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q085"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q086",
+  "sectionSubject": "Computer Science",
+  "text": "The class of CFG is not closed under----",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Concatenation"
+   },
+   {
+    "label": "B",
+    "text": "Intersection"
+   },
+   {
+    "label": "C",
+    "text": "Union"
+   },
+   {
+    "label": "D",
+    "text": "Repeated Concatenation."
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Repeated Concatenation.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q074",
+   "2024-06-12-S1-Q072",
+   "2025-11-03-S1-Q086"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q087",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is NOT a network topology?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Star"
+   },
+   {
+    "label": "B",
+    "text": "Ring"
+   },
+   {
+    "label": "C",
+    "text": "Disk"
+   },
+   {
+    "label": "D",
+    "text": "Mesh"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Disk",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q044",
+   "2024-06-11-S1-Q041",
+   "2025-11-03-S1-Q087"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q088",
+  "sectionSubject": "Computer Science",
+  "text": "Which implementation of a stack requires a fixed amount of memory allocated for a\nfixed number of elements?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Array implementation"
+   },
+   {
+    "label": "B",
+    "text": "Linked implementation"
+   },
+   {
+    "label": "C",
+    "text": "Dynamic implementation"
+   },
+   {
+    "label": "D",
+    "text": "Static implementation"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Array implementation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q023",
+   "2024-06-11-S1-Q025",
+   "2025-11-03-S1-Q088"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q089",
+  "sectionSubject": "Computer Science",
+  "text": "The data structure used to represent the allocation status of main memory is known as:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Page table"
+   },
+   {
+    "label": "B",
+    "text": "File allocation table"
+   },
+   {
+    "label": "C",
+    "text": "Memory map"
+   },
+   {
+    "label": "D",
+    "text": "Memory management unit"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Memory map",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q089"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q090",
+  "sectionSubject": "Computer Science",
+  "text": "What does the DOM represent in web development?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Database of Objects and Models"
+   },
+   {
+    "label": "B",
+    "text": "Document Oriented Middleware"
+   },
+   {
+    "label": "C",
+    "text": "Data Object Model"
+   },
+   {
+    "label": "D",
+    "text": "Document Object Model"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Document Object Model",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q090"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q091",
+  "sectionSubject": "Computer Science",
+  "text": "The complement of a language will only be defined when and only when the __________\nover the language is defined.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Alphabet"
+   },
+   {
+    "label": "B",
+    "text": "Word"
+   },
+   {
+    "label": "C",
+    "text": "String"
+   },
+   {
+    "label": "D",
+    "text": "Grammar"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Alphabet",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-11-S1-Q069",
+   "2025-11-03-S1-Q091"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q092",
+  "sectionSubject": "Computer Science",
+  "text": "Which addressing mode involves specifying a value within the instruction itself, rather\nthan referencing a memory location?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Direct addressing"
+   },
+   {
+    "label": "B",
+    "text": "Immediate addressing"
+   },
+   {
+    "label": "C",
+    "text": "Indirect addressing"
+   },
+   {
+    "label": "D",
+    "text": "Indexed addressing"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Immediate addressing",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-18-S3-Q011",
+   "2025-11-03-S1-Q092"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q093",
+  "sectionSubject": "Computer Science",
+  "text": "In Excess-3 Code, why is the code considered self-complementing?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Because it can be converted to ASCII directly"
+   },
+   {
+    "label": "B",
+    "text": "Because the 9's complement of each digit can be obtained by inverting its bits"
+   },
+   {
+    "label": "C",
+    "text": "Because it is used for financial calculations"
+   },
+   {
+    "label": "D",
+    "text": "Because it is a form of Gray code"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Because the 9's complement of each digit can be obtained by inverting its bits",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q093"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q094",
+  "sectionSubject": "Computer Science",
+  "text": "Which attribute of the tag is used to set the background color of a web page ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "text"
+   },
+   {
+    "label": "B",
+    "text": "bgcolor"
+   },
+   {
+    "label": "C",
+    "text": "background"
+   },
+   {
+    "label": "D",
+    "text": "color"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "bgcolor",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q094"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q095",
+  "sectionSubject": "Computer Science",
+  "text": "The Internet of Things (IoT), access to real-time data, and the introduction of cyber-\nphysical systems mark the big changes for this era.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Industrial Revolution"
+   },
+   {
+    "label": "B",
+    "text": "3rd Industrial Revolution"
+   },
+   {
+    "label": "C",
+    "text": "Industry 4.0"
+   },
+   {
+    "label": "D",
+    "text": "Manufacturing automation"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Industry 4.0",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q077",
+   "2025-11-03-S1-Q095"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q096",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following provides the ability to query information from the database and\ninsert tuples into, delete tuples from, and modify tuples in the database?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "DML (Data Manipulation Language)"
+   },
+   {
+    "label": "B",
+    "text": "DDL (Data Definition Language)"
+   },
+   {
+    "label": "C",
+    "text": "Query"
+   },
+   {
+    "label": "D",
+    "text": "Relational Schema"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "DML (Data Manipulation Language)",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q096"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q097",
+  "sectionSubject": "Computer Science",
+  "text": "Which ZigBee device is used to transfer data between ZigBee devices?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Zigbee Coordinator device"
+   },
+   {
+    "label": "B",
+    "text": "Zigbee Router"
+   },
+   {
+    "label": "C",
+    "text": "Zigbee start devce"
+   },
+   {
+    "label": "D",
+    "text": "Zigbee end devce"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Zigbee Router",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S2-Q076",
+   "2025-11-03-S1-Q097"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q098",
+  "sectionSubject": "Computer Science",
+  "text": "Which of the following is the base case for a recursive factorial function?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "n == 0"
+   },
+   {
+    "label": "B",
+    "text": "n == 1"
+   },
+   {
+    "label": "C",
+    "text": "n < 0"
+   },
+   {
+    "label": "D",
+    "text": "n > 0"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "n == 1",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q098"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q099",
+  "sectionSubject": "Computer Science",
+  "text": "File manipulation operations in an operating system include:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Allocating memory to files"
+   },
+   {
+    "label": "B",
+    "text": "Assigning file names to processes"
+   },
+   {
+    "label": "C",
+    "text": "Loading files into CPU registers"
+   },
+   {
+    "label": "D",
+    "text": "Reading, writing, and modifying file content"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Reading, writing, and modifying file content",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2023-09-12-S1-Q029",
+   "2025-11-03-S1-Q099"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q100",
+  "sectionSubject": "Computer Science",
+  "text": "What does I stands for in CIA",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Indian"
+   },
+   {
+    "label": "B",
+    "text": "Individual"
+   },
+   {
+    "label": "C",
+    "text": "Income"
+   },
+   {
+    "label": "D",
+    "text": "Integrity"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Integrity",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q100"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q101",
+  "sectionSubject": "Art of Teaching",
+  "text": "The category of Audio -Visual Aids is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Tape-recorder"
+   },
+   {
+    "label": "B",
+    "text": "Television"
+   },
+   {
+    "label": "C",
+    "text": "Radio"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Television",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q101"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q102",
+  "sectionSubject": "Art of Teaching",
+  "text": "The process of selecting units from a population to estimate characteristics of the\npopulation is called",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "analyzing"
+   },
+   {
+    "label": "B",
+    "text": "inference"
+   },
+   {
+    "label": "C",
+    "text": "research"
+   },
+   {
+    "label": "D",
+    "text": "sampling"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "sampling",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q102"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q103",
+  "sectionSubject": "Art of Teaching",
+  "text": "The importance of curriculum in the system of education is just like a:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Preparation of students for service"
+   },
+   {
+    "label": "B",
+    "text": "Constitution in a country"
+   },
+   {
+    "label": "C",
+    "text": "Provision of latest knowledge"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Provision of latest knowledge",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q103"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q104",
+  "sectionSubject": "Art of Teaching",
+  "text": "Project-based activities is an example of",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Explore"
+   },
+   {
+    "label": "B",
+    "text": "Engage"
+   },
+   {
+    "label": "C",
+    "text": "Explain"
+   },
+   {
+    "label": "D",
+    "text": "Elaborate"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Explore",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q104"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q105",
+  "sectionSubject": "Art of Teaching",
+  "text": "Rousseau has given the concept of Follow Nature. The meaning of this maxim is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "to give full freedom to the teacher"
+   },
+   {
+    "label": "B",
+    "text": "to regulate the education of a pupil according to his nature"
+   },
+   {
+    "label": "C",
+    "text": "the teacher should follow his discretion"
+   },
+   {
+    "label": "D",
+    "text": "knowledge should be given according to the teacher’s nature"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "to regulate the education of a pupil according to his nature",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q105"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q106",
+  "sectionSubject": "Art of Teaching",
+  "text": "Who said \"The assignment method is an important step in teaching and learning\nprocess\"?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Douglas"
+   },
+   {
+    "label": "B",
+    "text": "Dewey"
+   },
+   {
+    "label": "C",
+    "text": "Piaget"
+   },
+   {
+    "label": "D",
+    "text": "S Morris"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Douglas",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q106"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q107",
+  "sectionSubject": "Art of Teaching",
+  "text": "Freedom in education means",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "the spirit of opposing the rules of the school regularly"
+   },
+   {
+    "label": "B",
+    "text": "the students will do anything they want"
+   },
+   {
+    "label": "C",
+    "text": "one's own growth freely and the recognition of others freedom to grow similarly"
+   },
+   {
+    "label": "D",
+    "text": "teachers are free to teach as they think"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "one's own growth freely and the recognition of others freedom to grow similarly",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q107"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q108",
+  "sectionSubject": "Art of Teaching",
+  "text": "Full form of EATS model is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Essential questions, activity prior knowledge, teaching, summarizing & assessment"
+   },
+   {
+    "label": "B",
+    "text": "Elements questions, activity prior knowledge, teaching and summarizing"
+   },
+   {
+    "label": "C",
+    "text": "Experiential questions, activity prior knowledge, teaching, summarizing & assessment"
+   },
+   {
+    "label": "D",
+    "text": "Essential questions, activity prior knowledge, teaching and summarizing"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Essential questions, activity prior knowledge, teaching, summarizing & assessment",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q108"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q109",
+  "sectionSubject": "Art of Teaching",
+  "text": "Drama or role play is most useful for teaching……….",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "History"
+   },
+   {
+    "label": "B",
+    "text": "Science"
+   },
+   {
+    "label": "C",
+    "text": "Maths"
+   },
+   {
+    "label": "D",
+    "text": "Language"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "History",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q109"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q110",
+  "sectionSubject": "Art of Teaching",
+  "text": "A teaching procedure involved in the clarification or explanation to the student of some\nmajor idea is called",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "demonstration method"
+   },
+   {
+    "label": "B",
+    "text": "lecture method"
+   },
+   {
+    "label": "C",
+    "text": "story telling method"
+   },
+   {
+    "label": "D",
+    "text": "problem solving method"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "lecture method",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q110"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q111",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which one of the following statements about progressive education explains-Education\nis life itself?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "School education should continue as long as possible."
+   },
+   {
+    "label": "B",
+    "text": "Schools are not required, children can learn from their life experiences."
+   },
+   {
+    "label": "C",
+    "text": "Education in schools should reflect the social and natural world."
+   },
+   {
+    "label": "D",
+    "text": "Life is the true educator."
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Education in schools should reflect the social and natural world.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q111"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q112",
+  "sectionSubject": "Art of Teaching",
+  "text": "The practice of finding commonalities or fundamental connections across a range of\nparticular circumstances is known as -----------------",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Abstraction"
+   },
+   {
+    "label": "B",
+    "text": "Generalization"
+   },
+   {
+    "label": "C",
+    "text": "Problem Solving"
+   },
+   {
+    "label": "D",
+    "text": "Reasoning"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Generalization",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q112"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q113",
+  "sectionSubject": "Art of Teaching",
+  "text": "Primary teacher should try to or concentrate in:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Raising intellectual standard of the students"
+   },
+   {
+    "label": "B",
+    "text": "Improving physical standard of students"
+   },
+   {
+    "label": "C",
+    "text": "Help all round development of students"
+   },
+   {
+    "label": "D",
+    "text": "Inculcating value in students."
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Help all round development of students",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q113"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q114",
+  "sectionSubject": "Art of Teaching",
+  "text": "Students in primary classes have a lot of alternate conceptions in many topics like\nliving, non-living, water cycle, plants etc. The sources of these alternate conceptions\ncan be\nI. family and community.\nII. textbooks and other books.\nIII. Leathers\nIV. stories and poems.\nSelect the correct option given below",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "I, II and IV"
+   },
+   {
+    "label": "B",
+    "text": "I, II, III and IV"
+   },
+   {
+    "label": "C",
+    "text": "Only I"
+   },
+   {
+    "label": "D",
+    "text": "I and II"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "I, II, III and IV",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q114"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q115",
+  "sectionSubject": "Art of Teaching",
+  "text": "Effective teaching includes-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Teacher is active but students may or may not be active."
+   },
+   {
+    "label": "B",
+    "text": "Teacher may be active or inactive but students are active."
+   },
+   {
+    "label": "C",
+    "text": "Teacher is active and students are active."
+   },
+   {
+    "label": "D",
+    "text": "All the above"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Teacher is active and students are active.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q115"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q116",
+  "sectionSubject": "Art of Teaching",
+  "text": "Creativity is thought to be related to the concept of-",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "fluid intelligence"
+   },
+   {
+    "label": "B",
+    "text": "crystallized intelligence"
+   },
+   {
+    "label": "C",
+    "text": "convergent thinking"
+   },
+   {
+    "label": "D",
+    "text": "divergent thinking"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "divergent thinking",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q116"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q117",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which one of the following is not a limitation of the preoperational thought?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Tendency to concentrate"
+   },
+   {
+    "label": "B",
+    "text": "Development of the symbolic thought"
+   },
+   {
+    "label": "C",
+    "text": "Egocentrism"
+   },
+   {
+    "label": "D",
+    "text": "Irreversibility"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Egocentrism",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q117"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q118",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following best describes a symposium?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "A meeting of delegates from a fraternal organization"
+   },
+   {
+    "label": "B",
+    "text": "A public meeting where a short course of study is addressed by a single expert"
+   },
+   {
+    "label": "C",
+    "text": "A meeting where a small group of experts presents different aspects of a problem or\ntopic to an audience"
+   },
+   {
+    "label": "D",
+    "text": "A debate between two opposing teams"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "A meeting where a small group of experts presents different aspects of a problem or\ntopic to an audience",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q118"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q119",
+  "sectionSubject": "Art of Teaching",
+  "text": "A child performing well in the class, must be",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "praised"
+   },
+   {
+    "label": "B",
+    "text": "given reward"
+   },
+   {
+    "label": "C",
+    "text": "recognised"
+   },
+   {
+    "label": "D",
+    "text": "all of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "all of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q119"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q120",
+  "sectionSubject": "Art of Teaching",
+  "text": "First, the students will make a prediction of what will happen in the story. Then the\nstudents must make a list of the main events in the story. Lastly, I will write a review of\nthe story. What skills are being used?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Application, Synthesis, and Evaluation"
+   },
+   {
+    "label": "B",
+    "text": "Comprehension, Knowledge, and Analysis"
+   },
+   {
+    "label": "C",
+    "text": "Comprehension, Knowledge, and Evaluation"
+   },
+   {
+    "label": "D",
+    "text": "Evaluation, Knowledge, and Synthesis"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Comprehension, Knowledge, and Evaluation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q120"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q121",
+  "sectionSubject": "Art of Teaching",
+  "text": "You want to adopt the teaching profession because",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "there are many others in your family who are teachers"
+   },
+   {
+    "label": "B",
+    "text": "there is no other option to earn a livelihood"
+   },
+   {
+    "label": "C",
+    "text": "children give more respect and reverence"
+   },
+   {
+    "label": "D",
+    "text": "you get an oppurtinity to handle/ train the future citizens of the nation"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "you get an oppurtinity to handle/ train the future citizens of the nation",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2024-06-12-S1-Q119",
+   "2025-11-03-S1-Q121"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q122",
+  "sectionSubject": "Art of Teaching",
+  "text": "Areas/sources of information for psychological foundation are:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Learning process"
+   },
+   {
+    "label": "B",
+    "text": "Teaching method"
+   },
+   {
+    "label": "C",
+    "text": "Student characteristics"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "All of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q122"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q123",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which of the following is the objective of a teacher?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "To gain possible maximum fame"
+   },
+   {
+    "label": "B",
+    "text": "To extend the welfare of students to the possible maximum limit"
+   },
+   {
+    "label": "C",
+    "text": "To teach the possible maximum number of students"
+   },
+   {
+    "label": "D",
+    "text": "None of these"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "To extend the welfare of students to the possible maximum limit",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q123"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q124",
+  "sectionSubject": "Art of Teaching",
+  "text": "Which statement is not true about planning of teaching?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Teacher should know about content"
+   },
+   {
+    "label": "B",
+    "text": "Teacher become aggressive in class"
+   },
+   {
+    "label": "C",
+    "text": "Plans ways of providing regular meaningful feedback to students."
+   },
+   {
+    "label": "D",
+    "text": "Decide upon/order textbooks(s), copies of articles, etc. which will be required."
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Teacher become aggressive in class",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q124"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q125",
+  "sectionSubject": "Art of Teaching",
+  "text": "The purpose of integrated curriculum is:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Increase in no. of books"
+   },
+   {
+    "label": "B",
+    "text": "Decrease in no. of books"
+   },
+   {
+    "label": "C",
+    "text": "Increases in students enrolment"
+   },
+   {
+    "label": "D",
+    "text": "Decrease in dropout"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Decrease in no. of books",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q125"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q126",
+  "sectionSubject": "Art of Teaching",
+  "text": "You have a mixed class of boys and girls. Which method would you adopt to improve\nco-operation between them?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Asking parents to discuss equality"
+   },
+   {
+    "label": "B",
+    "text": "Making boys and girls share a bench"
+   },
+   {
+    "label": "C",
+    "text": "Setting tasks which have to be done together"
+   },
+   {
+    "label": "D",
+    "text": "Talking about equality in lessons"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Making boys and girls share a bench",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q126"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q127",
+  "sectionSubject": "Art of Teaching",
+  "text": "The method for the acquisition of teaching skill is",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Inquiry learning"
+   },
+   {
+    "label": "B",
+    "text": "Team teaching"
+   },
+   {
+    "label": "C",
+    "text": "Discovery learning"
+   },
+   {
+    "label": "D",
+    "text": "Micro teaching"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "Micro teaching",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q127"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q128",
+  "sectionSubject": "Art of Teaching",
+  "text": "Is micro teaching real teaching?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Yes"
+   },
+   {
+    "label": "B",
+    "text": "no"
+   },
+   {
+    "label": "C",
+    "text": "Both yes and no from different perspectives"
+   },
+   {
+    "label": "D",
+    "text": "Can't say anything."
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Both yes and no from different perspectives",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q128"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q129",
+  "sectionSubject": "Art of Teaching",
+  "text": "Basic education should be",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "student oriented"
+   },
+   {
+    "label": "B",
+    "text": "activity oriented"
+   },
+   {
+    "label": "C",
+    "text": "project oriented"
+   },
+   {
+    "label": "D",
+    "text": "all of these"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "all of these",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q129"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q130",
+  "sectionSubject": "Art of Teaching",
+  "text": "Story telling enables the teacher to make lessons",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "boring"
+   },
+   {
+    "label": "B",
+    "text": "complicated"
+   },
+   {
+    "label": "C",
+    "text": "a burden for students"
+   },
+   {
+    "label": "D",
+    "text": "lively and interesting to the pupils"
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "lively and interesting to the pupils",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q130"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q131",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "In any code GROUND is written as HQPTOC then what will be TIRED written in that\ncode?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "UHSDE"
+   },
+   {
+    "label": "B",
+    "text": "VHSDE"
+   },
+   {
+    "label": "C",
+    "text": "UHSDC"
+   },
+   {
+    "label": "D",
+    "text": "UHQFC"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "UHSDE",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q131"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q132",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "What is the term for a market condition where supply exceeds demand?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Shortage"
+   },
+   {
+    "label": "B",
+    "text": "Surplus"
+   },
+   {
+    "label": "C",
+    "text": "Equilibrium"
+   },
+   {
+    "label": "D",
+    "text": "Deficit"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Surplus",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q132"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q133",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Khudai Khidmatgars were popularly known as the ___________",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Green Shirts"
+   },
+   {
+    "label": "B",
+    "text": "Red Shirts"
+   },
+   {
+    "label": "C",
+    "text": "Black Shirts"
+   },
+   {
+    "label": "D",
+    "text": "White Shirts"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Red Shirts",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q133"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q134",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "To kill fungus on crops we generally used………….",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Insecticides"
+   },
+   {
+    "label": "B",
+    "text": "Pesticides"
+   },
+   {
+    "label": "C",
+    "text": "Fungicides"
+   },
+   {
+    "label": "D",
+    "text": "All of these"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Fungicides",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q134"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q135",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "For some people, playing is actually work. Below are some names of famous people,\nPick the name whose work is actually playing.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Ajeet Yogi"
+   },
+   {
+    "label": "B",
+    "text": "Michael Jordan"
+   },
+   {
+    "label": "C",
+    "text": "Jack Nicholson"
+   },
+   {
+    "label": "D",
+    "text": "Steve Jobs"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Michael Jordan",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q135"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q136",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Choose the correct option instead of the question mark in the given question.\nGOA : 761 :: KAIMUR : ?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "119439"
+   },
+   {
+    "label": "B",
+    "text": "219339"
+   },
+   {
+    "label": "C",
+    "text": "219439"
+   },
+   {
+    "label": "D",
+    "text": "218349"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "219439",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q136"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q137",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "What will come in place of ? in the sequence 3, 14, 39, 84, ?, 258?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "150,"
+   },
+   {
+    "label": "B",
+    "text": "155"
+   },
+   {
+    "label": "C",
+    "text": "160"
+   },
+   {
+    "label": "D",
+    "text": "176"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "155",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q137"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q138",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Meena divides a number by 2. She then divides the answer by 2. This is the same as\ndividing the original number by:",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "3"
+   },
+   {
+    "label": "C",
+    "text": "2"
+   },
+   {
+    "label": "D",
+    "text": "1"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "4",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q138"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q139",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "A class VI mathematics teacher posed the following problem to her students:\n\"In a morning walk, three persons started together. Their steps measure 70 cm , 85 cm\nand 95 cm respectively. What is the minimum distance each should walk so that all can\ncover the same distance in complete steps?\"\nWhich of the following concepts would be required to solve the given problem?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Concept of LCM"
+   },
+   {
+    "label": "B",
+    "text": "Concept of division"
+   },
+   {
+    "label": "C",
+    "text": "Concept of proportion"
+   },
+   {
+    "label": "D",
+    "text": "Concept of HCF"
+   }
+  ],
+  "sourceKey": "A",
+  "sourceKeyText": "Concept of LCM",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q139"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q140",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Out of 60 people in a colony, 10 speak only Bengali, 5 speak only Assamese, 10 speak\nboth Hindi and Odia, 12 speak both Marathi and Hindi, 13 speak English, Tamil and\nMarathi, 5 speak both Assamese and Hindi and the remaining speak both Bengali and\nHindi.\nHow many people speak more than one language?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "15"
+   },
+   {
+    "label": "B",
+    "text": "45"
+   },
+   {
+    "label": "C",
+    "text": "50"
+   },
+   {
+    "label": "D",
+    "text": "55"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "45",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q140"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q141",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Pravin walked 30 metres towards East, took a right turn and walked 20 metres, again\ntook a right turn and walked 30 metres. How far was he from the starting point?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "50 m."
+   },
+   {
+    "label": "B",
+    "text": "40 m."
+   },
+   {
+    "label": "C",
+    "text": "10 m."
+   },
+   {
+    "label": "D",
+    "text": "20 m."
+   }
+  ],
+  "sourceKey": "D",
+  "sourceKeyText": "20 m.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q141"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q142",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The statement related to the congruence of a triangle – “Given the length of any two\nsides and the length of these sides and the measure of the angle between these sides”\n– is a restriction/condition.",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "SSS"
+   },
+   {
+    "label": "B",
+    "text": "S.A.S."
+   },
+   {
+    "label": "C",
+    "text": "ASA"
+   },
+   {
+    "label": "D",
+    "text": "RHS"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "S.A.S.",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q142"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q143",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "The number of Bricks each measuring 25 cm x 12.5 cm x 7.5 cm required to construct a\nwall 6 m Long, 5 m High, and 0.5 m Thick, While the Mortar occupies 5 Percent of the\nVolume of the Wall is?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "8819"
+   },
+   {
+    "label": "B",
+    "text": "6080"
+   },
+   {
+    "label": "C",
+    "text": "9011"
+   },
+   {
+    "label": "D",
+    "text": "2019"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "6080",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q143"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q144",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "India is divided into how many pin code zones?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Six"
+   },
+   {
+    "label": "B",
+    "text": "Seven"
+   },
+   {
+    "label": "C",
+    "text": "Eight"
+   },
+   {
+    "label": "D",
+    "text": "Ten"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Eight",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q144"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q145",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Which of the following is not an outdoor game?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Football"
+   },
+   {
+    "label": "B",
+    "text": "capture the flag"
+   },
+   {
+    "label": "C",
+    "text": "Uno<br"
+   },
+   {
+    "label": "D",
+    "text": "Frisbee"
+   }
+  ],
+  "sourceKey": "C",
+  "sourceKeyText": "Uno<br",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q145"
+  ],
+  "figure": null,
+  "notes": []
+ },
+ {
+  "id": "2025-11-03-S1-Q146",
+  "sectionSubject": "General Knowledge / Aptitude",
+  "text": "Mahendragiri, the highest peak of the Eastern Ghats, is located in which one of the\nfollowing states?",
+  "textHi": null,
+  "options": [
+   {
+    "label": "A",
+    "text": "Andhra Pradesh"
+   },
+   {
+    "label": "B",
+    "text": "Odisha"
+   },
+   {
+    "label": "C",
+    "text": "Telangana"
+   },
+   {
+    "label": "D",
+    "text": "Tamil Nadu"
+   }
+  ],
+  "sourceKey": "B",
+  "sourceKeyText": "Odisha",
+  "keyTextsAcrossCopies": null,
+  "copies": [
+   "2025-11-03-S1-Q146"
+  ],
+  "figure": null,
+  "notes": []
+ }
+]

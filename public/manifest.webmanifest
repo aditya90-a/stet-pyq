@@ -1,0 +1,23 @@
+{
+  "name": "STET PYQ — Bihar STET Computer Science",
+  "short_name": "STET PYQ",
+  "description": "1,500 real Bihar STET Computer Science previous-year questions with answers, explanations, repeated-question analysis and practice tests.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f5fa",
+  "theme_color": "#5a48f0",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Quick 20", "url": "./#/practice?preset=quick" },
+    { "name": "Most repeated", "url": "./#/repeats" },
+    { "name": "Full mock test", "url": "./#/practice?preset=mock" }
+  ]
+}

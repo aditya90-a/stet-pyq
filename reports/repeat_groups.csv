@@ -1,0 +1,400 @@
+﻿group,distinct_papers,sessions,first_seen,last_seen,members,question
+RP0001,4,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q067; 2023-09-18-S3-Q034; 2023-09-18-S3-Q037; 2024-06-12-S1-Q038; 2025-11-07-S1-Q054,Which command is used to remove a relation from an SQL?
+RP0002,4,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q062; 2024-06-11-S1-Q062; 2025-11-03-S1-Q045; 2025-11-07-S1-Q076,Which protocol is used for sending emails?
+RP0003,4,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q075; 2023-09-18-S3-Q075; 2024-06-12-S1-Q076; 2025-11-03-S2-Q068,Which among the following is not true about IoT?
+RP0004,4,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q045; 2024-06-11-S1-Q061; 2025-11-03-S1-Q054; 2025-11-03-S2-Q085,"What does the acronym ""HTTP"" stand for?"
+RP0005,4,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q082; 2024-06-12-S1-Q081; 2025-11-03-S2-Q074; 2025-11-07-S1-Q099,which of the following is/ are components of Expert Systems?
+RP0006,3,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q034; 2025-11-03-S1-Q057; 2025-11-03-S1-Q096; 2025-11-03-S2-Q056,"The ability to query data, as well as insert, delete, and alter tuples, is offered by
+____________"
+RP0007,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q051; 2024-06-11-S1-Q049; 2024-06-11-S1-Q054; 2025-11-03-S2-Q005,ISO 9000 and SEI CMM are both frameworks related to:
+RP0008,3,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q042; 2023-09-18-S3-Q046; 2024-06-11-S1-Q045; 2024-06-12-S1-Q043,What is the primary function of SNMP (Simple Network Management Protocol)?
+RP0009,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q070; 2023-09-18-S3-Q072; 2024-06-11-S1-Q070; 2025-11-04-S2-Q057,"The minimum number of productions required to produce a language consisting of
+palindrome strings over ∑={a,b} is"
+RP0010,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q030; 2024-06-11-S1-Q029; 2025-11-03-S2-Q063,The I/O subsystem in an operating system is responsible for:
+RP0011,3,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q038; 2023-09-18-S3-Q036; 2025-11-07-S1-Q081,"The term ""DFD"" stands for?"
+RP0012,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q039; 2024-06-11-S2-Q036; 2025-11-03-S1-Q003,"The term ""FAT"" is stands for_____"
+RP0013,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q040; 2024-06-11-S1-Q037; 2025-11-03-S1-Q031,"The term ""Data"" refers to:"
+RP0014,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q044; 2024-06-11-S1-Q041; 2025-11-03-S1-Q087,Which of the following is NOT a network topology?
+RP0015,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q050; 2024-06-11-S2-Q053; 2025-11-03-S2-Q067,Reverse engineering is primarily used for:
+RP0016,3,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q054; 2023-09-18-S3-Q051; 2025-11-03-S1-Q075,What is the purpose of staffing level estimation in software project management?
+RP0017,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q060; 2024-06-11-S1-Q057; 2025-11-03-S1-Q001,What is the main purpose of inheritance in OOP?
+RP0018,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q067; 2024-06-11-S1-Q066; 2025-11-04-S2-Q043,"In XML, which attribute is used to uniquely identify an element?"
+RP0019,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q069; 2024-06-12-S1-Q068; 2025-11-03-S1-Q027,A Language for which DFA exist is a________
+RP0020,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q071; 2024-06-12-S1-Q069; 2025-11-04-S2-Q003,"For a DFA accepting binary numbers whose decimal equivalent is divisible by 3, what
+are all the possible remainders?"
+RP0021,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q073; 2024-06-12-S1-Q071; 2025-11-03-S1-Q074,"If NFA of 5 states excluding the initial state is converted into DFA, maximum possible
+number of states for the DFA is?"
+RP0022,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q074; 2024-06-12-S1-Q072; 2025-11-03-S1-Q086,The class of CFG is not closed under----
+RP0023,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q078; 2024-06-12-S1-Q078; 2025-11-04-S2-Q058,WSN stands for?
+RP0024,3,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q080; 2023-09-18-S3-Q078; 2025-11-03-S1-Q069,What is MISO pin in the RFID Module?
+RP0025,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q084; 2024-06-11-S1-Q084; 2025-11-03-S2-Q052,Uniform-cost search expands the node n with the __________
+RP0026,3,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q100; 2023-09-18-S3-Q097; 2024-06-11-S1-Q097,___________ is basically a form of pictorial presentation.
+RP0027,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q015; 2024-06-11-S1-Q019; 2025-11-03-S2-Q007,"The minimum number of edges in a spanning tree of a connected graph with ""n""
+vertices is:"
+RP0028,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q022; 2024-06-11-S1-Q026; 2025-11-03-S2-Q082,"In pointer implementation of linked lists, which operation can be performed in constant
+time (O(1)) when inserting or deleting nodes?"
+RP0029,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q026; 2024-06-11-S1-Q027; 2025-11-03-S1-Q061,"For a 2-D array represented in row-major order, the index formula to access the element
+at row ""i"" and column ""j"" using the base address ""B"" is:"
+RP0030,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q037; 2024-06-11-S1-Q039; 2025-11-04-S2-Q013,"In general, a file is basically a collection of all related______."
+RP0031,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q043; 2024-06-11-S1-Q044; 2025-11-04-S2-Q093,Process-to-process communication involves communication between:
+RP0032,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q048; 2024-06-11-S1-Q052; 2025-11-04-S2-Q063,Which software life cycle model is based on iterative prototyping?
+RP0033,3,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q049; 2023-09-18-S3-Q052; 2025-11-03-S2-Q097,"In the context of software project management, what is LOC an acronym for?"
+RP0034,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q055; 2024-06-11-S1-Q058; 2025-11-04-S2-Q017,"What is the term for defining multiple methods in a class with the same name but
+different parameters?"
+RP0035,3,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q062; 2023-09-18-S3-Q065; 2024-06-11-S2-Q065,What is the role of a Document Type Definition (DTD) in XML?
+RP0036,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q065; 2024-06-12-S1-Q065; 2025-11-04-S2-Q074,Which statement is used to retrieve data from a database in SQL?
+RP0037,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q068; 2024-06-11-S1-Q072; 2025-11-07-S1-Q084,The language accepted by Push down Automaton:
+RP0038,3,STET 2023; STET 2024 (First); STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q074; 2024-06-12-S1-Q074; 2025-11-07-S1-Q006,Turing machine can be represented using:
+RP0039,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q019; 2024-06-11-S2-Q017; 2025-11-07-S1-Q089,"What is the time complexity of Merge Sort for sorting an array of size ""n""?"
+RP0040,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q020; 2024-06-11-S1-Q022; 2025-11-03-S2-Q058,"In a Binary Search Tree (BST), the operation of deleting a node with one child involves:"
+RP0041,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q023; 2024-06-11-S1-Q025; 2025-11-03-S1-Q088,"Which implementation of a stack requires a fixed amount of memory allocated for a
+fixed number of elements?"
+RP0042,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q038; 2024-06-12-S1-Q039; 2025-11-07-S1-Q071,A Database Management System is a type of _________software.
+RP0043,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q044; 2024-06-11-S1-Q042; 2025-11-04-S2-Q012,Frame design in the Data Link Layer includes:
+RP0044,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q048; 2024-06-11-S1-Q048; 2025-11-04-S2-Q083,"What is the primary purpose of Software Requirements Specification (SRS)
+documents?"
+RP0045,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q055; 2024-06-11-S1-Q055; 2025-11-03-S2-Q037,What is encapsulation in OOP?
+RP0046,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q059; 2024-06-11-S1-Q059; 2025-11-04-S2-Q001,"Which type of method does not have an implementation in the base class and must be
+overridden by derived classes?"
+RP0047,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q062; 2024-06-12-S1-Q061; 2025-11-04-S2-Q024,What is the purpose of Domain Name System Server in networking?
+RP0048,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q064; 2024-06-11-S1-Q065; 2025-11-04-S2-Q034,How can you make an asynchronous request to a server in JavaScript?
+RP0049,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q067; 2024-06-11-S1-Q067; 2025-11-07-S1-Q022,What is the purpose of SQL injection attacks?
+RP0050,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q071; 2024-06-11-S1-Q071; 2025-11-07-S1-Q072,A grammar that produces more than one parse tree for the same sentence is called
+RP0051,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q074; 2024-06-11-S1-Q073; 2025-11-03-S2-Q013,Which of the following is true for the language: { ap| p is a prime}
+RP0052,3,STET 2023; STET 2024 (First); STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q106; 2024-06-12-S1-Q108; 2025-11-04-S2-Q121,The Socratic method is known as
+RP0053,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q036; 2025-11-04-S2-Q014; 2025-11-04-S2-Q052,"Which of the following refers to the level of data abstraction that describes exactly how
+the data stored?"
+RP0054,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q001; 2025-11-03-S2-Q084,"What is the simplified expression for the Boolean function F(A, B, C, D) = Σ(0, 1, 2, 4, 5,
+6, 8, 9, 10, 12, 13, 14) using the K-map method?"
+RP0055,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q002; 2025-11-07-S1-Q075,"In a PLA, what components are used to implement the combinational logic functions?"
+RP0056,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q003; 2025-11-07-S1-Q091,"Which type of register is primarily used to temporarily hold data during arithmetic and
+logical operations in a microprocessor?"
+RP0057,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q004; 2024-06-12-S1-Q005,"Which logic family uses both depletion and enhancement mode MOSFETs for its
+operation?"
+RP0058,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q006; 2025-11-03-S2-Q092,"Given a Boolean function F(A, B, C) = Σ(0, 1, 2, 3, 5), what is the expression in SOP
+form?"
+RP0059,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q007; 2024-06-11-S1-Q008,"If the sum of two positive binary numbers is 11010 and there is a carry-out from the
+MSB, what should be done to obtain the correct result?"
+RP0060,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q008; 2024-06-12-S1-Q008,"In binary multiplication using the simple method, what is the first step after
+aligning the digits and preparing for multiplication?"
+RP0061,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q009; 2025-11-03-S2-Q062,"What is the relationship between the distance between parity bits and their error
+detection and correction capability in Hamming Code?"
+RP0062,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q010; 2025-11-04-S2-Q047,"To convert a Gray Code to its binary equivalent, which technique is commonly used?"
+RP0063,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q011; 2024-06-12-S1-Q010,"Which component of an ideal microcomputer is responsible for temporarily
+holding data and instructions during processing?"
+RP0064,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q012; 2025-11-03-S1-Q083,How is the width of the data bus typically measured in a microcomputer system?
+RP0065,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q013; 2025-11-03-S1-Q002,"Microcontrollers find application in various fields. What is a typical application of
+microcontrollers in the automotive industry?"
+RP0066,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q014; 2024-06-11-S1-Q014,"Which data structure often results in a time-space tradeoff by using extra memory to
+speed up operations?"
+RP0067,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q015; 2024-06-11-S1-Q015,"Which term refers to the strategy of optimizing an algorithm's use of resources, often
+by making sacrifices in one aspect for improvements in another?"
+RP0068,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q016; 2024-06-12-S1-Q014,"Conditional asymptotic notation allows for a more nuanced analysis of algorithm
+behavior under specific conditions. This is particularly useful when:"
+RP0069,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q017; 2025-11-03-S2-Q036,".If an algorithm's behavior is bounded by ""o(f(n)) if g(n)"", what notation does it become
+when the condition is removed?"
+RP0070,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q018; 2024-06-11-S2-Q016,"The recurrence equation T(n) = T(n/2) + 1 represents the time complexity of which
+algorithmic paradigm?"
+RP0071,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q019; 2025-11-03-S2-Q008,Divide and Conquer is an algorithmic paradigm that solves problems by:
+RP0072,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q020; 2025-11-04-S2-Q100,A threaded binary tree is a binary tree in which:
+RP0073,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q023; 2025-11-07-S1-Q096,"Separate chaining involves storing collided elements in separate data structures,
+typically in:"
+RP0074,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q024; 2024-06-11-S2-Q023,"Which collision resolution technique involves placing collided elements in the next
+available empty slot in the hash table?"
+RP0075,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q025; 2024-06-11-S2-Q025,"In the Tower of Hanoi problem with ""n"" disks, how many moves are required to solve
+the problem?"
+RP0076,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q026; 2024-06-12-S1-Q025,The process of removing recursion involves replacing recursive function calls with:
+RP0077,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q027; 2025-11-07-S1-Q052,A formal model of protection in an operating system provides:
+RP0078,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q028; 2025-11-07-S1-Q018,"In an operating system, a ""buffer cache"" is used to:"
+RP0079,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q029; 2025-11-03-S1-Q099,File manipulation operations in an operating system include:
+RP0080,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q031; 2025-11-03-S2-Q093,The primary goal of load control is to:
+RP0081,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q033; 2024-06-11-S2-Q029,"In multiprogramming with fixed partitions, if a process requires more memory than is
+available in a partition, it may lead to:"
+RP0082,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q034; 2025-11-03-S1-Q076,What is DBMS?
+RP0083,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q036; 2024-06-11-S2-Q034,"The term ""NTFS"" refers to which one of the following?"
+RP0084,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q037; 2025-11-03-S2-Q023,"Which of the following is a top-down approach in which the entity's higher level can be
+divided into two lower sub-entities?"
+RP0085,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q041; 2024-06-12-S1-Q041,What is the primary function of routing in the network layer?
+RP0086,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q042; 2024-06-12-S1-Q042,What is a socket in the context of process-to-process communication?
+RP0087,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q043; 2024-06-12-S1-Q044,Data transmission using multiple pathways simultaneously is known as:
+RP0088,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q045; 2025-11-03-S1-Q006,Contention-based MAC protocols are commonly used in:
+RP0089,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q046; 2024-06-12-S1-Q047,Routing involves:
+RP0090,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q047; 2025-11-03-S1-Q063,What is the purpose of ARP (Address Resolution Protocol)?
+RP0091,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q051; 2025-11-03-S1-Q060,Which testing approach involves testing individual components or units of code?
+RP0092,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q052; 2024-06-12-S1-Q052,What is the main goal of System Testing?
+RP0093,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q055; 2025-11-07-S1-Q087,"Which keyword is used to create an instance of a class in most programming
+languages?"
+RP0094,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q057; 2024-06-12-S1-Q055,"What is the purpose of the ""super"" keyword in Java and other similar languages?"
+RP0095,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q058; 2024-06-11-S2-Q055,Which of the following best defines a class?
+RP0096,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q059; 2025-11-03-S1-Q005,Which principle ensures that only essential information is visible to the outside world?
+RP0097,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q061; 2024-06-12-S1-Q057,What are abstract methods?
+RP0098,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q064; 2024-06-11-S2-Q062,"Which library simplifies JavaScript tasks like HTML document traversal and
+manipulation?"
+RP0099,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q065; 2024-06-11-S2-Q063,What does AJAX stand for?
+RP0100,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q066; 2024-06-11-S2-Q064,How does the DOM tree structure reflect the hierarchy of HTML elements?
+RP0101,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q068; 2024-06-11-S1-Q068,"The Kleene Star operation accepts the following string of finite length over set A =
+{0,1} | where string s contains even number of 0 and 1."
+RP0102,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q070; 2025-11-07-S1-Q086,"Let u=’1101’, v=’0001’, then uv=11010001 and vu= 00011101.Using the given information
+what is the identity element for the string?"
+RP0103,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q072; 2024-06-11-S2-Q070,Minimum Number of states require to accept string ends with 101.
+RP0104,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q076; 2025-11-07-S1-Q034,"About IoT, which among the followings is not correct?"
+RP0105,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q077; 2024-06-11-S2-Q075,BLE stands for
+RP0106,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-07-S1,2023-09-12-S1-Q079; 2025-11-07-S1-Q036,A complex SCADA system has _______levels?
+RP0107,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q081; 2025-11-04-S2-Q069,Who is known as the father of AI?
+RP0108,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-12-S1,2023-09-12-S1-Q083; 2024-06-12-S1-Q082,"The algorithm used in the Game tree to make decisions of Win/Lose is
+________________?"
+RP0109,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q085; 2024-06-11-S2-Q081,The process of removing detail from a given state representation is called ______
+RP0110,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q086; 2025-11-03-S2-Q032,What does a first order predicate logic contain?
+RP0111,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q087; 2024-06-11-S2-Q084,Which of the following can improve the performance of AI agent?
+RP0112,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q089; 2024-06-11-S2-Q088,"What is the process in which a buyer posts its interest in buying a certain quantity of
+items, and sellers compete for the business by submitting successively lower bids until there is
+only one seller left?"
+RP0113,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q090; 2024-06-11-S2-Q089,"If it is easy for competitors to enter the market, the threat of new entrants is
+considered:"
+RP0114,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S1,2023-09-12-S1-Q091; 2025-11-03-S1-Q010,Which of the following refers to creating products tailored to individual customers?
+RP0115,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q093; 2025-11-03-S2-Q086,Which of the following is done by Secure Sockets Layers?
+RP0116,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q094; 2024-06-11-S2-Q095,The delay that occur during the playback of a stream is called ___________
+RP0117,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q095; 2024-06-11-S1-Q094,In teardown state of real time streaming protocol is ___________
+RP0118,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S2,2023-09-12-S1-Q096; 2024-06-11-S2-Q096,"In Real Time Interactive Audio Video, Jitter is introduced in real-time data by delay
+between____"
+RP0119,2,STET 2023; STET 2024 (First),2023-09-12-S1,2024-06-11-S1,2023-09-12-S1-Q098; 2024-06-11-S1-Q096,Audio compression can be used for____________
+RP0120,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-04-S2,2023-09-12-S1-Q099; 2025-11-04-S2-Q060,Each ___ represents a particular colour.
+RP0121,2,STET 2023,2023-09-12-S1,2023-09-12-S2,2023-09-12-S1-Q101; 2023-09-12-S2-Q101,The main aim of classroom teaching is
+RP0122,2,STET 2023,2023-09-12-S1,2023-09-12-S2,2023-09-12-S1-Q105; 2023-09-12-S2-Q105,psychomotor domain relates to
+RP0123,2,STET 2023,2023-09-12-S1,2023-09-12-S2,2023-09-12-S1-Q106; 2023-09-12-S2-Q106,Heuristic means
+RP0124,2,STET 2023,2023-09-12-S1,2023-09-18-S3,2023-09-12-S1-Q108; 2023-09-18-S3-Q111,Set induction relates to
+RP0125,2,STET 2023,2023-09-12-S1,2023-09-12-S2,2023-09-12-S1-Q109; 2023-09-12-S2-Q109,Diadactic teaching materials was introduced by
+RP0126,2,STET 2023,2023-09-12-S1,2023-09-12-S2,2023-09-12-S1-Q110; 2023-09-12-S2-Q110,The centre point of a lesson plan is
+RP0127,2,STET 2023; STET 2025,2023-09-12-S1,2025-11-03-S2,2023-09-12-S1-Q114; 2025-11-03-S2-Q101,Micro teaching is more effective
+RP0128,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q001; 2024-06-11-S1-Q005,"Consider two binary numbers A = 110001 and B = 001100. What is the result of (A
+AND B) OR (NOT A AND NOT B)?"
+RP0129,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q003; 2024-06-11-S2-Q004,How many bits are used to represent a single decimal digit in Gray Code?
+RP0130,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q004; 2024-06-11-S1-Q007,"What is the minimized expression for the Boolean function F(A, B, C, D) = Σ(0, 1, 2, 4,
+5, 6, 10, 12, 13) using the K-map method?"
+RP0131,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q005; 2024-06-12-S1-Q007,A binary-to-gray code converter is an example of:
+RP0132,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q006; 2024-06-11-S2-Q007,Which statement accurately describes a Programmable Logic Device (PLD)?
+RP0133,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q007; 2025-11-07-S1-Q021,"Which of the following applications is a typical use of microcontrollers in the field of
+home automation?"
+RP0134,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q008; 2025-11-07-S1-Q057,"What does the term ""harvard architecture"" refer to in the context of microcontrollers?"
+RP0135,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q009; 2025-11-07-S1-Q063,"What is the primary purpose of using Don't Care conditions in Karnaugh Map
+simplification?"
+RP0136,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q010; 2024-06-11-S2-Q013,"De Morgan's First Theorem states that the complement of a ___________ of
+variables is equal to the ___________ of their individual complements"
+RP0137,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q011; 2025-11-03-S2-Q033,The hexadecimal number F4 is equivalent to which binary number?
+RP0138,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q016; 2025-11-03-S1-Q080,"Which property of dynamic programming is particularly useful for solving Optimal
+Binary Search Tree problems?"
+RP0139,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q017; 2025-11-07-S1-Q004,"The Floyd-Warshall algorithm is a popular method for solving the All-Pair Shortest
+Paths problem. What is the time complexity of the Floyd-Warshall algorithm for a graph
+with ""n"" vertices?"
+RP0140,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q018; 2025-11-03-S1-Q078,"What is the time complexity of the Divide and Conquer algorithm for finding the
+maximum and minimum elements in an array of size ""n""?"
+RP0141,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q019; 2024-06-11-S2-Q020,"In multistage graphs, what is the property of optimality?"
+RP0142,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q020; 2024-06-11-S2-Q026,Which of the following is not a common example of an abstract data type?
+RP0143,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q021; 2025-11-07-S1-Q073,Which traversal technique is used to visit each node of a linked list exactly once?
+RP0144,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q023; 2024-06-12-S1-Q027,"Which representation is best suited for matrices with a small number of non-zero
+elements in each row and column?"
+RP0145,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q025; 2025-11-04-S2-Q011,"In computer graphics, arrays can be used to store pixel values for images. Which type
+of array would be suitable for this purpose?"
+RP0146,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q027; 2024-06-11-S2-Q030,The Banker's algorithm is an example of a deadlock:
+RP0147,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q028; 2025-11-04-S2-Q004,The concept of monitors was introduced by:
+RP0148,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q029; 2024-06-12-S1-Q032,"Priority Scheduling involves assigning a priority value to each process. Which
+scheduling algorithm is closely related to this concept?"
+RP0149,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q030; 2024-06-11-S2-Q032,The resource matrix is a data structure used in deadlock detection algorithms to:
+RP0150,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q031; 2024-06-12-S1-Q033,"The term ""race condition"" in parallel programming refers to:"
+RP0151,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q032; 2024-06-11-S2-Q033,The need for a command interpreter arises because:
+RP0152,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q033; 2025-11-07-S1-Q060,"The term ""multi-user"" in an OS context refers to:"
+RP0153,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q035; 2025-11-03-S2-Q055,Which of the following is a database?
+RP0154,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q036; 2024-06-11-S2-Q038,What do you mean by one to many relationships?
+RP0155,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q038; 2024-06-11-S1-Q040,Which of the following refers to the number of attributes in a relation?
+RP0156,2,STET 2023,2023-09-12-S2,2023-09-18-S3,2023-09-12-S2-Q039; 2023-09-18-S3-Q040,A report generator is used to
+RP0157,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q040; 2025-11-03-S2-Q050,"A large computer information system maintains many different computer files. Which
+amongst them is called a perpetual file?"
+RP0158,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q041; 2025-11-03-S2-Q041,Subnetting allows for:
+RP0159,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q042; 2025-11-03-S2-Q016,Upward multiplexing involves:
+RP0160,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q044; 2024-06-11-S2-Q045,The HTTP protocol is used for:
+RP0161,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q046; 2025-11-03-S1-Q011,The length of an IPv6 address is:
+RP0162,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q047; 2025-11-03-S1-Q019,The maximum length (in bytes) of an IPv4 datagram is:
+RP0163,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q050; 2025-11-04-S2-Q028,The Cost Estimation technique that involves expert judgments and consensus is called:
+RP0164,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q053; 2024-06-11-S2-Q054,"The framework that provides guidelines for achieving consistent and high-quality
+software is:"
+RP0165,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q054; 2024-06-12-S1-Q054,"Which maintenance process involves documenting the software's structure and
+functionality?"
+RP0166,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q056; 2025-11-03-S1-Q017,What is the main advantage of using abstract classes over interfaces?
+RP0167,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q057; 2024-06-11-S2-Q058,What is the main purpose of using namespaces in programming?
+RP0168,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q058; 2024-06-12-S1-Q059,"What is the term for creating a new class that inherits properties and behaviors
+from an existing class?"
+RP0169,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q059; 2025-11-03-S2-Q080,What is the primary purpose of an interface in OOP?
+RP0170,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q060; 2025-11-07-S1-Q024,What is the term for a variable that references an instance of a class?
+RP0171,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q061; 2025-11-03-S1-Q030,"What is the term for a condition that occurs during program execution that disrupts the
+normal flow of instructions?"
+RP0172,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q066; 2025-11-03-S1-Q004,What is CRUD an acronym for in database operations?
+RP0173,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q069; 2025-11-04-S2-Q044,Which of the following is type 1 language or Type 1 grammar?
+RP0174,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q070; 2024-06-11-S2-Q073,"A context free grammar G is in Chomsky normal form if every production is of the
+form"
+RP0175,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q072; 2025-11-07-S1-Q038,"According to Chomsky hierarchy, which of the following is recognized by Recursively
+Enumerable language?"
+RP0176,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q073; 2025-11-04-S2-Q046,A universal Turing machine is a--------
+RP0177,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q075; 2025-11-07-S1-Q090,Maximum read range of RFID module is?
+RP0178,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q076; 2025-11-03-S1-Q097,Which ZigBee device is used to transfer data between ZigBee devices?
+RP0179,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q077; 2025-11-03-S1-Q095,"The Internet of Things (IoT), access to real-time data, and the introduction of cyber-
+physical systems mark the big changes for this era."
+RP0180,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q078; 2025-11-07-S1-Q009,The default baud rate of Modbus RTU is?
+RP0181,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q079; 2024-06-11-S2-Q077,"__________ is an online storage drive which can be browsed and from which items
+can be shared?"
+RP0182,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q080; 2025-11-03-S1-Q071,_________ are used to overcome the challenges of managing the resources of the IoT.
+RP0183,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q082; 2024-06-11-S2-Q085,What is hyponymy relation?
+RP0184,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q083; 2024-06-11-S1-Q086,Which among the following is/are the best example of semantic networks?
+RP0185,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S1,2023-09-12-S2-Q084; 2025-11-03-S1-Q029,"The “Turing Machine” showed that you could use a/an _____ system to program any
+algorithmic task."
+RP0186,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q085; 2024-06-11-S1-Q087,Which of the following is not a Characteristics of Expert Systems?
+RP0187,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q086; 2024-06-12-S1-Q086,which of the following is Capabilities of Expert Systems?
+RP0188,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q087; 2024-06-12-S1-Q087,What is the full form of JESS in Expert System Technology?
+RP0189,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q088; 2024-06-12-S1-Q090,During E‐commerce transaction we should ensure‐‐‐‐‐‐‐‐‐‐‐‐‐
+RP0190,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q089; 2024-06-11-S2-Q091,Public key cryptography is also known as ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐cryptography.
+RP0191,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-07-S1,2023-09-12-S2-Q090; 2025-11-07-S1-Q014,Which one is not a physical threat
+RP0192,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-03-S2,2023-09-12-S2-Q091; 2025-11-03-S2-Q043,Which one is a communication channel security protocol?
+RP0193,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S2,2023-09-12-S2-Q092; 2024-06-11-S2-Q092,Which one is used toidentify mobile money
+RP0194,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q093; 2024-06-11-S1-Q093,Unclassified email is called?
+RP0195,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q095; 2024-06-12-S1-Q097,Which of the following is an example of Digital Image Processing?
+RP0196,2,STET 2023; STET 2025,2023-09-12-S2,2025-11-04-S2,2023-09-12-S2-Q096; 2025-11-04-S2-Q009,The aliasing effect on an image can be reduced using which of the following methods?
+RP0197,2,STET 2023,2023-09-12-S2,2023-09-18-S3,2023-09-12-S2-Q097; 2023-09-18-S3-Q100,Which of the following is the next step in image processing after compression?
+RP0198,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-11-S1,2023-09-12-S2-Q098; 2024-06-11-S1-Q098,Which of the following is the abbreviation of JPEG?
+RP0199,2,STET 2023; STET 2024 (First),2023-09-12-S2,2024-06-12-S1,2023-09-12-S2-Q099; 2024-06-12-S1-Q100,"Which gray-level transformation increases the dynamic range of gray-level in the
+image?"
+RP0200,2,STET 2023,2023-09-12-S2,2023-09-18-S3,2023-09-12-S2-Q108; 2023-09-18-S3-Q105,Inductive method is
+RP0201,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q001; 2025-11-04-S2-Q098,"How many inputs does a full -adder circuit have for each individual binary digit being
+added or subtracted?"
+RP0202,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q002; 2024-06-12-S1-Q003,"Which flip-flop type is known for having a forbidden state, where both inputs are
+set to '1'?"
+RP0203,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q003; 2025-11-07-S1-Q016,"What is the key advantage of using a carry-lookahead adder instead of a ripple-carry
+adder?"
+RP0204,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q004; 2025-11-03-S1-Q026,"Given binary numbers A = 101010 and B = 111111, what is the result of (A AND B) OR (A
+XOR B)?"
+RP0205,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q005; 2025-11-04-S2-Q091,"Convert the Boolean function F(A, B, C) = Σ(0, 1, 3, 5) to its simplified SOP form."
+RP0206,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q007; 2025-11-03-S2-Q094,"When adding two positive binary numbers using the 2's complement method, if the
+result has a carry-out from the most significant bit (MSB), what should be done?"
+RP0207,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q008; 2024-06-12-S1-Q009,"In Hamming Code, how are parity bits positioned within a data unit?"
+RP0208,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q009; 2025-11-03-S1-Q022,"In an ideal microcomputer, where is the Arithmetic Logic Unit (ALU) located?"
+RP0209,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q010; 2025-11-04-S2-Q099,"In which year did Intel release the first x86 microprocessor, the 8086, which laid the
+foundation for the x86 architecture widely used in personal computers?"
+RP0210,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q011; 2025-11-03-S1-Q092,"Which addressing mode involves specifying a value within the instruction itself, rather
+than referencing a memory location?"
+RP0211,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q012; 2025-11-07-S1-Q098,"Which Karnaugh Map simplification technique involves grouping cells that are not
+adjacent but share a common variable value?"
+RP0212,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q013; 2025-11-04-S2-Q040,"When using the parity bit method, how does the receiver determine if an error has
+occurred during transmission?"
+RP0213,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q014; 2025-11-03-S2-Q034,Algorithm analysis is primarily concerned with:
+RP0214,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q015; 2025-11-07-S1-Q040,"In conditional asymptotic notation, ""Θ(f(n)) if g(n)"" indicates that the algorithm's
+complexity is both upper and lower bounded by f(n) when:"
+RP0215,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q016; 2024-06-12-S1-Q016,"When analyzing the time complexity of an algorithm using Big-O notation, what
+property allows us to ignore lower-order terms?"
+RP0216,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q017; 2025-11-03-S2-Q002,"In the context of minimum spanning trees, the ""cut property"" is used to justify the
+correctness of Prim's algorithm. What does the cut property state?"
+RP0217,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q018; 2024-06-11-S1-Q020,"In the context of the All-Pair Shortest Paths algorithm, what does the term ""transitive
+property"" refer to?"
+RP0218,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q021; 2024-06-11-S1-Q024,Counting Sort is particularly efficient for sorting arrays where the range of elements is:
+RP0219,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q022; 2024-06-11-S2-Q024,Index sequential search is an improvement over sequential search that uses:
+RP0220,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q025; 2025-11-03-S2-Q066,"The Tower of Hanoi problem is a classic example of a problem that can be solved using
+recursion. How many minimum moves are required to solve the Tower of Hanoi problem
+with 3 disks?"
+RP0221,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q028; 2025-11-03-S1-Q053,"The ""inode"" in a Unix-like file system is used to:"
+RP0222,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q029; 2024-06-11-S2-Q028,"Which storage allocation strategy allocates the largest available block of memory to a
+process, ensuring that the remaining space is maximized?"
+RP0223,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q030; 2025-11-04-S2-Q092,The main advantage of the overlay technique in memory management is that it allows:
+RP0224,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q031; 2024-06-12-S1-Q031,"Which of the following is a solution to the deadlock problem that involves ensuring
+that processes hold all required resources before starting execution?"
+RP0225,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q032; 2025-11-03-S2-Q053,"The process of acquiring a semaphore and entering a critical section while ensuring
+mutual exclusion is often called:"
+RP0226,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q033; 2024-06-11-S1-Q033,"In a preemptive multitasking system, a process in the ""running"" state may be
+interrupted by:"
+RP0227,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q035; 2024-06-12-S1-Q035,Rows of a relation are known as the _______.
+RP0228,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q039; 2024-06-12-S1-Q040,Which one of the following is a type of Data Manipulation Command?
+RP0229,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S2,2023-09-18-S3-Q041; 2025-11-03-S2-Q096,What is the main purpose of the Data Link Control in the data link layer?
+RP0230,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q043; 2024-06-12-S1-Q046,"Which sublayer of the Data Link Layer manages access to the shared
+communication medium?"
+RP0231,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q045; 2025-11-04-S2-Q095,A socket is used for:
+RP0232,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q047; 2024-06-11-S1-Q047,TCP regulates the end-to-end packet flow by use of:
+RP0233,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q049; 2024-06-12-S1-Q051,White Box Testing is also known as:
+RP0234,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q050; 2025-11-04-S2-Q038,Delphi and COCOMO are techniques used for estimating:
+RP0235,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q053; 2025-11-03-S1-Q048,Which maintenance process model focuses on fixing defects as they are identified?
+RP0236,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q056; 2025-11-07-S1-Q003,Which keyword is used to define an abstract method within an abstract class?
+RP0237,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q057; 2024-06-11-S2-Q056,What is the purpose of data abstraction in OOP?
+RP0238,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q058; 2024-06-12-S1-Q056,What is polymorphism in OOP?
+RP0239,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q060; 2025-11-04-S2-Q045,Which keyword is used to indicate that a class cannot be inherited by other classes?
+RP0240,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q063; 2024-06-11-S1-Q063,What is the purpose of CSS media queries?
+RP0241,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q066; 2025-11-03-S1-Q015,"Which programming languages are commonly supported by Dreamweaver for web
+development?"
+RP0242,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q068; 2024-06-11-S2-Q068,Which of the following is not a part of quin-tuple (five tuple) finite automata?
+RP0243,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q076; 2024-06-12-S1-Q077,__________ is a light weight IoT protocol
+RP0244,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q079; 2025-11-04-S2-Q088,ZigBee architecture has ________layers?
+RP0245,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q080; 2024-06-11-S2-Q078,Resource management includes?
+RP0246,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q081; 2025-11-04-S2-Q081,AI is about
+RP0247,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q083; 2025-11-03-S1-Q066,Where will the Hill Climbing Algorithm terminate?
+RP0248,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q084; 2024-06-12-S1-Q083,"Forward chaining systems are _____________ where as backward chaining
+systems are _________"
+RP0249,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-07-S1,2023-09-18-S3-Q085; 2025-11-07-S1-Q032,Building blocks of a frame structure are?
+RP0250,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q086; 2025-11-03-S1-Q038,The advantage of using an expert system development tool is___________?
+RP0251,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q087; 2024-06-12-S1-Q085,Which of the following is not a Capabilities of Expert Systems?
+RP0252,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q088; 2024-06-11-S1-Q088,"Which products are people most likely to be more uncomfortable buying on the
+Internet?"
+RP0253,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q089; 2025-11-03-S1-Q056,Which of the following are advantages normally associated with B2B e‐commerce?
+RP0254,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-04-S2,2023-09-18-S3-Q090; 2025-11-04-S2-Q026,"Which form of e‐marketplace brings together buyers and sellers from multiple
+industries, often for MRO materials?"
+RP0255,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S1,2023-09-18-S3-Q091; 2024-06-11-S1-Q090,The study of encryption is called‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+RP0256,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-12-S1,2023-09-18-S3-Q095; 2024-06-12-S1-Q094,"In Audio and Video Compression, term RBG expresses_________"
+RP0257,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q098; 2024-06-11-S2-Q100,What are the categories of digital image processing?
+RP0258,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q099; 2025-11-03-S1-Q050,Which of the following is the first and foremost step in Image Processing?
+RP0259,2,STET 2023; STET 2025,2023-09-18-S3,2025-11-03-S1,2023-09-18-S3-Q108; 2025-11-03-S1-Q109,Drama or role play is most useful for teaching……….
+RP0260,2,STET 2023; STET 2024 (First),2023-09-18-S3,2024-06-11-S2,2023-09-18-S3-Q110; 2024-06-11-S2-Q101,The rules of presenting the contents to make them easy are called
+RP0261,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S2,2024-06-11-S1-Q017; 2025-11-03-S2-Q004,The concept of NP-Completeness was introduced by:
+RP0262,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S1,2024-06-11-S1-Q018; 2025-11-03-S1-Q044,A problem is said to be in NP if:
+RP0263,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q021; 2025-11-07-S1-Q027,"In a B tree of order m, each internal node can have up to __ children."
+RP0264,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q023; 2025-11-07-S1-Q035,"Connected components in a graph can be found using which graph traversal
+algorithm?"
+RP0265,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q028; 2025-11-04-S2-Q059,Auxiliary storage space management in an operating system involves:
+RP0266,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q030; 2025-11-04-S2-Q023,Inter-process communication (IPC) is a mechanism used for:
+RP0267,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q031; 2025-11-07-S1-Q048,Monitors are primarily used for achieving:
+RP0268,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q032; 2025-11-07-S1-Q010,The goal of synchronization mechanisms in parallel programming is to:
+RP0269,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q035; 2025-11-04-S2-Q078,"Which of the following can be used to extract or filter the data & information from the
+data warehouse?"
+RP0270,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q038; 2025-11-04-S2-Q056,"The easiest way in which we can transfer control is when the old backup site sends
+__________ to the old primary."
+RP0271,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q046; 2025-11-07-S1-Q037,Hierarchical addressing in the Network Layer allows for:
+RP0272,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q053; 2025-11-07-S1-Q068,"Which model considers risk assessment and incremental development in software
+projects?"
+RP0273,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S2,2024-06-11-S1-Q056; 2025-11-03-S2-Q095,What is the purpose of a destructor in OOP?
+RP0274,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S1,2024-06-11-S1-Q060; 2025-11-03-S1-Q009,"What is the term for the ability of a class to provide different implementations of a
+method based on the input parameters?"
+RP0275,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S1,2024-06-11-S1-Q069; 2025-11-03-S1-Q091,"The complement of a language will only be defined when and only when the __________
+over the language is defined."
+RP0276,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q074; 2025-11-04-S2-Q031,Which of the following conversion is not possible (algorithmically)?
+RP0277,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S1,2024-06-11-S1-Q075; 2025-11-03-S1-Q081,Which among the following are the limiting factors of IoT?
+RP0278,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q076; 2025-11-04-S2-Q016,Full form of MQTT is
+RP0279,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q078; 2025-11-07-S1-Q065,Zigbee is a task group in------
+RP0280,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q079; 2025-11-04-S2-Q075,The popular method of organizing wireless network topologies are?
+RP0281,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S1,2024-06-11-S1-Q080; 2025-11-03-S1-Q008,"Even with two-factor authentication, users may still be vulnerable
+to_____________attacks"
+RP0282,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-04-S2,2024-06-11-S1-Q081; 2025-11-04-S2-Q055,The applications of AI includes
+RP0283,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q082; 2025-11-07-S1-Q001,"If a robot is able to change its own trajectory as per the external conditions, then the
+robot is considered as the_"
+RP0284,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-03-S1,2024-06-11-S1-Q083; 2025-11-03-S1-Q033,Which among the following search algorithm requires least memory?
+RP0285,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q085; 2025-11-07-S1-Q062,A* search algorithm is based on?
+RP0286,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q121; 2025-11-07-S1-Q114,What is the 4 steps for constructing a test ?
+RP0287,2,STET 2024 (First); STET 2025,2024-06-11-S1,2025-11-07-S1,2024-06-11-S1-Q123; 2025-11-07-S1-Q107,In M.C.Q the correct option is:
+RP0288,2,STET 2024 (First); STET 2025,2024-06-11-S2,2025-11-07-S1,2024-06-11-S2-Q104; 2025-11-07-S1-Q102,The number of domains in taxonomies of educational objective is
+RP0289,2,STET 2024 (First); STET 2025,2024-06-11-S2,2025-11-04-S2,2024-06-11-S2-Q145; 2025-11-04-S2-Q145,What is the remainder when 2765 is divided by 6?
+RP0290,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-07-S1,2024-06-12-S1-Q053; 2025-11-07-S1-Q055,"What does the term ""Software Maintenance"" refer to?"
+RP0291,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-04-S2,2024-06-12-S1-Q063; 2025-11-04-S2-Q008,What is an entity in DTD?
+RP0292,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-04-S2,2024-06-12-S1-Q064; 2025-11-04-S2-Q006,What does SQL stand for?
+RP0293,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-03-S2,2024-06-12-S1-Q067; 2025-11-03-S2-Q039,Which SQL statement is used to update data in a database?
+RP0294,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-03-S2,2024-06-12-S1-Q070; 2025-11-03-S2-Q031,Regular expression for all strings starts with b and ends with bba is.
+RP0295,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-07-S1,2024-06-12-S1-Q073; 2025-11-07-S1-Q097,PDA can be represented with the help of
+RP0296,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-03-S1,2024-06-12-S1-Q075; 2025-11-03-S1-Q014,"Who used the term ""IoT"" fist?"
+RP0297,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-03-S1,2024-06-12-S1-Q080; 2025-11-03-S1-Q084,The default value of the transaction identifier in a Modbus TCP packet is?
+RP0298,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-03-S1,2024-06-12-S1-Q119; 2025-11-03-S1-Q121,You want to adopt the teaching profession because
+RP0299,2,STET 2024 (First); STET 2025,2024-06-12-S1,2025-11-07-S1,2024-06-12-S1-Q136; 2025-11-07-S1-Q144,"“Family is a unit consisting of a mother, father and their two children”. This statement
+is"
+RP0300,2,STET 2025,2025-11-03-S1,2025-11-04-S2,2025-11-03-S1-Q012; 2025-11-04-S2-Q021,"Select the correct option to fill in the blank : A ___________ is an online platform or
+website where individuals or businesses regularly publish articles/journals, known as
+posts, on various topics."
+RP0301,1,STET 2025,2025-11-07-S1,2025-11-07-S1,2025-11-07-S1-Q104; 2025-11-07-S1-Q119,Which type of lesson plan is concise and focused on specific concepts or skills?

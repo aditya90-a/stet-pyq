@@ -1,0 +1,296 @@
+[
+ {
+  "a": "2024-06-11-S1-Q057",
+  "b": "2024-06-11-S2-Q058",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q058",
+  "b": "2024-06-12-S1-Q060",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q083",
+  "b": "2024-06-11-S1-Q085",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q090",
+  "b": "2024-06-11-S2-Q090",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q098",
+  "b": "2024-06-11-S2-Q097",
+  "verdict": "concept",
+  "reason": "Tests the same specific concept/rule or reverse direction/different numbers, not identical question."
+ },
+ {
+  "a": "2024-06-11-S1-Q103",
+  "b": "2024-06-11-S2-Q114",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q108",
+  "b": "2024-06-11-S1-Q112",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q110",
+  "b": "2024-06-11-S1-Q144",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q112",
+  "b": "2024-06-12-S1-Q108",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q122",
+  "b": "2024-06-11-S2-Q121",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q122",
+  "b": "2024-06-12-S1-Q121",
+  "verdict": "concept",
+  "reason": "Tests the same specific concept/rule or reverse direction/different numbers, not identical question."
+ },
+ {
+  "a": "2024-06-11-S1-Q144",
+  "b": "2024-06-12-S1-Q144",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q146",
+  "b": "2024-06-11-S2-Q146",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S1-Q149",
+  "b": "2024-06-11-S2-Q148",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q010",
+  "b": "2024-06-12-S1-Q013",
+  "verdict": "concept",
+  "reason": "Tests the same specific concept/rule or reverse direction/different numbers, not identical question."
+ },
+ {
+  "a": "2024-06-11-S2-Q015",
+  "b": "2024-06-12-S1-Q016",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q016",
+  "b": "2024-06-12-S1-Q017",
+  "verdict": "concept",
+  "reason": "Tests the same specific concept/rule or reverse direction/different numbers, not identical question."
+ },
+ {
+  "a": "2024-06-11-S2-Q017",
+  "b": "2024-06-12-S1-Q018",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q019",
+  "b": "2024-06-12-S1-Q020",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q028",
+  "b": "2024-06-12-S1-Q030",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q030",
+  "b": "2024-06-12-S1-Q031",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q036",
+  "b": "2024-06-12-S1-Q029",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q040",
+  "b": "2024-06-12-S1-Q040",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q044",
+  "b": "2024-06-11-S2-Q045",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q045",
+  "b": "2024-06-12-S1-Q043",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q049",
+  "b": "2024-06-12-S1-Q049",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q050",
+  "b": "2024-06-12-S1-Q051",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q053",
+  "b": "2024-06-12-S1-Q053",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q059",
+  "b": "2024-06-11-S2-Q060",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q060",
+  "b": "2024-06-12-S1-Q055",
+  "verdict": "concept",
+  "reason": "Tests the same specific concept/rule or reverse direction/different numbers, not identical question."
+ },
+ {
+  "a": "2024-06-11-S2-Q067",
+  "b": "2024-06-12-S1-Q065",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q069",
+  "b": "2024-06-12-S1-Q073",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q069",
+  "b": "2024-06-12-S1-Q074",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q085",
+  "b": "2024-06-11-S2-Q087",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q090",
+  "b": "2024-06-12-S1-Q089",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q093",
+  "b": "2024-06-12-S1-Q092",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q102",
+  "b": "2024-06-12-S1-Q102",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q110",
+  "b": "2024-06-12-S1-Q109",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q121",
+  "b": "2024-06-11-S2-Q123",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q121",
+  "b": "2024-06-12-S1-Q121",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q121",
+  "b": "2024-06-12-S1-Q122",
+  "verdict": "concept",
+  "reason": "Tests the same specific concept/rule or reverse direction/different numbers, not identical question."
+ },
+ {
+  "a": "2024-06-11-S2-Q123",
+  "b": "2024-06-12-S1-Q121",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q123",
+  "b": "2024-06-12-S1-Q122",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-11-S2-Q126",
+  "b": "2024-06-12-S1-Q114",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-12-S1-Q065",
+  "b": "2024-06-12-S1-Q067",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-12-S1-Q073",
+  "b": "2024-06-12-S1-Q074",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-12-S1-Q085",
+  "b": "2024-06-12-S1-Q086",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-12-S1-Q094",
+  "b": "2024-06-12-S1-Q147",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ },
+ {
+  "a": "2024-06-12-S1-Q121",
+  "b": "2024-06-12-S1-Q122",
+  "verdict": "different",
+  "reason": "Shares only topic or keywords; asks a different fact or has a different answer."
+ }
+]

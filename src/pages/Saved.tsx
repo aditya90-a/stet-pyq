@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { IBookmark, IDownload, IPlay, IRotate, ITrophy, IUpload } from "../components/Icons";
 import { MoreList, QuestionRow } from "../components/QuestionRow";
@@ -6,6 +6,7 @@ import { AppBar, Empty, Notice, Seg } from "../components/ui";
 import { useData } from "../data/store";
 import { fmtDuration } from "../lib/format";
 import { needsRevision, type UserState } from "../lib/storage";
+import { rememberList } from "../lib/questionNav";
 import { useQueryState } from "../lib/useQueryState";
 
 type Tab = "bookmarks" | "mistakes" | "history";
@@ -17,6 +18,8 @@ export function Saved() {
   const [page, setPage] = useState(1);
   const revise = needsRevision(user).filter((id) => ds.byId.has(id));
   const bookmarks = user.bookmarks.filter((id) => ds.byId.has(id));
+  const shown = tab === "mistakes" ? revise : bookmarks;
+  useEffect(() => rememberList(shown, tab === "mistakes" ? "Mistakes" : "Saved"), [shown.join(","), tab]); // eslint-disable-line react-hooks/exhaustive-deps
   const practice = (ids: string[]) => `/practice?ids=${ids.slice(0, 300).join(",")}`;
 
   const backup = () => {

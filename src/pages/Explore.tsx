@@ -5,6 +5,7 @@ import { AppBar, Choices, Empty, Seg, Sheet } from "../components/ui";
 import { useData } from "../data/store";
 import { filterQuestions, sortQuestions, type QuestionFilter } from "../lib/filters";
 import { fmtNum } from "../lib/format";
+import { rememberList } from "../lib/questionNav";
 import { useQueryState } from "../lib/useQueryState";
 
 const KEYS = ["q", "subject", "topic", "year", "paper", "repeat"] as const;
@@ -27,6 +28,8 @@ export function Explore() {
 
   const f: QuestionFilter = state;
   const results = useMemo(() => sortQuestions(ds, filterQuestions(ds, f), f.repeat ? "repeats" : "paper"), [ds, f]);
+
+  useEffect(() => rememberList(results.map((q) => q.id), state.q ? `“${state.q}”` : state.repeat ? "Repeated questions" : "All questions"), [results, state.q, state.repeat]);
 
   const subjects = Object.keys(ds.stats.bySubject);
   const topics = [...new Set(ds.questions.filter((q) => !state.subject || q.classification.subject === state.subject).map((q) => q.classification.topic))].sort();

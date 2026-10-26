@@ -8,6 +8,7 @@ import { assetUrl, useData } from "../data/store";
 import type { Dataset } from "../data/types";
 import { fmtDuration, fmtNum } from "../lib/format";
 import { buildTest, defaultConfig, eligible, scoreTest, type TestConfig, type TestState } from "../lib/practice";
+import { rememberList } from "../lib/questionNav";
 import { needsRevision, recordAttempt } from "../lib/storage";
 
 /** Section sizes observed in every available paper (and in syllabus.jpeg); not an official notification. */
@@ -112,11 +113,11 @@ function Hub() {
   const nav = useNavigate();
   const revise = needsRevision(user).length;
   const presets: { p: Preset; icon: typeof IZap; tint: string; title: string; sub: string; disabled?: boolean }[] = [
-    { p: "quick", icon: IZap, tint: "tint-accent", title: "Quick 20", sub: "Random mix from all papers, answers as you go" },
-    { p: "repeated", icon: IFlame, tint: "tint-flame", title: "Most repeated", sub: `${ds.stats.totals.repeatGroups} questions asked in 2+ papers` },
-    { p: "mock", icon: ITimer, tint: "tint-warning", title: "Full mock test", sub: "150 questions · 150 minutes · exam pattern" },
-    { p: "mistakes", icon: IRotate, tint: "tint-critical", title: "My mistakes", sub: revise ? `${revise} questions to get right` : "Questions you get wrong land here", disabled: !revise },
-    { p: "custom", icon: ITarget, tint: "tint-good", title: "Choose topic", sub: "Pick subject, topic and size" },
+    { p: "quick", icon: IZap, tint: "mode-blue", title: "Quick 20", sub: "Random mix from all papers, answers as you go" },
+    { p: "repeated", icon: IFlame, tint: "mode-gold", title: "Most repeated", sub: `${ds.stats.totals.repeatGroups} questions asked in 2+ papers` },
+    { p: "mock", icon: ITimer, tint: "mode-rose", title: "Full mock test", sub: "150 questions · 150 minutes · exam pattern" },
+    { p: "mistakes", icon: IRotate, tint: "mode-red", title: "My mistakes", sub: revise ? `${revise} questions to get right` : "Questions you get wrong land here", disabled: !revise },
+    { p: "custom", icon: ITarget, tint: "mode-green", title: "Choose topic", sub: "Pick subject, topic and size" },
   ];
   return (
     <>
@@ -125,7 +126,7 @@ function Hub() {
         <div className="stack" style={{ gap: 10 }}>
           {presets.map((x) => (
             <button key={x.p} className="preset" disabled={x.disabled} style={x.disabled ? { opacity: 0.55 } : undefined} onClick={() => nav(`/practice?preset=${x.p}`)}>
-              <span className={`qa-icon ${x.tint}`}>
+              <span className={`qa-icon solid ${x.tint}`}>
                 <x.icon />
               </span>
               <span className="li-body">
@@ -136,7 +137,7 @@ function Hub() {
             </button>
           ))}
           <Link className="preset" to="/papers">
-            <span className="qa-icon tint-accent">
+            <span className="qa-icon solid mode-violet">
               <ICalendar />
             </span>
             <span className="li-body">
@@ -411,7 +412,8 @@ function Ring({ pct }: { pct: number }) {
 function Result({ ds, st, onNew }: { ds: Dataset; st: TestState; onNew: () => void }) {
   const res = useMemo(() => scoreTest(ds, st), [ds, st]);
   const [view, setView] = useState<"wrong" | "skipped" | "correct">(res.wrong ? "wrong" : res.unanswered ? "skipped" : "correct");
-  const list = res.perQuestion.filter((r) => (view === "wrong" ? r.correct === false : view === "skipped" ? r.correct === null : r.correct === true));
+  const list = useMemo(() => res.perQuestion.filter((r) => (view === "wrong" ? r.correct === false : view === "skipped" ? r.correct === null : r.correct === true)), [res, view]);
+  useEffect(() => rememberList(list.map((r) => r.id), "Test review"), [list]);
   const retry = res.perQuestion.filter((r) => r.correct !== true).map((r) => r.id);
   const nav = useNavigate();
   return (

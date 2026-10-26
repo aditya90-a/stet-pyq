@@ -1,6 +1,6 @@
 // Offline support: the app shell is network-first (so updates arrive), everything else is
 // stale-while-revalidate (instant from cache, refreshed in the background).
-const CACHE = "stet-pyq-v1";
+const CACHE = "stet-pyq-v2";
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(["./", "./index.html", "./manifest.webmanifest"])).then(() => self.skipWaiting()));

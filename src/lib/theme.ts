@@ -23,7 +23,7 @@ export function useTheme() {
       /* private mode */
     }
     const dark = theme ? theme === "dark" : window.matchMedia?.("(prefers-color-scheme: dark)").matches;
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", dark ? "#0b0c12" : "#f4f5fa");
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", dark ? "#0a0f1e" : "#f3f6fd");
   }, [theme]);
   const effective: Theme = theme ?? (window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light");
   return { theme, effective, setTheme, toggle: () => setTheme(effective === "dark" ? "light" : "dark") };

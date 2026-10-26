@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { IFlame, IPlay, ISearch, IX } from "../components/Icons";
 import { MoreList } from "../components/QuestionRow";
@@ -6,6 +6,7 @@ import { AppBar, Empty, Seg } from "../components/ui";
 import { useData } from "../data/store";
 import type { Dataset, Group } from "../data/types";
 import { fmtNum } from "../lib/format";
+import { rememberList } from "../lib/questionNav";
 import { matchesQuery, queryTerms } from "../lib/search";
 
 export type FamilyKind = "exact" | "paraphrase";
@@ -71,6 +72,7 @@ export function Repeats() {
       return true;
     });
   }, [all, ds, spread, text]);
+  useEffect(() => rememberList(list.map((g) => g.canonical), "Most repeated"), [list]);
   const threePlus = all.filter((g) => g.distinctPapers >= 3).length;
   const practice = "/practice?preset=repeated";
 

@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set3-q110",
+  "copies": [
+   "2021-set3-q110"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "लिटिल oh(o) एसिमटोटिक नोटेशन के बारे में निम्नलिखित में से कौन सा/से सत्य है/हैं?\nI. f(x) = o(g(x)) iff f(x) = O(g(x))\nII. f(x) = o(g(x)) iff f(x) ¹ W (g(x))",
+  "options": [
+   "A) केवल I",
+   "B) केवल II",
+   "C) I तथा II दोनों",
+   "D) ना ही I ना ही II"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q111",
+  "copies": [
+   "2021-set3-q111"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, val=1;\nk= ++val*++val;\nprintf(\"%d\",k);\n}",
+  "options": [
+   "A) 1",
+   "B) 4",
+   "C) 9",
+   "D) 16"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q112",
+  "copies": [
+   "2021-set3-q112"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The height of a tree is the length of the longest path from root to leaf. What is the maximum and minimum number of nodes in a binary tree of\nheight ‘n’?",
+  "options": [
+   "A) 2^n + 1 –1, n +1",
+   "B) 2^n – 1, n – 1",
+   "C) 2^n, n + 1",
+   "D) 2^n – 1 – 1"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q114",
+  "copies": [
+   "2021-set3-q114"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ mode allows transmission in both directions simultaneously.",
+  "options": [
+   "A) Duplex",
+   "B) Half duplex",
+   "C) Simplex",
+   "D) Half simplex"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q115",
+  "copies": [
+   "2021-set3-q115"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many bits are required to represent (1000)_10 in BCD code?",
+  "options": [
+   "A) 16 bits",
+   "B) 10 bits",
+   "C) 32 bits",
+   "D) 4 bits"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q116",
+  "copies": [
+   "2021-set3-q116"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What will be the quotient when (100001)_2 is divided by (110)_2?",
+  "options": [
+   "A) (101)_2",
+   "B) (110)_2",
+   "C) (001)_2",
+   "D) (100)_2"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q117",
+  "copies": [
+   "2021-set3-q117"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of ‘The EDVAC’, the first generation computer?",
+  "options": [
+   "A) The electronic discrete variable automatic computer",
+   "B) The electronic digital variable automatic computer",
+   "C) The electronic discrete variable automatic calculator",
+   "D) The electronic digital variable automatic calculator"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q118",
+  "copies": [
+   "2021-set3-q118"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which generation of computer used transistor?",
+  "options": [
+   "A) First",
+   "B) Second",
+   "C) Third",
+   "D) Fourth"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q119",
+  "copies": [
+   "2021-set3-q119"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true about control unit?\nI. It manages and coordinate the entire computer system\nII. It does not perform any actual processing on data",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q120",
+  "copies": [
+   "2021-set3-q120"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a non-positional number system?",
+  "options": [
+   "A) Decimal",
+   "B) Roman",
+   "C) Octal",
+   "D) Binary"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q121",
+  "copies": [
+   "2021-set3-q121"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "2 resistors of 4 ohm each are connected in series. What is their equivalent resistance?",
+  "options": [
+   "A) 2 ohm",
+   "B) 16 ohm",
+   "C) 8 ohm",
+   "D) 4 ohm"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q124",
+  "copies": [
+   "2021-set3-q124"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair is correct?\nI. RTL – Saturated bipolar logic family\nII. ECL – Non-Saturated bipolar logic family",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q125",
+  "copies": [
+   "2021-set3-q125"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In a multiplexer, the number of input lines is ‘n’ and the number of select lines is ‘m’. Which of the following is correct?",
+  "options": [
+   "A) 2^m = n",
+   "B) 2^n = m",
+   "C) 2m = n",
+   "D) 2n = m"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q126",
+  "copies": [
+   "2021-set3-q126"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In a JK flip flop, if J = K, then resulting flip flop is ______.",
+  "options": [
+   "A) SR",
+   "B) Clocked SR",
+   "C) T",
+   "D) D"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q128",
+  "copies": [
+   "2021-set3-q128"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is an alternative to the log-based recovery schemes in database recovery system?",
+  "options": [
+   "A) Shadow paging",
+   "B) Defragmentation",
+   "C) Prepaging",
+   "D) Demand paging"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q130",
+  "copies": [
+   "2021-set3-q130"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a unique identifier created by database management system to identify the relative starting time of a transaction.",
+  "options": [
+   "A) Timestamp",
+   "B) Spoofing",
+   "C) Shadow paging",
+   "D) Deadlock"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q131",
+  "copies": [
+   "2021-set3-q131"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT a variant of time stamp-based method of concurrency control in database management system?",
+  "options": [
+   "A) Total time stamp ordering",
+   "B) Partial time stamp ordering",
+   "C) Multi version time stamp ordering",
+   "D) Multilevel time stamp ordering"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q132",
+  "copies": [
+   "2021-set3-q132"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ describes the process of deciding about putting data to different sites in distributed database system.",
+  "options": [
+   "A) Data sharing",
+   "B) Data allocation",
+   "C) Data storing",
+   "D) Data mining"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q133",
+  "copies": [
+   "2021-set3-q133"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a technique of breaking up database into logical units, which may be assigned for storage at the various sites in distributed database\nsystem.",
+  "options": [
+   "A) Data normalization",
+   "B) Data mining",
+   "C) Data binding",
+   "D) Data fragmentation"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q134",
+  "copies": [
+   "2021-set3-q134"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a Comparison operator in Structured Query Language?",
+  "options": [
+   "A) +",
+   "B) *",
+   "C) /",
+   "D) >="
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q135",
+  "copies": [
+   "2021-set3-q135"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which logical gate is used to represent product of sum expression?",
+  "options": [
+   "A) EX-OR gate",
+   "B) AND gate",
+   "C) OR gate",
+   "D) NOR gate"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q136",
+  "copies": [
+   "2021-set3-q136"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In D flip-flop, if D = 1, then the output of the D flip-flop is ______, but if D = 0, then the output of D flip-flop goes to ______ state.",
+  "options": [
+   "A) 0; 1",
+   "B) 1; 0",
+   "C) 0; 0",
+   "D) 1; 1"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q138",
+  "copies": [
+   "2021-set3-q138"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "By how many different ways micro-operation encountered in digital computers are classified?",
+  "options": [
+   "A) One",
+   "B) Two",
+   "C) Three",
+   "D) Four"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q139",
+  "copies": [
+   "2021-set3-q139"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many bits are required to distinguish between a direct and an indirect address?",
+  "options": [
+   "A) 1",
+   "B) 2",
+   "C) 3",
+   "D) 4"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q140",
+  "copies": [
+   "2021-set3-q140"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true about wire framing of website?\nI. Showing which content will appear on which page\nII. Showing navigator between pages",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q141",
+  "copies": [
+   "2021-set3-q141"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of MTTF in software reliability?",
+  "options": [
+   "A) Minimum time to failure",
+   "B) Maximum time to failure",
+   "C) Mean time to failure",
+   "D) Median time to failure"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q142",
+  "copies": [
+   "2021-set3-q142"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the other name of Linear Sequential model in software engineering?",
+  "options": [
+   "A) Spiral model",
+   "B) Waterfall model",
+   "C) Prototype model",
+   "D) RAD model"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q143",
+  "copies": [
+   "2021-set3-q143"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ model is a “high speed” adaption of the linear sequential model in software engineering.",
+  "options": [
+   "A) Prototype model",
+   "B) Rapid Application development model",
+   "C) Spiral model",
+   "D) Waterfall model"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q144",
+  "copies": [
+   "2021-set3-q144"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not a project estimation technique in software engineering?",
+  "options": [
+   "A) Empirical techniques",
+   "B) Heuristic techniques",
+   "C) Analytical techniques",
+   "D) Prototyping techniques"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q145",
+  "copies": [
+   "2021-set3-q145"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true regarding PERT chart in software project management?\nI. PERT charts consists of a network of boxes and arrows.\nII. In PERT chart, the boxes represent activities and the arrow represents task dependencies.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q147",
+  "copies": [
+   "2021-set3-q147"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is COHESION in software design?",
+  "options": [
+   "A) Cohesion is a measure of complexity of module of a software",
+   "B) Cohesion is a measure of functional strength of a module of a software",
+   "C) Cohesion is a measure of functional weakness of a module of a software",
+   "D) Cohesion is a measure of efficiency of a module of a software"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q148",
+  "copies": [
+   "2021-set3-q148"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are correct about java programming?\nI. All functions in java must be members of some class\nII. Member functions are called methods in java",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q149",
+  "copies": [
+   "2021-set3-q149"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the output of the following java code?\nint m = 1000;\nint k = 3000;\nwhile (+ + m < – – k);\nSystem.out.println(m);",
+  "options": [
+   "A) Error",
+   "B) 1000",
+   "C) 2000",
+   "D) 4000"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q150",
+  "copies": [
+   "2021-set3-q150"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The time required to wait until Read/Write head comes under a desired sector is known as ______.",
+  "options": [
+   "A) Seek time",
+   "B) Execution time",
+   "C) Wait time",
+   "D) Rotational delay"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q151",
+  "copies": [
+   "2021-set3-q151"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is used to transfer the data directly to main memory without using CPU.",
+  "options": [
+   "A) Device driver",
+   "B) Input/Output interface",
+   "C) DMA controller",
+   "D) Memory Address Register"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q152",
+  "copies": [
+   "2021-set3-q152"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A computer system has 7 tape drives. There are ‘n’ processes competing for them. Each process may need 2 tape drives. What is the maximum\nvalue of ‘n’ for which the system is guaranteed to be deadlock free?",
+  "options": [
+   "A) 2",
+   "B) 3",
+   "C) 4",
+   "D) 1"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q153",
+  "copies": [
+   "2021-set3-q153"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A 500 kbyte memory is managed using variable memory partitions and are allowed for compaction. It is currently using 2 partitions of sizes 100\nkbytes and 130kbytes respectively. The smallest allocation request in kbytes that could be denied is for ______.",
+  "options": [
+   "A) 250",
+   "B) 270",
+   "C) 271",
+   "D) 170"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q154",
+  "copies": [
+   "2021-set3-q154"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which principles are used in digitization of multimedia content?\nI. Sampling\nII. Quantization",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q155",
+  "copies": [
+   "2021-set3-q155"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is used to reduce the size of multimedia files.",
+  "options": [
+   "A) Data compression",
+   "B) Data coupling",
+   "C) Data handling",
+   "D) Data dependency"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q157",
+  "copies": [
+   "2021-set3-q157"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "ARQ (Automatic Repeat Request) is:",
+  "options": [
+   "A) asking question and getting the reply",
+   "B) protocol in which the sends for positive acknowledgement before advancing to the next data item",
+   "C) protocol allows a newly booted workstation to broadcast its Ethernet address",
+   "D) protocol allows both manual IP address assign infant and automatic assignment"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q158",
+  "copies": [
+   "2021-set3-q158"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not an example of unguided transmission media?",
+  "options": [
+   "A) Radio transmission",
+   "B) Microwave transmission",
+   "C) Coaxial cable",
+   "D) Light transmission"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q159",
+  "copies": [
+   "2021-set3-q159"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of WDMA protocol?",
+  "options": [
+   "A) Wide Division Multiple Access Protocol",
+   "B) Wide Digital Multiple Access Protocol",
+   "C) Wavelength Digital Multiple Access Protocol",
+   "D) Wavelength Division Multiple Access Protocol"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q161",
+  "copies": [
+   "2021-set3-q161"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "_______ gives the location of a resouce on the internet.",
+  "options": [
+   "A) URL",
+   "B) TCP/IP",
+   "C) Domain name",
+   "D) IP address"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q162",
+  "copies": [
+   "2021-set3-q162"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a set of rules that governs how two computer system interact.",
+  "options": [
+   "A) Syntax",
+   "B) Rules",
+   "C) Protocol",
+   "D) Grammar"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q163",
+  "copies": [
+   "2021-set3-q163"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a CPU independent machine language style instruction set into which .NET Framework program are compiled.",
+  "options": [
+   "A) Machine language",
+   "B) High level language",
+   "C) Intermediate language",
+   "D) Assembly language"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q164",
+  "copies": [
+   "2021-set3-q164"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a symbol used to represent special files in Linux OS.",
+  "options": [
+   "A) d",
+   "B) e",
+   "C) c",
+   "D) s"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q165",
+  "copies": [
+   "2021-set3-q165"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT the correct characteristic of Security Socket Layer (SSL)?",
+  "options": [
+   "A) It requires a server certificate.",
+   "B) It operates at TCP/IP transport layer.",
+   "C) It uses a dedicated TCP/IP socket.",
+   "D) It operates between the network and transport layer."
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q166",
+  "copies": [
+   "2021-set3-q166"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding m-commerce?\nI. Mobile security is one of the prominent impediments of m-commerce.\nII. M-commerce reduces overall transaction cost through streamlined business processes.\nIII. Mobile coupons and mobile ticket delivery are m-commerce services.",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I, II and III",
+   "D) Only III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q167",
+  "copies": [
+   "2021-set3-q167"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not the collision resolution technique of hashing?",
+  "options": [
+   "A) Double hashing",
+   "B) Quadratic probing",
+   "C) Chaining",
+   "D) Folding"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q168",
+  "copies": [
+   "2021-set3-q168"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is stable sort?",
+  "options": [
+   "A) Selection sort",
+   "B) Quick sort",
+   "C) Heap sort",
+   "D) Merge sort"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

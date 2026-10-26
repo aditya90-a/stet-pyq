@@ -1,0 +1,332 @@
+[
+ {
+  "a": "2021-set4-q086",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set4-q086",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Tense blank vs relative pronoun blank; different."
+ },
+ {
+  "a": "2021-set4-q089",
+  "b": "2021-set5-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different words (encounter vs consistent)."
+ },
+ {
+  "a": "2021-set4-q090",
+  "b": "2021-set5-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different words (allegiance vs appellant)."
+ },
+ {
+  "a": "2021-set4-q091",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set4-q091",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Correct spelling of different words."
+ },
+ {
+  "a": "2021-set4-q091",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set4-q092",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set4-q092",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Incorrect spelling among different word sets."
+ },
+ {
+  "a": "2021-set4-q093",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q093",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q093",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q094",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q094",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q097",
+  "b": "2021-set4-q100",
+  "verdict": "different",
+  "reason": "Same FSSAI passage but different questions (norm not taken vs who directed)."
+ },
+ {
+  "a": "2021-set4-q104",
+  "b": "2021-set5-q123",
+  "verdict": "different",
+  "reason": "Input device identification vs impact printer identification."
+ },
+ {
+  "a": "2021-set4-q111",
+  "b": "2021-set5-q114",
+  "verdict": "different",
+  "reason": "C comma operator vs integer division with pre-increment."
+ },
+ {
+  "a": "2021-set4-q114",
+  "b": "2021-set5-q119",
+  "verdict": "different",
+  "reason": "Types of real-time OS vs network OS definition."
+ },
+ {
+  "a": "2021-set4-q128",
+  "b": "2021-set5-q135",
+  "verdict": "concept",
+  "reason": "Both test connection traps in ER modelling (fan and chasm traps)."
+ },
+ {
+  "a": "2021-set4-q129",
+  "b": "2021-set5-q136",
+  "verdict": "different",
+  "reason": "ER symbols for different elements (multivalued attribute vs 1:1 cardinality)."
+ },
+ {
+  "a": "2021-set4-q131",
+  "b": "2021-set5-q139",
+  "verdict": "concept",
+  "reason": "Both apply memory sizing rule: address lines = log2(words), data lines = word size."
+ },
+ {
+  "a": "2021-set4-q160",
+  "b": "2021-set4-q168",
+  "verdict": "different",
+  "reason": "TCP/IP protocol matching vs firewall matching."
+ },
+ {
+  "a": "2021-set4-q168",
+  "b": "2023-06-24-s2-q169",
+  "verdict": "different",
+  "reason": "Firewall matching vs TCP port matching."
+ },
+ {
+  "a": "2021-set4-q172",
+  "b": "2021-set4-q173",
+  "verdict": "different",
+  "reason": "Radix sort pass vs selection sort pass; different algorithms."
+ },
+ {
+  "a": "2021-set5-q003",
+  "b": "2021-set5-q163",
+  "verdict": "concept",
+  "reason": "Both test RBI monetary policy instruments (repo, reverse repo, bank rate)."
+ },
+ {
+  "a": "2021-set5-q029",
+  "b": "2023-06-24-s2-q001",
+  "verdict": "different",
+  "reason": "Different circular seating arrangements."
+ },
+ {
+  "a": "2021-set5-q030",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set5-q031",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set5-q039",
+  "b": "2023-06-24-s2-q014",
+  "verdict": "different",
+  "reason": "Pattern completion vs embedded figure."
+ },
+ {
+  "a": "2021-set5-q040",
+  "b": "2023-06-24-s2-q013",
+  "verdict": "different",
+  "reason": "Mirror images of different figures with different mirror positions."
+ },
+ {
+  "a": "2021-set5-q064",
+  "b": "2021-set5-q066",
+  "verdict": "different",
+  "reason": "Meanings of different word pairs."
+ },
+ {
+  "a": "2021-set5-q064",
+  "b": "2021-set5-q067",
+  "verdict": "different",
+  "reason": "Word pair meaning vs antonym."
+ },
+ {
+  "a": "2021-set5-q072",
+  "b": "2021-set5-q073",
+  "verdict": "different",
+  "reason": "Exclamation mark vs question mark; different rules."
+ },
+ {
+  "a": "2021-set5-q074",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set5-q083",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set5-q084",
+  "b": "2023-06-24-s2-q069",
+  "verdict": "different",
+  "reason": "Simple present habit vs 'No sooner did' construction; different rules."
+ },
+ {
+  "a": "2021-set5-q084",
+  "b": "2023-06-24-s2-q070",
+  "verdict": "different",
+  "reason": "Different sentence improvement errors."
+ },
+ {
+  "a": "2021-set5-q085",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Vocabulary blank vs relative pronoun blank."
+ },
+ {
+  "a": "2021-set5-q091",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set5-q093",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set5-q157",
+  "b": "2021-set5-q158",
+  "verdict": "different",
+  "reason": "Different statements about processes/threads; different facts tested."
+ },
+ {
+  "a": "2021-set5-q187",
+  "b": "2023-06-24-s2-q121",
+  "verdict": "different",
+  "reason": "Mean of mode and median vs set difference and product."
+ },
+ {
+  "a": "2021-set5-q193",
+  "b": "2023-06-24-s2-q197",
+  "verdict": "concept",
+  "reason": "Both test features of formative assessment (regular, informal, diagnostic, remedial)."
+ },
+ {
+  "a": "2023-06-24-s2-q005",
+  "b": "2023-06-24-s2-q016",
+  "verdict": "different",
+  "reason": "Letter series vs number series."
+ },
+ {
+  "a": "2023-06-24-s2-q011",
+  "b": "2023-06-24-s2-q012",
+  "verdict": "different",
+  "reason": "Different odd-one-out letter-cluster patterns."
+ },
+ {
+  "a": "2023-06-24-s2-q011",
+  "b": "2023-06-24-s2-q017",
+  "verdict": "different",
+  "reason": "Letter-cluster odd one vs number-pair odd one."
+ },
+ {
+  "a": "2023-06-24-s2-q012",
+  "b": "2023-06-24-s2-q017",
+  "verdict": "different",
+  "reason": "Letter-cluster odd one vs number-pair odd one."
+ },
+ {
+  "a": "2023-06-24-s2-q069",
+  "b": "2023-06-24-s2-q070",
+  "verdict": "different",
+  "reason": "'No sooner did' construction vs tense consistency; different rules."
+ },
+ {
+  "a": "2023-06-24-s2-q077",
+  "b": "2023-06-24-s2-q080",
+  "verdict": "different",
+  "reason": "Same passage but true/false statement vs synonym; different questions."
+ },
+ {
+  "a": "2023-06-24-s2-q082",
+  "b": "2023-06-24-s2-q083",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blank with different sentences and answers."
+ },
+ {
+  "a": "2023-06-24-s2-q093",
+  "b": "2023-06-24-s2-q097",
+  "verdict": "different",
+  "reason": "'Not a synonym' for different words (thakan vs kewal)."
+ },
+ {
+  "a": "2023-06-24-s2-q115",
+  "b": "2023-06-24-s2-q155",
+  "verdict": "different",
+  "reason": "VB.NET statements vs JIT/.NET/ASP.NET statements; different facts."
+ },
+ {
+  "a": "2023-06-24-s2-q129",
+  "b": "2023-06-24-s2-q168",
+  "verdict": "different",
+  "reason": "Memory statements vs sequential circuit statements."
+ },
+ {
+  "a": "2023-06-24-s2-q136",
+  "b": "2023-06-24-s2-q174",
+  "verdict": "different",
+  "reason": "Linux search commands vs file creation commands."
+ },
+ {
+  "a": "2023-06-24-s2-q149",
+  "b": "2023-06-24-s2-q169",
+  "verdict": "different",
+  "reason": "Front-end tools matching vs TCP port matching."
+ }
+]

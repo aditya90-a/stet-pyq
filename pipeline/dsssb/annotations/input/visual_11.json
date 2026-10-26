@@ -1,0 +1,527 @@
+[
+ {
+  "id": "2023-06-24-s2-q003",
+  "copies": [
+   "2023-06-24-s2-q003"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+  "options": [
+   "A) Only conclusions III follows",
+   "B) Only conclusions II and III follow",
+   "C) All the conclusions, I, II and III, follow",
+   "D) Only conclusions I and II follow"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q003.png"
+ },
+ {
+  "id": "2023-06-24-s2-q004",
+  "copies": [
+   "2023-06-24-s2-q004"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "There are six persons, P, Q. R, S, I and U. I is older than P and R. U is younger than Q. I is younger than S. R is older\nthan Q but younger than P. Who is the second youngest of all?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) U"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q004.png"
+ },
+ {
+  "id": "2023-06-24-s2-q005",
+  "copies": [
+   "2023-06-24-s2-q005"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nHXK, MUC, ?, WOP, BIK",
+  "options": [
+   "A) RRU",
+   "B) RRV",
+   "C) RSV",
+   "D) SRV"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q005.png"
+ },
+ {
+  "id": "2023-06-24-s2-q006",
+  "copies": [
+   "2023-06-24-s2-q006"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "If a man reaches the 15* letter from beginning and the 14 letter from the end in the English alphabet, what would be\nthe letter exactly between these two letters?",
+  "options": [
+   "A) N",
+   "B) M",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q006.png"
+ },
+ {
+  "id": "2023-06-24-s2-q007",
+  "copies": [
+   "2023-06-24-s2-q007"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Study the following (English alphabetical series and answer the question that follows.\nABCDEFGHIJKLMNOPORSTUVWXYZ\nIfthe 2nd sth, 1ath, 13th, 1st, 16 and 1gt letters from the series are chosen to form a meaningful word, which letter\nwill come in the middle of that word? Each letter must be used and only once.",
+  "options": [
+   "A) E",
+   "B) ",
+   "C) B",
+   "D) "
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q007.png"
+ },
+ {
+  "id": "2023-06-24-s2-q008",
+  "copies": [
+   "2023-06-24-s2-q008"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the morning, from Point A, a man started walking 10 m towards the direction of the Sun, and then took a right turn\nand walked 10 m. Again, he took a right turn and walked 10 m, and then took another turn in the left direction and\nwalked 10 m. After this, he walked 20 m towards the direction of the Sun, and finally walked 20 m towards the noith\ndirection. In what direction and at what distance is he now from his initial point?",
+  "options": [
+   "A) 20 m, east",
+   "B) 20 m, west",
+   "C) 10 m, east",
+   "D) 10 m, west"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q008.png"
+ },
+ {
+  "id": "2023-06-24-s2-q009",
+  "copies": [
+   "2023-06-24-s2-q009"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In a family, there are 3 fathers, 3 mothers, 3 daughters, 3 sons, 2 nieces, 2 nephews, I son-in-law and I daughter-in-law.\nHow many minimum members are there in the family?",
+  "options": [
+   "A) 11",
+   "B) 12",
+   "C) 10",
+   "D) 13"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q009.png"
+ },
+ {
+  "id": "2023-06-24-s2-q010",
+  "copies": [
+   "2023-06-24-s2-q010"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A question is given, followed by two statements labelled I and II. Identify which of the statements is/are\nsufficient/necessary to answer the question.\nQuestion:\nHow is Mahesh related to Bipin?\nStatements:\nI. Mahesh is the son of Devika.\nII. Devika is the only daughter of Bipin's father.",
+  "options": [
+   "A) Statement I alone is sufficient to answer the question, while statement II alone is not sufficient to answer the question",
+   "B) Statement II alone is sufficient to answer the question, while statement I alone is not sufficient to answer the question",
+   "C) Either statement I alone or statement II alone is sufficient to answer the question",
+   "D) Both statements I and II are necessary to answer the question"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q010.png"
+ },
+ {
+  "id": "2023-06-24-s2-q011",
+  "copies": [
+   "2023-06-24-s2-q011"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Four letter-cluster pairs have been giveu, out of which three are alike in some manner and one is different. Select the\none that is different.",
+  "options": [
+   "A) SX - UZ",
+   "B) HM - JO",
+   "C) EJ - GL",
+   "D) AF - CI"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q011.png"
+ },
+ {
+  "id": "2023-06-24-s2-q012",
+  "copies": [
+   "2023-06-24-s2-q012"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Four letter-cluster pairs have been giveu, out of which three are alike in some manner and one is different. Select the\none that is different.",
+  "options": [
+   "A) FHJ - KMO",
+   "B) CEG - HJL",
+   "C) KMО - PRI",
+   "D) VXZ -ACF"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q012.png"
+ },
+ {
+  "id": "2023-06-24-s2-q013",
+  "copies": [
+   "2023-06-24-s2-q013"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Select the correct mirror image of the given figure when the mirror is held at the right side.",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q013.png"
+ },
+ {
+  "id": "2023-06-24-s2-q014",
+  "copies": [
+   "2023-06-24-s2-q014"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Select the alternative figure in which the given figure (X) is embedded.",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) 4"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q014.png"
+ },
+ {
+  "id": "2023-06-24-s2-q015",
+  "copies": [
+   "2023-06-24-s2-q015"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Three different positions of the same dice are shown. Which pattern will be on the face opposite to the one\nhaving 'O'?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q015.png"
+ },
+ {
+  "id": "2023-06-24-s2-q016",
+  "copies": [
+   "2023-06-24-s2-q016"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Select the number from among the given options that can replace the question mark (?) in the following series.\n6, 7, 15, 24, 88, 7, 329",
+  "options": [
+   "A) 113",
+   "B) 114",
+   "C) 115",
+   "D) 116"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q016.png"
+ },
+ {
+  "id": "2023-06-24-s2-q017",
+  "copies": [
+   "2023-06-24-s2-q017"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Four number-pairs have been giveu, out of which three are alike in some manner and one is different. Select the one that\nis different.",
+  "options": [
+   "A) 17-42.5",
+   "B) 19-47.5",
+   "C) 23-57.5",
+   "D) 29-78.3"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q017.png"
+ },
+ {
+  "id": "2023-06-24-s2-q018",
+  "copies": [
+   "2023-06-24-s2-q018"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given\nequation.\n45 *44 * 22 * 17 * 89 * 1556",
+  "options": [
+   "A) ",
+   "B) X\n=\n6.",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q018.png"
+ },
+ {
+  "id": "2023-06-24-s2-q019",
+  "copies": [
+   "2023-06-24-s2-q019"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "What approximate value should come in place of the question mark (?) in the following equation?\n45.67 ÷ 22.89 - 56.69 + 23.89 × 13.37 =?",
+  "options": [
+   "A) 257",
+   "B) 345",
+   "C) 216",
+   "D) 378"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q019.png"
+ },
+ {
+  "id": "2023-06-24-s2-q020",
+  "copies": [
+   "2023-06-24-s2-q020"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Which two signs should be interchanged to make the following equation correct?\n100 ÷ 20 + 67 - 64 × 16 = 2063",
+  "options": [
+   "A) ÷ and x",
+   "B) + and -",
+   "C) × and -",
+   "D) ÷ and +"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q020.png"
+ },
+ {
+  "id": "2023-06-24-s2-q041",
+  "copies": [
+   "2023-06-24-s2-q041"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "1x3.\nof11\n2\n5; -8j015-23+7-30Р7 is:\nThe value of",
+  "options": [
+   "A) NIw",
+   "B) ",
+   "C) 1\n2",
+   "D) • Iu"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q041.png"
+ },
+ {
+  "id": "2023-06-24-s2-q042",
+  "copies": [
+   "2023-06-24-s2-q042"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Let x be the least number which when divided by 11, 21, 24 and 28, leaves a remainder of 10 in each case. If x is\ndivisible by 37, what will be the sum of the digits of x ?",
+  "options": [
+   "A) 13",
+   "B) 15",
+   "C) 16",
+   "D) 17"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q042.png"
+ },
+ {
+  "id": "2023-06-24-s2-q043",
+  "copies": [
+   "2023-06-24-s2-q043"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "A man travels the fist 2 hous at a speed of 45 kmh, the nest 3- hours ata speed of 60 km h and the nest 4- hous at\na speed of 70 km h. What is his average speed (in km h) for the entire journey?",
+  "options": [
+   "A) 60.5",
+   "B) 61.5",
+   "C) 62",
+   "D) 63"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q043.png"
+ },
+ {
+  "id": "2023-06-24-s2-q044",
+  "copies": [
+   "2023-06-24-s2-q044"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The ratio of spirit and water in solution A is 6: 7 and the ratio of water and spirit in solution B is 9 : 4. 3 L of A is mixed\nwith 5 L ofB. In 780 mL of the resulting solution, what is the quantity (in mL) of spirit?",
+  "options": [
+   "A) 285",
+   "B) 304",
+   "C) 270",
+   "D) 266"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q044.png"
+ },
+ {
+  "id": "2023-06-24-s2-q045",
+  "copies": [
+   "2023-06-24-s2-q045"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The price of tea increased by 40% and then decreased by 20%. If a person now reduces his consumption of tea by 6-%,\nthen what is the percentage change in his expenditure?",
+  "options": [
+   "A) Decrease, 5%",
+   "B) Increase, 15%",
+   "C) Increase, 5 %",
+   "D) Decrease, 15%"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q045.png"
+ },
+ {
+  "id": "2023-06-24-s2-q046",
+  "copies": [
+   "2023-06-24-s2-q046"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "By selling an article at of its selling price, a shopkeeper loses 8%. If it is sold at 90% of its original selling price, them\nthe profit percentage is:",
+  "options": [
+   "A) 35%",
+   "B) 38%",
+   "C) 40%",
+   "D) 44%"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q046.png"
+ },
+ {
+  "id": "2023-06-24-s2-q047",
+  "copies": [
+   "2023-06-24-s2-q047"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "An article is sold for t 351.90 after giving two successive discounts of x % and 15% on its marked price of' 450. If a\nsingle discount of 2x% is given on its marked price, then its selling price will be:",
+  "options": [
+   "A) { 387.50",
+   "B) { 360",
+   "C) {378",
+   "D) { 382.50"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q047.png"
+ }
+]

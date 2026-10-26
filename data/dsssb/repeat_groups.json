@@ -1,0 +1,1185 @@
+{
+ "exact": [
+  {
+   "id": "EX0001",
+   "kind": "exact",
+   "members": [
+    "2021-set1-q124",
+    "2021-set5-q123"
+   ],
+   "canonical": "2021-set5-q123",
+   "papers": [
+    "2021-set1",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Impact printer: dot-matrix",
+   "topic": "Computer Fundamentals & PC Software",
+   "subject": "Computer Science"
+  }
+ ],
+ "repeat": [
+  {
+   "id": "RP0001",
+   "kind": "repeat",
+   "members": [
+    "2021-set1-q124",
+    "2021-set5-q123",
+    "2024-02-07-s2-q136"
+   ],
+   "canonical": "2024-02-07-s2-q136",
+   "papers": [
+    "2021-set1",
+    "2021-set5",
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021,
+    2024
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [],
+   "concept": "Impact printer: dot-matrix",
+   "topic": "Computer Fundamentals & PC Software",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "RP0002",
+   "kind": "repeat",
+   "members": [
+    "2021-set1-q151",
+    "2021-set2-q145"
+   ],
+   "canonical": "2021-set2-q145",
+   "papers": [
+    "2021-set1",
+    "2021-set2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set2",
+   "withinPaperDuplicates": [],
+   "concept": "Spiral model evolutionary releases",
+   "topic": "Software Engineering",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "RP0003",
+   "kind": "repeat",
+   "members": [
+    "2021-set2-q161",
+    "2021-set5-q121"
+   ],
+   "canonical": "2021-set5-q121",
+   "papers": [
+    "2021-set2",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Half-duplex transmission",
+   "topic": "Computer Networks & Protocols",
+   "subject": "Computer Science"
+  }
+ ],
+ "concept": [
+  {
+   "id": "CC0001",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q027",
+    "2021-set2-q028",
+    "2021-set3-q029",
+    "2021-set4-q027",
+    "2021-set5-q029",
+    "2023-06-24-s2-q001"
+   ],
+   "canonical": "2023-06-24-s2-q001",
+   "papers": [
+    "2021-set1",
+    "2021-set2",
+    "2021-set3",
+    "2021-set4",
+    "2021-set5",
+    "2023-06-24-s2"
+   ],
+   "distinctPapers": 6,
+   "years": [
+    2021,
+    2023
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2023-06-24-s2",
+   "withinPaperDuplicates": [],
+   "concept": "Circular seating facing centre",
+   "topic": "Arrangement & Puzzles",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0002",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q073",
+    "2021-set2-q072",
+    "2021-set4-q073",
+    "2021-set5-q073"
+   ],
+   "canonical": "2021-set5-q073",
+   "papers": [
+    "2021-set1",
+    "2021-set2",
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 4,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Hindi: प्रश्नवाचक चिह्न",
+   "topic": "शुद्धि (Correction)",
+   "subject": "Hindi Language"
+  },
+  {
+   "id": "CC0003",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q073",
+    "2021-set3-q073",
+    "2021-set4-q072",
+    "2021-set5-q072"
+   ],
+   "canonical": "2021-set5-q072",
+   "papers": [
+    "2021-set2",
+    "2021-set3",
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 4,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Hindi: विस्मयादिबोधक चिह्न (!) का प्रयोग",
+   "topic": "शुद्धि (Correction)",
+   "subject": "Hindi Language"
+  },
+  {
+   "id": "CC0004",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q034",
+    "2021-set4-q034",
+    "2021-set4-q035",
+    "2024-02-07-s2-q020"
+   ],
+   "canonical": "2024-02-07-s2-q020",
+   "papers": [
+    "2021-set1",
+    "2021-set4",
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021,
+    2024
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [
+    "2021-set4"
+   ],
+   "concept": "Venn diagram region counting",
+   "topic": "Venn Diagrams & Non-verbal",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0005",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q002",
+    "2021-set3-q002",
+    "2021-set5-q002"
+   ],
+   "canonical": "2021-set5-q002",
+   "papers": [
+    "2021-set1",
+    "2021-set3",
+    "2021-set5"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Natya Shastra instrument classes: Tata and Avanaddha",
+   "topic": "Art, Culture & Awards",
+   "subject": "General Awareness"
+  },
+  {
+   "id": "CC0006",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q080",
+    "2021-set3-q080",
+    "2021-set4-q080"
+   ],
+   "canonical": "2021-set4-q080",
+   "papers": [
+    "2021-set1",
+    "2021-set3",
+    "2021-set4"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "Hindi: गद्यांश का उपयुक्त शीर्षक",
+   "topic": "गद्यांश एवं वाक्य संरचना",
+   "subject": "Hindi Language"
+  },
+  {
+   "id": "CC0007",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q124",
+    "2021-set5-q123",
+    "2024-02-07-s2-q136"
+   ],
+   "canonical": "2024-02-07-s2-q136",
+   "papers": [
+    "2021-set1",
+    "2021-set5",
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021,
+    2024
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [],
+   "concept": "Impact printer: dot-matrix",
+   "topic": "Computer Fundamentals & PC Software",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0008",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q031",
+    "2021-set4-q031",
+    "2021-set5-q031"
+   ],
+   "canonical": "2021-set5-q031",
+   "papers": [
+    "2021-set3",
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Syllogism: all + no, conversions",
+   "topic": "Logical & Verbal Reasoning",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0009",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q057",
+    "2021-set4-q057",
+    "2021-set5-q057"
+   ],
+   "canonical": "2021-set5-q057",
+   "papers": [
+    "2021-set3",
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 3,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Melting hemisphere into cylinders",
+   "topic": "Mensuration & Geometry",
+   "subject": "Arithmetical & Numerical Ability"
+  },
+  {
+   "id": "CC0010",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q054",
+    "2021-set3-q053"
+   ],
+   "canonical": "2021-set3-q053",
+   "papers": [
+    "2021-set1",
+    "2021-set3"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set3",
+   "withinPaperDuplicates": [],
+   "concept": "Boat-stream and train-platform calculations",
+   "topic": "Time, Work & Distance",
+   "subject": "Arithmetical & Numerical Ability"
+  },
+  {
+   "id": "CC0011",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q069",
+    "2021-set2-q069"
+   ],
+   "canonical": "2021-set2-q069",
+   "papers": [
+    "2021-set1",
+    "2021-set2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set2",
+   "withinPaperDuplicates": [],
+   "concept": "Hindi: अन्य पुरुष पहचान",
+   "topic": "व्याकरण (Grammar)",
+   "subject": "Hindi Language"
+  },
+  {
+   "id": "CC0012",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q088",
+    "2021-set3-q088"
+   ],
+   "canonical": "2021-set3-q088",
+   "papers": [
+    "2021-set1",
+    "2021-set3"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set3",
+   "withinPaperDuplicates": [],
+   "concept": "Sentence rearrangement: Wonder Woman",
+   "topic": "Comprehension & Para Jumbles",
+   "subject": "English Language"
+  },
+  {
+   "id": "CC0013",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q151",
+    "2021-set2-q145"
+   ],
+   "canonical": "2021-set2-q145",
+   "papers": [
+    "2021-set1",
+    "2021-set2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set2",
+   "withinPaperDuplicates": [],
+   "concept": "Spiral model evolutionary releases",
+   "topic": "Software Engineering",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0014",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q158",
+    "2024-02-07-s2-q162"
+   ],
+   "canonical": "2024-02-07-s2-q162",
+   "papers": [
+    "2021-set1",
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021,
+    2024
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [],
+   "concept": "Belady's anomaly in FIFO",
+   "topic": "Operating Systems & Linux",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0015",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q190",
+    "2021-set5-q190"
+   ],
+   "canonical": "2021-set5-q190",
+   "papers": [
+    "2021-set1",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Lagrange interpolation two points",
+   "topic": "Mathematics, Statistics & Numerical Methods",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0016",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q030",
+    "2021-set5-q030"
+   ],
+   "canonical": "2021-set5-q030",
+   "papers": [
+    "2021-set2",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Syllogism: conversion of universal negative",
+   "topic": "Logical & Verbal Reasoning",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0017",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q052",
+    "2021-set4-q052"
+   ],
+   "canonical": "2021-set4-q052",
+   "papers": [
+    "2021-set2",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "SI rate to triple sum",
+   "topic": "Percentage, Profit & Loss",
+   "subject": "Arithmetical & Numerical Ability"
+  },
+  {
+   "id": "CC0018",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q054",
+    "2021-set5-q054"
+   ],
+   "canonical": "2021-set5-q054",
+   "papers": [
+    "2021-set2",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Catch-up time and speed-time relation",
+   "topic": "Time, Work & Distance",
+   "subject": "Arithmetical & Numerical Ability"
+  },
+  {
+   "id": "CC0019",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q125",
+    "2021-set3-q121"
+   ],
+   "canonical": "2021-set3-q121",
+   "papers": [
+    "2021-set2",
+    "2021-set3"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set3",
+   "withinPaperDuplicates": [],
+   "concept": "Series resistance equivalent",
+   "topic": "Physics Basics",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0020",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q130",
+    "2021-set3-q125"
+   ],
+   "canonical": "2021-set3-q125",
+   "papers": [
+    "2021-set2",
+    "2021-set3"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set3",
+   "withinPaperDuplicates": [],
+   "concept": "Demux outputs vs select lines",
+   "topic": "Number Systems & Digital Electronics",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0021",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q161",
+    "2021-set5-q121"
+   ],
+   "canonical": "2021-set5-q121",
+   "papers": [
+    "2021-set2",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Half-duplex transmission",
+   "topic": "Computer Networks & Protocols",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0022",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q172",
+    "2021-set4-q170"
+   ],
+   "canonical": "2021-set4-q170",
+   "papers": [
+    "2021-set2",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "AVL single rotations",
+   "topic": "Data Structures",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0023",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q181",
+    "2021-set4-q179"
+   ],
+   "canonical": "2021-set4-q179",
+   "papers": [
+    "2021-set2",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "RGB to CMY conversion",
+   "topic": "Computer Graphics & Multimedia",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0024",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q030",
+    "2021-set4-q030"
+   ],
+   "canonical": "2021-set4-q030",
+   "papers": [
+    "2021-set3",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "Syllogism: conversion of particular affirmative",
+   "topic": "Logical & Verbal Reasoning",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0025",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q039",
+    "2021-set5-q039"
+   ],
+   "canonical": "2021-set5-q039",
+   "papers": [
+    "2021-set3",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Pattern completion by mirror symmetry",
+   "topic": "Venn Diagrams & Non-verbal",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0026",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q046",
+    "2021-set4-q046"
+   ],
+   "canonical": "2021-set4-q046",
+   "papers": [
+    "2021-set3",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "Discount percentage on marked price",
+   "topic": "Percentage, Profit & Loss",
+   "subject": "Arithmetical & Numerical Ability"
+  },
+  {
+   "id": "CC0027",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q049",
+    "2021-set4-q049"
+   ],
+   "canonical": "2021-set4-q049",
+   "papers": [
+    "2021-set3",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "Selling price from loss to profit",
+   "topic": "Percentage, Profit & Loss",
+   "subject": "Arithmetical & Numerical Ability"
+  },
+  {
+   "id": "CC0028",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q070",
+    "2021-set5-q070"
+   ],
+   "canonical": "2021-set5-q070",
+   "papers": [
+    "2021-set3",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Hindi: विशेषण का उचित स्थान (कई)",
+   "topic": "शुद्धि (Correction)",
+   "subject": "Hindi Language"
+  },
+  {
+   "id": "CC0029",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q158",
+    "2021-set4-q161"
+   ],
+   "canonical": "2021-set4-q161",
+   "papers": [
+    "2021-set3",
+    "2021-set4"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2021-set4",
+   "withinPaperDuplicates": [],
+   "concept": "Guided vs unguided media",
+   "topic": "Computer Networks & Protocols",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0030",
+   "kind": "concept",
+   "members": [
+    "2021-set3-q160",
+    "2023-06-24-s2-q167"
+   ],
+   "canonical": "2023-06-24-s2-q167",
+   "papers": [
+    "2021-set3",
+    "2023-06-24-s2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021,
+    2023
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set3",
+   "lastSeen": "2023-06-24-s2",
+   "withinPaperDuplicates": [],
+   "concept": "Network devices and OSI layers",
+   "topic": "Computer Networks & Protocols",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0031",
+   "kind": "concept",
+   "members": [
+    "2021-set4-q071",
+    "2021-set5-q071"
+   ],
+   "canonical": "2021-set5-q071",
+   "papers": [
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set4",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Hindi: सरल, संयुक्त और मिश्र वाक्य",
+   "topic": "गद्यांश एवं वाक्य संरचना",
+   "subject": "Hindi Language"
+  },
+  {
+   "id": "CC0032",
+   "kind": "concept",
+   "members": [
+    "2021-set4-q128",
+    "2021-set5-q135"
+   ],
+   "canonical": "2021-set5-q135",
+   "papers": [
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set4",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Connection traps in ER modelling",
+   "topic": "DBMS & SQL",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0033",
+   "kind": "concept",
+   "members": [
+    "2021-set4-q131",
+    "2021-set5-q139"
+   ],
+   "canonical": "2021-set5-q139",
+   "papers": [
+    "2021-set4",
+    "2021-set5"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set4",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [],
+   "concept": "Address and data lines for memory size",
+   "topic": "Computer Architecture",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0034",
+   "kind": "concept",
+   "members": [
+    "2021-set5-q138",
+    "2024-02-07-s2-q171"
+   ],
+   "canonical": "2024-02-07-s2-q171",
+   "papers": [
+    "2021-set5",
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021,
+    2024
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set5",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [],
+   "concept": "SQL aggregate functions",
+   "topic": "DBMS & SQL",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0035",
+   "kind": "concept",
+   "members": [
+    "2021-set5-q193",
+    "2023-06-24-s2-q197"
+   ],
+   "canonical": "2023-06-24-s2-q197",
+   "papers": [
+    "2021-set5",
+    "2023-06-24-s2"
+   ],
+   "distinctPapers": 2,
+   "years": [
+    2021,
+    2023
+   ],
+   "distinctYears": 2,
+   "firstSeen": "2021-set5",
+   "lastSeen": "2023-06-24-s2",
+   "withinPaperDuplicates": [],
+   "concept": "Features of formative assessment",
+   "topic": "Assessment for Learning",
+   "subject": "Teaching Methodology"
+  },
+  {
+   "id": "CC0036",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q039",
+    "2021-set1-q040"
+   ],
+   "canonical": "2021-set1-q040",
+   "papers": [
+    "2021-set1"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set1",
+   "withinPaperDuplicates": [
+    "2021-set1"
+   ],
+   "concept": "Cube from net: opposite faces",
+   "topic": "Venn Diagrams & Non-verbal",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0037",
+   "kind": "concept",
+   "members": [
+    "2021-set1-q159",
+    "2021-set1-q160"
+   ],
+   "canonical": "2021-set1-q160",
+   "papers": [
+    "2021-set1"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set1",
+   "lastSeen": "2021-set1",
+   "withinPaperDuplicates": [
+    "2021-set1"
+   ],
+   "concept": "Internal fragmentation",
+   "topic": "Operating Systems & Linux",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0038",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q021",
+    "2021-set2-q022"
+   ],
+   "canonical": "2021-set2-q022",
+   "papers": [
+    "2021-set2"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set2",
+   "withinPaperDuplicates": [
+    "2021-set2"
+   ],
+   "concept": "Wrong term in letter series",
+   "topic": "Series",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0039",
+   "kind": "concept",
+   "members": [
+    "2021-set2-q087",
+    "2021-set2-q088"
+   ],
+   "canonical": "2021-set2-q088",
+   "papers": [
+    "2021-set2"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set2",
+   "lastSeen": "2021-set2",
+   "withinPaperDuplicates": [
+    "2021-set2"
+   ],
+   "concept": "Sentence part rearrangement",
+   "topic": "Comprehension & Para Jumbles",
+   "subject": "English Language"
+  },
+  {
+   "id": "CC0040",
+   "kind": "concept",
+   "members": [
+    "2021-set5-q003",
+    "2021-set5-q163"
+   ],
+   "canonical": "2021-set5-q163",
+   "papers": [
+    "2021-set5"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set5",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [
+    "2021-set5"
+   ],
+   "concept": "RBI monetary policy instruments",
+   "topic": "Business, Accounting & Economics",
+   "subject": "Computer Science"
+  },
+  {
+   "id": "CC0041",
+   "kind": "concept",
+   "members": [
+    "2021-set5-q087",
+    "2021-set5-q088"
+   ],
+   "canonical": "2021-set5-q088",
+   "papers": [
+    "2021-set5"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2021
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2021-set5",
+   "lastSeen": "2021-set5",
+   "withinPaperDuplicates": [
+    "2021-set5"
+   ],
+   "concept": "Sentence rearrangement",
+   "topic": "Comprehension & Para Jumbles",
+   "subject": "English Language"
+  },
+  {
+   "id": "CC0042",
+   "kind": "concept",
+   "members": [
+    "2024-02-07-s2-q004",
+    "2024-02-07-s2-q013"
+   ],
+   "canonical": "2024-02-07-s2-q013",
+   "papers": [
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2024
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2024-02-07-s2",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [
+    "2024-02-07-s2"
+   ],
+   "concept": "Odd letter group by position gaps",
+   "topic": "Analogy & Classification",
+   "subject": "General Intelligence & Reasoning"
+  },
+  {
+   "id": "CC0043",
+   "kind": "concept",
+   "members": [
+    "2024-02-07-s2-q156",
+    "2024-02-07-s2-q175"
+   ],
+   "canonical": "2024-02-07-s2-q175",
+   "papers": [
+    "2024-02-07-s2"
+   ],
+   "distinctPapers": 1,
+   "years": [
+    2024
+   ],
+   "distinctYears": 1,
+   "firstSeen": "2024-02-07-s2",
+   "lastSeen": "2024-02-07-s2",
+   "withinPaperDuplicates": [
+    "2024-02-07-s2"
+   ],
+   "concept": "Python single-line comment symbol",
+   "topic": "Python Programming",
+   "subject": "Computer Science"
+  }
+ ]
+}

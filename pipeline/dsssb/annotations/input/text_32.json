@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set4-q164",
+  "copies": [
+   "2021-set4-q164"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding Peer-to-Peer Network Architecture?\nI. Any peer can access any other peer on the network for sharing and retrieving data\nII. Needs a dedicated server to provide various services to client",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q165",
+  "copies": [
+   "2021-set4-q165"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The process of compiling Intermediate Language programs to the actual machine language on the target platform prior to execution is known as\n______.\nI. Just-In-Time compiling\nII. First-In-Time compiling",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q166",
+  "copies": [
+   "2021-set4-q166"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What does '/etc' directory contain in Linux operating system?",
+  "options": [
+   "A) Home directories of the common user",
+   "B) System configuration file",
+   "C) Miscellaneous data",
+   "D) Common program shared by the system and the system administrator"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q167",
+  "copies": [
+   "2021-set4-q167"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are the types of Electronic Payment Systems (EPS)?\nI. Smart Cards\nII. E-Wallet\nIII. Electronic Funds Transfer",
+  "options": [
+   "A) I and III",
+   "B) II and III",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q169",
+  "copies": [
+   "2021-set4-q169"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which traversal of binary search tree is in ascending order?\nI. Preorder traversal\nII. Postorder traversal\nIII. Inorder traversal",
+  "options": [
+   "A) Only II",
+   "B) I and III",
+   "C) Only III",
+   "D) II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q170",
+  "copies": [
+   "2021-set4-q170"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which rotations in an AVL tree is known as double rotation?",
+  "options": [
+   "A) LL and RR",
+   "B) LR and LL",
+   "C) RL and RR",
+   "D) LR and RL"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q171",
+  "copies": [
+   "2021-set4-q171"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider the following arrays of elements 289, 219, 250, 217, 212, 215, 22, 25, 27, 211, 26, 29, 300. What is the minimum number of\ninterchanges needed to convert it into max-heap?",
+  "options": [
+   "A) 4",
+   "B) 5",
+   "C) 2",
+   "D) 3"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q172",
+  "copies": [
+   "2021-set4-q172"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Sort the following list using Radix sort algorithm.\n329, 457, 839, 436, 720, 355, 657\nWhat is the output of the algorithm after 2nd pass?",
+  "options": [
+   "A) 720, 355, 436, 457, 657, 329, 839",
+   "B) 720, 329, 436, 839, 355, 457, 657",
+   "C) 329, 355, 436, 457, 657, 720, 839",
+   "D) 355, 329, 457, 436, 720, 657, 839"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q173",
+  "copies": [
+   "2021-set4-q173"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Sort the following list using selection sort algorithm.\nH, V, A, T, L, N, K\nWhat is the output of the algorithm after 3rd pass?",
+  "options": [
+   "A) A, V, H, T, L, N, K",
+   "B) A, H, K, T, L, N, V",
+   "C) A, V, T, H, L, N, K",
+   "D) A, T, H, K, L, N, V"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q174",
+  "copies": [
+   "2021-set4-q174"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Office Automation System deals with which of the following?\nI. Word processing\nII. Annual budgeting",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q175",
+  "copies": [
+   "2021-set4-q175"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are the correct examples of Management Information System?\nI. Train reservation with the help of IRCTC.\nII. Bank operations electronically with a distinguish payment gateway.\nIII. Logistics management application to streamline the transportation system.",
+  "options": [
+   "A) I and II",
+   "B) I and III",
+   "C) I, II and III",
+   "D) II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q176",
+  "copies": [
+   "2021-set4-q176"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ protocol is used for starting computers from the network.",
+  "options": [
+   "A) SMTP",
+   "B) TCP/IP",
+   "C) BOOTP",
+   "D) FTP"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q177",
+  "copies": [
+   "2021-set4-q177"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "GPRS offers end to end packet switched data transfer service in ______.\nI. point to point\nII. point to multipoint",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q178",
+  "copies": [
+   "2021-set4-q178"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT the example of emissive display?",
+  "options": [
+   "A) Liquid crystal device",
+   "B) Plasma panels",
+   "C) Thin-film electroluminescent display",
+   "D) Light emitting diodes"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q179",
+  "copies": [
+   "2021-set4-q179"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the RGB co-ordinates of a colour at (0.25, 0.65, 0) in CMY space?",
+  "options": [
+   "A) (0.75, 0.25, 1)",
+   "B) (0.85, 0.25, 0)",
+   "C) (0.65, 0.25, 0)",
+   "D) (0.75, 0.35, 1)"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q180",
+  "copies": [
+   "2021-set4-q180"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider a rectangular window whose lower left hand corner is at (–3, 1) and upper right hand corner is at (2, 6). What is 4 bit region code for\nendpoint of line PQ having co-ordinates (–4, 2) and (–1, 8)?",
+  "options": [
+   "A) P ⟶ 0001, Q ⟶ 0001",
+   "B) P ⟶ 1010, Q ⟶ 1001",
+   "C) P ⟶ 0001, Q ⟶ 1000",
+   "D) P ⟶ 0000, Q ⟶ 0110"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q181",
+  "copies": [
+   "2021-set4-q181"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ produces a rough outline of what the website will look like when it is done.",
+  "options": [
+   "A) Wirefalls",
+   "B) Wireframes",
+   "C) Webframes",
+   "D) Webflows"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q182",
+  "copies": [
+   "2021-set4-q182"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a part(s) of a URL?\nI. Protocol\nII. Hostname\nIII. Directory and Filename",
+  "options": [
+   "A) I and III",
+   "B) II and III",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q183",
+  "copies": [
+   "2021-set4-q183"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which type of knowledge is highly personal and hard to formalise?",
+  "options": [
+   "A) Theoretical knowledge",
+   "B) Tacit knowledge",
+   "C) Concrete knowledge",
+   "D) Explicit knowledge"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q184",
+  "copies": [
+   "2021-set4-q184"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following content(s) is/are included when reporting an experiment?\nI. Apparatus used\nII. Procedure",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q185",
+  "copies": [
+   "2021-set4-q185"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following asymptotic notation is used to provide lower boundary constraints?",
+  "options": [
+   "A) O",
+   "B) Ɵ",
+   "C) Ω",
+   "D) ×"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q187",
+  "copies": [
+   "2021-set4-q187"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Pictorial representation of a program is known as ______.",
+  "options": [
+   "A) flowchart",
+   "B) pseudocode",
+   "C) code",
+   "D) algorithm"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q191",
+  "copies": [
+   "2021-set4-q191"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the characteristic(s) of learner – centered approach?\nI. Students learn from interaction with their peers.\nII. Opportunities are provided to the students for questioning, exploration and experimentation.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q192",
+  "copies": [
+   "2021-set4-q192"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following combination(s) is/are NOT correct?",
+  "options": [
+   "A) Cassette – Audio aid",
+   "B) Graphs – Visual aid",
+   "C) Television – Visual aid",
+   "D) Radio broad casts – Audio aid"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q193",
+  "copies": [
+   "2021-set4-q193"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How peer – assessment helps students?\nI. In consolidating their learning through dialogue and interaction with their peers.\nII. In learning how to give and receive constructive, explicit feedback based on clear criteria.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q194",
+  "copies": [
+   "2021-set4-q194"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Through the process of standardization which of the following properties of achievement tests is/are ensured?\nI. The test items used are purposefully designed to measure a clearly defined achievement domain.\nII. A standardized procedure of administering, scoring and interpreting the results of the test are followed.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q195",
+  "copies": [
+   "2021-set4-q195"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Children’s ______ towards learning language play an important role in language acquisition.\nI. motivation\nII. self confidence\nIII. curiosity",
+  "options": [
+   "A) II and III",
+   "B) Only I",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q196",
+  "copies": [
+   "2021-set4-q196"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Metaphor is one of the literary devices. Which of the following is/are the example(s) of metaphor?\nI. Camels are found in the deserts.\nII. The camel is the ship of the desert.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q197",
+  "copies": [
+   "2021-set4-q197"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following combination(s) is/are correct?\nI. Informative literature – Dictionary\nII. Creative or imaginative literature – Novels",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q198",
+  "copies": [
+   "2021-set4-q198"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are the types of performing arts?\nI. Theatre\nII. Music\nIII. Puppetry",
+  "options": [
+   "A) I, II and III",
+   "B) II and III",
+   "C) I and II",
+   "D) I and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q199",
+  "copies": [
+   "2021-set4-q199"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the status indicator(s) of Gender?\nI. Sex ratio\nII. Education\nIII. Health",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I, II and III",
+   "D) Only III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q200",
+  "copies": [
+   "2021-set4-q200"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the objective(s) of formal and non-formal education?\nI. Aim at improving the quality and raising the living standards of life.\nII. Contribute to the process of empowering girls through inculcating the values, attitudes and other life skills.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q001",
+  "copies": [
+   "2021-set5-q001"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "______ is located in Gujarat.",
+  "options": [
+   "A) Sultan Ghari’s Tomb",
+   "B) Warangal Fort",
+   "C) Lakhota Fort",
+   "D) Jaigarh Fort"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q002",
+  "copies": [
+   "2021-set5-q002"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of instrument – type is correct?\nI. Veena – Avanaddha\nII. Sarangi – Sushir",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q003",
+  "copies": [
+   "2021-set5-q003"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the policy instrument of Reserve Bank of India?\nI. Repo Rate\nII. Reverse Repo Rate\nIII. Exchange Rate",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) Only III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q004",
+  "copies": [
+   "2021-set5-q004"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statements is NOT true about Reserve Bank of India?",
+  "options": [
+   "A) RBI can affect the reserve deposit ratio of commercial banks by adjusting the value of the reverse repo rate.",
+   "B) It acts as the monetary authority of the country",
+   "C) RBI is the independent authority for conducting monetary policy in the best interests of the economy.",
+   "D) It sterilises the money supply in the economy against external shocks."
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q005",
+  "copies": [
+   "2021-set5-q005"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In a convex lens, when object is at infinity then where is the position of image?",
+  "options": [
+   "A) At F_2",
+   "B) At 2F_2",
+   "C) At infinity",
+   "D) At F_1"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q006",
+  "copies": [
+   "2021-set5-q006"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Property of metal by which it can be drawn into wires is called ______.",
+  "options": [
+   "A) malleability",
+   "B) ductility",
+   "C) sonority",
+   "D) lustrity"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q007",
+  "copies": [
+   "2021-set5-q007"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct about sound?\nI. Large amplitude – Loud sound\nII. High frequency – Low pitch",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q008",
+  "copies": [
+   "2021-set5-q008"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following tree is found in coniferous forests?\nI. Chir\nII. Pine\nIII. Ash",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q009",
+  "copies": [
+   "2021-set5-q009"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "What is the time lag from Gujarat to Arunachal Pradesh?",
+  "options": [
+   "A) 15 minutes",
+   "B) 30 minutes",
+   "C) 1 hour",
+   "D) 2 hours"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q010",
+  "copies": [
+   "2021-set5-q010"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is mica producing area in India?\nI. Gaya\nII. Hazaribagh\nIII. Ajmer",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q011",
+  "copies": [
+   "2021-set5-q011"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "______ was the first Mughal Emperor in India.",
+  "options": [
+   "A) Babur",
+   "B) Akbar",
+   "C) Humayun",
+   "D) Shahjahan"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q012",
+  "copies": [
+   "2021-set5-q012"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of place – year of formation is correct regarding Singh Sabha?\nI. Amritsar – 1873\nII. Lahore – 1879",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q013",
+  "copies": [
+   "2021-set5-q013"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of Battle and their year is/are correct?\nI. Battle of Buxar – 1764\nII. Battle of Plassey – 1757",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q014",
+  "copies": [
+   "2021-set5-q014"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Who has written the book “Moving On Moving Forward : A Year in Office”?",
+  "options": [
+   "A) Manmohan Singh",
+   "B) Arun Jaitley",
+   "C) Venkaiah Naidu",
+   "D) Manohar Parrikar"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q015",
+  "copies": [
+   "2021-set5-q015"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Who won the Nobel Peace Prize 2020?",
+  "options": [
+   "A) Peter Handke",
+   "B) World Food Programme",
+   "C) ICAN",
+   "D) Abiy Ahmed Ali"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q016",
+  "copies": [
+   "2021-set5-q016"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "What is the rank of India in global energy transition index released in April 2021?",
+  "options": [
+   "A) 87",
+   "B) 96",
+   "C) 67",
+   "D) 110"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q017",
+  "copies": [
+   "2021-set5-q017"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which amendment of Indian constitution provided legislative assembly for Delhi?",
+  "options": [
+   "A) 61",
+   "B) 69",
+   "C) 73",
+   "D) 76"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q018",
+  "copies": [
+   "2021-set5-q018"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which article of Indian constitution is related to the duration of state legislatures?",
+  "options": [
+   "A) 168",
+   "B) 172",
+   "C) 179",
+   "D) 187"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

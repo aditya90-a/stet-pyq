@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set1-q177",
+  "copies": [
+   "2021-set1-q177"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statement(s) is/are correct regarding node N deletion in binary search tree?\nI. If node N has no children then just replace location of N in the parent node by the null pointer.\nII. If node N has two children, then replace it by preorder successor.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q178",
+  "copies": [
+   "2021-set1-q178"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a type of information system?",
+  "options": [
+   "A) Transaction Processing System",
+   "B) Online Processing System",
+   "C) Real-time Processing System",
+   "D) Distributed Processing System"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q179",
+  "copies": [
+   "2021-set1-q179"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following characteristic(s) of expert systems is/are correct?\nI. The direction of interaction is from machine to the user.\nII. Its domain of knowledge is narrow.\nIII. Information is produced by analysis of operational and external data.",
+  "options": [
+   "A) I and III",
+   "B) Only II",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q180",
+  "copies": [
+   "2021-set1-q180"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not a operating system for mobile computing?",
+  "options": [
+   "A) Windows Mobile",
+   "B) Palm OS",
+   "C) Symbian OS",
+   "D) Manet OS"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q181",
+  "copies": [
+   "2021-set1-q181"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The maximum number of points that can be displayed without overlap on a CRT is referred to as ______.",
+  "options": [
+   "A) persistence",
+   "B) resolution",
+   "C) aspect ratio",
+   "D) phosphorescence"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q182",
+  "copies": [
+   "2021-set1-q182"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many different levels of heading does HTML support?",
+  "options": [
+   "A) 6",
+   "B) 7",
+   "C) 5",
+   "D) 9"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q184",
+  "copies": [
+   "2021-set1-q184"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is the process of identifying, organizing, storing and disseminating information within an organization.",
+  "options": [
+   "A) Knowledge management",
+   "B) Human resource management",
+   "C) Financial management",
+   "D) Management information system"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q185",
+  "copies": [
+   "2021-set1-q185"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following methods can be used to organise notes for interpreting an information?\nI. Flow chart\nII. Transition devices",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q187",
+  "copies": [
+   "2021-set1-q187"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Rearrange steps involved in top-down design programming?\nI. Analyze the problem\nII. Revise and resequence\nIII. Write the main module\nIV. Connect the modules in proper order\nV. Write the remaining modules",
+  "options": [
+   "A) II ⟶ IV ⟶ V ⟶ III ⟶ I",
+   "B) III ⟶ I ⟶ V ⟶ IV ⟶ II",
+   "C) V ⟶ III ⟶ I ⟶ IV ⟶ II",
+   "D) I ⟶ III ⟶ V ⟶ IV ⟶ II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q189",
+  "copies": [
+   "2021-set1-q189"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A question in mathematics is given to three students P, Q and R whose chances of solving are 1/3, 1/4, 1/5 respectively. What is the probability\nthat the problem will be solved?",
+  "options": [
+   "A) 0.4",
+   "B) 0.6",
+   "C) 0.8",
+   "D) 0.7"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q190",
+  "copies": [
+   "2021-set1-q190"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+  "options": [
+   "A) 5",
+   "B) 6.5",
+   "C) 4",
+   "D) 3"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q191",
+  "copies": [
+   "2021-set1-q191"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is the key process of teacher-centered approach.\nI. Memorizing\nII. Recalling from memory",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q192",
+  "copies": [
+   "2021-set1-q192"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are NOT correct?\nI. In case of multi-grade and multi-level situations, teaching learning materials provide vital help to the teachers for effective management of their\nclass.\nII. Teaching learning materials are needed for effective self-learning.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q193",
+  "copies": [
+   "2021-set1-q193"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "As a teacher, you have to realize that the entire responsibility of the assessment of learning and its follow up lies with you. Which of the\nfollowing is/are that/those aspect(s) that need your attention?\nI. You must collect sufficient evidence on which you base your decisions.\nII. You need to be sensitive to the challenges faced by some students in completing the task/assignment.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q194",
+  "copies": [
+   "2021-set1-q194"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is the type of assessment.\nI. Formative assessment\nII. Summative assessment",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q195",
+  "copies": [
+   "2021-set1-q195"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In Hindi every noun can have ______ forms in principle.",
+  "options": [
+   "A) 4",
+   "B) 2",
+   "C) 8",
+   "D) 6"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q196",
+  "copies": [
+   "2021-set1-q196"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are NOT correct?\nI. Sanskrit is the standard language of Brahmanic society.\nII. Persian is the standard language of Iranians.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q197",
+  "copies": [
+   "2021-set1-q197"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "There are various factors on which our choice of words, our selection of sentences are always dependent. Which of the following are those\nfactors?\nI. The context\nII. The place where we speak\nIII. The theme",
+  "options": [
+   "A) I, II and III",
+   "B) II and III",
+   "C) I and III",
+   "D) I and II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q198",
+  "copies": [
+   "2021-set1-q198"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "At the elementary level, how awareness of regional arts and crafts help?\nI. To recognise and promote traditional and contemporary art and art pieces.\nII. To sensitise the children about the pluralistic cultural legacy of India – awareness of local crafts.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q199",
+  "copies": [
+   "2021-set1-q199"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Gender discrimination can be ______.\nI. direct\nII. indirect",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q200",
+  "copies": [
+   "2021-set1-q200"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the indicator(s) of empowered women?\nI. Participation in social change\nII. Participation in developmental process",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q001",
+  "copies": [
+   "2021-set2-q001"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Bathukamma festival belongs to ______.",
+  "options": [
+   "A) Tamil Nadu",
+   "B) Goa",
+   "C) Kerala",
+   "D) Telangana"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q002",
+  "copies": [
+   "2021-set2-q002"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of festival – state is correct?\nI. Anduri Utsav – Uttarakhand\nII. Pang Lhabsol – Sikkim",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q003",
+  "copies": [
+   "2021-set2-q003"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which image is printed at the back of Rs. 500 note of Mahatma Gandhi (New) series?",
+  "options": [
+   "A) Mangalyaan",
+   "B) Red Fort",
+   "C) Sanchi Stupa",
+   "D) Ellora Caves"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q004",
+  "copies": [
+   "2021-set2-q004"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding the intermediate goods in an economy?\nI. These are not final goods.\nII. Steel sheets used for making automobiles is one of its examples.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q005",
+  "copies": [
+   "2021-set2-q005"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Fishes breath through there ______.",
+  "options": [
+   "A) gills",
+   "B) skin",
+   "C) tail",
+   "D) eyes"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q006",
+  "copies": [
+   "2021-set2-q006"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In a concave mirror, when object is at inflinity then image is ______.",
+  "options": [
+   "A) at C",
+   "B) at F",
+   "C) beyond C",
+   "D) at infinity"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q007",
+  "copies": [
+   "2021-set2-q007"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct?\nI. Sliding friction > static friction\nII. Rolling friction > sliding friction",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q008",
+  "copies": [
+   "2021-set2-q008"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which continent is the largest producer of diamonds in the world?",
+  "options": [
+   "A) Asia",
+   "B) North America",
+   "C) Europe",
+   "D) Africa"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q009",
+  "copies": [
+   "2021-set2-q009"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is correct?\nI. Sedimentary rocks may contains fossils.\nII. Igneous rocks can change into metamorphic rocks under great heat and pressure.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q010",
+  "copies": [
+   "2021-set2-q010"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct about Mahanadi?\nI. Mahanadi rises in highlands of Chhattisgarh.\nII. Its length is about 860 km.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q011",
+  "copies": [
+   "2021-set2-q011"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "At ______ , Buddha taught for the first time.",
+  "options": [
+   "A) Rajgir",
+   "B) Sarnath",
+   "C) Vaishali",
+   "D) Vajji"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q012",
+  "copies": [
+   "2021-set2-q012"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In which year was ‘Poona Pact’ introduced?",
+  "options": [
+   "A) 1930",
+   "B) 1922",
+   "C) 1932",
+   "D) 1928"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q013",
+  "copies": [
+   "2021-set2-q013"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) regarding Partition of Bengal is/are correct?\nI. It was happened in 1905.\nII. It was done by Viceroy Curzon.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q014",
+  "copies": [
+   "2021-set2-q014"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Who has written the book “The End of India”?",
+  "options": [
+   "A) Amartya Sen",
+   "B) Khushwant Singh",
+   "C) Shashi Tharoor",
+   "D) Amitav Ghosh"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q015",
+  "copies": [
+   "2021-set2-q015"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "How many people were given Padma Bhushan in 2021?",
+  "options": [
+   "A) 10",
+   "B) 12",
+   "C) 8",
+   "D) 14"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q016",
+  "copies": [
+   "2021-set2-q016"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Who publishes Global Gender Gap Report?",
+  "options": [
+   "A) International Monetary Fund",
+   "B) Asian Development Bank",
+   "C) World Economic Forum",
+   "D) World Bank"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q017",
+  "copies": [
+   "2021-set2-q017"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which amendment of Indian Constitution ceased the recognition granted to Rulers of Indian states and abolished privy purses?",
+  "options": [
+   "A) 26",
+   "B) 38",
+   "C) 21",
+   "D) 15"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q018",
+  "copies": [
+   "2021-set2-q018"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which article of Indian constitution is related with the power of parliament to amend the constitution and procedure therefor?",
+  "options": [
+   "A) 361",
+   "B) 368",
+   "C) 373",
+   "D) 378"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q019",
+  "copies": [
+   "2021-set2-q019"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "How many silver medals did India won at 2016 Olympic games?",
+  "options": [
+   "A) 0",
+   "B) 1",
+   "C) 2",
+   "D) 3"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q020",
+  "copies": [
+   "2021-set2-q020"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which country won the 2019 FIFA U20 World cup?",
+  "options": [
+   "A) South Korea",
+   "B) Ukraine",
+   "C) Ecuador",
+   "D) Uruguay"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q021",
+  "copies": [
+   "2021-set2-q021"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term wrong. Select that wrong term from the given alternatives.\nAKTU, BIUS, CGVQ, DEWN, ECXM",
+  "options": [
+   "A) DEWN",
+   "B) BIUS",
+   "C) ECXM",
+   "D) CGVQ"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q022",
+  "copies": [
+   "2021-set2-q022"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term wrong. Select that wrong term from the given alternatives.\nGRAMB, IVERH, KXIWN, MAMBT, ODQGZ",
+  "options": [
+   "A) ODQGZ",
+   "B) GRAMB",
+   "C) MAMBT",
+   "D) IVERH"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q023",
+  "copies": [
+   "2021-set2-q023"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, four pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+  "options": [
+   "A) CL – LC",
+   "B) KW – WK",
+   "C) BY – YB",
+   "D) NM – MP"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q024",
+  "copies": [
+   "2021-set2-q024"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, select the related words from the given alternatives.\nChisel : Sculptor :: Saw : ?",
+  "options": [
+   "A) Carpenter",
+   "B) Teacher",
+   "C) Table",
+   "D) Building"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q025",
+  "copies": [
+   "2021-set2-q025"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TRAB, JHZA, IGPQ)",
+  "options": [
+   "A) (ALPM, UVTH, PADB)",
+   "B) (KNSQ, YZVR, ZDHF)",
+   "C) (GBLK, SSJN, VQAZ)",
+   "D) (ANJH, QQVH, PCYX)"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q026",
+  "copies": [
+   "2021-set2-q026"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In a certain code language, ‘VENUE’ is written as ‘LBULC’. What is the code for ‘TEMPO’ in that code language?",
+  "options": [
+   "A) VWTLA",
+   "B) VWTAL",
+   "C) VTWLA",
+   "D) VTWAL"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q027",
+  "copies": [
+   "2021-set2-q027"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A team of four men is to be selected from amongst seven men A, B, C, D, E, F and G. A and B have to be selected together. D and F have to be\nselected together. C cannot be selected with E. F cannot be selected with G. Which of the following team of four men is possible?",
+  "options": [
+   "A) A, B, C and E",
+   "B) A, B, C and D",
+   "C) A, B, D and F",
+   "D) A, B, D and G"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q028",
+  "copies": [
+   "2021-set2-q028"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Seven girls L, M, N, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). M is second to\nthe right of N. N is third to the right of P. R is third to the right of S. L is third to the left of Q. S is not the immediate neighbour of M.\nWhich of the following statement(s) is/are correct?\nI. Q is to the immediate left of N.\nII. P is third to the left of N.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q029",
+  "copies": [
+   "2021-set2-q029"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A3B means B is wife of A. A5B means B is sister of A. A7B means B is mother of A. A9B means B is father of A. In A9B3C5D, what is the\nrelation of D with A?",
+  "options": [
+   "A) Aunt",
+   "B) Mother",
+   "C) Daughter",
+   "D) Niece"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

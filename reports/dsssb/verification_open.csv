@@ -1,0 +1,61 @@
+id,paperId,qno,status,section,text,sourceKey,aiAnswer,aiConfidence,note,failing
+2021-set1-q037,2021-set1,37,disputed,General Intelligence & Reasoning,"Ramesh is facing towards west direction. He walks 20 km and then rotates by 90 degrees in clockwise direction. He again rotates by 295 degrees
+in anticlockwise ",A,A,low,"As printed (295°), Ramesh ends up facing 65° east of north, which is between north-east and east, so no option is exact. The key (north-east) would be exact if the second turn were 315°.",ai-answer=fail
+2021-set1-q118,2021-set1,118,disputed,Computer Science,"Consider the following segment of C++ code.
+int j, n;
+for(j=1;j<=n; )
+j=j*2;
+What is the number of comparisons made in the execution of the loop for any n > 0?",D,D,low,"The exact number of comparisons is ⌊log₂ n⌋ + 2 (e.g. n = 4 gives 4 comparisons), which none of the printed options equals for all n; the floor/ceiling marks are also lost. The key D matches the commonly quoted (GATE 2007-style) answer ⌈log₂ n⌉ + 1.",ai-answer=fail
+2021-set1-q149,2021-set1,149,disputed,Computer Science,What is the other name of White-box testing?,B,B,medium,"White-box testing is also widely called open-box testing (as well as clear-box and transparent-box testing), so option C is also defensible; glass-box testing (the key) is the standard textbook name.",ai-answer=fail
+2021-set2-q025,2021-set2,25,disputed,General Intelligence & Reasoning,"In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some
+Logic/Rule/Relation. Fr",C,,low,"No consistent rule could be found that links the given groups to any option set, including the keyed option C. The text may be garbled or the question may be flawed, so the source key could not be verified.",ai-answer=fail
+2021-set2-q074,2021-set2,74,disputed,Hindi Language,"निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।
+गंगा लाभ होना",D,B,medium,"Standard Hindi dictionaries and idiom lists give गंगालाभ होना = मृत्यु होना / मर जाना, which is option B. The key's option D (मृत्यु के पश्चात् मोक्ष) reflects the religious connotation of the same idiom, so two options are defensible.",ai-answer=fail
+2021-set2-q098,2021-set2,98,disputed,English Language,Identify the correct antonym of the word ‘assuage’ from the given passage?,C,C,low,"No option is a true antonym of the verb 'assuage' (to soothe or relieve). Both 'grievous' and 'trauma' convey severe pain or distress and are defensible. The key's choice, trauma, is plausible but not clear-cut.",ai-answer=fail
+2021-set2-q189,2021-set2,189,disputed,Computer Science,"The median of 7, 5, 8, x, 12, 17 is 10, then what is the value of x?",D,D,medium,"The question has two valid options. Any x ≥ 12 gives median 10, so both 12 (D, keyed) and 13 (A) are correct. The intended answer is 12, found by placing x between 8 and 12.",ai-answer=fail
+2021-set2-q195,2021-set2,195,disputed,Computer Science,"______ is the first step for learning a language.
+I. Speaking
+II. Listening",C,B,medium,"Strictly, listening is the first step (B). The key gives both listening and speaking (C), probably because the source treats the oral skills together as the starting stage.",ai-answer=fail
+2021-set3-q086,2021-set3,86,disputed,English Language,"A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.
+They ______ it difficult to read that book.",C,C,medium,"Both ""find"" (B) and ""found"" (C) make correct sentences, because nothing in the sentence fixes the tense. The key picks the past tense ""found"".",ai-answer=fail
+2021-set3-q098,2021-set3,98,disputed,English Language,"Which of the following statements is/are not correct as per the given passage?
+I. The participation of women in the labour force is lowest in the whole world.
+I",B,C,medium,"The key marks B (only II), which treats statement I as correct, but the passage says women's participation is ""among the lowest"", not the lowest. Statement II as printed compares female income with itself, an apparent misprint for ""male income"". So the intended answer is unclear.",ai-answer=fail
+2021-set3-q106,2021-set3,106,disputed,Computer Science,"Which of the following is/are the open-source software(s)?
+I. PHP
+II. Apache",B,C,high,"PHP is open-source software, released under the PHP License (an OSI-approved open-source licence) with its source code freely available. Both PHP and Apache are open source, so the answer should be C; the source key marks B.",ai-answer=fail
+2021-set3-q152,2021-set3,152,disputed,Computer Science,"A computer system has 7 tape drives. There are ‘n’ processes competing for them. Each process may need 2 tape drives. What is the maximum
+value of ‘n’ for which",B,B,low,"With 7 drives and 2 per process, the maximum deadlock-free n is 6, which is not an option. The keyed 3 is right only if each process needs 3 drives (3 × 2 + 1 = 7). The printed numbers seem wrong.",ai-answer=fail
+2021-set4-q190,2021-set4,190,disputed,Computer Science,"What is the value of f(5) by newton’s backward difference form of interpolating polynomial for the data?
+x | 2 | 4 | 6 | 8
+f(x) | 5 | 8 | 12 | 16",C,,high,"The interpolating cubic gives f(5) = 9.9375, and no option shows this value. The source key (10.0625) is what you get if the sign of the third-difference term is flipped.",ai-answer=fail
+2021-set5-q097,2021-set5,97,disputed,English Language,“Black bears’ energy requirements during these phases can drive their behavior.” Which phase is the author talking about here?,D,D,low,"The 'phases' with high energy needs are both before hibernation (fall hyperphagia) and after it (spring emergence); the passage later says 'in spring and fall'. The key's D is the nearest referent, but C is equally supported by the text.",ai-answer=fail
+2021-set5-q198,2021-set5,198,disputed,Computer Science,"Which of the following statement(s) is/are correct about Regional art and craft?
+I. Art originating among the people of region reflecting their traditional cult",C,A,low,"Statement II as printed (""does not have its own aesthetics but they are not governed by…"") seems garbled. Regional/folk art is usually described as having its own aesthetics while not being governed by formal rules of proportion and rhythm. Read literally, II is false and the answer would be A; the key's C holds only if II is read as 'has its own aesthetics'.",ai-answer=fail
+2023-06-24-s2-q121,2023-06-24-s2,121,disputed,Computer Science,"If A = {1,2,3,4}, B = {2,4,5} and C = {2,5}, then (A−B)×(B−C) = ?",C,C,low,"As printed with ×, the answer is {(1,4), (3,4)}, which is not among the options. The key {1,3,4} equals (A−B) ∪ (B−C), so the question was probably meant to use union.",ai-answer=fail
+2023-06-24-s2-q150,2023-06-24-s2,150,disputed,Computer Science,"Which of the following languages are object-oriented programming languages?
+Languages:
+i) LISP
+ii) Java
+iii) C++
+iv) Simula
+v) SQL
+vi) C",A,B,medium,"The key (A) counts LISP as object-oriented. Classic LISP is a functional/list-processing language; it is object-oriented only through the later CLOS extension of Common Lisp. Textbook classification gives ii, iii and iv (option B), so both A and B can be argued.",ai-answer=fail
+2023-06-24-s2-q168,2023-06-24-s2,168,disputed,Computer Science,"Which of the given options best describes the truthfulness of the following statements?
+i) The clock signal is required for sequential circuits.
+ii) In the sequ",A,B,medium,"Statement i is true only for synchronous sequential circuits; asynchronous sequential circuits have no clock. The key (A) follows the common combinational-vs-sequential comparison table that lists the clock as 'required'. Strictly, i is false (option B).",ai-answer=fail
+2024-02-07-s2-q020,2024-02-07-s2,20,disputed,General Intelligence & Reasoning,How many workers are uneducated?,B,B,low,"Uneducated workers are those inside the triangle but outside the rectangle: 3 (male workers) + 12 = 15, which is not among the options. The key's 12 counts only the 'Worker only' region and ignores the 3 male workers who are also uneducated.",ai-answer=fail
+2024-02-07-s2-q102,2024-02-07-s2,102,disputed,Computer Science,What is the advantage of exploratory Data Analysis in Big Data and Analytics?,B,B,medium,"Standard comparisons of exploratory vs confirmatory data analysis list both ""flexible ways to generate hypotheses"" (B) and ""more realistic statements of accuracy"" (D) as advantages of EDA, so two options are defensible; B matches the key.",ai-answer=fail
+2024-02-07-s2-q141,2024-02-07-s2,141,disputed,Computer Science,"______ enables the creator owner to earn recognition or financial benefit by using their
+creation or invention.",B,C,medium,"The sentence follows the NCERT/WIPO description of intellectual property rights (""enables the creator or copyright owner to earn recognition or financial benefit""), so the umbrella term IPR (C) fits best; the key Copyright (B) is one kind of IPR and is defensible only for creative works.",ai-answer=fail
+2024-02-07-s2-q174,2024-02-07-s2,174,disputed,Computer Science,"In Database Management System (DBMS), which of the following term de fines a
+collection of entities that have the same attributes in the database?",A,A,medium,"The wording copies Elmasri–Navathe (""an entity type defines a collection of entities that have the same attributes""), which supports the key A, but other standard texts (e.g. Korth) define an entity set as a set of entities sharing the same attributes, so C is also defensible.",ai-answer=fail
+2021-set2-q186,2021-set2,186,unverified,Computer Science,"In the beginning, when reporting a meeting one should give precise information about the ______.",A,A,low,,ai-answer=warn
+2021-set3-q099,2021-set3,99,unverified,English Language,Identify the nearby antonym of the word ‘Alarming’?,D,D,low,,ai-answer=warn
+2021-set3-q173,2021-set3,173,unverified,Computer Science,Which of the following is a component of Management Information System (MIS)?,A,A,low,,ai-answer=warn
+2021-set3-q182,2021-set3,182,unverified,Computer Science,"The two-dimensional perspective of knowledge management includes which of the following element(s)?
+I. Strategy
+II. Content",C,C,low,,ai-answer=warn
+2023-06-24-s2-q013,2023-06-24-s2,13,unverified,General Intelligence & Reasoning,Select the correct mirror image of the given figure when the mirror is held at the right side.,A,A,low,,ai-answer=warn
+2024-02-07-s2-q159,2024-02-07-s2,159,unverified,Computer Science,"In E-waste management, from which factors, there comes the exposure variability in
+electronic waste?",A,A,low,The question is vaguely worded; the keyed answer is the only option describing a source factor of exposure.,ai-answer=warn

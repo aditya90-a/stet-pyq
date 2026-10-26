@@ -1,0 +1,473 @@
+{
+ "slug": "computer-architecture",
+ "subject": "Computer Science",
+ "topic": "Computer Architecture",
+ "titleHi": "कंप्यूटर आर्किटेक्चर",
+ "summary": "Covers CPU organisation (ALU, control unit, registers), micro-operations and the instruction cycle, instruction formats and addressing modes, the memory hierarchy, memory sizing and cache mapping, pipelining and Flynn's classification, I/O transfer modes with interrupts and DMA, and assembly language basics. DSSSB questions here follow Morris Mano closely: register names, addressing-mode definitions, address/data line counts, DMA modes and pseudo-instructions are asked almost every year.",
+ "sections": [
+  {
+   "heading": "CPU organisation and the von Neumann model",
+   "level": "basic",
+   "subtopic": "CPU, registers & instruction cycle",
+   "body": "In the **von Neumann (stored-program) architecture**, program and data share one memory and one bus, so instructions are fetched one after another (the **von Neumann bottleneck**). The **Harvard architecture** uses separate memories and buses for instructions and data.\n\nThe **CPU** has three parts:\n- **ALU** (Arithmetic Logic Unit): circuitry for binary addition, subtraction, logic operations and shifts.\n- **Control Unit (CU)**: generates timing and control signals to fetch, decode and execute instructions. A **hardwired** CU uses fixed logic gates (fast, used in RISC). A **microprogrammed** CU stores control words (**microinstructions**) in a **control memory** (flexible, easier to change, used in CISC).\n- **Registers**: very fast storage inside the CPU.\n\nCPUs are connected to memory and I/O by the **system bus**: the **address bus** (unidirectional, CPU → memory), the **data bus** (bidirectional) and the **control bus** (read, write, interrupt signals). An address bus of n lines can address 2ⁿ locations.\n\n**Stack organisation**: a **stack pointer (SP)** marks the top of a stack (PUSH, POP); used for zero-address instructions and subroutine calls.",
+   "table": {
+    "columns": [
+     "Register",
+     "Function"
+    ],
+    "rows": [
+     [
+      "PC (Program Counter)",
+      "Holds the address of the next instruction to be fetched"
+     ],
+     [
+      "IR (Instruction Register)",
+      "Holds the instruction currently being decoded and executed (used by the CU)"
+     ],
+     [
+      "MAR / AR (Memory Address Register)",
+      "Holds the memory address to be read or written"
+     ],
+     [
+      "MDR / MBR (Memory Data/Buffer Register)",
+      "Holds the word read from or to be written into memory"
+     ],
+     [
+      "AC (Accumulator)",
+      "Implied operand and destination for ALU results in one-address machines"
+     ],
+     [
+      "SP (Stack Pointer)",
+      "Address of the top of the stack"
+     ],
+     [
+      "Flags / PSW (status register)",
+      "Condition bits: carry (C), zero (Z), sign (S), overflow (V), parity; plus interrupt enable"
+     ],
+     [
+      "General-purpose registers (R0…Rn)",
+      "Hold operands and intermediate results"
+     ],
+     [
+      "Index register (XR)",
+      "Holds an offset added to the address field in indexed addressing"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Micro-operations and register transfer",
+   "level": "intermediate",
+   "subtopic": "CPU, registers & instruction cycle",
+   "body": "A **micro-operation** is an elementary operation on register data, done in one clock pulse, written in **Register Transfer Language (RTL)**: P: R2 ← R1 copies R1 into R2 when control condition P = 1.\n\n- **Register transfer**: R2 ← R1.\n- **Arithmetic**: R3 ← R1 + R2 (add), R3 ← R1 + R2′ + 1 (subtract), R1 ← R1 + 1 (increment), R1 ← R1 − 1.\n- **Logic** (bitwise): **selective set** A ← A ∨ B (OR sets the bits where B = 1), **selective complement** A ← A ⊕ B (XOR), **selective clear / mask** A ← A ∧ B′ clears selected bits, and the **mask operation** A ← A ∧ B (AND keeps only the bits where B = 1), **insert** = mask then OR.\n- **Shift**: **logical** shift brings in 0; **circular** shift (rotate) brings the bit shifted out back in at the other end; **arithmetic** shift treats the number as signed: arithmetic right shift keeps the sign bit (divides by 2), arithmetic left shift multiplies by 2 (overflow if the sign bit changes)."
+  },
+  {
+   "heading": "Instruction cycle",
+   "level": "intermediate",
+   "subtopic": "CPU, registers & instruction cycle",
+   "body": "**Instruction cycle**: **fetch → decode → effective address → execute**, then an **interrupt check**.\n\nIn Mano's basic computer the steps (with timing signals T0, T1 …) are:\n- T0: AR ← PC (place the next instruction's address on the address register)\n- T1: IR ← M[AR], PC ← PC + 1 (read instruction, increment PC)\n- T2: decode the opcode in IR; AR ← IR(0–11); I ← IR(15)\n- T3: if the instruction is indirect (I = 1), AR ← M[AR] (read the effective address)\n- T4 onward: execute.\n\nAfter execution, if an interrupt is pending and interrupts are enabled, the **interrupt cycle** saves the return address (PC) and branches to the interrupt service routine.\n\nCPU performance: **CPU time = instruction count × CPI × clock cycle time** = (IC × CPI) / clock rate. **MIPS** = clock rate / (CPI × 10⁶)."
+  },
+  {
+   "heading": "Instruction formats",
+   "level": "intermediate",
+   "subtopic": "Instruction formats & addressing modes",
+   "body": "An instruction has an **opcode** field (which operation), an **address** field(s) (operands) and often a **mode** field (how to interpret the address). With k opcode bits, up to 2ᵏ operations are possible. In Mano's basic computer a memory-reference instruction is 16 bits: **1 mode bit I** (0 = direct, 1 = indirect), 3 opcode bits, 12 address bits. **One bit** is enough to distinguish direct from indirect addressing.\n\nBy number of address fields:\n- **Three-address**: ADD R1, A, B means R1 ← M[A] + M[B]. Short programs, long instructions.\n- **Two-address**: ADD R1, A means R1 ← R1 + M[A]. Most common in commercial computers.\n- **One-address**: uses an implied **accumulator (AC)**: ADD A means AC ← AC + M[A].\n- **Zero-address**: uses a **stack**: ADD pops two values and pushes their sum. Expressions are evaluated in reverse Polish (postfix) form.\n\nThe code shows X = (A + B) × (C + D) in each format.\n\n**RISC** (few simple fixed-length instructions, one-cycle execution, load/store architecture, many registers, hardwired control, deep pipelining: ARM, MIPS) vs **CISC** (many variable-length instructions and addressing modes, memory operands, microprogrammed control: Intel x86).",
+   "code": {
+    "lang": "text",
+    "source": "; X = (A + B) * (C + D)\n\n; Three-address\nADD  R1, A, B      ; R1 <- M[A] + M[B]\nADD  R2, C, D      ; R2 <- M[C] + M[D]\nMUL  X, R1, R2     ; M[X] <- R1 * R2\n\n; Two-address\nMOV  R1, A         ; R1 <- M[A]\nADD  R1, B         ; R1 <- R1 + M[B]\nMOV  R2, C         ; R2 <- M[C]\nADD  R2, D         ; R2 <- R2 + M[D]\nMUL  R1, R2        ; R1 <- R1 * R2\nMOV  X, R1         ; M[X] <- R1\n\n; One-address (accumulator AC, temporary T)\nLOAD  A            ; AC <- M[A]\nADD   B            ; AC <- AC + M[B]\nSTORE T            ; M[T] <- AC\nLOAD  C            ; AC <- M[C]\nADD   D            ; AC <- AC + M[D]\nMUL   T            ; AC <- AC * M[T]\nSTORE X            ; M[X] <- AC\n\n; Zero-address (stack), postfix: A B + C D + *\nPUSH A\nPUSH B\nADD                ; TOS <- A + B\nPUSH C\nPUSH D\nADD                ; TOS <- C + D\nMUL                ; TOS <- (A+B)*(C+D)\nPOP  X             ; M[X] <- TOS",
+    "output": ""
+   }
+  },
+  {
+   "heading": "Addressing modes",
+   "level": "intermediate",
+   "subtopic": "Instruction formats & addressing modes",
+   "body": "The **addressing mode** decides how the **effective address (EA)**, the operand's actual memory address, is computed from the address field.\n\nMemory references needed to get the operand (after the instruction is fetched): immediate 0, register 0, direct 1, register indirect 1, **indirect 2** (one to read the address, one to read the operand).\n\n**Relative** addressing is used for branch instructions because the offset is small and the code becomes position-independent. **Indexed** suits arrays (address field = array start, index register = element offset). **Base register** addressing suits relocation (base register = start of program, address field = displacement).",
+   "table": {
+    "columns": [
+     "Mode",
+     "Effective address / operand",
+     "Example use"
+    ],
+    "rows": [
+     [
+      "Implied",
+      "Operand implied by the opcode (e.g. AC, stack top)",
+      "CMA (complement AC), zero-address ADD"
+     ],
+     [
+      "Immediate",
+      "Operand is in the instruction itself; no EA",
+      "MOV R1, #25 (constants)"
+     ],
+     [
+      "Register",
+      "Operand is in a CPU register named in the instruction",
+      "ADD R1, R2"
+     ],
+     [
+      "Register indirect",
+      "EA = contents of the register specified",
+      "Pointers: MOV R1, (R2)"
+     ],
+     [
+      "Autoincrement / autodecrement",
+      "Register indirect, then the register is incremented (or decremented first)",
+      "Stepping through arrays, stacks"
+     ],
+     [
+      "Direct (absolute)",
+      "EA = address field",
+      "LOAD 500"
+     ],
+     [
+      "Indirect",
+      "EA = M[address field]",
+      "Pointers stored in memory"
+     ],
+     [
+      "Relative",
+      "EA = PC + address field (offset)",
+      "Branches"
+     ],
+     [
+      "Indexed",
+      "EA = index register + address field",
+      "Arrays"
+     ],
+     [
+      "Base register",
+      "EA = base register + address field",
+      "Relocation of programs"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Memory hierarchy and memory organisation",
+   "level": "basic",
+   "subtopic": "Memory hierarchy & cache",
+   "body": "**Hierarchy** (top to bottom): **registers → cache (SRAM) → main memory (DRAM) → secondary storage (SSD / magnetic disk) → tertiary (magnetic tape, optical)**. Going down, **capacity increases**, **cost per bit decreases** and **access time increases**. The hierarchy works because of **locality of reference**:\n- **Temporal locality**: a recently used item will probably be used again soon (loops).\n- **Spatial locality**: items near a recently used address will probably be used soon (arrays, sequential code).\n\n**Memory size and lines**: a memory of **2ᵏ words × n bits** needs **k address lines** and **n data lines**. Examples: 4K × 16 → 12 address lines, 16 data lines; 128K × 8 → 17 address lines, 8 data lines.\n\n**Building a larger memory from chips**: number of chips = (total words ÷ chip words) × (total word length ÷ chip word length). The extra high-order address bits select a row of chips through a **decoder**.\n\n- **Associative memory (CAM, content-addressable memory)**: accessed by content rather than address; searched in parallel; used in TLBs and fully associative caches; expensive.\n- **Virtual memory** gives programs an address space larger than physical memory; the MMU translates addresses, with a **TLB** caching recent translations."
+  },
+  {
+   "heading": "Cache memory and mapping",
+   "level": "advanced",
+   "subtopic": "Memory hierarchy & cache",
+   "body": "A **cache** is a small, fast SRAM memory between CPU and main memory holding copies of recently used **blocks** (lines). A **hit** means the word is found in the cache; **hit ratio h** = hits ÷ total accesses.\n\n**Average access time** (cache time Tc, memory time Tm):\n- Simultaneous (parallel) access: Tavg = h·Tc + (1 − h)·Tm.\n- Hierarchical (look-through): Tavg = h·Tc + (1 − h)(Tc + Tm) = Tc + (1 − h)·Tm.\nTextbooks differ on which formula they use; check whether the question says the memory access starts after a miss.\n\n**Mapping functions** (main-memory address split into fields):\n- **Direct mapping**: each block can go into exactly one line: line = block number mod number of lines. Address = **Tag | Line (index) | Word offset**. Simple and cheap, but **conflict misses** when two blocks share a line.\n- **Fully associative**: a block can go into any line; address = **Tag | Word**; needs associative search of all tags; most flexible, most expensive.\n- **k-way set-associative**: lines grouped into sets of k; block goes into any line of set (block number mod number of sets). Address = **Tag | Set | Word**. Compromise (2-way, 4-way common).\n\n**Replacement** (associative / set-associative): **LRU**, **FIFO**, LFU, random.\n\n**Write policies**: **write-through** updates cache and main memory together (memory always consistent, more traffic); **write-back** updates memory only when a modified (**dirty**) block is replaced.\n\nMisses: **compulsory**, **capacity**, **conflict**."
+  },
+  {
+   "heading": "Pipelining",
+   "level": "advanced",
+   "subtopic": "Pipelining & parallelism",
+   "body": "**Pipelining** splits instruction execution into k stages so that different instructions occupy different stages at the same time, like an assembly line. It increases **throughput**, not the time for a single instruction. Classic 5-stage RISC pipeline: **IF** (fetch), **ID** (decode, read registers), **EX** (execute), **MEM** (memory access), **WB** (write back). Mano uses 4 segments: FI, DA, FO, EX.\n\nFor k stages, n tasks and clock period tp (equal stages, no stalls):\n- Pipelined time = (k + n − 1)·tp.\n- Non-pipelined time = n·tn, where tn = time per task without pipeline (= k·tp ideally).\n- Speedup S = n·tn ÷ ((k + n − 1)·tp); as n → ∞ the maximum speedup → tn/tp = **k**.\n- With unequal stages the clock period = the slowest stage (+ latch delay).\n\n**Hazards (conflicts)** that cause stalls:\n- **Structural (resource) hazard**: two stages need the same hardware (e.g. one memory port).\n- **Data hazard**: an instruction needs a result not yet produced (RAW, read-after-write). Remedies: **operand forwarding (bypassing)**, stalls (bubbles), compiler reordering.\n- **Control (branch) hazard**: the next instruction address is unknown until a branch resolves. Remedies: **branch prediction**, **delayed branch**, branch target buffer, prefetching the target.\n\nA **superscalar** processor issues more than one instruction per cycle."
+  },
+  {
+   "heading": "Parallel processing and Flynn's classification",
+   "level": "advanced",
+   "subtopic": "Pipelining & parallelism",
+   "body": "**Flynn's taxonomy** classifies computers by the number of instruction streams and data streams processed at once.\n\n**Amdahl's law**: if a fraction f of a program can run in parallel on p processors, speedup = 1 ÷ ((1 − f) + f/p). The maximum speedup (p → ∞) is 1 ÷ (1 − f), so the serial part limits the gain.\n\n**Multiprocessors** share memory (tightly coupled); **multicomputers** have private memories and pass messages (loosely coupled). **Vector** and **array processors** apply one instruction to many data items (SIMD).",
+   "table": {
+    "columns": [
+     "Class",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "SISD",
+      "Single Instruction, Single Data",
+      "Traditional uniprocessor (von Neumann)"
+     ],
+     [
+      "SIMD",
+      "Single Instruction, Multiple Data",
+      "Array and vector processors, GPU-style processing"
+     ],
+     [
+      "MISD",
+      "Multiple Instruction, Single Data",
+      "Mostly theoretical; fault-tolerant redundant systems"
+     ],
+     [
+      "MIMD",
+      "Multiple Instruction, Multiple Data",
+      "Multiprocessors, multicore CPUs, clusters"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "I/O organisation and modes of transfer",
+   "level": "intermediate",
+   "subtopic": "I/O, interrupts & DMA",
+   "body": "Peripherals differ from the CPU in speed, data format and mode, so they connect through an **I/O interface** (controller).\n\n- **Isolated I/O**: separate address space for I/O; special instructions (IN, OUT).\n- **Memory-mapped I/O**: I/O registers occupy part of the memory address space; ordinary memory instructions (LOAD/STORE) access devices.\n- **Asynchronous transfer** uses a **strobe** (one control line) or **handshaking** (two lines, each side acknowledges).\n\n**Modes of data transfer**:\n- **Programmed I/O**: the CPU repeatedly checks the device status flag (polling, busy-waiting); simple but wastes CPU time.\n- **Interrupt-initiated I/O**: the device interrupts the CPU when it is ready; the CPU does other work meanwhile.\n- **DMA (Direct Memory Access)**: a **DMA controller** transfers data directly between the device and memory **without the CPU** handling each word; best for fast block transfers (disks).\n- **I/O processor (IOP) / channel**: a dedicated processor running I/O programs."
+  },
+  {
+   "heading": "Interrupts",
+   "level": "intermediate",
+   "subtopic": "I/O, interrupts & DMA",
+   "body": "An **interrupt** is a signal that makes the CPU suspend the current program, run an **interrupt service routine (ISR)**, and then resume.\n\nSequence: the CPU **completes the current instruction**, saves PC and status (usually on the stack), jumps to the ISR, and on return (RTI/IRET) restores them.\n\nTypes:\n- **External (hardware)**: from I/O devices, timers, power failure.\n- **Internal (traps / exceptions)**: caused by the program: divide by zero, overflow, invalid opcode, page fault, protection violation.\n- **Software interrupt**: a special instruction (e.g. INT, supervisor call) used to request OS services; switches to kernel mode.\n- **Maskable** interrupts can be disabled; **non-maskable (NMI)** cannot (used for critical events like power failure). **Disabling an interrupt is called masking.**\n- **Vectored**: the device supplies the ISR address (vector); **non-vectored**: ISR is at a fixed address.\n\n**Priority resolution** when several devices interrupt:\n- **Polling** (software): the CPU checks devices one by one in priority order; flexible but slow.\n- **Daisy chaining** (serial hardware): devices are connected in series on the interrupt-acknowledge line; the device nearest the CPU has the highest priority.\n- **Parallel priority**: a priority encoder and mask register decide in hardware."
+  },
+  {
+   "heading": "Direct Memory Access (DMA)",
+   "level": "advanced",
+   "subtopic": "I/O, interrupts & DMA",
+   "body": "To start DMA, the CPU initialises the **DMA controller** with the starting memory **address register**, the **word count register** (number of words) and the **control register** (read/write, mode), then continues other work.\n\nBus handshake: the DMA controller raises **BR (Bus Request)**; the CPU finishes its current bus cycle, puts its buses in the high-impedance state and replies with **BG (Bus Grant)**. The controller then drives the address and control lines. When the word count reaches zero, the controller releases the bus and **interrupts** the CPU to report completion.\n\n**DMA transfer modes**:\n- **Burst transfer (block mode)**: a block of many words is transferred in one **continuous burst** while the controller holds the bus; fastest; CPU waits for the bus.\n- **Cycle stealing**: the controller transfers **one word**, then returns the bus; it \"steals\" individual memory cycles from the CPU, slowing it slightly.\n- **Transparent (hidden) DMA**: transfers only when the CPU is not using the bus; no slowdown, but slower transfer."
+  },
+  {
+   "heading": "Assembly language and assemblers",
+   "level": "basic",
+   "subtopic": "Assembly language basics",
+   "body": "**Machine language** is binary code executed directly by the CPU. **Assembly language** replaces opcodes and addresses with **mnemonics** (LDA, ADD, STA) and **symbolic labels**; it is machine-dependent (one assembly statement ≈ one machine instruction). An **assembler** converts (assembles) the symbolic program into the equivalent machine (object) program.\n\nAn assembly line has up to three fields: **label** (symbolic address), **instruction** (machine instruction or pseudo-instruction) and **comment**.\n\n**Pseudo-instructions (assembler directives)** are instructions **to the assembler**, not machine instructions: they produce no machine code of their own. In Mano: **ORG N** (the next instruction goes at location N), **END** (end of program), **DEC N** / **HEX N** (store a decimal / hexadecimal constant). Other assemblers use DB, DW, EQU, SEGMENT.\n\nA **two-pass assembler**: **pass 1** scans the program and builds the **address symbol table** (label → address) using a location counter; **pass 2** translates mnemonics with the opcode table and symbols with the symbol table to generate machine code. Two passes handle forward references (labels used before definition).\n\n- A **macro** is expanded in place at each use (faster, larger code); a **subroutine** is stored once and called (smaller code, call overhead).\n\nThe program below (Mano basic computer) adds two numbers.",
+   "code": {
+    "lang": "text",
+    "source": "        ORG 100     / program starts at location 100 (hex)\n        LDA A       / AC <- M[A]\n        ADD B       / AC <- AC + M[B]\n        STA C       / M[C] <- AC\n        HLT         / halt the computer\nA,      DEC 45      / first operand\nB,      DEC -12     / second operand\nC,      DEC 0       / sum is stored here\n        END         / end of symbolic program",
+    "output": "After execution, location C contains 33 (45 + (−12)). ORG, DEC and END are pseudo-instructions; LDA, ADD, STA and HLT are machine instructions."
+   }
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Address lines",
+   "formula": "Memory of 2ᵏ words × n bits → k address lines, n data lines",
+   "note": "4K × 16 → 12 and 16; 128K × 8 → 17 and 8."
+  },
+  {
+   "name": "Number of chips",
+   "formula": "Chips = (M ÷ m) × (N ÷ n)",
+   "note": "Target M × N built from chips of m × n."
+  },
+  {
+   "name": "Opcode bits",
+   "formula": "k opcode bits → 2ᵏ operations",
+   "note": "Instruction bits = opcode + mode + address fields."
+  },
+  {
+   "name": "CPU time",
+   "formula": "CPU time = IC × CPI × cycle time = IC × CPI ÷ clock rate",
+   "note": "MIPS = clock rate ÷ (CPI × 10⁶)."
+  },
+  {
+   "name": "Cache average access time",
+   "formula": "Tavg = h·Tc + (1 − h)·Tm (parallel); Tavg = Tc + (1 − h)·Tm (hierarchical)",
+   "note": "h = hit ratio."
+  },
+  {
+   "name": "Direct-mapped cache address",
+   "formula": "Offset = log₂(block size); Index = log₂(number of lines); Tag = rest",
+   "note": "Set-associative: Set = log₂(lines ÷ k)."
+  },
+  {
+   "name": "Pipeline time",
+   "formula": "T = (k + n − 1)·tp",
+   "note": "k stages, n instructions, tp clock period."
+  },
+  {
+   "name": "Pipeline speedup",
+   "formula": "S = n·tn ÷ ((k + n − 1)·tp); S(max) = k",
+   "note": "tn = time per task without pipelining."
+  },
+  {
+   "name": "Amdahl's law",
+   "formula": "Speedup = 1 ÷ ((1 − f) + f/p)",
+   "note": "f = parallel fraction, p = processors."
+  },
+  {
+   "name": "Indexed / relative EA",
+   "formula": "EA = XR + address; EA = PC + offset",
+   "note": "PC already points to the next instruction."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "A 32K × 16 memory is built from 4K × 8 RAM chips. Find the address lines, data lines, number of chips and the decoder needed.",
+   "solution": "32K = 2⁵ × 2¹⁰ = 2¹⁵ words → 15 address lines; word length 16 → 16 data lines.\nChips = (32K ÷ 4K) × (16 ÷ 8) = 8 × 2 = 16 chips, arranged as 8 rows of 2 chips.\nEach chip needs log₂(4K) = 12 address lines; the remaining 15 − 12 = 3 high-order lines drive a 3-to-8 decoder that selects one row."
+  },
+  {
+   "problem": "A byte-addressable main memory is 1 MB, the cache is 16 KB and a block is 32 bytes. Find tag, index and offset bits for (a) direct mapping, (b) 4-way set-associative, (c) fully associative mapping.",
+   "solution": "Address = log₂(2²⁰) = 20 bits. Offset = log₂32 = 5 bits.\nCache lines = 16 KB ÷ 32 B = 2¹⁴ ÷ 2⁵ = 2⁹ = 512.\n(a) Direct: index = 9 bits; tag = 20 − 9 − 5 = 6 bits.\n(b) 4-way: sets = 512 ÷ 4 = 128 = 2⁷ → set = 7 bits; tag = 20 − 7 − 5 = 8 bits.\n(c) Fully associative: no index; tag = 20 − 5 = 15 bits."
+  },
+  {
+   "problem": "Cache access time is 10 ns, main memory access time is 100 ns and the hit ratio is 0.9. Find the average access time with (a) simultaneous access, (b) hierarchical access.",
+   "solution": "(a) Tavg = 0.9 × 10 + 0.1 × 100 = 9 + 10 = 19 ns.\n(b) Tavg = 0.9 × 10 + 0.1 × (10 + 100) = 9 + 11 = 20 ns (equivalently 10 + 0.1 × 100 = 20 ns)."
+  },
+  {
+   "problem": "A 5-stage pipeline has a clock period of 2 ns. Without pipelining each instruction takes 10 ns. Find the time for 100 instructions, the speedup, and the maximum possible speedup.",
+   "solution": "Pipelined time = (k + n − 1)·tp = (5 + 100 − 1) × 2 = 104 × 2 = 208 ns.\nNon-pipelined time = 100 × 10 = 1000 ns.\nSpeedup = 1000 ÷ 208 ≈ 4.81.\nMaximum speedup (n → ∞) = tn ÷ tp = 10 ÷ 2 = 5 = k."
+  },
+  {
+   "problem": "A two-word instruction is stored at addresses 300 and 301; its address field (in word 301) is 450. After fetching, PC = 302. R1 = 600, index register XR = 50. Memory: M[450] = 900, M[900] = 120, M[500] = 820, M[600] = 750, M[752] = 610. Find the effective address and operand for each mode.",
+   "solution": "Immediate: operand = 450 (it is in the instruction; no memory read).\nDirect: EA = 450 → operand = 900.\nIndirect: EA = M[450] = 900 → operand = M[900] = 120 (2 memory references).\nRelative: EA = PC + 450 = 302 + 450 = 752 → operand = 610.\nIndexed: EA = XR + 450 = 50 + 450 = 500 → operand = 820.\nRegister: operand = R1 = 600 (no EA).\nRegister indirect: EA = R1 = 600 → operand = 750.\nAutoincrement: EA = 600, operand = 750, then R1 becomes 601."
+  },
+  {
+   "problem": "A computer has 256K words of memory and 24-bit instructions with one indirect bit, an opcode and one memory address. How many opcode bits are there and how many operations are possible? Also, with A = 11010010 and B = 10101100, find A after selective set, selective complement and mask.",
+   "solution": "Address bits = log₂(256K) = log₂(2¹⁸) = 18.\nOpcode bits = 24 − 1 − 18 = 5 → 2⁵ = 32 operations.\nSelective set (A ∨ B): 11010010 OR 10101100 = 11111110.\nSelective complement (A ⊕ B): 11010010 XOR 10101100 = 01111110.\nMask (A ∧ B): 11010010 AND 10101100 = 10000000."
+  }
+ ],
+ "pitfalls": [
+  "PC holds the address of the NEXT instruction; IR holds the CURRENT instruction.",
+  "Indirect addressing needs two memory references to fetch the operand; immediate needs none.",
+  "Register indirect: the register holds the operand's address, not the operand. Register mode: the register holds the operand.",
+  "In relative addressing the offset is added to the updated PC (address of the next instruction), not the address of the current instruction.",
+  "One-address instructions use an implied accumulator; zero-address instructions use a stack.",
+  "A memory of 8K × 32 needs 13 address lines (8K = 2¹³), not 32; the word size only decides the data lines.",
+  "Pseudo-instructions (ORG, END, DEC, HEX) are directions to the assembler, not to the CPU, compiler or loader.",
+  "Burst mode transfers a whole block in one go; cycle stealing transfers one word per bus grant.",
+  "Pipelining improves throughput, not the latency of a single instruction; maximum speedup equals the number of stages.",
+  "Direct-mapped caches need no replacement algorithm because each block has only one possible line.",
+  "Daisy chaining: the device electrically closest to the CPU has the highest priority."
+ ],
+ "quickRevision": [
+  "ALU performs arithmetic, logic and shift operations; CU directs the instruction cycle.",
+  "Hardwired control = fast (RISC); microprogrammed control = flexible (CISC).",
+  "MAR holds address; MDR/MBR holds data; AC is the implied operand register.",
+  "Instruction cycle: fetch → decode → effective address → execute → interrupt check.",
+  "1 mode bit distinguishes direct and indirect addressing.",
+  "ADD R1, A, B is a three-address instruction.",
+  "Mask micro-operation = AND; selective set = OR; selective complement = XOR.",
+  "Memory hierarchy: registers → cache → main memory → disk → tape (speed ↓, capacity ↑, cost/bit ↓).",
+  "Locality of reference: temporal (same item again) and spatial (nearby items).",
+  "Cache mappings: direct, fully associative, set-associative; write-through vs write-back.",
+  "Pipeline hazards: structural, data, control; fixes: forwarding, stalls, branch prediction.",
+  "Flynn: SISD, SIMD, MISD, MIMD.",
+  "Disabling an interrupt = masking; NMI cannot be masked.",
+  "DMA controller moves data between I/O and memory without the CPU; uses BR/BG signals.",
+  "Two-pass assembler: pass 1 builds the symbol table, pass 2 generates code."
+ ],
+ "flashcards": [
+  {
+   "front": "Which register holds the instruction currently being executed?",
+   "back": "Instruction Register (IR)."
+  },
+  {
+   "front": "Which register holds the address of the next instruction?",
+   "back": "Program Counter (PC)."
+  },
+  {
+   "front": "Which instruction format uses an implied accumulator?",
+   "back": "One-address instructions."
+  },
+  {
+   "front": "Addressing mode where the register holds the operand's memory address?",
+   "back": "Register indirect mode."
+  },
+  {
+   "front": "Memory references to fetch an operand in indirect addressing?",
+   "back": "2 (one for the address, one for the operand)."
+  },
+  {
+   "front": "EA in relative addressing?",
+   "back": "EA = PC + address field (offset)."
+  },
+  {
+   "front": "Address and data lines for a 256K × 32 memory?",
+   "back": "18 address lines, 32 data lines."
+  },
+  {
+   "front": "Which logic micro-operation is the mask operation?",
+   "back": "AND."
+  },
+  {
+   "front": "Two kinds of locality of reference?",
+   "back": "Temporal and spatial."
+  },
+  {
+   "front": "Which cache mapping places a block in exactly one line?",
+   "back": "Direct mapping."
+  },
+  {
+   "front": "Maximum speedup of a k-stage pipeline?",
+   "back": "k."
+  },
+  {
+   "front": "Flynn class of vector/array processors?",
+   "back": "SIMD."
+  },
+  {
+   "front": "Disabling an interrupt is called?",
+   "back": "Masking."
+  },
+  {
+   "front": "DMA mode that transfers a block in one continuous burst?",
+   "back": "Burst transfer (block mode)."
+  },
+  {
+   "front": "DMA mode that transfers one word per bus cycle taken from the CPU?",
+   "back": "Cycle stealing."
+  },
+  {
+   "front": "To whom are pseudo-instructions given?",
+   "back": "The assembler."
+  },
+  {
+   "front": "What does pass 1 of a two-pass assembler build?",
+   "back": "The address symbol table (label → address)."
+  },
+  {
+   "front": "Which I/O scheme uses ordinary LOAD/STORE instructions for devices?",
+   "back": "Memory-mapped I/O."
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Arithmetic Logic Unit",
+   "hi": "अंकगणितीय तर्क इकाई"
+  },
+  {
+   "en": "Control unit",
+   "hi": "नियंत्रण इकाई"
+  },
+  {
+   "en": "Register",
+   "hi": "रजिस्टर (पंजी)"
+  },
+  {
+   "en": "Program counter",
+   "hi": "प्रोग्राम गणक"
+  },
+  {
+   "en": "Instruction cycle",
+   "hi": "निर्देश चक्र"
+  },
+  {
+   "en": "Addressing mode",
+   "hi": "पता निर्धारण विधि"
+  },
+  {
+   "en": "Effective address",
+   "hi": "प्रभावी पता"
+  },
+  {
+   "en": "Cache memory",
+   "hi": "कैश स्मृति"
+  },
+  {
+   "en": "Hit ratio",
+   "hi": "हिट अनुपात"
+  },
+  {
+   "en": "Pipelining",
+   "hi": "पाइपलाइनिंग (क्रमिक प्रसंस्करण)"
+  },
+  {
+   "en": "Interrupt",
+   "hi": "व्यवधान (इंटरप्ट)"
+  },
+  {
+   "en": "Direct Memory Access",
+   "hi": "प्रत्यक्ष स्मृति अभिगम"
+  },
+  {
+   "en": "Assembler",
+   "hi": "असेम्बलर (संयोजक)"
+  },
+  {
+   "en": "Pseudo-instruction",
+   "hi": "छद्म निर्देश"
+  },
+  {
+   "en": "Bus",
+   "hi": "बस (संचार पथ)"
+  }
+ ]
+}

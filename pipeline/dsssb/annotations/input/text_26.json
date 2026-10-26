@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set2-q177",
+  "copies": [
+   "2021-set2-q177"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding batch transaction processing?\nI. The database is updated when the transaction is processed.\nII. The associated cost is very high.\nIII. Reports generated are required only at a scheduled interval.",
+  "options": [
+   "A) Only II",
+   "B) Only III",
+   "C) I and II",
+   "D) I and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q178",
+  "copies": [
+   "2021-set2-q178"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of GPRS in mobile computing?",
+  "options": [
+   "A) General Packet Radio Service",
+   "B) General Packet Radiation Service",
+   "C) General Package Radio Service",
+   "D) General Packet Route service"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q179",
+  "copies": [
+   "2021-set2-q179"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a part of the system architecture of GSM in mobile computing?\nI. Radio Subsystem\nII. Networking and Switching Subsystem\nIII. Operation Support Subsystem",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q180",
+  "copies": [
+   "2021-set2-q180"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The duration of phosphorescence exhibited by a phosphor is known as ______.",
+  "options": [
+   "A) phosphorescence",
+   "B) fluorescence",
+   "C) persistence",
+   "D) deflection"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q181",
+  "copies": [
+   "2021-set2-q181"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the CMY co-ordinates of a colour at (0.2, 1, 0.5) in the RGB space?",
+  "options": [
+   "A) (0.8, 1, 0.5)",
+   "B) (0.8, 0, 0.5)",
+   "C) (1.2, 0, 1.5)",
+   "D) (0.2, 0.8, 0.3)"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q182",
+  "copies": [
+   "2021-set2-q182"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider a triangle with co-ordinates points: A(0, 0), B(3, 3) and C(2, 5). When scaling parameter is 2 towards x-axis and 4 towards y-axis, then\nwhat are the new co-ordinates of triangle?",
+  "options": [
+   "A) A(0, 0), B(6, 12), C(4, 20)",
+   "B) A(0, 0), B(5, 7), C(4, 9)",
+   "C) A(2, 4), B(5, 7), C(4, 9)",
+   "D) A(0, 0), B(3/2, 3/4), C(1, 5/4)"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q183",
+  "copies": [
+   "2021-set2-q183"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is the person who runs our web servers.",
+  "options": [
+   "A) Data analyst",
+   "B) Web master",
+   "C) Database designer",
+   "D) Web Designer"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q184",
+  "copies": [
+   "2021-set2-q184"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the extension of MPEG Audio file?",
+  "options": [
+   "A) .mpeg",
+   "B) .mp3",
+   "C) .mp4",
+   "D) .mov"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q185",
+  "copies": [
+   "2021-set2-q185"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following factors is taken into account when we develop a Knowledge Management System (KMS)?",
+  "options": [
+   "A) It requires a knowledge contract.",
+   "B) It is a cheap management system.",
+   "C) It is a definite process.",
+   "D) It has no human implications."
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q186",
+  "copies": [
+   "2021-set2-q186"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In the beginning, when reporting a meeting one should give precise information about the ______.",
+  "options": [
+   "A) history of the organisation",
+   "B) title of the speech",
+   "C) future prospects",
+   "D) participants"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q188",
+  "copies": [
+   "2021-set2-q188"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are included in the user documentation of program?\nI. Program formatting\nII. Description of program and its purpose\nIII. Description of program output",
+  "options": [
+   "A) II and III",
+   "B) I and II",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q189",
+  "copies": [
+   "2021-set2-q189"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The median of 7, 5, 8, x, 12, 17 is 10, then what is the value of x?",
+  "options": [
+   "A) 13",
+   "B) 11",
+   "C) 9",
+   "D) 12"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q190",
+  "copies": [
+   "2021-set2-q190"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In a bulb factory, machines P, Q and R manufacture respectively 25%, 35% and 40% of the total. Of their output 5, 4 and 2 percent respectively\nare defective bulbs. A bulb is drawn at random and it is found to be defective. What is the probability that it was manufactured by machine Q?",
+  "options": [
+   "A) 0.55",
+   "B) 0.45",
+   "C) 0.31",
+   "D) 0.41"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q191",
+  "copies": [
+   "2021-set2-q191"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the characteristic(s) of Teacher Centred Approach of teaching – learning?\nI. Extrinsic modes of motivation like praise, rewards and punishment are generally used by the teachers.\nII. Emphasis is given on passive listening, reading and writing and reproducing things taught by or as directed by the teacher.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q192",
+  "copies": [
+   "2021-set2-q192"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "‘It is not always possible to bring real objects to the classroom’. Which of the following is/are the reason(s) behind the given statement?\nI. Size of the object\nII. Safety\nIII. Cost",
+  "options": [
+   "A) I, II and III",
+   "B) II and III",
+   "C) Only III",
+   "D) I and II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q193",
+  "copies": [
+   "2021-set2-q193"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "‘If you are planning to teach the different states of India in class VI, then you need to know whether the students are well conversant in using the\natlas’. This given statement is referred to which of the following phase(s) of Assessment For Learning?\nI. Formative Assessment\nII. Diagnostic Assessment",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q194",
+  "copies": [
+   "2021-set2-q194"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "While giving written feedback in Assessment for Learning, which of the following point(s) need to be taken care of?\nI. Don’t jump straight to errors. Praise first.\nII. Encourage the student to make corrections. Don’t simply write the correct answers, spellings and so on.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q195",
+  "copies": [
+   "2021-set2-q195"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is the first step for learning a language.\nI. Speaking\nII. Listening",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q196",
+  "copies": [
+   "2021-set2-q196"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How can we provide opportunities for listening and speaking in the classroom?\nI. Listening and singing poems\nII. Discussion through pictures",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q197",
+  "copies": [
+   "2021-set2-q197"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In order to use drama as a linguistic activity, which of the following characteristic(s) need to be included?\nI. Freedom\nII. Enjoyment",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q198",
+  "copies": [
+   "2021-set2-q198"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "People who work with visual images includes ______.\nI. painters\nII. sculptors",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q199",
+  "copies": [
+   "2021-set2-q199"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are NOT correct?\nI. Gender is a socio-cultural construct.\nII. Sex is systemic.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q200",
+  "copies": [
+   "2021-set2-q200"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the special feature(s) of Kasturbha Gandhi Balika Vidyalya?\nI. Providing residential facilities to create a free environment for learning\nII. Providing life skill trainings\nIII. Providing extra coaching for slow learners",
+  "options": [
+   "A) I, II and III",
+   "B) Only III",
+   "C) II and III",
+   "D) I and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q001",
+  "copies": [
+   "2021-set3-q001"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "______ is located in Telangana.",
+  "options": [
+   "A) Khazana Building Museum",
+   "B) Kangra Fort",
+   "C) Shershah Suri’s Tomb",
+   "D) Bibi-ka-Maqbara"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q002",
+  "copies": [
+   "2021-set3-q002"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of type – instrument is correct?\nI. Tata – Flute\nII. Sushir – Table",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q003",
+  "copies": [
+   "2021-set3-q003"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct about Direct Taxes?\nI. Direct taxes consist of taxes on incomes of individuals.\nII. Income tax is one of the direct taxes.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q004",
+  "copies": [
+   "2021-set3-q004"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "During a recession when GDP falls, disposable income ______.",
+  "options": [
+   "A) increases less sharply",
+   "B) falls less sharply",
+   "C) becomes constant",
+   "D) becomes zero"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q005",
+  "copies": [
+   "2021-set3-q005"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "______ fight against germs that may enter our body.",
+  "options": [
+   "A) Red blood cells",
+   "B) White blood cells",
+   "C) Platelets",
+   "D) Hemoglobin"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q006",
+  "copies": [
+   "2021-set3-q006"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The size of pupil is controlled by the ______.",
+  "options": [
+   "A) lens",
+   "B) iris",
+   "C) cornea",
+   "D) retina"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q007",
+  "copies": [
+   "2021-set3-q007"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which method of separation is used for seperating heavier and lighter components by bowing air?",
+  "options": [
+   "A) Threshing",
+   "B) Winnowing",
+   "C) Sieving",
+   "D) Hand picking"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q008",
+  "copies": [
+   "2021-set3-q008"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Rice needs ______ temperature and ______ humidity.",
+  "options": [
+   "A) low; high",
+   "B) high; high",
+   "C) high; low",
+   "D) low; low"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q009",
+  "copies": [
+   "2021-set3-q009"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct about insolation?\nI. It influences distribution of temperature.\nII. It increases from the equator towards the poles.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q010",
+  "copies": [
+   "2021-set3-q010"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of river – tributary is correct?\nI. Krishna – Bhavani\nII. Kaveri – Bhima",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q011",
+  "copies": [
+   "2021-set3-q011"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "______ compiled the Puranas and the Mahabharata.",
+  "options": [
+   "A) Tulsidas",
+   "B) Kalidas",
+   "C) Vyas",
+   "D) Banabhatta"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q012",
+  "copies": [
+   "2021-set3-q012"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of act – year is correct?\nI. Child marriage restraint act – 1929\nII. Window remarriage act – 1858",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q013",
+  "copies": [
+   "2021-set3-q013"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is correct?\nI. Lord Dalhousie introduced doctrine of lapse.\nII. Company took over Awadh in 1856.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q014",
+  "copies": [
+   "2021-set3-q014"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "India launched supply chain resilience initiative in April 2021 with ______.",
+  "options": [
+   "A) Russia and Japan",
+   "B) Australia and Japan",
+   "C) Australia and Brazil",
+   "D) Brazil and South Africa"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q015",
+  "copies": [
+   "2021-set3-q015"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT a member of ASEAN?",
+  "options": [
+   "A) Vietnam",
+   "B) Fiji",
+   "C) Singapore",
+   "D) Cambodia"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q016",
+  "copies": [
+   "2021-set3-q016"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Where are the headquarters of IAEA situated?",
+  "options": [
+   "A) Oslo",
+   "B) Vienna",
+   "C) Geneva",
+   "D) Copenhagen"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q017",
+  "copies": [
+   "2021-set3-q017"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "51st amendment of Indian constitution happened in which year?",
+  "options": [
+   "A) 1973",
+   "B) 1989",
+   "C) 1984",
+   "D) 1969"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q018",
+  "copies": [
+   "2021-set3-q018"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which article of Indian constitution is related to uniform civil code for citizens?",
+  "options": [
+   "A) 49",
+   "B) 44",
+   "C) 46",
+   "D) 52"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q019",
+  "copies": [
+   "2021-set3-q019"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which country hosted the 2018 Asian games?",
+  "options": [
+   "A) Indonesia",
+   "B) Thailand",
+   "C) Malaysia",
+   "D) Qatar"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q020",
+  "copies": [
+   "2021-set3-q020"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Who won the Golden Boot award at 2019 FIFA U20 World Cup?",
+  "options": [
+   "A) Erling Haaland",
+   "B) Lee Kangin",
+   "C) Andriy Lunin",
+   "D) Sekou Koita"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q021",
+  "copies": [
+   "2021-set3-q021"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nSJ20, WF42, AB86, ?, IT370",
+  "options": [
+   "A) EX174",
+   "B) EX172",
+   "C) FX174",
+   "D) FX172"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q022",
+  "copies": [
+   "2021-set3-q022"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nLXMG, TPUY, ?, JZKI, RRSA",
+  "options": [
+   "A) BHDR",
+   "B) BHCQ",
+   "C) BHDQ",
+   "D) BHCR"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q023",
+  "copies": [
+   "2021-set3-q023"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, four letter pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+  "options": [
+   "A) LX – WK",
+   "B) NO – MN",
+   "C) CR – QB",
+   "D) TA – ZS"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q024",
+  "copies": [
+   "2021-set3-q024"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, select the related letters from the given alternatives.\nAMD : FOC :: TRV : ?",
+  "options": [
+   "A) YTU",
+   "B) XTU",
+   "C) YTV",
+   "D) XTV"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q025",
+  "copies": [
+   "2021-set3-q025"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(GROB, EKUC, FQNA)",
+  "options": [
+   "A) (LAPT, WLDH, KZOS)",
+   "B) (CGND, GJJY, BFMD)",
+   "C) (RFID, GECV, YYHC)",
+   "D) (NEFT, WBHJ, MDEA)"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q026",
+  "copies": [
+   "2021-set3-q026"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In a certain code language, ‘LACKEY’ is written as ‘121311525’, ‘LUSTER’ is written as ‘12211920518’. What is the code for ‘KIPPER’ in that\ncode language?",
+  "options": [
+   "A) 1191616518",
+   "B) 1191617520",
+   "C) 1191622522",
+   "D) 1191640532"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q027",
+  "copies": [
+   "2021-set3-q027"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Pointing towards a woman in a photograph, Vipin said, “She is the daughter of my son’s wife”. How is the woman related to Vipin?",
+  "options": [
+   "A) Grand daughter",
+   "B) Daughter in law",
+   "C) Daughter",
+   "D) Niece"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

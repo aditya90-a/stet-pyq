@@ -3,10 +3,12 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Bihar STET Computer Science PYQ app (mobile-first PWA), built from the source PDFs.",
+  "description": "Previous-year question apps (mobile-first PWA): Bihar STET Computer Science and DSSSB TGT Computer Science, built from the source PDFs.",
   "scripts": {
     "pipeline": "PYTHONPATH=pipeline .venv/bin/python -m stet.build --src /Users/apple/Documents/Stet",
     "pipeline:test": "cd pipeline && ../.venv/bin/python -m pytest -q",
+    "pipeline:dsssb": "PYTHONPATH=pipeline .venv/bin/python -m dsssb.build --src /Users/apple/Documents/TGT-DSSSB",
+    "pipeline:dsssb:prep": "PYTHONPATH=pipeline .venv/bin/python -m dsssb.prep --src /Users/apple/Documents/TGT-DSSSB",
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",

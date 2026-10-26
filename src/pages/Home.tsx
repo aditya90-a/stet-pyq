@@ -141,6 +141,22 @@ export function Home() {
           </div>
         </section>
 
+        <section className="section">
+          <div className="section-head">
+            <h2>Other exams</h2>
+          </div>
+          <Link className="li card" to="/dsssb">
+            <span className="li-icon tint-accent">
+              <IBook />
+            </span>
+            <span className="li-body">
+              <span className="li-title">DSSSB TGT Computer Science</span>
+              <span className="li-sub">1,400 verified PYQs · notes · mock tests · हिन्दी / English</span>
+            </span>
+            <IChevronR className="chev" />
+          </Link>
+        </section>
+
         <p className="footnote">
           {fmtNum(t.questions)} questions from {t.papers} real papers (2023–2025). Past repeats don't guarantee future questions.
         </p>

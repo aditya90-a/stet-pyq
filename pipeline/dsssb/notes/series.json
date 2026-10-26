@@ -1,0 +1,345 @@
+{
+ "slug": "series",
+ "subject": "General Intelligence & Reasoning",
+ "topic": "Series",
+ "titleHi": "श्रृंखला",
+ "summary": "Number series, letter and alphanumeric series, and missing/wrong-term questions. DSSSB papers carry several series questions every year, including 'one term is wrong' items and letter-cluster series where each position follows its own rule. A fixed checking order (differences, ratios, squares/cubes, alternation, position-wise letters) solves almost all of them within a minute.",
+ "sections": [
+  {
+   "heading": "A checking order for number series",
+   "level": "basic",
+   "subtopic": "Number series",
+   "body": "Do not guess patterns randomly. Run through this list, stopping at the first rule that fits **every** term:\n- **1. Look at growth**: slow, steady growth suggests addition; fast growth (doubling or more) suggests multiplication, squares or cubes; up-and-down movement suggests two alternating series.\n- **2. First differences**: subtract each term from the next. Constant difference = arithmetic series.\n- **3. Second differences**: if the first differences themselves form a pattern (+2, +4, +6 or constant), use that.\n- **4. Ratios**: divide each term by the previous one (×2, ×3, ÷2, or ×1, ×2, ×3).\n- **5. Mixed operations**: ×2 + 1, ×3 − 1, ×1 + 1, ×2 + 2, ×3 + 3 ...\n- **6. Squares / cubes nearby**: compare each term with n², n³ (n² + 1, n³ − 1, n² + n).\n- **7. Alternate terms**: split the series into odd-place and even-place terms.\n- **8. Special series**: primes, Fibonacci-type (each term = sum of the previous two), digit-based.\n\nOnce you find a rule, **verify it on all given terms** before choosing the answer; the options are designed to trap a rule that fits only the first three terms.",
+   "diagram": {
+    "title": "Second-order differences",
+    "ascii": "Series :   1     4    11    22    37     ?\n1st diff:    3     7    11    15   (19)\n2nd diff:       4     4     4   (4)\n\nNext term = 37 + 19 = 56"
+   }
+  },
+  {
+   "heading": "Standard number-series patterns",
+   "level": "intermediate",
+   "subtopic": "Number series",
+   "body": "The table lists the patterns that appear most often. Practise recognising them from the first three or four terms.\n\nTwo patterns deserve special attention:\n- **Multiply-and-add with a changing multiplier**: 1, 2, 6, 21, 88 follows ×1 + 1, ×2 + 2, ×3 + 3, ×4 + 4, so the next term is 88 × 5 + 5 = 445.\n- **Division chains** grow smaller: 1440, 720, 240, 60 follows ÷2, ÷3, ÷4, so the next term is 60 ÷ 5 = 12.",
+   "table": {
+    "columns": [
+     "Type",
+     "Example",
+     "Next term"
+    ],
+    "rows": [
+     [
+      "Constant difference",
+      "7, 12, 17, 22",
+      "27"
+     ],
+     [
+      "Increasing difference (+1, +2, +3...)",
+      "2, 3, 5, 8, 12",
+      "17"
+     ],
+     [
+      "Second-order difference",
+      "1, 4, 11, 22, 37",
+      "56"
+     ],
+     [
+      "Geometric (×4)",
+      "3, 12, 48, 192",
+      "768"
+     ],
+     [
+      "×n + n",
+      "1, 2, 6, 21, 88",
+      "445"
+     ],
+     [
+      "n² − 1",
+      "0, 3, 8, 15, 24",
+      "35"
+     ],
+     [
+      "Cubes",
+      "1, 8, 27, 64",
+      "125"
+     ],
+     [
+      "Primes",
+      "2, 3, 5, 7, 11, 13",
+      "17"
+     ],
+     [
+      "Two alternating series",
+      "1, 10, 3, 20, 5, 30",
+      "7"
+     ],
+     [
+      "Fibonacci-type",
+      "1, 1, 2, 3, 5, 8",
+      "13"
+     ],
+     [
+      "÷2, ÷3, ÷4 ...",
+      "1440, 720, 240, 60",
+      "12"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Letter and alphanumeric series",
+   "level": "intermediate",
+   "subtopic": "Letter / alphanumeric series",
+   "body": "Convert letters to positions (A = 1 ... Z = 26; anchors EJOTY = 5, 10, 15, 20, 25) and treat the series like a number series.\n\n**Single-letter series**: e.g. C, F, J, O has gaps +3, +4, +5, so the next gap is +6.\n\n**Letter-cluster series** (e.g. 3- or 4-letter groups): work **position by position**. Write the first letters of every cluster as one series, the second letters as another, and so on. Each position usually has its own simple rule (+4, −3, +5 ...), and with wrap-around after Z (Z + 1 = A).\n\n**Alphanumeric series** mix letters and numbers: A1, C3, E5, G7 → the letter position equals the number, both rising by 2, so the next term is I9. In terms like SJ20 the number may be linked to the letters (sum or product of positions) or follow its own number series - test both.\n\n**Repeating-pattern (fill the blanks) series**: e.g. a _ b c a a _ c a a b _. Try block lengths 3, 4, 5 until a block repeats: here 'aabc' repeats three times, so the blanks are a, b, c.\n\n**Tip**: when the options all start with the same letter, skip that position and compare the positions where options differ - you may need to compute only one position."
+  },
+  {
+   "heading": "Powers and number families to recognise",
+   "level": "basic",
+   "subtopic": "Number series",
+   "body": "Fast recognition of special numbers saves most of the time in series questions. Memorise:\n- **Squares** up to 30² = 900 (the table shows 11² to 20²); squares end only in 0, 1, 4, 5, 6 or 9.\n- **Cubes** up to 15³ = 3375.\n- **Powers of 2**: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024. **Powers of 3**: 3, 9, 27, 81, 243, 729.\n- **Primes** below 100 (25 of them) and the fact that 1 is neither prime nor composite.\n- **Triangular numbers** n(n + 1)/2: 1, 3, 6, 10, 15, 21, 28.\n\nWhen a term is one more or one less than a square or cube (26, 63, 124, 217), suspect an n² ± 1 or n³ ± 1 rule. When a term is a square plus its root (20 = 4² + 4, 30 = 5² + 5), suspect n² + n.",
+   "table": {
+    "columns": [
+     "n",
+     "n²",
+     "n³"
+    ],
+    "rows": [
+     [
+      "11",
+      "121",
+      "1331"
+     ],
+     [
+      "12",
+      "144",
+      "1728"
+     ],
+     [
+      "13",
+      "169",
+      "2197"
+     ],
+     [
+      "14",
+      "196",
+      "2744"
+     ],
+     [
+      "15",
+      "225",
+      "3375"
+     ],
+     [
+      "16",
+      "256",
+      "4096"
+     ],
+     [
+      "17",
+      "289",
+      "4913"
+     ],
+     [
+      "18",
+      "324",
+      "5832"
+     ],
+     [
+      "19",
+      "361",
+      "6859"
+     ],
+     [
+      "20",
+      "400",
+      "8000"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Alphabet-position problems",
+   "level": "intermediate",
+   "subtopic": "Letter / alphanumeric series",
+   "body": "Some letter questions ask for a letter by its position instead of a series. Use these rules:\n- k-th letter from the left = position k; k-th letter from the right = position **27 − k**.\n- m-th letter **to the right** of position p = position **p + m**; to the left = **p − m**.\n- In the reversed alphabet (Z to A), the k-th letter is the letter at position 27 − k of the normal alphabet.\n- Number of letters **between** positions p and q = |p − q| − 1.\n- The letter midway between positions p and q is at (p + q) ÷ 2 (only if p + q is even).\n\nExample: which letter is 7th to the right of the 10th letter from the right end? 10th from the right = 27 − 10 = 17 (Q); 17 + 7 = 24 = **X**.\n\nExample: which letter is midway between the 5th letter from the left (E = 5) and the 6th letter from the right (U = 21)? (5 + 21) ÷ 2 = 13 = **M**; there are 21 − 5 − 1 = 15 letters between E and U.\n\nWhen a question says some letters are removed or the alphabet is rewritten (e.g. every vowel deleted), rewrite the reduced sequence quickly before counting; do not reuse the original positions."
+  },
+  {
+   "heading": "Missing term and wrong term",
+   "level": "advanced",
+   "subtopic": "Missing term",
+   "body": "**Missing term**: the blank may be in the middle. Use the terms on both sides of the blank to fix the rule: the rule must connect the term before the blank to the blank and the blank to the term after it.\n\n**Wrong term**: one given term breaks the pattern. Method:\n- Find a rule using the majority of terms (often the first few and the last).\n- Regenerate the whole series from that rule.\n- The term that differs is the wrong one; the generated value is what it should have been.\n\nCaution: a wrong term disturbs **two** consecutive differences. If you expect differences 3, 5, 7, 9, 11 but see 3, 5, 8, 8, 11, the term shared by the two irregular differences is one too large. Fix that one term and recheck that all differences become regular.\n\nFor letter-cluster 'wrong term' questions, check each position separately; the wrong cluster usually has just one letter out of line, so the other positions will still fit their rule.\n\nTime management: if no rule appears in 60 seconds, mark the question for review and move on; series questions are independent and you can return later."
+  },
+  {
+   "heading": "Series with fractional ratios",
+   "level": "advanced",
+   "subtopic": "Missing term",
+   "body": "Some series shrink and then grow, or contain decimals. These are usually built from a **changing multiplier** such as ×0.5, ×1, ×1.5, ×2, ×2.5 (the multiplier rises by 0.5 each time).\n\nExample: 8, 4, 4, 6, 12, 30, ?\n- Ratios: 4 ÷ 8 = 0.5, 4 ÷ 4 = 1, 6 ÷ 4 = 1.5, 12 ÷ 6 = 2, 30 ÷ 12 = 2.5.\n- Next multiplier = 3, so the next term is 30 × 3 = **90**.\n\nSigns that a ratio rule is involved: a repeated term (4, 4 means ×1), a sudden halving, or decimals such as .5 in the terms. Compute ratios as fractions (30/12 = 5/2) rather than long division to avoid slips."
+  }
+ ],
+ "formulas": [
+  {
+   "name": "n-th term of an arithmetic series",
+   "formula": "Tₙ = a + (n − 1)d",
+   "note": "a = first term, d = common difference."
+  },
+  {
+   "name": "Sum of an arithmetic series",
+   "formula": "Sₙ = n/2 × [2a + (n − 1)d]",
+   "note": ""
+  },
+  {
+   "name": "n-th term of a geometric series",
+   "formula": "Tₙ = a × rⁿ⁻¹",
+   "note": "r = common ratio."
+  },
+  {
+   "name": "Product series",
+   "formula": "n(n + 1): 2, 6, 12, 20, 30, 42 ...",
+   "note": "Differences are 4, 6, 8, 10, 12."
+  },
+  {
+   "name": "Letter shift",
+   "formula": "Position after wrap-around = (p + k − 1) mod 26 + 1",
+   "note": "Simpler: if the sum exceeds 26, subtract 26."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Practice: 3, 7, 15, 31, 63, ?",
+   "solution": "Step 1: Differences 4, 8, 16, 32 double each time, which suggests a ×2 rule.\nStep 2: 3 × 2 + 1 = 7, 7 × 2 + 1 = 15, 15 × 2 + 1 = 31, 31 × 2 + 1 = 63.\nStep 3: 63 × 2 + 1 = **127**."
+  },
+  {
+   "problem": "Practice: 2, 6, 12, 20, 30, ?",
+   "solution": "Step 1: Differences: 4, 6, 8, 10, so the next difference is 12.\nStep 2: 30 + 12 = **42**.\nCheck: the terms are 1×2, 2×3, 3×4, 4×5, 5×6, so the next is 6×7 = 42."
+  },
+  {
+   "problem": "Practice: 4, 8, 6, 12, 10, 20, ?",
+   "solution": "Step 1: The series rises and falls, so test alternating operations.\nStep 2: 4 ×2 = 8, 8 −2 = 6, 6 ×2 = 12, 12 −2 = 10, 10 ×2 = 20.\nStep 3: Next operation is −2: 20 − 2 = **18**."
+  },
+  {
+   "problem": "Practice: Find the wrong term: 2, 5, 10, 17, 26, 38, 50",
+   "solution": "Step 1: Differences: 3, 5, 7, 9, 12, 12 - regular odd steps until near the end.\nStep 2: The rule n² + 1 gives 2, 5, 10, 17, 26, 37, 50.\nStep 3: Only 38 differs; with 37 the differences become 3, 5, 7, 9, 11, 13.\nAnswer: **38** is wrong (should be 37)."
+  },
+  {
+   "problem": "Practice: C, F, J, O, ?",
+   "solution": "Step 1: Positions 3, 6, 10, 15.\nStep 2: Gaps +3, +4, +5, so the next gap is +6.\nStep 3: 15 + 6 = 21 = **U**."
+  },
+  {
+   "problem": "Practice: BDF, GIK, LNP, ?",
+   "solution": "Step 1: First letters B(2), G(7), L(12): +5 each, so the next is Q(17).\nStep 2: Inside each cluster the letters go +2, +2 (B, D, F; G, I, K; L, N, P).\nStep 3: Q(17), S(19), U(21).\nAnswer: **QSU**."
+  }
+ ],
+ "pitfalls": [
+  "Choosing a rule that fits only the first three terms; always verify on every term.",
+  "Missing alternating series because you only look at consecutive differences.",
+  "In letter clusters, trying to find one rule for the whole cluster instead of position-wise rules.",
+  "Forgetting wrap-around: Y + 4 = C, not an invalid letter.",
+  "In wrong-term questions, blaming the term before or after the real error; one wrong term spoils two differences.",
+  "Arithmetic slips in ×n + n patterns; write each step.",
+  "Ignoring decimals: ratios like ×1.5 or ×2.5 are common in DSSSB series."
+ ],
+ "quickRevision": [
+  "Order: growth → 1st differences → 2nd differences → ratios → mixed → squares/cubes → alternate → special.",
+  "Arithmetic series: constant difference; geometric: constant ratio.",
+  "n(n + 1) series: 2, 6, 12, 20, 30, 42.",
+  "n² + 1: 2, 5, 10, 17, 26, 37, 50.",
+  "×n + n: 1, 2, 6, 21, 88, 445.",
+  "Up-and-down series → split into two alternate series.",
+  "Letter clusters: one rule per position.",
+  "Alphanumeric terms: test whether the number depends on the letters.",
+  "Repeating pattern blanks: try block lengths 3, 4, 5.",
+  "Wrong term: regenerate the series and compare.",
+  "Leave a series after 60 seconds and return later."
+ ],
+ "flashcards": [
+  {
+   "front": "Next term: 7, 12, 17, 22, ?",
+   "back": "27 (+5)"
+  },
+  {
+   "front": "Next term: 3, 12, 48, 192, ?",
+   "back": "768 (×4)"
+  },
+  {
+   "front": "Next term: 0, 3, 8, 15, 24, ?",
+   "back": "35 (n² − 1)"
+  },
+  {
+   "front": "Next term: 1, 1, 2, 3, 5, 8, ?",
+   "back": "13 (sum of previous two)"
+  },
+  {
+   "front": "Next term: 1, 10, 3, 20, 5, 30, ?",
+   "back": "7 (two alternating series)"
+  },
+  {
+   "front": "Next term: 1440, 720, 240, 60, ?",
+   "back": "12 (÷2, ÷3, ÷4, ÷5)"
+  },
+  {
+   "front": "Next term: A1, C3, E5, G7, ?",
+   "back": "I9"
+  },
+  {
+   "front": "Next letter: B, E, H, K, ?",
+   "back": "N (+3)"
+  },
+  {
+   "front": "What is X + 5 with wrap-around?",
+   "back": "C"
+  },
+  {
+   "front": "Formula for the n-th term of an AP?",
+   "back": "a + (n − 1)d"
+  },
+  {
+   "front": "How many differences does one wrong term disturb?",
+   "back": "Two consecutive differences"
+  },
+  {
+   "front": "First check for a series that goes up and down?",
+   "back": "Split into two alternate series"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Series",
+   "hi": "श्रृंखला / श्रेणी"
+  },
+  {
+   "en": "Term",
+   "hi": "पद"
+  },
+  {
+   "en": "Missing term",
+   "hi": "लुप्त पद"
+  },
+  {
+   "en": "Wrong term",
+   "hi": "गलत पद"
+  },
+  {
+   "en": "Difference",
+   "hi": "अंतर"
+  },
+  {
+   "en": "Ratio",
+   "hi": "अनुपात"
+  },
+  {
+   "en": "Arithmetic progression",
+   "hi": "समांतर श्रेणी"
+  },
+  {
+   "en": "Geometric progression",
+   "hi": "गुणोत्तर श्रेणी"
+  },
+  {
+   "en": "Alternate",
+   "hi": "एकांतर"
+  },
+  {
+   "en": "Alphanumeric",
+   "hi": "अक्षरांकीय"
+  }
+ ]
+}

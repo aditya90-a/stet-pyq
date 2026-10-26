@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set2-q116",
+  "copies": [
+   "2021-set2-q116"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true about pre-processor in C/C++?\nI. To replace each #include directive with the contents of the designated file.\nII. To replace each escape sequence with designated character.\nIII. To process macro definitions and expand macro calls.",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) Only I",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q117",
+  "copies": [
+   "2021-set2-q117"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the equivalent infix expression of the following postfix expression?\nM, N, O, +, *, P, /, Q, R, S, T, /, +, *, –",
+  "options": [
+   "A) O * (M + N)/P – Q * (R + S/T)",
+   "B) M * (N + O)/Q – P * (R/S + T)",
+   "C) N * (M + O)/Q – P * (S + R/T)",
+   "D) (((M*(N+O))/P)–(Q*(R+(S/T))))"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q118",
+  "copies": [
+   "2021-set2-q118"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "While inserting the elements 71, 56, 48, 96, 76, 82, 98 in an empty binary search tree in the sequence shown, which element will come in the\nlowest level?",
+  "options": [
+   "A) 96",
+   "B) 98",
+   "C) 71",
+   "D) 82"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q120",
+  "copies": [
+   "2021-set2-q120"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ protocol is used for electronic data interchange. (Standard developed for the electronic exchange of machine – readable information\nbetween businesses.)",
+  "options": [
+   "A) X.12",
+   "B) X.75",
+   "C) XON",
+   "D) XL2.5"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q121",
+  "copies": [
+   "2021-set2-q121"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of EBCDIC?",
+  "options": [
+   "A) External Binary Coded Digit Interchange Code",
+   "B) External Bit Code Digit Internal Code",
+   "C) External Bit Code Decimal Interchange Code",
+   "D) Extended Binary Coded Decimal Interchange Code"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q122",
+  "copies": [
+   "2021-set2-q122"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Write the binary code for EXAM in ASCII-7. (decimal code of A is 65)",
+  "options": [
+   "A) 1001101101100010000011001101",
+   "B) 1000101101100010000011001101",
+   "C) 1011000100000110110001000001",
+   "D) 1000001101100010011011011000"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q123",
+  "copies": [
+   "2021-set2-q123"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ converts a source code to object code.",
+  "options": [
+   "A) Compiler",
+   "B) Linker",
+   "C) Editor",
+   "D) Loader"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q124",
+  "copies": [
+   "2021-set2-q124"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Method of subtraction by an additive approach is known as ______ subtraction.",
+  "options": [
+   "A) inverse",
+   "B) complementary",
+   "C) multiplicative",
+   "D) associate"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q125",
+  "copies": [
+   "2021-set2-q125"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "3 resistors of 3 ohm each connected in series. What is the mean values of resistors?",
+  "options": [
+   "A) 1 ohm",
+   "B) 9 ohm",
+   "C) 6 ohm",
+   "D) 18 ohm"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q127",
+  "copies": [
+   "2021-set2-q127"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Simplify the following Boolean expression.\nE(E + F) + DE + D(E + F)",
+  "options": [
+   "A) E + DF",
+   "B) F + DE",
+   "C) D + EF",
+   "D) D + E + F"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q129",
+  "copies": [
+   "2021-set2-q129"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A monostable multivibrator has which of the following state(s)?\nI. One stable state\nII. One quasi-stable state",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q130",
+  "copies": [
+   "2021-set2-q130"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In a demultiplexer, the number of output lines is n and the number of select lines is m. Which of the following is correct?",
+  "options": [
+   "A) n = 2^m",
+   "B) m = 2^n",
+   "C) n = 2m",
+   "D) m = 2n"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q132",
+  "copies": [
+   "2021-set2-q132"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of ISAM in file organisation?",
+  "options": [
+   "A) Indirect Sequential Access Method",
+   "B) Indexed Sequential Access Method",
+   "C) Indirect Serial Access Method",
+   "D) Index Serial Access Method"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q133",
+  "copies": [
+   "2021-set2-q133"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Primary index in sequential order file organisation is also known as ______.",
+  "options": [
+   "A) dense index",
+   "B) clustering index",
+   "C) non-clustering index",
+   "D) sparse index"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q134",
+  "copies": [
+   "2021-set2-q134"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Deductive model of DBMS is also known as ______.",
+  "options": [
+   "A) Object-oriented model",
+   "B) Inference model",
+   "C) Interactive model",
+   "D) Differential model"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q135",
+  "copies": [
+   "2021-set2-q135"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a system database that contains description of the data in the database.",
+  "options": [
+   "A) Data Catalog",
+   "B) Information Catalog",
+   "C) Record Catalog",
+   "D) File Catalog"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q136",
+  "copies": [
+   "2021-set2-q136"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding a relation in second normal form?\nI. It is in first normal form\nII. Every non-key attribute is fully and functionally independent on the primary key",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q139",
+  "copies": [
+   "2021-set2-q139"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A flip-flop is capable of storing ______ information.",
+  "options": [
+   "A) 1 byte",
+   "B) 1 bit",
+   "C) 1 byte word",
+   "D) 1 nibble"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q140",
+  "copies": [
+   "2021-set2-q140"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Shortcut key used to open Google chrome developer tools in windows is ______.",
+  "options": [
+   "A) Ctrl+I",
+   "B) Ctrl+Shift+I",
+   "C) Shift+I",
+   "D) Ctrl+Alt+I"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q141",
+  "copies": [
+   "2021-set2-q141"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are correct?\nI. The Journal is the book for chronological record\nII. The ledger is the book for analytical record",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q142",
+  "copies": [
+   "2021-set2-q142"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the method(s) of calculating depreciation amount?\nI. Straight line method\nII. Written down value method",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q143",
+  "copies": [
+   "2021-set2-q143"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Equivalence partitioning is a ______.",
+  "options": [
+   "A) White box testing method",
+   "B) Black box testing method",
+   "C) Comparison testing method",
+   "D) Loop testing method"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q144",
+  "copies": [
+   "2021-set2-q144"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the other name of Data Flow Diagram (DFD)?",
+  "options": [
+   "A) Flow chart",
+   "B) Pictorial graph",
+   "C) Bubble chart",
+   "D) Di-graph"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q145",
+  "copies": [
+   "2021-set2-q145"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In ______ model, software is developed in a series of incremental releases.",
+  "options": [
+   "A) Spiral",
+   "B) Sequential",
+   "C) Concurrent",
+   "D) RAD"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q146",
+  "copies": [
+   "2021-set2-q146"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of CASE tool in software engineering?",
+  "options": [
+   "A) Computer Aided Software Engineering",
+   "B) Computer Application Software Engineering",
+   "C) Control Application Software Engineering",
+   "D) Code Aided Software Engineering"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q147",
+  "copies": [
+   "2021-set2-q147"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "According to Boehm’s, what are the definitions of verification and validation?",
+  "options": [
+   "A) Verification: Is the software free of errors?\nValidation: Is the software commercially viable?",
+   "B) Verification: Is the software commercially viable?\nValidation: Is the software free of errors?",
+   "C) Verification: Are we building the product right?\nValidation: Are we building the right product?",
+   "D) Verification: Are we building the right product?\nValidation: Are we building the product right?"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q148",
+  "copies": [
+   "2021-set2-q148"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statement(s) is/are correct regarding the feasibility study?\nI. It determines whether developing the product is financially feasible\nII. It determines whether developing the product is technically feasible",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q149",
+  "copies": [
+   "2021-set2-q149"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "N is the number of nodes of the control graph and E is the number of edges in the control flow graph. What is Mc Cabe’s cyclomatic complexity\nV(G)?",
+  "options": [
+   "A) V(G) = E + N + 2",
+   "B) V(G) = E – N + 2",
+   "C) V(G) = E + N – 2",
+   "D) V(G) = E – N – 2"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q150",
+  "copies": [
+   "2021-set2-q150"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A java program that is embedded in HTML document and runs in the context of java capable browser is known as ______.",
+  "options": [
+   "A) applet",
+   "B) canvas",
+   "C) doctags",
+   "D) frame window"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q152",
+  "copies": [
+   "2021-set2-q152"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The process in an operating system in which the output of any program is not printed directly on printer but dumped onto a reserved area of a\ndisk is known as ______.",
+  "options": [
+   "A) System call",
+   "B) Teardown operation",
+   "C) Spooling",
+   "D) Swapping"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q153",
+  "copies": [
+   "2021-set2-q153"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Disabling an interrupt is known as ______.",
+  "options": [
+   "A) masking",
+   "B) run",
+   "C) stop",
+   "D) halt"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q154",
+  "copies": [
+   "2021-set2-q154"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider a main memory with the capacity of 3 page frames which are initially empty. Page reference is 4, 7, 6, 1, 7, 6, 1, 2, 7, 2. What is the\nnumber of page fault using optimal page replacement algorithm?",
+  "options": [
+   "A) 7",
+   "B) 6",
+   "C) 5",
+   "D) 4"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q155",
+  "copies": [
+   "2021-set2-q155"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Inner most layer of operating system which is always present in main memory is known as ______.",
+  "options": [
+   "A) hardware",
+   "B) user interface",
+   "C) application program",
+   "D) kernel"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q156",
+  "copies": [
+   "2021-set2-q156"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The instruction which are executed only in kernel mode is known as ______.",
+  "options": [
+   "A) memory instruction",
+   "B) arithmetic instruction",
+   "C) privileged instruction",
+   "D) logical instruction"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q157",
+  "copies": [
+   "2021-set2-q157"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Move the Read/Write head of disk in or out to position on a correct track is known as ______.",
+  "options": [
+   "A) Waiting time",
+   "B) Access time",
+   "C) Seek time",
+   "D) Latency time"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q158",
+  "copies": [
+   "2021-set2-q158"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Data structure maintained by the operating system to maintain information for each thread within a process is known as ______.",
+  "options": [
+   "A) Process control block",
+   "B) Thread control block",
+   "C) Symbol table",
+   "D) Scheduling queue"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q159",
+  "copies": [
+   "2021-set2-q159"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Monotonicity of preferences implies that the indifference curves are ______.\nI. Downward sloping\nII. Positively sloping",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q160",
+  "copies": [
+   "2021-set2-q160"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a qualitative tool used by RBI to control money supply?",
+  "options": [
+   "A) Moral Suasion",
+   "B) Cash Reserve Ratio",
+   "C) Bank Rate",
+   "D) Open Market Operations"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q161",
+  "copies": [
+   "2021-set2-q161"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A connection that allows traffic either way, but only one way at a time is known as ______.",
+  "options": [
+   "A) full duplex",
+   "B) half duplex",
+   "C) duplex",
+   "D) simplex"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q162",
+  "copies": [
+   "2021-set2-q162"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of DVMRP Protocol?",
+  "options": [
+   "A) Distance Vector Multiple Routing Protocol",
+   "B) Distance Vector Multicast Routing Protocol",
+   "C) Distance Vector Multitask Routing Protocol",
+   "D) Distance Vector Message Routing Protocol"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q164",
+  "copies": [
+   "2021-set2-q164"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The loss of energy as signal propagates outward is known as ______.",
+  "options": [
+   "A) Noise",
+   "B) Distortion",
+   "C) Attenuation",
+   "D) Scattering"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q165",
+  "copies": [
+   "2021-set2-q165"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Systems in which multiple users share a common channel in a way that can lead to conflicts are widely known as ______.",
+  "options": [
+   "A) Carrier",
+   "B) Communication network",
+   "C) Contention",
+   "D) Bus"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q167",
+  "copies": [
+   "2021-set2-q167"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the name of the virtual machine component of microsoft .NET Framework which manages the execution of .NET program?",
+  "options": [
+   "A) Code level security",
+   "B) Cross language class inheritance",
+   "C) Common language runtime",
+   "D) Common type system"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q168",
+  "copies": [
+   "2021-set2-q168"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a system to make a file or directory visible in multiple parts of the system’s file tree in Linux operator system.",
+  "options": [
+   "A) Directories",
+   "B) Special files",
+   "C) Links",
+   "D) Sockets"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q169",
+  "copies": [
+   "2021-set2-q169"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The deliveries of goods or services ordered on an e-shop do NOT depend upon which of the following?",
+  "options": [
+   "A) Size of products",
+   "B) Cost of products",
+   "C) Urgency",
+   "D) Nature of products"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q170",
+  "copies": [
+   "2021-set2-q170"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding digital certificates?\nI. A digital certificate does not include the name of the CA who issues it.\nII. Digital certificates are based on public key cryptography.\nIII. These certificates are available only in one strength i.e. 128-bit encryption.",
+  "options": [
+   "A) I and II",
+   "B) Only III",
+   "C) Only II",
+   "D) I and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q172",
+  "copies": [
+   "2021-set2-q172"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which rotations in AVL trees are known as single rotations?",
+  "options": [
+   "A) LL and RR",
+   "B) LL and LR",
+   "C) RR and RL",
+   "D) LR and RL"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q173",
+  "copies": [
+   "2021-set2-q173"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the at most height of red-black tree with n internal node?",
+  "options": [
+   "A) n",
+   "B) log_2n",
+   "C) 2log_2 (n + 1)",
+   "D) log_2 (2n + 1)"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q175",
+  "copies": [
+   "2021-set2-q175"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Preorder traversal of binary search tree is 38, 14, 8, 23, 18, 20, 56, 45, 82, 70. What is the postorder traversal of binary search tree?",
+  "options": [
+   "A) 23, 20, 18, 14, 8, 38, 45, 56, 70, 82",
+   "B) 8, 18, 20, 23, 14, 45, 70, 82, 56, 38",
+   "C) 8, 20, 18, 23, 14, 45, 70, 82, 56, 38",
+   "D) 82, 70, 56, 45, 38, 23, 20, 18, 14, 8"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q176",
+  "copies": [
+   "2021-set2-q176"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following acts as an intermediary between the specialist and the expert system?",
+  "options": [
+   "A) Knowledge base",
+   "B) Inference engine",
+   "C) Data dictionary",
+   "D) Knowledge engineer"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

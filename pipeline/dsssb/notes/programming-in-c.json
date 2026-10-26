@@ -1,0 +1,448 @@
+{
+ "slug": "programming-in-c",
+ "subject": "Computer Science",
+ "topic": "Programming in C",
+ "titleHi": "C प्रोग्रामिंग",
+ "summary": "Covers C from data types, operators and expressions through control statements, functions and recursion, arrays and strings, pointers and dynamic memory, structures, unions and file handling, to the preprocessor and the compilation process. DSSSB regularly asks output-prediction questions (octal/hex constants, % with negatives, ++/--, comma operator, integer division), identifier and keyword rules, and array address calculations, so every rule here is backed by code with its exact output.",
+ "sections": [
+  {
+   "heading": "C basics: structure, tokens, identifiers",
+   "level": "basic",
+   "subtopic": "Data types, operators & expressions",
+   "body": "C was developed by **Dennis Ritchie** at **Bell Labs** (early 1970s) to write the UNIX operating system; it is a **middle-level, procedural, compiled** language. Standards: C89/ANSI C, C99, C11, C17.\n\nEvery program starts executing at **main()**. A typical program has: preprocessor directives (`#include <stdio.h>`), global declarations, `main()`, and other functions. Statements end with `;` and blocks use `{ }`.\n\n**Tokens**: keywords, identifiers, constants, string literals, operators and punctuators.\n\n**Identifier rules**: letters, digits and underscore only; must **start with a letter or underscore** (never a digit); case-sensitive (`Total` ≠ `total`); cannot be a keyword. Valid: `_count`, `sum2`; invalid: `2sum`, `int`, `my-var`.\n\n**Keywords**: C89 has **32**, all lowercase: auto, break, case, char, const, continue, default, do, double, else, enum, extern, float, for, goto, if, int, long, register, return, short, signed, sizeof, static, struct, switch, typedef, union, unsigned, void, **volatile**, while. C99 added inline, restrict, _Bool, _Complex, _Imaginary. Words like `integer`, `automatic`, `Constant` are not keywords.\n\nComments: `/* ... */` and (from C99) `// ...`."
+  },
+  {
+   "heading": "Data types, constants and format specifiers",
+   "level": "basic",
+   "subtopic": "Data types, operators & expressions",
+   "body": "Basic types: **char, int, float, double**, and **void** (no value). Modifiers: **short, long, signed, unsigned**. Sizes depend on the compiler and machine; the standard guarantees only `sizeof(char) == 1` and minimum ranges. The table shows typical sizes on modern 32/64-bit compilers (old 16-bit Turbo C used 2-byte int).\n\n**Constants**: decimal `62`, **octal** with a leading 0 (`017` = 15), **hexadecimal** with 0x (`0x1F` = 31), floating `3.5` (a double) or `3.5f` (a float), character `'A'` (an int with value 65), string `\"A\"` (two bytes: 'A' and '\\0'). Escape sequences: `\\n` newline, `\\t` tab, `\\0` null, `\\\\` backslash.\n\n`const int N = 10;` creates a read-only variable. **Type conversion**: in mixed expressions the smaller type is promoted (char/short → int → long → float → double) automatically; an explicit **cast** is written `(float)a / b`.",
+   "table": {
+    "columns": [
+     "Type",
+     "Typical size",
+     "Format specifier",
+     "Typical range"
+    ],
+    "rows": [
+     [
+      "char",
+      "1 byte",
+      "%c (character), %d (code)",
+      "−128 to 127 (signed)"
+     ],
+     [
+      "unsigned char",
+      "1 byte",
+      "%c / %u",
+      "0 to 255"
+     ],
+     [
+      "short int",
+      "2 bytes",
+      "%hd",
+      "−32,768 to 32,767"
+     ],
+     [
+      "int",
+      "4 bytes (2 on 16-bit)",
+      "%d or %i",
+      "−2,147,483,648 to 2,147,483,647"
+     ],
+     [
+      "unsigned int",
+      "4 bytes",
+      "%u",
+      "0 to 4,294,967,295"
+     ],
+     [
+      "long int",
+      "4 or 8 bytes",
+      "%ld",
+      "at least ±2,147,483,647"
+     ],
+     [
+      "float",
+      "4 bytes",
+      "%f, %e",
+      "about 6–7 significant digits"
+     ],
+     [
+      "double",
+      "8 bytes",
+      "%lf (scanf), %f (printf)",
+      "about 15–16 significant digits"
+     ],
+     [
+      "octal / hex output",
+      "—",
+      "%o / %x or %X",
+      "—"
+     ],
+     [
+      "string, pointer",
+      "—",
+      "%s / %p",
+      "—"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Operators, precedence and expressions",
+   "level": "intermediate",
+   "subtopic": "Data types, operators & expressions",
+   "body": "**Arithmetic** `+ - * / %`: integer division **truncates toward zero** (7/2 = 3, −17/5 = −3). `%` works only on integers and the result takes the **sign of the dividend** (−17 % 5 = −2, 17 % −5 = 2). **Relational** `< <= > >= == !=` and **logical** `&& || !` give 1 or 0; `&&` and `||` **short-circuit** (the right side is skipped when the result is already known). **Bitwise**: `& | ^ ~ << >>`. **Assignment**: `= += -= *=` etc. **Increment/decrement**: prefix `++x` changes then uses; postfix `x++` uses then changes. **Conditional** `?:`, **comma** `,` (evaluates left to right, value = last operand), **sizeof**.\n\n**Precedence (high → low)**: `() [] -> .` → unary `! ~ ++ -- - * & sizeof (cast)` → `* / %` → `+ -` → `<< >>` → `< <= > >=` → `== !=` → `&` → `^` → `|` → `&&` → `||` → `?:` → assignment → comma. Unary, conditional and assignment operators associate **right to left**; the others left to right.\n\nModifying a variable twice in one expression without a sequence point (e.g. `++v * ++v`, `i++ + ++i`) is **undefined behaviour**: the standard fixes no result and compilers do give different answers, so avoid it.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n\nint main(void) {\n    int a = 17, b = 5;\n    printf(\"%d %d\\n\", a / b, a % b);\n    printf(\"%d %d %d\\n\", -17 / 5, -17 % 5, 17 % -5);\n    printf(\"%.2f %d\\n\", (float)a / b, 7 / 2 * 2);\n    int x = 5, y;\n    y = x++ + 10;               /* use x, then increment */\n    printf(\"%d %d\\n\", x, y);\n    y = ++x * 2;                /* increment x, then use */\n    printf(\"%d %d\\n\", x, y);\n    int k = (x = 3, x + 4);     /* comma operator: value of last operand */\n    printf(\"%d\\n\", k);\n    printf(\"%d %d %d\\n\", 012, 0x1F, 'A');   /* octal, hex, char code */\n    printf(\"%d %d %d\\n\", 6 & 3, 6 | 3, 6 ^ 3);\n    printf(\"%d %d %d\\n\", 1 << 4, 40 >> 3, ~5);\n    int i = 0, j = 0;\n    if (i++ && j++) { }         /* short-circuit: j++ never runs */\n    printf(\"%d %d\\n\", i, j);\n    printf(\"%d\\n\", 10 > 5 ? 100 : 200);\n    return 0;\n}",
+    "output": "3 2\n-3 -2 2\n3.40 6\n6 15\n7 14\n7\n10 31 65\n2 7 5\n16 5 -6\n1 0\n100"
+   }
+  },
+  {
+   "heading": "Decision making: if, switch, goto",
+   "level": "basic",
+   "subtopic": "Control statements & loops",
+   "body": "- **if / if-else / else-if ladder / nested if**: any non-zero value is true, 0 is false. A common bug is `if (x = 5)` (assignment, always true) instead of `if (x == 5)`. A **dangling else** pairs with the nearest unmatched `if`.\n- **switch**: the expression must be an **integer or character** (not float or string); `case` labels must be **constant** and unique. Without `break`, execution **falls through** into the following cases. `default` is optional and may appear anywhere.\n- **goto label;** jumps unconditionally within a function; it makes code hard to follow and is rarely needed.\n\nThe sequence structure executes each statement once in order; selection (if, switch) chooses a path; iteration (loops) repeats."
+  },
+  {
+   "heading": "Loops: for, while, do-while; break and continue",
+   "level": "basic",
+   "subtopic": "Control statements & loops",
+   "body": "- **while** (entry-controlled): condition tested first; the body may run zero times.\n- **for** (entry-controlled): `for (init; condition; update)`; all three parts are optional; `for (;;)` is an **infinite loop**.\n- **do-while** (exit-controlled): body runs **at least once**; note the semicolon after `while (cond);`.\n- **break** leaves the innermost loop or switch; **continue** skips to the next iteration (in a `for` loop the update still runs).\n- A loop that never ends is an **infinite loop**, e.g. `while (1)` or forgetting to update the control variable.\n\nCounting tip: `for (i = a; i < b; i++)` runs b − a times; nested loops where the inner loop starts at the outer index run n + (n − 1) + … + 1 = n(n + 1)/2 times.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n\nint main(void) {\n    int n = 2;\n    switch (n) {\n        case 1:  printf(\"one\\n\");\n        case 2:  printf(\"two\\n\");      /* execution starts here */\n        case 3:  printf(\"three\\n\");    /* falls through: no break above */\n                 break;\n        default: printf(\"other\\n\");\n    }\n\n    int i, sum = 0;\n    for (i = 1; i <= 10; i++) {\n        if (i % 2 == 0) continue;      /* skip even numbers */\n        if (i > 7) break;              /* leave loop when i = 9 */\n        sum += i;                      /* 1 + 3 + 5 + 7 */\n    }\n    printf(\"sum = %d, i = %d\\n\", sum, i);\n\n    int j = 10;\n    do {\n        printf(\"do-while body runs once, j = %d\\n\", j);\n    } while (j < 5);\n\n    int count = 0;\n    for (i = 0; i < 5; i++)\n        for (j = i; j < 5; j++)\n            count++;\n    printf(\"count = %d\\n\", count);\n    return 0;\n}",
+    "output": "two\nthree\nsum = 16, i = 9\ndo-while body runs once, j = 10\ncount = 15"
+   }
+  },
+  {
+   "heading": "Functions, parameter passing and storage classes",
+   "level": "intermediate",
+   "subtopic": "Functions & recursion",
+   "body": "A **function** is a named block that performs a task; it is a **subprogram** (other languages call these subroutines or procedures). Parts: **declaration/prototype** (`int add(int, int);`), **definition** (header + body) and **call**. A function returns at most one value with `return`; `void` means no return value. Library functions (printf, sqrt) come from header files; user-defined functions are written by the programmer.\n\n**Parameter passing**: C always passes arguments **by value** (the function gets a copy). To let a function change the caller's variables, pass their **addresses** (pointers); this is called call by reference/address. Arrays are passed as a pointer to the first element.\n\n**Storage classes** decide scope, lifetime and default value:\n- **auto**: default for local variables; block scope; garbage initial value; destroyed on exit.\n- **register**: request to keep the variable in a CPU register; its address cannot be taken.\n- **static**: local static variables are **initialised once** and keep their value between calls; default value 0. A static global or function is visible only in its own file.\n- **extern**: declares a global variable defined in another file; default value 0.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n\nvoid swapv(int a, int b) { int t = a; a = b; b = t; }      /* call by value */\nvoid swapr(int *a, int *b) { int t = *a; *a = *b; *b = t; } /* via pointers */\n\nint counter(void) {\n    static int c = 0;   /* initialised once, keeps its value between calls */\n    c++;\n    return c;\n}\n\nint main(void) {\n    int x = 1, y = 2;\n    swapv(x, y);\n    printf(\"%d %d\\n\", x, y);\n    swapr(&x, &y);\n    printf(\"%d %d\\n\", x, y);\n    counter();\n    counter();\n    printf(\"%d\\n\", counter());\n    return 0;\n}",
+    "output": "1 2\n2 1\n3"
+   }
+  },
+  {
+   "heading": "Recursion",
+   "level": "intermediate",
+   "subtopic": "Functions & recursion",
+   "body": "A **recursive** function calls itself. It needs a **base case** (stops recursion) and a **recursive case** that moves towards the base case; otherwise the program runs out of stack (stack overflow). Each call gets its own **activation record** on the **call stack** (parameters, locals, return address), so recursion uses O(depth) extra memory.\n\n- factorial: n! = n × (n − 1)!, 0! = 1.\n- Fibonacci: fib(n) = fib(n − 1) + fib(n − 2), fib(0) = 0, fib(1) = 1. Naive recursion takes exponential time because it recomputes values.\n- Tracing tip: statements **before** the recursive call run in calling order (n, n − 1, …); statements **after** it run in reverse order while the calls return.\n- **Tail recursion**: the recursive call is the last action, so it can be converted into a loop.\n\nEvery recursive solution can be written iteratively (using a loop and, if needed, an explicit stack).",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n\nlong fact(int n) { return n <= 1 ? 1 : n * fact(n - 1); }\nint fib(int n)   { return n < 2 ? n : fib(n - 1) + fib(n - 2); }\n\nvoid show(int n) {\n    if (n == 0) return;          /* base case */\n    printf(\"%d\", n);             /* before the recursive call */\n    show(n - 1);\n    printf(\"%d\", n);             /* after the call: runs while unwinding */\n}\n\nint main(void) {\n    printf(\"%ld %d\\n\", fact(5), fib(7));\n    show(3);\n    printf(\"\\n\");\n    return 0;\n}",
+    "output": "120 13\n321123"
+   }
+  },
+  {
+   "heading": "Arrays and address calculation",
+   "level": "intermediate",
+   "subtopic": "Arrays & strings",
+   "body": "An **array** is a collection of elements of the **same type** in **contiguous** memory, indexed from **0**. `int a[5];` has a[0] … a[4]; C does **no bounds checking**. Partial initialisation sets the rest to 0: `int a[5] = {10, 20};`. If the size is omitted it is taken from the initialiser.\n\n**Number of elements** with bounds L..U = U − L + 1; for a 2-D array [L1..U1][L2..U2] it is (U1 − L1 + 1) × (U2 − L2 + 1).\n\nC stores 2-D arrays in **row-major** order (row by row). For A[L1..U1][L2..U2] with base address B, element size w and N = U2 − L2 + 1 columns:\n- Row-major: Address(A[i][j]) = B + [(i − L1) × N + (j − L2)] × w.\n- Column-major (used by FORTRAN), with M = U1 − L1 + 1 rows: Address = B + [(j − L2) × M + (i − L1)] × w.\n\nThe array name is a constant pointer to the first element: `a[i]` ≡ `*(a + i)`, and `m[i][j]` ≡ `*(*(m + i) + j)`. A 2-D array whose rows have different lengths is called a **ragged (jagged/irregular)** array; a matrix with mostly zero entries is a **sparse** matrix (mostly non-zero: dense)."
+  },
+  {
+   "heading": "Strings and string functions",
+   "level": "intermediate",
+   "subtopic": "Arrays & strings",
+   "body": "A **string** is a char array terminated by the **null character '\\0'**. `char t[] = \"DSSSB\";` reserves 6 bytes (5 letters + '\\0'). **strlen** counts characters before '\\0'; **sizeof** gives the bytes of the whole array.\n\nFunctions in `<string.h>`: **strlen(s)**, **strcpy(d, s)** (copy), **strncpy**, **strcat(d, s)** (append), **strcmp(a, b)** (returns 0 if equal, negative if a < b, positive if a > b, by character codes), **strchr**, **strstr**, strrev (non-standard, Turbo C only).\n\nInput/output: `scanf(\"%s\", s)` stops at whitespace; `fgets(s, n, stdin)` reads a whole line safely (`gets` is unsafe and was removed in C11); `puts(s)` prints a string with a newline; `getchar()`/`putchar()` handle one character. Strings cannot be assigned with `=` after declaration or compared with `==`; use strcpy and strcmp.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n#include <string.h>\n\nint main(void) {\n    int a[5] = {10, 20};                 /* remaining elements become 0 */\n    printf(\"%d %d %d\\n\", a[1], a[4], (int)(sizeof a / sizeof a[0]));\n\n    int m[2][3] = {{1, 2, 3}, {4, 5, 6}};\n    printf(\"%d %d\\n\", m[1][2], *(*(m + 1) + 0));\n\n    char s[20] = \"Delhi\";\n    printf(\"%d %d\\n\", (int)strlen(s), (int)sizeof(s));\n    char t[] = \"DSSSB\";                   /* 5 chars + '\\0' */\n    printf(\"%d %d\\n\", (int)strlen(t), (int)sizeof(t));\n\n    strcat(s, \" TGT\");\n    printf(\"%s %d\\n\", s, (int)strlen(s));\n    printf(\"%d %d\\n\", strcmp(\"abc\", \"abd\") < 0, strcmp(\"CS\", \"CS\"));\n    strcpy(t, \"CS\");\n    printf(\"%s\\n\", t);\n    return 0;\n}",
+    "output": "20 0 5\n6 4\n5 20\n5 6\nDelhi TGT 9\n1 0\nCS"
+   }
+  },
+  {
+   "heading": "Pointers",
+   "level": "advanced",
+   "subtopic": "Pointers & dynamic memory",
+   "body": "A **pointer** stores the address of another variable. `&x` gives the address of x; `*p` (**dereference / indirection**) gives the value at the address in p. Declaration: `int *p = &x;`.\n\n**Pointer arithmetic** is scaled by the size of the pointed type: if p is an `int *` holding 1000 and int is 4 bytes, p + 1 = 1004. Allowed: pointer ± integer, pointer − pointer (same array, result = number of elements), comparison. Not allowed: adding two pointers, multiplying pointers.\n\nPrecedence trap: `*p++` means `*(p++)` (use the value, then move the pointer); `(*p)++` and `++*p` increment the value pointed to.\n\n- **Pointer to pointer**: `int **r = &q;`, then `**r` is the original value.\n- **NULL pointer**: points nowhere (`p = NULL`); dereferencing it is an error.\n- **void pointer** (`void *`): generic pointer; must be cast before dereferencing; malloc returns one.\n- **Dangling pointer**: points to memory that was freed or went out of scope. **Wild pointer**: uninitialised pointer.\n- **Function pointer**: `int (*fp)(int, int) = add;`.\n- `int *a[5]` is an array of 5 pointers; `int (*a)[5]` is a pointer to an array of 5 ints.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n\nint main(void) {\n    int a[] = {5, 10, 15, 20};\n    int *p = a;                   /* same as &a[0] */\n    printf(\"%d %d\\n\", *p, *(p + 2));\n    p++;                          /* now points to a[1] */\n    printf(\"%d %d\\n\", *p, p[1]);\n    printf(\"%d\\n\", (int)(&a[3] - p));   /* elements between pointers */\n    printf(\"%d\\n\", *p++);         /* prints a[1], then p -> a[2] */\n    printf(\"%d\\n\", ++*p);         /* a[2] becomes 16 */\n    int x = 7, *q = &x, **r = &q;\n    **r = 9;                      /* changes x through two levels */\n    printf(\"%d %d\\n\", x, *q);\n    return 0;\n}",
+    "output": "5 15\n10 15\n2\n10\n16\n9 9"
+   }
+  },
+  {
+   "heading": "Dynamic memory allocation",
+   "level": "advanced",
+   "subtopic": "Pointers & dynamic memory",
+   "body": "Memory requested at run time comes from the **heap**; functions are in `<stdlib.h>`:\n- **malloc(size)**: allocates size bytes; contents are **garbage**; returns `void *` or **NULL** on failure.\n- **calloc(n, size)**: allocates n × size bytes and **initialises to zero**.\n- **realloc(p, newsize)**: resizes a block, keeping old contents (may move it).\n- **free(p)**: releases the block. Forgetting to free causes a **memory leak**; using p after free gives a **dangling pointer**, so set it to NULL.\n\nAlways check the returned pointer against NULL. Local variables live on the **stack** and are freed automatically; heap memory lives until freed.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n#include <stdlib.h>\n\nint main(void) {\n    int n = 5, i, sum = 0;\n    int *arr = (int *)malloc(n * sizeof(int));     /* garbage values */\n    if (arr == NULL) return 1;\n    for (i = 0; i < n; i++) {\n        arr[i] = (i + 1) * (i + 1);\n        sum += arr[i];\n    }\n    printf(\"sum of squares = %d\\n\", sum);\n\n    int *z = (int *)calloc(3, sizeof(int));        /* zero-initialised */\n    if (z == NULL) { free(arr); return 1; }\n    printf(\"%d %d %d\\n\", z[0], z[1], z[2]);\n\n    int *tmp = (int *)realloc(arr, 10 * sizeof(int)); /* grow block */\n    if (tmp != NULL) arr = tmp;\n    printf(\"%d\\n\", arr[4]);                        /* old data kept */\n\n    free(arr);\n    free(z);\n    arr = NULL;                                    /* avoid dangling */\n    return 0;\n}",
+    "output": "sum of squares = 55\n0 0 0\n25"
+   }
+  },
+  {
+   "heading": "Structures, unions, enum and typedef",
+   "level": "intermediate",
+   "subtopic": "Structures, unions & files",
+   "body": "A **structure** groups variables of **different types** under one name. Members are accessed with the **dot operator** (`s.roll`) or, through a pointer, with the **arrow operator** (`ps->roll`, same as `(*ps).roll`). Structures can be assigned as a whole, passed to and returned from functions, nested, and used in arrays. Each member has its own memory, so **sizeof(struct) ≥ sum of member sizes** (the compiler may add padding for alignment).\n\nA **union** declares members that **share the same memory**; its size is that of the **largest member** (plus any padding). Only the most recently written member holds a meaningful value. Unions save memory when only one member is needed at a time.\n\n- **enum** defines named integer constants starting at 0, each next value = previous + 1: `enum color {RED, GREEN = 5, BLUE};` gives 0, 5, 6.\n- **typedef** creates an alias for a type: `typedef struct {int x, y;} Point;`.\n- **Bit fields** (`unsigned flag : 1;`) pack members into bits.\n- A **self-referential structure** contains a pointer to its own type (`struct node *next;`), used for linked lists and trees.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n#include <string.h>\n\nstruct student {\n    int roll;\n    char name[20];\n    float marks;\n};\n\ntypedef struct { int x, y; } Point;\n\nunion data {\n    int i;\n    char c;\n};\n\nenum color { RED, GREEN = 5, BLUE };\n\nint main(void) {\n    struct student s = {101, \"Asha\", 88.5f};\n    struct student *ps = &s;\n    printf(\"%d %s %.1f\\n\", s.roll, ps->name, (*ps).marks);\n\n    struct student s2 = s;            /* structures can be assigned */\n    strcpy(s2.name, \"Ravi\");\n    printf(\"%s %s\\n\", s.name, s2.name);\n\n    Point p = {3, 4};\n    printf(\"%d\\n\", p.x * p.x + p.y * p.y);\n\n    union data d;\n    d.i = 300;\n    d.c = 'Z';                         /* overwrites shared memory */\n    printf(\"%c\\n\", d.c);\n\n    printf(\"%d %d %d\\n\", RED, GREEN, BLUE);\n    return 0;\n}",
+    "output": "101 Asha 88.5\nAsha Ravi\n25\nZ\n0 5 6"
+   }
+  },
+  {
+   "heading": "File handling",
+   "level": "intermediate",
+   "subtopic": "Structures, unions & files",
+   "body": "Files are accessed through a **FILE \\*** pointer from `<stdio.h>`. `fopen(name, mode)` returns NULL on failure; always `fclose(fp)` when done.\n\n**Modes**: `\"r\"` read (file must exist), `\"w\"` write (creates or **truncates** to zero length), `\"a\"` append (writes at end, creates if absent), `\"r+\"` read and write (file must exist, position at start), `\"w+\"` read and write (truncates), `\"a+\"` read and append. Add `b` for binary files (`\"rb\"`, `\"wb\"`).\n\n**Functions**: character I/O `fgetc`, `fputc`; string I/O `fgets`, `fputs`; formatted I/O `fprintf`, `fscanf`; block I/O `fread`, `fwrite` (binary records); positioning `fseek(fp, offset, SEEK_SET/SEEK_CUR/SEEK_END)`, `ftell`, `rewind`; `feof` tests end of file; `EOF` (usually −1) is returned at end of file. Standard streams: `stdin`, `stdout`, `stderr`.\n\nText files store characters (newline translation may occur); binary files store raw bytes.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n\nint main(void) {\n    FILE *fp = fopen(\"marks.txt\", \"w\");      /* create / truncate */\n    if (fp == NULL) return 1;\n    fprintf(fp, \"%d %d %d\\n\", 70, 85, 90);\n    fclose(fp);\n\n    fp = fopen(\"marks.txt\", \"a\");            /* append at end */\n    if (fp == NULL) return 1;\n    fputs(\"95\\n\", fp);\n    fclose(fp);\n\n    int v, total = 0, n = 0;\n    fp = fopen(\"marks.txt\", \"r\");            /* read */\n    if (fp == NULL) return 1;\n    while (fscanf(fp, \"%d\", &v) == 1) {\n        total += v;\n        n++;\n    }\n    fclose(fp);\n    printf(\"%d values, total = %d\\n\", n, total);\n    return 0;\n}",
+    "output": "4 values, total = 340"
+   }
+  },
+  {
+   "heading": "Preprocessor and the compilation process",
+   "level": "advanced",
+   "subtopic": "Preprocessor & compilation",
+   "body": "The **preprocessor** runs before compilation and handles lines starting with `#`:\n- **File inclusion**: `#include <stdio.h>` searches system directories; `#include \"my.h\"` searches the source file's own directory first, then the system directories.\n- **Macros**: `#define PI 3.14` (object-like), `#define SQ(x) ((x) * (x))` (function-like). Macros are **text substitution**: no type checking, no evaluation of arguments first. Always parenthesise each argument and the whole body. `#undef` removes a macro.\n- **Conditional compilation**: `#if`, `#ifdef`, `#ifndef`, `#elif`, `#else`, `#endif` (used for header guards and debug code).\n- Others: `#pragma`, `#error`; predefined macros `__FILE__`, `__LINE__`, `__DATE__`, `__TIME__`; operators `#` (stringize) and `##` (token pasting).\n\n**Stages of building a C program**:\n- **Preprocessing**: prog.c → expanded source (prog.i).\n- **Compilation**: → assembly code (prog.s); syntax errors are found here.\n- **Assembly**: → object code (prog.o / prog.obj).\n- **Linking**: object files + library code → **executable** (a.out / prog.exe). The .exe is created **after linking**; undefined function errors are linker errors.\n- **Loading**: the loader places the executable in memory and execution starts at main().\n\n**Command-line arguments**: `int main(int argc, char *argv[])`; argc counts arguments including the program name, argv[0] is the program name.",
+   "code": {
+    "lang": "c",
+    "source": "#include <stdio.h>\n#define SQUARE(x) x * x            /* unsafe: no parentheses */\n#define SQ(x) ((x) * (x))          /* safe version */\n#define MAX(a, b) ((a) > (b) ? (a) : (b))\n#define DEBUG\n\nint main(void) {\n    printf(\"%d %d\\n\", SQUARE(2 + 3), SQ(2 + 3));\n    printf(\"%d %d\\n\", 100 / SQUARE(5), 100 / SQ(5));\n    printf(\"%d\\n\", MAX(4, 9));\n#ifdef DEBUG\n    printf(\"debug build\\n\");\n#else\n    printf(\"release build\\n\");\n#endif\n    return 0;\n}",
+    "output": "11 25\n100 4\n9\ndebug build"
+   }
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Array element count",
+   "formula": "Elements = U − L + 1; 2-D: (U1 − L1 + 1) × (U2 − L2 + 1)",
+   "note": "Works for negative lower bounds too."
+  },
+  {
+   "name": "1-D address",
+   "formula": "Address(A[i]) = B + (i − L) × w",
+   "note": "In C, L = 0 so A[i] is at B + i × w."
+  },
+  {
+   "name": "Row-major 2-D address",
+   "formula": "B + [(i − L1) × N + (j − L2)] × w",
+   "note": "N = number of columns; C uses row-major."
+  },
+  {
+   "name": "Column-major 2-D address",
+   "formula": "B + [(j − L2) × M + (i − L1)] × w",
+   "note": "M = number of rows; FORTRAN uses column-major."
+  },
+  {
+   "name": "Pointer arithmetic",
+   "formula": "p + k → address(p) + k × sizeof(*p)",
+   "note": "p − q (same array) = number of elements between them."
+  },
+  {
+   "name": "Integer division and modulus",
+   "formula": "a = (a / b) × b + a % b",
+   "note": "Division truncates toward zero; % takes the sign of a."
+  },
+  {
+   "name": "Signed range",
+   "formula": "n-bit signed: −2ⁿ⁻¹ to 2ⁿ⁻¹ − 1; unsigned: 0 to 2ⁿ − 1",
+   "note": "16-bit int: −32,768 to 32,767."
+  },
+  {
+   "name": "Nested loop count",
+   "formula": "Σ (n − i) for i = 0..n−1 = n(n + 1)/2",
+   "note": "When the inner loop starts at the outer index."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "int A[10][20] is stored with base address 1000 and 4-byte ints. Find the address of A[5][7] in row-major and column-major order.",
+   "solution": "Lower bounds are 0; rows M = 10, columns N = 20, w = 4.\nRow-major: 1000 + (5 × 20 + 7) × 4 = 1000 + 107 × 4 = 1000 + 428 = 1428.\nColumn-major: 1000 + (7 × 10 + 5) × 4 = 1000 + 75 × 4 = 1000 + 300 = 1300."
+  },
+  {
+   "problem": "An array B[2..8][−3..4] has 2-byte elements and base address 2000. Find the number of elements and the address of B[5][1] in row-major and column-major order.",
+   "solution": "Rows M = 8 − 2 + 1 = 7; columns N = 4 − (−3) + 1 = 8; elements = 7 × 8 = 56.\nRow-major: 2000 + [(5 − 2) × 8 + (1 − (−3))] × 2 = 2000 + (24 + 4) × 2 = 2000 + 56 = 2056.\nColumn-major: 2000 + [(1 − (−3)) × 7 + (5 − 2)] × 2 = 2000 + (28 + 3) × 2 = 2000 + 62 = 2062."
+  },
+  {
+   "problem": "Find the output:\nint a = 10, b = 3, c;\nc = a + b * 2 % 4 - a / b;\nint x = 5 > 3 > 1;\nprintf(\"%d %d\", c, x);",
+   "solution": "`*`, `/` and `%` have equal precedence, left to right: b * 2 = 6, 6 % 4 = 2, a / b = 3 (integer division).\nc = 10 + 2 − 3 = 9.\nRelational operators associate left to right: (5 > 3) = 1, then 1 > 1 = 0, so x = 0.\nOutput: 9 0"
+  },
+  {
+   "problem": "Trace and give the output:\nint i, s = 0, n = 0;\nfor (i = 1; i <= 20; i *= 3) s += i;\nprintf(\"%d %d \", s, i);\ni = 10;\nwhile (i-- > 6) n++;\nprintf(\"%d %d\", n, i);",
+   "solution": "for loop: i = 1 → s = 1; i = 3 → s = 4; i = 9 → s = 13; i = 27 fails the test. Prints 13 27.\nwhile loop: the test uses the old value of i, then decrements. Tests 10, 9, 8, 7 are true (n becomes 4); test 6 > 6 is false, but i is still decremented to 5.\nOutput: 13 27 4 5"
+  },
+  {
+   "problem": "What does f(7) return?\nint f(int n) { if (n <= 1) return 1; return n + f(n - 2); }",
+   "solution": "f(7) = 7 + f(5)\nf(5) = 5 + f(3)\nf(3) = 3 + f(1)\nf(1) = 1 (base case)\nUnwinding: f(3) = 4, f(5) = 9, f(7) = 16.\n(For comparison f(8) = 8 + 6 + 4 + 2 + f(0) = 20 + 1 = 21.)"
+  },
+  {
+   "problem": "Given #define SQUARE(x) x * x, evaluate SQUARE(2 + 3) and 100 / SQUARE(5). Also: char str[] = \"PROGRAM\"; char *p = str; what do *(p + 3), p[6] and p + 4 (printed with %s) give?",
+   "solution": "Macros substitute text: SQUARE(2 + 3) → 2 + 3 * 2 + 3 = 2 + 6 + 3 = 11 (not 25).\n100 / SQUARE(5) → 100 / 5 * 5 = 20 * 5 = 100 (not 4).\nWith #define SQ(x) ((x) * (x)) the answers are 25 and 4.\nString: indexes P0 R1 O2 G3 R4 A5 M6. *(p + 3) = 'G'; p[6] = 'M'; p + 4 printed with %s gives \"RAM\"."
+  }
+ ],
+ "pitfalls": [
+  "A leading zero makes an integer constant octal: 017 is 15, not 17; 0x17 is 23.",
+  "% result takes the sign of the dividend: 8 % −3 = 2 and −8 % 3 = −2; integer division truncates toward zero.",
+  "5 / 2 is 2 (integer division) even if stored in a float; write 5.0 / 2 or cast to get 2.5.",
+  "Expressions like ++v * ++v or i++ + ++i are undefined behaviour; different compilers give different answers.",
+  "Missing break in switch causes fall-through into the next cases; switch does not accept float or string expressions.",
+  "do-while executes at least once; while and for may execute zero times.",
+  "sizeof includes '\\0' for a string array; strlen does not: char t[] = \"DSSSB\" → sizeof 6, strlen 5.",
+  "strings must be compared with strcmp, not ==, and copied with strcpy, not =.",
+  "*p++ increments the pointer, not the value; use (*p)++ to increment the value.",
+  "malloc leaves memory uninitialised; calloc zero-fills it. Always free heap memory and check for NULL.",
+  "Macro arguments are substituted as text, so unparenthesised macros give wrong results (SQUARE(2 + 3) = 11).",
+  "The executable (.exe) is produced after linking, not after compilation."
+ ],
+ "quickRevision": [
+  "C: Dennis Ritchie, Bell Labs, early 1970s; execution starts at main().",
+  "Identifiers: letters, digits, underscore; cannot start with a digit; case-sensitive.",
+  "C89 has 32 keywords, all lowercase (volatile, register, extern, typedef are keywords).",
+  "Precedence: unary > * / % > + − > shifts > relational > equality > & > ^ > | > && > || > ?: > = > comma.",
+  "Comma operator returns its last operand: k = (v = 10, v * 3) gives 30.",
+  "&& and || short-circuit; any non-zero value is true.",
+  "C passes arguments by value; pass addresses to modify the caller's variables.",
+  "static local variables keep their value between calls and default to 0.",
+  "Recursion needs a base case; each call uses a stack frame.",
+  "Arrays are 0-indexed, contiguous, row-major in C; a[i] ≡ *(a + i).",
+  "Strings end with '\\0'; strcmp returns 0 for equal strings.",
+  "Structure size ≥ sum of members; union size = largest member (plus padding).",
+  "fopen modes: r, w (truncate), a (append), r+, w+, a+; add b for binary.",
+  "Macros are text substitution; parenthesise arguments.",
+  "Build stages: preprocess → compile → assemble → link (.exe) → load."
+ ],
+ "flashcards": [
+  {
+   "front": "Who developed C and where?",
+   "back": "Dennis Ritchie at Bell Labs (early 1970s)."
+  },
+  {
+   "front": "Can an identifier start with an underscore? With a digit?",
+   "back": "Underscore: yes. Digit: no."
+  },
+  {
+   "front": "Is volatile a C keyword?",
+   "back": "Yes (integer, automatic, Constant are not)."
+  },
+  {
+   "front": "printf(\"%d %d\", 017, 0x17) prints?",
+   "back": "15 23"
+  },
+  {
+   "front": "8 % -3 and -8 % 3 in C?",
+   "back": "2 and −2 (sign follows the dividend)."
+  },
+  {
+   "front": "Value of k = (v = 10, v * 3)?",
+   "back": "30 (comma operator returns the last operand)."
+  },
+  {
+   "front": "int a = 5, b = 7; value of a / b?",
+   "back": "0 (integer division truncates 5/7)."
+  },
+  {
+   "front": "Which loop executes its body at least once?",
+   "back": "do-while (exit-controlled)."
+  },
+  {
+   "front": "What happens without break in a switch case?",
+   "back": "Fall-through: following cases also execute."
+  },
+  {
+   "front": "Default initial value of a static variable?",
+   "back": "0."
+  },
+  {
+   "front": "a[i] is equivalent to which pointer expression?",
+   "back": "*(a + i)."
+  },
+  {
+   "front": "Which allocation function zero-initialises memory?",
+   "back": "calloc."
+  },
+  {
+   "front": "Size of a union?",
+   "back": "Size of its largest member (plus any padding)."
+  },
+  {
+   "front": "Operator to access a structure member through a pointer?",
+   "back": "-> (arrow), e.g. ps->roll."
+  },
+  {
+   "front": "fopen mode that opens for reading and writing from the start of an existing file?",
+   "back": "\"r+\""
+  },
+  {
+   "front": "When is the .exe file created?",
+   "back": "After linking."
+  },
+  {
+   "front": "Number of elements in A[−2..3][1..4]?",
+   "back": "6 × 4 = 24."
+  },
+  {
+   "front": "A loop that never terminates is called?",
+   "back": "An infinite loop."
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Identifier",
+   "hi": "पहचानकर्ता (नाम)"
+  },
+  {
+   "en": "Keyword",
+   "hi": "आरक्षित शब्द"
+  },
+  {
+   "en": "Data type",
+   "hi": "डेटा प्रकार"
+  },
+  {
+   "en": "Operator precedence",
+   "hi": "संकारक वरीयता"
+  },
+  {
+   "en": "Loop",
+   "hi": "पाश (लूप)"
+  },
+  {
+   "en": "Function",
+   "hi": "फलन (फंक्शन)"
+  },
+  {
+   "en": "Recursion",
+   "hi": "पुनरावर्तन"
+  },
+  {
+   "en": "Array",
+   "hi": "सरणी (ऐरे)"
+  },
+  {
+   "en": "String",
+   "hi": "वर्ण-शृंखला (स्ट्रिंग)"
+  },
+  {
+   "en": "Pointer",
+   "hi": "सूचक (पॉइंटर)"
+  },
+  {
+   "en": "Dynamic memory allocation",
+   "hi": "गतिशील स्मृति आवंटन"
+  },
+  {
+   "en": "Structure",
+   "hi": "संरचना"
+  },
+  {
+   "en": "Union",
+   "hi": "यूनियन (साझा संरचना)"
+  },
+  {
+   "en": "Preprocessor",
+   "hi": "पूर्वप्रक्रमक"
+  },
+  {
+   "en": "Compilation",
+   "hi": "संकलन"
+  }
+ ]
+}

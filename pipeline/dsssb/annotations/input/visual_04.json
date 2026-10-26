@@ -1,0 +1,532 @@
+[
+ {
+  "id": "2021-set1-q183",
+  "copies": [
+   "2021-set1-q183"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which HTML tag is used to embed Java Script scripts in a page?",
+  "options": [
+   "A) <script>tag",
+   "B) <embed>tag",
+   "C) <java>tag",
+   "D) <enable>tag"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q183.png"
+ },
+ {
+  "id": "2021-set1-q186",
+  "copies": [
+   "2021-set1-q186"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which symbol in flowchart is used for representing start and end?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) ⟶"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q186.png"
+ },
+ {
+  "id": "2021-set1-q188",
+  "copies": [
+   "2021-set1-q188"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If P is the mean of Poisson distribution, then what is the standard deviation?",
+  "options": [
+   "A) P",
+   "B) P",
+   "C) P^2",
+   "D) "
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q188.png"
+ },
+ {
+  "id": "2021-set2-q034",
+  "copies": [
+   "2021-set2-q034"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "How many brown are car and trouser both?",
+  "options": [
+   "A) 12",
+   "B) 10",
+   "C) 14",
+   "D) 6"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q034.png"
+ },
+ {
+  "id": "2021-set2-q035",
+  "copies": [
+   "2021-set2-q035"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 3 represents those bottles which are odd and even both.\nII. Number of odd bottles are 7.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q035.png"
+ },
+ {
+  "id": "2021-set2-q038",
+  "copies": [
+   "2021-set2-q038"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Which figure is similar to the given figures?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q038.png"
+ },
+ {
+  "id": "2021-set2-q039",
+  "copies": [
+   "2021-set2-q039"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when\nopened?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q039.png"
+ },
+ {
+  "id": "2021-set2-q040",
+  "copies": [
+   "2021-set2-q040",
+   "2021-set5-q040"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "If a mirror is placed on the line AB, then which of the answer figures is the right image of the given figure?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "keysAcrossCopies": {
+   "2021-set2-q040": "C",
+   "2021-set5-q040": "D"
+  },
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q040.png"
+ },
+ {
+  "id": "2021-set2-q042",
+  "copies": [
+   "2021-set2-q042"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "2\n2\n-of =\n÷\n6\n6\n6 ?\nWhat is the value of\n2\n2\n-of\n6\n6\n6",
+  "options": [
+   "A) 1\n3",
+   "B) 3",
+   "C) 1\n9",
+   "D) 9"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q042.png"
+ },
+ {
+  "id": "2021-set2-q045",
+  "copies": [
+   "2021-set2-q045"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "1 of a book on a day and 2 of the rest on the second day. The number of pages still unread are 60.\nA student reads .\n9\n10\nHow many pages does the book contain?",
+  "options": [
+   "A) 1020",
+   "B) 1080",
+   "C) 920",
+   "D) 940"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q045.png"
+ },
+ {
+  "id": "2021-set2-q055",
+  "copies": [
+   "2021-set2-q055"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "P is 20 percent more efficient than Q. P alone can do a work in 2 days less than Q alone. In how many days can they do the work together?",
+  "options": [
+   "A) 4C",
+   "B) tS\nII",
+   "C) 60",
+   "D) 53\n9"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q055.png"
+ },
+ {
+  "id": "2021-set2-q058",
+  "copies": [
+   "2021-set2-q058"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The pie chart given below shows the amount spent by a housewife on six different articles. The total amount spent on all these six articles is Rs.\n224000. Amount spent on particular article is shown as a percent of total amount spent on all these six articles.\nWhich of the following statement(s) is/are correct?\nI. The value of central angle formed by sector D and E together is 136.8 degree.\nII. The value of central angle formed by sector C and E together is 108.8 degree.\nIII. The value of central angle formed by sector A and B together is 210 degree.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) II and III",
+   "D) I and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q058.png"
+ },
+ {
+  "id": "2021-set2-q059",
+  "copies": [
+   "2021-set2-q059"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The bar graph given below shows the production of cars (in thousands) by two different companies P and Q over the years.\nWhich of the following statement(s) is/are correct?\nI. Production of cars of company P increases by 57.14 percent from 1991 to 1993.\nII. Ratio of production of cars by company P in 1994 to the production of cars by company Q in 1996 is 14 : 9.\nIII. Average production of cars by company P from 1991 to 1996 is 61677.",
+  "options": [
+   "A) I, II and III",
+   "B) Only I",
+   "C) Only II",
+   "D) I and II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q059.png"
+ },
+ {
+  "id": "2021-set2-q060",
+  "copies": [
+   "2021-set2-q060"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The bar graph given below shows the sales turnover of 6 companies P, Q, R, S,T and U for the month of June and July.\nWhich of the following statement(s) is/are correct?\nI. Company R has the maximum percentage difference in sales turnover between two months.\nII. Company T has the maximum percentage difference in sales turnover between two months.\nIII. Company S has the minimum percentage difference in sales turnover between two months.",
+  "options": [
+   "A) II and III",
+   "B) Only I",
+   "C) Only II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q060.png"
+ },
+ {
+  "id": "2021-set2-q061",
+  "copies": [
+   "2021-set2-q061"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "निम्नलिखित में से कौन-सा शब्द विदेशज है?",
+  "options": [
+   "A) लाला",
+   "B) तोंद",
+   "C) बक-बक",
+   "D) कुर्सी"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q061.png"
+ },
+ {
+  "id": "2021-set2-q062",
+  "copies": [
+   "2021-set2-q062"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द का समास ज्ञात कीजिए।\nअनुस्मारक",
+  "options": [
+   "A) द्विगु समास",
+   "B) बहुव्रीहि समास",
+   "C) नञ समास",
+   "D) तत्पुरुष समास"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q062.png"
+ },
+ {
+  "id": "2021-set2-q063",
+  "copies": [
+   "2021-set2-q063"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द की संधि विच्छेद ज्ञात कीजिए।\nनिराहार",
+  "options": [
+   "A) नीः + हार",
+   "B) निः + आहार",
+   "C) निः + हर",
+   "D) नीः + आहार"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q063.png"
+ },
+ {
+  "id": "2021-set2-q064",
+  "copies": [
+   "2021-set2-q064"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nदयालु",
+  "options": [
+   "A) बलवान",
+   "B) निर्बल",
+   "C) निर्दय",
+   "D) निर्दोष"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q064.png"
+ },
+ {
+  "id": "2021-set2-q065",
+  "copies": [
+   "2021-set2-q065"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअनुराग",
+  "options": [
+   "A) विरक्त",
+   "B) द्वेष",
+   "C) व्यय",
+   "D) शुष्क"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q065.png"
+ },
+ {
+  "id": "2021-set2-q066",
+  "copies": [
+   "2021-set2-q066"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "निम्नलिखित शब्द का पर्यायवाची नहीं है, ज्ञात कीजिए।\nअकिंचन",
+  "options": [
+   "A) दरिद्र",
+   "B) गरीब",
+   "C) दीनहीन",
+   "D) भिन्न"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q066.png"
+ },
+ {
+  "id": "2021-set2-q067",
+  "copies": [
+   "2021-set2-q067"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्दों में शुद्ध वर्तनी का चयन कीजिए।",
+  "options": [
+   "A) कालंदि",
+   "B) कालिंदी",
+   "C) कालींदी",
+   "D) कालिंदि"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q067.png"
+ },
+ {
+  "id": "2021-set2-q068",
+  "copies": [
+   "2021-set2-q068"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए वाक्य की वृत्ति ज्ञात कीजिए।\nइसे इसकी पत्नी ने ही मारा होगा।",
+  "options": [
+   "A) संदेहार्थक वृत्ति",
+   "B) संकेतार्थक वृत्ति",
+   "C) निश्चियार्थक वृत्ति",
+   "D) बाहयता सूचक वृत्ति"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q068.png"
+ },
+ {
+  "id": "2021-set2-q069",
+  "copies": [
+   "2021-set2-q069"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिया गया वाक्य किस पुरूष का उदाहरण है, ज्ञात कीजिए।\nमोहन बहुत खाना खाता है।",
+  "options": [
+   "A) प्रथम",
+   "B) उत्तम",
+   "C) मध्यम",
+   "D) अन्य पुरूष"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q069.png"
+ },
+ {
+  "id": "2021-set2-q070",
+  "copies": [
+   "2021-set2-q070"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "निम्नलिखित वाक्यों में से शुद्ध वाक्य का चयन कीजिए।",
+  "options": [
+   "A) मुझे भय है कि निष्पक्ष चुनाव नहीं हो पायेंगे।",
+   "B) मुझे आशंका है कि निष्पक्ष चुनाव नहीं हो पायेंगे।",
+   "C) मेरा भय है कि निष्पक्ष चुनाव नहीं हो पाऐंगे।",
+   "D) मेरी आशंका यह है कि चुनाव निष्पक्ष नहीं हो सकते।"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q070.png"
+ },
+ {
+  "id": "2021-set2-q071",
+  "copies": [
+   "2021-set2-q071"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "निम्नलिखित वाक्यों में से संयुक्त वाक्य ज्ञात कीजिए।",
+  "options": [
+   "A) लड़की ने चोरी की थी, इसलिए पकड़ी गई।",
+   "B) चोरी करने वाली लड़की पकड़ी गई।",
+   "C) जहाँ चोरी की गई, वहाँ लड़की पकड़ी गई।",
+   "D) लड़की पकड़ी गई क्योंकि उसने चोरी की थी।"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set2-q071.png"
+ }
+]

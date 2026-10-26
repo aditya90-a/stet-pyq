@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2021-set3-q034",
+  "transcription": {
+   "verdict": "match",
+   "text": "How many bat are only car?",
+   "options": [
+    "4",
+    "3",
+    "6",
+    "0"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "Venn diagram: Bat = triangle, Car = vertical rectangle, Tyre = circle; regions: 3 and 2 = Bat and Tyre only, 4 = all three, 7 = Bat only, 8 = Tyre only, 1 = Car and Tyre only, 6 = Car only, and the small Bat-and-Car region outside the circle is empty.",
+   "printedErrors": "The question is ungrammatical ('How many bat are only car?'); it means 'How many are Bat and Car only (not Tyre)?'.",
+   "changes": ""
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Venn diagrams",
+  "concept": "Venn diagram: count in a two-set-only region",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Identify the shapes: **Bat = triangle**, **Car = vertical rectangle**, **Tyre = circle**.\n\nThe question asks for items that are **Bat and Car only**, i.e. inside the triangle and the rectangle but outside the circle.\n\nRead the regions:\n- 4 is inside all three (Bat, Car and Tyre).\n- 3 and 2 are Bat and Tyre, outside the rectangle.\n- 7 is Bat only; 8 is Tyre only.\n- 1 is Car and Tyre (below the triangle).\n- 6 is Car only.\n\nThe small part where the rectangle crosses the triangle above the circle has **no number**, so the count of Bat-and-Car-only is **0**.\n\nWhy not the others: 4 counts all three sets, 3 is Bat and Tyre only, and 6 is Car only."
+ },
+ {
+  "id": "2021-set3-q035",
+  "transcription": {
+   "verdict": "match",
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 9 represents those figures which are neither red nor bottle.\nII. Number 2 represents those figures which are not red.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "Venn diagram: Red = pointed trapezium, Figures = half-circle, Bottle = circle; regions: 14 = Red only, 8 = Red and Figures, 3 = all three, upper 2 = Red and Bottle, lower 2 = Figures and Bottle (not Red), 6 = Bottle only, 9 = Figures only.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Venn diagrams",
+  "concept": "Venn diagram: interpreting region statements",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Shapes: **Red = pointed trapezium**, **Figures = half-circle**, **Bottle = circle**.\n\n**Statement I**: 9 lies inside the half-circle only, outside the trapezium and the circle. So 9 = figures that are neither red nor bottle. **Correct.**\n\n**Statement II**: the number 2 appears twice. The upper 2 is inside Red and Bottle but outside Figures, so it is not figures at all. The lower 2 is figures that are bottles but not red. \"Figures which are not red\" would be 9 + lower 2 together, and it ignores the bottle condition. So statement II does not correctly describe number 2. **Incorrect.**\n\nHence **only I** is correct."
+ },
+ {
+  "id": "2021-set3-q038",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "In the following question, select the odd figure pair from the given alternatives.",
+   "options": [
+    "Box with 5 dashes : box with 7 dashes",
+    "Box with 13 dashes : box with 15 dashes",
+    "Box with 11 dashes : box with 13 dashes",
+    "Box with 8 dashes : box with 11 dashes"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "Each option is a pair of square boxes containing rows of short horizontal dashes.",
+   "printedErrors": "",
+   "changes": "Options were blank (figures printed as images); described each pair by the number of dashes in each box."
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Analogy & Classification",
+  "subtopic": "Odd one out",
+  "concept": "Odd figure pair: element count difference",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Count the dashes in each box of every pair.\n\n- **A**: 4 + 1 = 5 → 3 + 2 + 2 = 7 (difference **+2**)\n- **B**: 4 + 4 + 2 + 3 = 13 → 3 + 3 + 1 + 3 + 2 + 3 = 15 (difference **+2**)\n- **C**: 3 + 3 + 3 + 2 = 11 → 3 + 1 + 3 + 1 + 3 + 2 = 13 (difference **+2**)\n- **D**: 3 + 3 + 2 = 8 → 3 + 3 + 3 + 2 = 11 (difference **+3**)\n\nIn pairs A, B and C the second figure has exactly two more dashes than the first. In pair D the second figure has three more, so **D is the odd pair**.\n\nTip: in odd-pair figure questions, first try counting the elements, then check rotation, shading or position."
+ },
+ {
+  "id": "2021-set3-q039",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which answer figure will complete the pattern in the question figure?",
+   "options": [
+    "Tile with house shape pointing up, right half black; diagonal line at top-right corner",
+    "Tile with shield pointing down, right half black; 45° diagonal line from top-right corner",
+    "Tile with shield pointing down, left half black; diagonal line at top-right corner",
+    "Tile with shield pointing down, right half black; shallower diagonal line near top-right corner"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "A 2×2 square pattern of arcs, with a pentagon in each quarter and a diagonal cross at the centre; the bottom-left quarter is missing. Top-left: pentagon pointing up, right half black; top-right: pointing up, left half black; bottom-right: pointing down, left half black.",
+   "printedErrors": "",
+   "changes": "Options were blank (figures printed as images); described each answer figure."
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Figures & mirror images",
+  "concept": "Pattern completion by mirror symmetry",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The question figure is symmetric about its vertical and horizontal centre lines.\n\n- The top-left and top-right pentagons both point **up** and are mirror images: the black half is on the side nearer the centre line (right in top-left, left in top-right).\n- The bottom-right pentagon points **down** with its **left** half black.\n\nSo the missing bottom-left piece must be the mirror image of the bottom-right piece: a pentagon pointing **down** with its **right** half black. The centre of the whole figure is the missing tile's top-right corner, where the diagonal cross needs a line running down-left at 45° to complete the X.\n\nWhy not the others:\n- **A** points up (it copies the top-left tile).\n- **C** has the left half black (copies bottom-right, not its mirror).\n- **D** has the right shading, but its corner line is at the wrong angle, so it does not complete the cross."
+ },
+ {
+  "id": "2021-set3-q042",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the value of (√((0.07)^2 + (0.24)^2)) ÷ 25 ?",
+   "options": [
+    "0.25",
+    "0.01",
+    "0.1",
+    "2.5"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Rebuilt the garbled OCR of the expression: (√((0.07)^2 + (0.24)^2)) ÷ 25."
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Number System & Simplification",
+  "subtopic": "Simplification & surds",
+  "concept": "Square root of sum of squares (7-24-25)",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Step 1: square each term.\n- (0.07)² = 0.0049\n- (0.24)² = 0.0576\n\nStep 2: add them: 0.0049 + 0.0576 = 0.0625.\n\nStep 3: take the square root: √0.0625 = **0.25**. (This is the Pythagorean triple 7, 24, 25 scaled by 0.01.)\n\nStep 4: divide by 25: 0.25 ÷ 25 = **0.01**.\n\nWhy not the others:\n- **0.25** is the value before dividing by 25.\n- **0.1** and **2.5** come from misplacing the decimal point."
+ },
+ {
+  "id": "2021-set3-q043",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following fraction is highest?",
+   "options": [
+    "3/7",
+    "7/11",
+    "11/17",
+    "19/28"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Fractions printed as images restored: options 1-3 were blank or partial ('11'); option 4 '19 28' → 19/28."
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Number System & Simplification",
+  "subtopic": "Fractions & decimals",
+  "concept": "Comparing fractions",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Convert each fraction to a decimal (or cross-multiply):\n- 3/7 ≈ 0.429\n- 7/11 ≈ 0.636\n- 11/17 ≈ 0.647\n- 19/28 ≈ 0.679\n\nThe largest is **19/28**.\n\nCross-multiplication check for the two closest:\n- 11/17 vs 19/28: 11 × 28 = 308 and 19 × 17 = 323. Since 323 > 308, 19/28 > 11/17.\n- 7/11 vs 11/17: 7 × 17 = 119 and 11 × 11 = 121, so 11/17 > 7/11.\n\nOrder: 3/7 < 7/11 < 11/17 < 19/28."
+ },
+ {
+  "id": "2021-set3-q058",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "The table given below shows the percentage of marks obtained by 6 students S1, S2, S3, S4, S5 and S6 in six different subjects.\nStudents | A | B | C\nS1 | 90 | 50 | 90\nS2 | 75 | 80 | 80\nS3 | 90 | 60 | 70\nS4 | 80 | 65 | 80\nS5 | 70 | 75 | 65\nS6 | 65 | 35 | 50\nWhich of the following statement(s) is/are correct?\nI. If the maximum marks of subject B is 150, then the average marks obtained by all the six students in subject B is 75.\nII. If the maximum marks of subject A is 120, then the number of students who had scored marks more than 105 is two.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "The stem says 'six different subjects' but the table has only three subjects (A, B, C).",
+   "changes": "Added the percentage table printed as an image."
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "subtopic": "Data interpretation & statistics",
+  "concept": "DI table: percentage to marks and average",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Statement I** (subject B, maximum 150):\nPercentages in B: 50, 80, 60, 65, 75, 35. Sum = 365, average = 365/6 ≈ 60.83%.\nAverage marks = 60.83% of 150 ≈ **91.25**, not 75. So I is **false**.\n\n**Statement II** (subject A, maximum 120):\nMore than 105 marks means more than 105/120 = **87.5%**.\nPercentages in A: 90, 75, 90, 80, 70, 65. Only S1 (90%) and S3 (90%) exceed 87.5%, each scoring 0.9 × 120 = 108.\nSo exactly **two** students scored more than 105. II is **true**.\n\nHence **only II** is correct.\n\n(The question says \"six different subjects\", but the table shows only three; this does not affect the answer.)"
+ },
+ {
+  "id": "2021-set3-q059",
+  "transcription": {
+   "verdict": "match",
+   "text": "The bar graph given below shows the amounts (in lakhs) invested and value of sales (in lakhs) of goods by a company in the 5 years.\nJ1 = Average amount invested from 2002 to 2006\nJ2 = Average sales of goods from 2002 to 2006\nJ3 = Difference between the amount invested and value of sales in 2005\nWhat is the value of J2 – J1 + J3?",
+   "options": [
+    "150",
+    "155",
+    "260",
+    "165"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "Bar graph for 2002-2006: amount invested = 120, 225, 375, 330, 525 and value of sales = 200, 300, 500, 400, 600 (in lakhs).",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "subtopic": "Data interpretation & statistics",
+  "concept": "DI bar graph: averages and difference",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Read the bar graph (in lakhs):\n- Invested: 120, 225, 375, 330, 525\n- Sales: 200, 300, 500, 400, 600\n\n**J1** = (120 + 225 + 375 + 330 + 525)/5 = 1575/5 = **315**\n**J2** = (200 + 300 + 500 + 400 + 600)/5 = 2000/5 = **400**\n**J3** (2005) = 400 − 330 = **70**\n\nJ2 − J1 + J3 = 400 − 315 + 70 = **155**.\n\nWhy not the others: 150 and 165 come from small slips in a total or the 2005 difference; 260 does not fit the data."
+ },
+ {
+  "id": "2021-set3-q060",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "The line chart given below shows the percentage of net profit of company P and company Q from 2014 to 2018.\nNet profit % = (Income – Expenditure)/Expenditure × 100\nWhich of the following statement(s) is/are correct?\nI. If the income of company P in the year 2016 was Rs. 47250, then expenditure of the company in that year was Rs. 45500.\nII. If in 2016 the ratio of expenditure of company P to the expenditure of company Q is 4 : 5, then the ratio of income of company P to the income of company Q is 16 : 15.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "Line chart of net profit %: P = 25, 15, 5, 9, 12 and Q = 20, 30, 15, 27, 18 for 2014-2018.",
+   "printedErrors": "",
+   "changes": "Added the net-profit formula printed as an image."
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "subtopic": "Data interpretation & statistics",
+  "concept": "DI line chart: profit % income and expenditure",
+  "difficulty": "hard",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "From the chart, in 2016: P = **5%**, Q = **15%**. Income = Expenditure × (1 + profit%/100).\n\n**Statement I**: Income of P = 47250 = Exp × 1.05\n→ Exp = 47250/1.05 = **Rs. 45000**, not 45500. **False.**\n\n**Statement II**: let Exp(P) = 4k, Exp(Q) = 5k.\n- Income(P) = 4k × 1.05 = 4.2k\n- Income(Q) = 5k × 1.15 = 5.75k\n- Ratio = 4.2 : 5.75 = 420 : 575 = **84 : 115**, not 16 : 15. **False.**\n\nNeither statement is correct, so the answer is **Neither I nor II**."
+ },
+ {
+  "id": "2021-set3-q061",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित में कौन-सा विशेषण गुणवाचक हैं?",
+   "options": [
+    "आठ",
+    "सुन्दर",
+    "कोई",
+    "यह"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "'हैं' is printed where the singular 'है' is meant.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "संज्ञा, सर्वनाम, विशेषण",
+  "concept": "Hindi: गुणवाचक विशेषण की पहचान",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**गुणवाचक विशेषण** वह है जो संज्ञा या सर्वनाम के गुण, दोष, रंग, रूप, आकार, दशा आदि बताए। **\"सुन्दर\"** किसी वस्तु या व्यक्ति के रूप/गुण को बताता है (जैसे सुन्दर फूल), इसलिए यह गुणवाचक विशेषण है।\n\nअन्य विकल्प क्यों नहीं:\n- **आठ**: निश्चित संख्या बताता है, इसलिए **संख्यावाचक** विशेषण है।\n- **कोई**: अनिश्चित संकेत करता है (कोई लड़का), यह **सार्वनामिक** (अनिश्चयवाचक) विशेषण है।\n- **यह**: संज्ञा से पहले आकर संकेत करता है (यह पुस्तक), यह **सार्वनामिक** (संकेतवाचक) विशेषण है।\n\nअतः सही उत्तर \"सुन्दर\" है।"
+ },
+ {
+  "id": "2021-set3-q062",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में क्रिया ज्ञात कीजिए।\nबच्चे रो रहे हैं।",
+   "options": [
+    "सकर्मक",
+    "सामान्य",
+    "अकर्मक",
+    "संयुक्त"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "क्रिया, काल एवं वाच्य",
+  "concept": "Hindi: अकर्मक क्रिया (रोना)",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "जिस क्रिया का फल सीधे कर्ता पर पड़ता है और जिसे कर्म की आवश्यकता नहीं होती, वह **अकर्मक क्रिया** कहलाती है।\n\n\"बच्चे रो रहे हैं\" में क्रिया \"रोना\" है। \"क्या रो रहे हैं?\" पूछने पर कोई उत्तर (कर्म) नहीं मिलता; रोने का प्रभाव बच्चों (कर्ता) पर ही है। इसलिए यह **अकर्मक** क्रिया है।\n\nअन्य विकल्प क्यों नहीं:\n- **सकर्मक** क्रिया के साथ कर्म होता है, जैसे \"बच्चा दूध पीता है\"।\n- **संयुक्त** क्रिया दो क्रियाओं के मेल से बनती है, जैसे \"रो पड़ा\", \"खा लिया\"; \"रो रहे हैं\" में \"रहे हैं\" काल-सूचक सहायक अंश है।\n- **सामान्य** क्रिया का कोई मानक भेद-नाम यहाँ लागू नहीं होता।"
+ },
+ {
+  "id": "2021-set3-q063",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित में से कौन-सा शब्द ‘अ’ प्रत्यय से नहीं बना है?",
+   "options": [
+    "राघव",
+    "ममत्व",
+    "लाघव",
+    "वासुदेव"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "उपसर्ग-प्रत्यय",
+  "concept": "Hindi: तद्धित प्रत्यय 'अ' और 'त्व'",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "संस्कृत के तद्धित प्रत्यय **\"अ\"** से बने शब्दों में प्रायः पहले स्वर की वृद्धि होती है:\n- **राघव** = रघु + अ (रघु का वंशज)\n- **लाघव** = लघु + अ (लघुता, हल्कापन)\n- **वासुदेव** = वसुदेव + अ (वसुदेव के पुत्र, श्रीकृष्ण)\n\nइन तीनों में \"अ\" प्रत्यय है।\n\n**ममत्व** = मम + **त्व** प्रत्यय (भाववाचक संज्ञा बनाने वाला प्रत्यय, जैसे मनुष्यत्व, गुरुत्व)। इसमें \"अ\" प्रत्यय नहीं है।\n\nअतः सही उत्तर \"ममत्व\" है।"
+ },
+ {
+  "id": "2021-set3-q064",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nशांतिः श्रांति",
+   "options": [
+    "श्यामःथकावट",
+    "स्थिरताःथकावट",
+    "शक्तिशालीःसार",
+    "स्थिरताःविश्रांति"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "The pairs are separated by the visarga 'ः' instead of a colon.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "युग्म शब्द",
+  "concept": "Hindi: युग्म शांति-श्रांति",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "यह **श्रुतिसम-भिन्नार्थक शब्द** (युग्म शब्द) का प्रश्न है, जिनका उच्चारण मिलता-जुलता है पर अर्थ अलग है।\n\n- **शांति** = स्थिरता, चैन, अशांति का अभाव\n- **श्रांति** = थकावट, थकान (\"श्रम\" से संबंधित)\n\nअतः सही युग्म **स्थिरता : थकावट** (विकल्प B) है।\n\nअन्य विकल्प क्यों नहीं:\n- **श्याम** (काला) का शांति से कोई संबंध नहीं।\n- **शक्तिशाली : सार** दोनों अर्थ गलत हैं।\n- **स्थिरता : विश्रांति** में दूसरा अर्थ उल्टा है; विश्रांति का अर्थ आराम/विश्राम है, जबकि श्रांति का अर्थ थकावट है।"
+ },
+ {
+  "id": "2021-set3-q065",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित में से कौन-सा शब्द युग्म सहीं नही हैं?",
+   "options": [
+    "भलाई-बुराई",
+    "सुख-दुख",
+    "काम-बाम",
+    "पाया-खोया"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "'सहीं नही हैं' is printed for 'सही नहीं है'.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "युग्म शब्द",
+  "concept": "Hindi: विलोम युग्म बनाम निरर्थक युग्म (काम-बाम)",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "भलाई-बुराई, सुख-दुख और पाया-खोया तीनों **विलोमार्थी शब्द-युग्म** हैं, जिनमें दोनों शब्द सार्थक हैं और एक-दूसरे के उल्टे अर्थ वाले हैं:\n- भलाई ↔ बुराई\n- सुख ↔ दुख\n- पाया ↔ खोया\n\n**काम-बाम** में \"बाम\" का कोई स्वतंत्र अर्थ नहीं है। यह बोलचाल में प्रयुक्त **सार्थक-निरर्थक (प्रतिध्वनि) युग्म** है, मानक शब्द-युग्म नहीं, और न ही इसके दोनों शब्द विलोम हैं। इसलिए दिए गए विकल्पों में यही युग्म \"सही नहीं\" है।\n\nध्यान दें: प्रश्न में \"सहीं नही हैं\" वर्तनी प्रश्न-पत्र में ही ऐसी छपी है; शुद्ध रूप \"सही नहीं है\" है।"
+ },
+ {
+  "id": "2021-set3-q066",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्यांश के लिए उचित शब्द का चयन कीजिए।\nजो प्रतिदिन होता हैं।",
+   "options": [
+    "साप्ताहिक",
+    "वार्षिक",
+    "दैनिक",
+    "अर्धवार्षिक"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "'होता हैं' is printed where 'होता है' is meant.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "अनेक शब्दों के लिए एक शब्द",
+  "concept": "Hindi: प्रतिदिन होने वाला = दैनिक",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "\"जो प्रतिदिन होता है\" के लिए एक शब्द **दैनिक** है (दिन + इक प्रत्यय)। उदाहरण: दैनिक समाचार-पत्र, दैनिक दिनचर्या।\n\nअन्य विकल्प क्यों नहीं:\n- **साप्ताहिक**: जो सप्ताह में एक बार होता है।\n- **वार्षिक**: जो वर्ष में एक बार होता है।\n- **अर्धवार्षिक**: जो छह महीने (आधे वर्ष) में एक बार होता है।\n\nइसी प्रकार \"पाक्षिक\" = पंद्रह दिन में एक बार और \"मासिक\" = महीने में एक बार होने वाला।\n\nअतः सही उत्तर \"दैनिक\" है।"
+ },
+ {
+  "id": "2021-set3-q067",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nहयःहेय",
+   "options": [
+    "कारणःनीचा",
+    "नीचाःघोड़ा",
+    "घोड़ाःनीचा",
+    "नीचाःकारण"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "The pairs are separated by the visarga 'ः' instead of a colon.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "युग्म शब्द",
+  "concept": "Hindi: युग्म हय-हेय",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "यह श्रुतिसम-भिन्नार्थक शब्दों (युग्म शब्द) का प्रश्न है। क्रम का भी ध्यान रखना है: पहले शब्द का अर्थ पहले और दूसरे का बाद में।\n\n- **हय** = घोड़ा (अश्व)\n- **हेय** = नीचा, तुच्छ, त्यागने योग्य\n\nअतः सही युग्म **घोड़ा : नीचा** (विकल्प C) है।\n\nअन्य विकल्प क्यों नहीं:\n- **नीचा : घोड़ा** (B) में दोनों अर्थ सही हैं पर क्रम उल्टा है।\n- **कारण** का अर्थ इन दोनों में से किसी शब्द से मेल नहीं खाता, इसलिए A और D गलत हैं।"
+ },
+ {
+  "id": "2021-set3-q068",
+  "transcription": {
+   "verdict": "match",
+   "text": "कौन सा शब्द कवि शब्द का स्त्रीलिंग है?",
+   "options": [
+    "कवियत्री",
+    "कवयित्रि",
+    "कवयित्री",
+    "कविकी"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "लिंग-वचन",
+  "concept": "Hindi: कवि का स्त्रीलिंग कवयित्री",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "\"कवि\" का शुद्ध स्त्रीलिंग रूप **कवयित्री** है। यह संस्कृत के \"कवयितृ\" से बना है, इसलिए वर्तनी में क्रम **क-व-यि-त्री** होता है।\n\nअन्य विकल्प क्यों नहीं:\n- **कवियत्री**: बहुत प्रचलित पर अशुद्ध वर्तनी; \"वि\" और \"य\" का क्रम उलट गया है।\n- **कवयित्रि**: अंत में दीर्घ \"ई\" (त्री) होना चाहिए, ह्रस्व \"इ\" (त्रि) अशुद्ध है।\n- **कविकी**: ऐसा कोई शब्द नहीं है।\n\nअतः सही उत्तर \"कवयित्री\" है।"
+ },
+ {
+  "id": "2021-set3-q069",
+  "transcription": {
+   "verdict": "match",
+   "text": "‘को’ और ‘के लिए’ किस कारक के चिन्ह है?",
+   "options": [
+    "संप्रदान",
+    "करण",
+    "अपादान",
+    "संबोधन"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "'चिन्ह' is printed for the standard spelling 'चिह्न', and 'है' where 'हैं' is meant.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "कारक एवं अव्यय",
+  "concept": "Hindi: संप्रदान कारक के चिह्न",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "जिसके लिए कोई कार्य किया जाए या जिसे कुछ दिया जाए, उसे **संप्रदान कारक** कहते हैं। इसके विभक्ति-चिह्न **\"को\"** और **\"के लिए\"** हैं।\n\nउदाहरण: \"माँ ने बच्चे **के लिए** खिलौना खरीदा।\" \"गुरुजी ने शिष्य **को** पुस्तक दी।\"\n\nअन्य विकल्प क्यों नहीं:\n- **करण कारक**: \"से\", \"के द्वारा\" (साधन), जैसे कलम से लिखना।\n- **अपादान कारक**: \"से\" (अलग होने के अर्थ में), जैसे पेड़ से पत्ता गिरा।\n- **संबोधन कारक**: हे, अरे, ओ आदि।\n\nध्यान दें: \"को\" कर्म कारक का भी चिह्न है, पर \"को\" और \"के लिए\" दोनों एक साथ संप्रदान कारक के चिह्न हैं।"
+ },
+ {
+  "id": "2021-set3-q070",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित वाक्यों में से शुद्ध वाक्य का चयन कीजिए।",
+   "options": [
+    "कई रेलवे के कर्मचारियों की गिरफ्तारी हुई।",
+    "कई रेलवे के अनेक कर्मचारियों की गिरफ्तारी हुई।",
+    "रेलवे के कई कर्मचारियों की गिरफ्तारी हुई।",
+    "अनेक रेलवे के कर्मचारियों की गिरफ्तारी हुई।"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "वाक्य शुद्धि",
+  "concept": "Hindi: विशेषण का उचित स्थान (कई)",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "विशेषण उसी संज्ञा के ठीक पहले आना चाहिए जिसकी वह विशेषता बताता है। यहाँ \"कई\" कर्मचारियों की संख्या बता रहा है, रेलवे की नहीं। इसलिए शुद्ध वाक्य है: **\"रेलवे के कई कर्मचारियों की गिरफ्तारी हुई।\"**\n\nअन्य विकल्प क्यों नहीं:\n- **A** और **D**: \"कई/अनेक\" रेलवे से पहले आने के कारण अर्थ बनता है \"कई रेलवे\", जो गलत है।\n- **B**: \"कई\" और \"अनेक\" दोनों का प्रयोग पुनरुक्ति दोष है और \"कई रेलवे\" भी अशुद्ध है।\n\nअतः विकल्प C शुद्ध है।"
+ },
+ {
+  "id": "2021-set3-q071",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित वाक्यों में से मिश्र वाक्य ज्ञात कीजिए।",
+   "options": [
+    "बूढ़े व्यक्ति को दवा पिला दो।",
+    "व्यक्ति बूढ़ा है, अतः उसे दवा पिला दो।",
+    "जो व्यक्ति बूढ़ा है उसे दवा पिला दो।",
+    "व्यक्ति बूढ़ा है इसलिए उसे दवा पिला दो।"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "वाक्य क्रम",
+  "concept": "Hindi: मिश्र वाक्य की पहचान (जो-वह)",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**मिश्र वाक्य** में एक प्रधान उपवाक्य और उस पर आश्रित एक या अधिक उपवाक्य होते हैं, जो प्रायः **जो-वह/उसे, कि, यदि-तो, जब-तब** जैसे शब्दों से जुड़ते हैं।\n\n\"**जो** व्यक्ति बूढ़ा है **उसे** दवा पिला दो\" में:\n- प्रधान उपवाक्य: \"उसे दवा पिला दो\"\n- आश्रित (विशेषण) उपवाक्य: \"जो व्यक्ति बूढ़ा है\"\nइसलिए यह मिश्र वाक्य है।\n\nअन्य विकल्प क्यों नहीं:\n- **A**: एक ही क्रिया वाला **सरल वाक्य** है।\n- **B** और **D**: दो स्वतंत्र उपवाक्य \"अतः/इसलिए\" से जुड़े हैं, इसलिए ये **संयुक्त वाक्य** हैं।"
+ },
+ {
+  "id": "2021-set3-q072",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nअहिंसा मनुष्यता है हिंसा पशुत्व",
+   "options": [
+    "०",
+    ":-",
+    "–",
+    ";"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "विराम चिह्न",
+  "concept": "Hindi: अर्धविराम (;) का प्रयोग",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "इस वाक्य में दो स्वतंत्र पर परस्पर संबंधित (विरोधी) कथन हैं: \"अहिंसा मनुष्यता है\" और \"हिंसा पशुत्व (है)\"। ऐसे दो उपवाक्यों के बीच, जहाँ अल्पविराम से अधिक और पूर्णविराम से कम रुकना हो, **अर्धविराम (;)** लगाया जाता है:\n\n\"अहिंसा मनुष्यता है; हिंसा पशुत्व।\"\n\nअन्य विकल्प क्यों नहीं:\n- **० (लाघव चिह्न)** संक्षिप्त रूप लिखने में लगता है, जैसे डॉ०, पं०।\n- **:- (विवरण चिह्न)** किसी बात का विवरण या सूची आरंभ करने के लिए लगता है।\n- **– (निर्देशक चिह्न)** संवाद, उदाहरण या व्याख्या से पहले लगता है।"
+ },
+ {
+  "id": "2021-set3-q073",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nअरे वर्षा होने लगी",
+   "options": [
+    ":-",
+    "( )",
+    "!",
+    "…"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "विराम चिह्न",
+  "concept": "Hindi: विस्मयादिबोधक चिह्न (!) का प्रयोग",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "\"अरे\" एक विस्मयादिबोधक शब्द है, जो आश्चर्य या अचानक हुई बात पर भाव प्रकट करता है। ऐसे शब्दों के बाद **विस्मयादिबोधक चिह्न (!)** लगाया जाता है:\n\n\"अरे! वर्षा होने लगी।\"\n\nअन्य विकल्प क्यों नहीं:\n- **:- (विवरण चिह्न)** किसी विषय का विवरण आरंभ करने के लिए लगता है।\n- **( ) (कोष्ठक)** किसी शब्द का अर्थ या अतिरिक्त जानकारी देने के लिए लगता है।\n- **… (लोप/हंसपद चिह्न)** किसी अंश के छूट जाने या बात अधूरी छोड़ने पर लगता है।\n\nअतः सही उत्तर \"!\" है।"
+ },
+ {
+  "id": "2021-set3-q074",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।\nअधर में लटकना",
+   "options": [
+    "दुःख होना",
+    "घबराना",
+    "दुविधा में पड़ा रह जाना",
+    "बाधक होना"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopic": "मुहावरे",
+  "concept": "Hindi: मुहावरा अधर में लटकना",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "\"अधर\" का अर्थ है बीच का स्थान (न धरती, न आकाश)। जो चीज़ अधर में लटकी हो, वह न ऊपर पहुँचती है न नीचे। इसी से मुहावरे **\"अधर में लटकना\"** का अर्थ है **दुविधा में पड़ा रह जाना / किसी काम का अधूरा या अनिश्चित स्थिति में रह जाना**।\n\nउदाहरण: \"धन की कमी के कारण पुल का निर्माण अधर में लटक गया।\"\n\nअन्य विकल्प क्यों नहीं:\n- **दुःख होना**, **घबराना** और **बाधक होना** इस मुहावरे के अर्थ नहीं हैं; घबराने के लिए \"हाथ-पाँव फूलना\" जैसे मुहावरे प्रयुक्त होते हैं।\n\nअतः सही उत्तर \"दुविधा में पड़ा रह जाना\" है।"
+ },
+ {
+  "id": "2021-set3-q075",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।\nघड़ों पानी पड़ना",
+   "options": [
+    "ईर्ष्या से जलना",
+    "बात को और बढ़ाना",
+    "संकट में पड़ना",
+    "अत्यन्त लज्जित होना"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopic": "मुहावरे",
+  "concept": "Hindi: मुहावरा घड़ों पानी पड़ना",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**\"घड़ों पानी पड़ना\"** का अर्थ है **अत्यन्त लज्जित होना** (बहुत शर्मिंदा होना)। जैसे \"पानी-पानी होना\" का अर्थ लज्जित होना है, वैसे ही \"घड़ों पानी पड़ना\" उससे भी अधिक लज्जा का भाव बताता है।\n\nउदाहरण: \"चोरी पकड़ी जाने पर उस पर घड़ों पानी पड़ गया।\"\n\nअन्य विकल्प क्यों नहीं:\n- **ईर्ष्या से जलना** के लिए \"छाती पर साँप लोटना\" मुहावरा है।\n- **बात को और बढ़ाना** के लिए \"आग में घी डालना\" मुहावरा है।\n- **संकट में पड़ना** के लिए \"आफ़त मोल लेना\" जैसे मुहावरे हैं।\n\nअतः सही उत्तर \"अत्यन्त लज्जित होना\" है।"
+ },
+ {
+  "id": "2021-set3-q076",
+  "transcription": {
+   "verdict": "match",
+   "text": "हमारा देश कब आजाद हुआ था?",
+   "options": [
+    "26 जनवरी 1950",
+    "15 अगस्त 1947",
+    "26 जनवरी 1947",
+    "15 अगस्त 1950"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: भारत की स्वतंत्रता तिथि",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "भारत **15 अगस्त 1947** को अंग्रेज़ी शासन से स्वतंत्र हुआ। इसी दिन को हम हर वर्ष **स्वतंत्रता दिवस** के रूप में मनाते हैं।\n\nअन्य विकल्प क्यों नहीं:\n- **26 जनवरी 1950**: इस दिन भारत का संविधान लागू हुआ और भारत गणराज्य बना; इसे **गणतंत्र दिवस** के रूप में मनाया जाता है, स्वतंत्रता के दिन के रूप में नहीं।\n- **26 जनवरी 1947** और **15 अगस्त 1950**: ये तिथियाँ स्वतंत्रता से जुड़ी नहीं हैं, दोनों विकल्प सही तिथियों को आपस में मिलाकर बनाए गए हैं।\n\n(यह प्रश्न एक अपठित गद्यांश पर आधारित समूह का भाग है; उत्तर सामान्य तथ्य से भी स्पष्ट है।)"
+ }
+]

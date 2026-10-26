@@ -1,0 +1,589 @@
+{
+ "slug": "computer-fundamentals-pc-software",
+ "subject": "Computer Science",
+ "topic": "Computer Fundamentals & PC Software",
+ "titleHi": "कंप्यूटर मूल सिद्धांत एवं पीसी सॉफ्टवेयर",
+ "summary": "Covers the history and generations of computers, classification, input/output hardware, memory and storage units, types of software and utilities, MS Office/LibreOffice usage with keyboard shortcuts, and Internet and e-mail basics. DSSSB asks several direct one-liners from this area every paper (full forms, which generation used what, impact vs non-impact printers, OMR/MICR, time and storage units), so these are quick, high-scoring marks.",
+ "sections": [
+  {
+   "heading": "Computer: definition, characteristics and block diagram",
+   "level": "basic",
+   "subtopic": "Generations, types & history",
+   "body": "A **computer** is an electronic device that accepts data (input), processes it under the control of a stored program, stores data and results, and produces output. The basic cycle is **Input → Process → Output**, with **Storage** supporting all three (IPO + storage).\n\n**Characteristics** asked in exams:\n- **Speed**: operations measured in micro-, nano- and picoseconds.\n- **Accuracy**: errors are almost always human or program errors (GIGO: Garbage In, Garbage Out).\n- **Diligence**: works for hours without tiredness or loss of concentration.\n- **Versatility**: can do very different tasks (accounts, games, design).\n- **Storage / memory**: can store and recall huge amounts of data.\n- **No IQ**: it cannot think or decide on its own; it only follows instructions.\n- **No feelings**: no emotions, likes or dislikes.\n\nThe **CPU** (Central Processing Unit) has the **ALU** (arithmetic and logic operations), the **CU** (Control Unit: fetches, decodes and directs execution) and **registers**. Charles Babbage's Analytical Engine already had this split: the *store* (memory) and the *mill* (processor).",
+   "diagram": {
+    "title": "Block diagram of a computer",
+    "ascii": "            +---------------------------+\n            |           CPU             |\n +-------+  |  +---------+  +---------+  |  +--------+\n | Input |--+->|   CU    |<>|   ALU   |  +->| Output |\n +-------+  |  +---------+  +---------+  |  +--------+\n            |        ^  registers        |\n            +--------|-------------------+\n                     v\n             +---------------+\n             | Primary memory|<--> Secondary storage\n             +---------------+"
+   }
+  },
+  {
+   "heading": "History: from abacus to stored-program computers",
+   "level": "basic",
+   "subtopic": "Generations, types & history",
+   "body": "- **Abacus**: earliest counting device.\n- **Napier's bones** (John Napier) and the **slide rule**: aids for multiplication using logarithms.\n- **Pascaline** (Blaise Pascal, 1642): mechanical adding machine.\n- **Leibniz's Stepped Reckoner**: could also multiply and divide.\n- **Jacquard loom** (Joseph-Marie Jacquard, 1801): used **punched cards** to control weaving patterns, the idea later used for data input.\n- **Charles Babbage**: Difference Engine and the **Analytical Engine** (designed with store, mill, input and output). He is called the **Father of the Computer**.\n- **Ada Lovelace**: wrote an algorithm for the Analytical Engine, so she is called the **first programmer**.\n- **Herman Hollerith**: punched-card **tabulating machine** for the 1890 US census; his company later became part of **IBM**.\n- **Howard Aiken's Harvard Mark I** (1944): electromechanical computer.\n- **ENIAC** (Electronic Numerical Integrator and Computer, by J. Presper Eckert and John Mauchly, 1946): first general-purpose all-electronic digital computer; it used about 18,000 vacuum tubes.\n- **John von Neumann**: proposed the **stored-program concept** (program and data stored together in memory), first described for **EDVAC** (Electronic Discrete Variable Automatic Computer).\n- **EDSAC** (Cambridge, 1949): among the first practical stored-program computers.\n- **UNIVAC I** (Universal Automatic Computer): first commercial computer in the USA.\n\nIndian supercomputers: the **PARAM** series was developed by **C-DAC**, Pune."
+  },
+  {
+   "heading": "Generations of computers",
+   "level": "basic",
+   "subtopic": "Generations, types & history",
+   "body": "Generations are defined by the **switching technology** inside the computer. The year ranges vary slightly between textbooks; the technology for each generation is what is asked.\n\nKey inventions: the **transistor** was invented at Bell Labs in 1947 (Bardeen, Brattain and Shockley); the **integrated circuit** (IC) by Jack Kilby (1958) and independently Robert Noyce; the first commercial **microprocessor** was the Intel 4004 (1971).",
+   "table": {
+    "columns": [
+     "Generation",
+     "Approx. period",
+     "Technology",
+     "Language / software",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "First",
+      "1940s–1956",
+      "Vacuum tubes; magnetic drum memory",
+      "Machine language; punched cards",
+      "ENIAC, EDVAC, UNIVAC I, IBM 701"
+     ],
+     [
+      "Second",
+      "1956–1963",
+      "Transistors; magnetic core memory",
+      "Assembly language; early high-level (FORTRAN, COBOL)",
+      "IBM 1401, IBM 7090, CDC 1604"
+     ],
+     [
+      "Third",
+      "1964–1971",
+      "Integrated circuits (SSI/MSI)",
+      "High-level languages, operating systems, multiprogramming",
+      "IBM System/360, PDP-11"
+     ],
+     [
+      "Fourth",
+      "1971–present",
+      "Microprocessors (LSI/VLSI)",
+      "GUI, personal computers, networks",
+      "IBM PC, Apple Macintosh, modern PCs and laptops"
+     ],
+     [
+      "Fifth",
+      "Present and beyond",
+      "ULSI, parallel processing, AI hardware",
+      "AI, natural language, expert systems (Prolog, LISP)",
+      "AI systems, supercomputers"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Classification of computers",
+   "level": "basic",
+   "subtopic": "Generations, types & history",
+   "body": "**By the type of data handled**\n- **Analog**: works on continuously varying physical quantities (voltage, temperature, pressure). Example: speedometer, analog thermometer.\n- **Digital**: works on discrete values (binary 0 and 1). Almost all modern computers.\n- **Hybrid**: combines both, e.g. ICU patient-monitoring systems that measure analog signals and process them digitally.\n\n**By size and power**\n- **Supercomputer**: fastest, used for weather forecasting, nuclear simulation; speed measured in **FLOPS** (floating-point operations per second).\n- **Mainframe**: serves hundreds or thousands of users at once (banks, railway reservation).\n- **Minicomputer**: mid-range, multi-user (departmental use).\n- **Microcomputer**: personal computer built around a microprocessor: desktop, laptop, tablet, smartphone.\n- **Workstation**: powerful single-user machine for design and graphics.\n\n**By purpose**: general-purpose (PCs) vs special-purpose / **embedded** (washing machine controller, ATM)."
+  },
+  {
+   "heading": "Input devices",
+   "level": "basic",
+   "subtopic": "Hardware, input/output devices",
+   "body": "**Input devices** convert data from the outside world into a form the computer can process.\n\nRecognition devices are favourites in the exam; learn exactly what each one reads.",
+   "table": {
+    "columns": [
+     "Device",
+     "What it does / where used"
+    ],
+    "rows": [
+     [
+      "Keyboard",
+      "Most common text input; QWERTY layout; function keys F1–F12"
+     ],
+     [
+      "Mouse, trackball, touchpad",
+      "Pointing devices; move a cursor and click"
+     ],
+     [
+      "Joystick",
+      "Pointing/control input for games and simulators (input, not output)"
+     ],
+     [
+      "Light pen",
+      "Pen-shaped light-sensitive device used to point or draw directly on a screen"
+     ],
+     [
+      "Scanner",
+      "Converts a printed page or photo into a digital image"
+     ],
+     [
+      "OMR (Optical Mark Reader)",
+      "Detects the presence or absence of pen/pencil marks; used for objective answer sheets and surveys"
+     ],
+     [
+      "OCR (Optical Character Recognition)",
+      "Software/hardware that converts images of printed or typed text into editable text"
+     ],
+     [
+      "MICR (Magnetic Ink Character Recognition)",
+      "Reads characters printed with magnetic ink; used by banks to process cheques"
+     ],
+     [
+      "Barcode reader",
+      "Reads barcodes (black-and-white bars) on products in shops and libraries"
+     ],
+     [
+      "Digitizer / graphics tablet",
+      "Converts drawings made with a stylus into digital form (CAD, design)"
+     ],
+     [
+      "Microphone",
+      "Audio input; used for speech recognition (input by speaking)"
+     ],
+     [
+      "Webcam, digital camera",
+      "Image and video input"
+     ],
+     [
+      "Biometric sensor",
+      "Reads fingerprint, iris or face for identification"
+     ],
+     [
+      "Touch screen",
+      "Works as both input and output device"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Output devices: monitors and printers",
+   "level": "basic",
+   "subtopic": "Hardware, input/output devices",
+   "body": "**Output devices** present processed results. **Soft copy** is output on screen (temporary); **hard copy** is output on paper (permanent).\n\n**Monitors (VDU)**\n- **CRT** (Cathode Ray Tube): electron beam strikes phosphor; bulky.\n- **LCD**, **LED** and **plasma** are flat-panel displays. An LCD does not emit its own light (non-emissive) and needs a backlight; LED and plasma panels are emissive.\n- **Resolution** = number of pixels (e.g. 1920 × 1080). **Pixel** = picture element, the smallest dot on screen.\n\n**Printers**\n- **Impact printers** strike an inked ribbon against the paper, so they can make carbon copies; noisy. Examples: **dot-matrix**, **daisy-wheel**, **line printer**, **drum printer**, **chain printer**.\n- **Non-impact printers** form characters without striking: **inkjet**, **laser** (uses toner and a photosensitive drum, page printer), **thermal** (heat-sensitive paper, used in billing machines and ATMs).\n- Printer speed units: **cps** (characters per second, dot-matrix), **lpm** (lines per minute, line printers), **ppm** (pages per minute, laser). Print quality: **dpi** (dots per inch).\n\nOther output devices: **plotter** (large drawings, engineering maps), **speakers/headphones**, **projector**. A plotter is an output device even though it draws."
+  },
+  {
+   "heading": "Memory and storage units",
+   "level": "basic",
+   "subtopic": "Memory & storage units",
+   "body": "- **Bit** (binary digit) = 0 or 1, the smallest unit.\n- **Nibble** = 4 bits; **Byte** = 8 bits (stores one ASCII character).\n- **Word** = the number of bits the CPU processes at a time (e.g. 32 or 64 bits); it depends on the machine.\n\nIn memory sizes, each higher unit is **1024 (2¹⁰)** times the previous one: KB → MB → GB → TB → PB → EB → ZB → YB. Strictly, the IEC names for powers of 2 are KiB, MiB, GiB; disk makers often use powers of 10 (1 GB = 10⁹ bytes), which is why a \"500 GB\" disk shows less in the OS. In DSSSB questions take 1 KB = 1024 bytes unless told otherwise.\n\n**Time units** (for speed): millisecond 10⁻³ s, microsecond 10⁻⁶ s, nanosecond 10⁻⁹ s, **picosecond 10⁻¹² s**, **femtosecond 10⁻¹⁵ s**, attosecond 10⁻¹⁸ s. CPU clock speed is in hertz: 1 GHz = 10⁹ cycles per second, so one cycle takes 1 ns.",
+   "table": {
+    "columns": [
+     "Unit",
+     "Equals",
+     "Power of 2"
+    ],
+    "rows": [
+     [
+      "1 Kilobyte (KB)",
+      "1024 bytes",
+      "2¹⁰ bytes"
+     ],
+     [
+      "1 Megabyte (MB)",
+      "1024 KB",
+      "2²⁰ bytes"
+     ],
+     [
+      "1 Gigabyte (GB)",
+      "1024 MB",
+      "2³⁰ bytes"
+     ],
+     [
+      "1 Terabyte (TB)",
+      "1024 GB",
+      "2⁴⁰ bytes"
+     ],
+     [
+      "1 Petabyte (PB)",
+      "1024 TB",
+      "2⁵⁰ bytes"
+     ],
+     [
+      "1 Exabyte (EB)",
+      "1024 PB",
+      "2⁶⁰ bytes"
+     ],
+     [
+      "1 Zettabyte (ZB)",
+      "1024 EB",
+      "2⁷⁰ bytes"
+     ],
+     [
+      "1 Yottabyte (YB)",
+      "1024 ZB",
+      "2⁸⁰ bytes"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Primary and secondary memory",
+   "level": "intermediate",
+   "subtopic": "Memory & storage units",
+   "body": "**Primary memory** is directly accessed by the CPU.\n- **RAM** (Random Access Memory): read/write, **volatile** (contents lost on power off). **SRAM** uses flip-flops, is fast, needs no refresh, and is used for **cache**. **DRAM** stores bits as charge on capacitors, must be **refreshed** periodically, is cheaper and denser, and is used for main memory.\n- **ROM** (Read Only Memory): **non-volatile**; holds firmware such as the BIOS. Types: **PROM** (programmable once), **EPROM** (erased by **ultraviolet** light), **EEPROM** (erased **electrically**, byte by byte). **Flash memory** is a type of EEPROM erased in blocks (pen drives, SSDs).\n\n**Secondary memory** is non-volatile, larger, cheaper per bit and slower.\n- **Hard disk (HDD)**: magnetic platters divided into **tracks** (concentric circles) and **sectors**; the same track on all platters forms a **cylinder**. Access time = **seek time** (move head to track) + **rotational latency** (wait for the sector to come under the head) + transfer time.\n- **SSD**: flash-based, no moving parts, faster than HDD.\n- **Optical discs**: CD (about 700 MB), DVD (4.7 GB single-layer), Blu-ray (25 GB single-layer); read by a laser.\n- **Magnetic tape**: **sequential access**, cheapest per bit, used for **backup** and archives. It is not a direct-access device.\n\n**Access methods**: sequential (tape) vs direct/random (disk, RAM).\n\n**Booting**: on power-on the BIOS (in ROM) runs the **POST** (Power-On Self-Test), then the **bootstrap loader** loads the operating system into RAM. **Cold boot** starts from power-off; **warm boot** is a restart (e.g. Ctrl+Alt+Del)."
+  },
+  {
+   "heading": "Software: types, translators and utilities",
+   "level": "intermediate",
+   "subtopic": "Software types & utilities",
+   "body": "**Software** is a set of programs. **Hardware** is the physical part; **firmware** is software permanently stored in ROM (e.g. BIOS).\n\n**System software** manages the computer:\n- **Operating system** (Windows, Linux, macOS, Android).\n- **Language translators**: **assembler** (assembly → machine code), **compiler** (whole high-level program → machine code at once, lists all errors after compiling, e.g. C, C++), **interpreter** (translates and executes line by line, stops at the first error, e.g. Python, Perl, BASIC).\n- **Linker** (joins object files and libraries into one executable), **loader** (places the executable in memory to run).\n- **Device drivers** (let the OS talk to a particular device).\n- **Utility software**: maintenance tools: **antivirus**, **disk defragmenter**, **disk cleanup**, **backup**, **file compression** (ZIP), **disk formatting**, file managers.\n\n**Application software** solves user tasks: word processors, spreadsheets, presentation, DBMS, browsers, media players, payroll, railway reservation.\n\n**Licensing**: **proprietary** (closed source, e.g. MS Windows), **open source** (source code available, can be modified: Linux, Apache, PHP, MySQL, LibreOffice, Firefox), **freeware** (free to use but closed), **shareware** (try before you buy).\n\n**Malware** (malicious software, also called perverse software): **virus** (attaches to files and needs a host program), **worm** (self-replicates over networks without a host), **Trojan horse** (looks useful but is harmful), **spyware**, **adware**, **ransomware** (encrypts data and demands payment), **keylogger**.\n\n**Generations of languages**: 1GL machine language, 2GL assembly, 3GL high-level (C, FORTRAN = FORmula TRANslation, COBOL = COmmon Business-Oriented Language, BASIC = Beginner's All-purpose Symbolic Instruction Code), 4GL (SQL, report generators), 5GL (Prolog, logic/AI)."
+  },
+  {
+   "heading": "Office tools: word processor, spreadsheet, presentation",
+   "level": "intermediate",
+   "subtopic": "Office tools & shortcuts",
+   "body": "**MS Office** (proprietary) and **LibreOffice** (open source) provide equivalent tools: Word ↔ Writer, Excel ↔ Calc, PowerPoint ↔ Impress, Access ↔ Base.\n\n**File extensions**: .docx, .xlsx, .pptx (Office 2007 onwards, XML-based); .doc, .xls, .ppt (older); .xlsm (macro-enabled workbook); .odt, .ods, .odp (OpenDocument, LibreOffice); .csv (comma-separated values, plain text); .txt; .pdf; .bat (batch file of DOS/Windows commands).\n\n**Word processing**: formatting, header and footer, page break, tables, **mail merge** (one letter merged with a data source to create many personalised letters), track changes, spelling and grammar check.\n\n**Spreadsheet (Excel)**\n- A workbook contains worksheets; a cell is addressed by column letter + row number (e.g. C5). Since Excel 2007 a sheet has **1,048,576 rows** and **16,384 columns** (last column **XFD**); Excel 2003 had 65,536 rows and 256 columns.\n- Formulas start with **=**. References: **relative** (A1, changes when copied), **absolute** ($A$1, fixed), **mixed** ($A1 or A$1). **F4** cycles through these forms.\n- Common functions: SUM, AVERAGE, MAX, MIN, **COUNT** (counts cells containing numbers), **COUNTA** (counts non-empty cells), COUNTIF, IF, VLOOKUP, ROUND.\n- Error values: **#DIV/0!** (division by zero), **#NAME?** (unknown function/name), **#REF!** (invalid reference), **#VALUE!** (wrong type of argument), **#N/A** (value not available, e.g. failed lookup); **#####** means the column is too narrow.\n- Operator precedence: negation (−), %, ^, then * and /, then + and −, then & (join text), then comparisons. So `=-2^2` gives 4 in Excel, but `=0-2^2` gives −4.\n\n**Presentation (PowerPoint)**: slides, layouts, themes, **transitions** (effect between slides) vs **animations** (effect on an object within a slide), slide master, Slide Sorter view."
+  },
+  {
+   "heading": "Important keyboard shortcuts",
+   "level": "basic",
+   "subtopic": "Office tools & shortcuts",
+   "body": "These are the Windows / MS Office defaults. Shortcuts are the same in most Office programs unless the table says otherwise.",
+   "table": {
+    "columns": [
+     "Shortcut",
+     "Action"
+    ],
+    "rows": [
+     [
+      "Ctrl+C / Ctrl+X / Ctrl+V",
+      "Copy / Cut / Paste"
+     ],
+     [
+      "Ctrl+Z / Ctrl+Y",
+      "Undo / Redo (or repeat last action)"
+     ],
+     [
+      "Ctrl+A",
+      "Select all"
+     ],
+     [
+      "Ctrl+N / Ctrl+O / Ctrl+S",
+      "New / Open / Save"
+     ],
+     [
+      "F12",
+      "Save As (Word, Excel, PowerPoint)"
+     ],
+     [
+      "Ctrl+P",
+      "Print"
+     ],
+     [
+      "Ctrl+F / Ctrl+H",
+      "Find / Replace"
+     ],
+     [
+      "Ctrl+B / Ctrl+I / Ctrl+U",
+      "Bold / Italic / Underline"
+     ],
+     [
+      "Ctrl+L / Ctrl+E / Ctrl+R / Ctrl+J",
+      "Align left / Centre / Right / Justify (Word)"
+     ],
+     [
+      "Ctrl+K",
+      "Insert hyperlink"
+     ],
+     [
+      "Ctrl+Enter",
+      "Page break (Word)"
+     ],
+     [
+      "Shift+F3",
+      "Change case (Word)"
+     ],
+     [
+      "F7",
+      "Spelling and grammar check"
+     ],
+     [
+      "Ctrl+] / Ctrl+[",
+      "Increase / decrease font size by 1 point (Word)"
+     ],
+     [
+      "F2",
+      "Edit active cell (Excel); rename selected file (Windows)"
+     ],
+     [
+      "Alt+=",
+      "AutoSum (Excel)"
+     ],
+     [
+      "Ctrl+; / Ctrl+Shift+;",
+      "Insert current date / current time (Excel)"
+     ],
+     [
+      "Ctrl+1",
+      "Format Cells dialog (Excel)"
+     ],
+     [
+      "Shift+F11 / F11",
+      "Insert new worksheet / create chart on a new sheet (Excel)"
+     ],
+     [
+      "Ctrl+Home",
+      "Go to beginning of document / cell A1"
+     ],
+     [
+      "Ctrl+M",
+      "New slide (PowerPoint)"
+     ],
+     [
+      "F5 / Shift+F5",
+      "Start slide show from first slide / from current slide (PowerPoint)"
+     ],
+     [
+      "Alt+Tab",
+      "Switch between open windows"
+     ],
+     [
+      "Alt+F4",
+      "Close active window / program"
+     ],
+     [
+      "Win+D / Win+E / Win+L",
+      "Show desktop / File Explorer / Lock PC"
+     ],
+     [
+      "Ctrl+Shift+Esc",
+      "Open Task Manager"
+     ],
+     [
+      "Shift+Delete",
+      "Delete permanently (skip Recycle Bin)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Internet, WWW and e-mail",
+   "level": "intermediate",
+   "subtopic": "Internet & e-mail basics",
+   "body": "The **Internet** is a global network of networks using the **TCP/IP** protocol suite; it grew out of **ARPANET** (1969). The **World Wide Web** (WWW) is a service on the Internet: hypertext documents linked by hyperlinks, proposed by **Tim Berners-Lee** at CERN (1989). A **web browser** (Chrome, Firefox, Edge) displays web pages; a **search engine** (Google, Bing) finds them.\n\n- **URL** (Uniform Resource Locator) parts: **protocol** (https), **host/domain name** (www.example.com), **path and file name** (/notes/index.html). Example: `https://www.example.com/notes/index.html`.\n- **Domain names**: top-level domains such as .com (commercial), .org, .edu, .gov, .net, .in (India). **DNS** translates domain names to **IP addresses**.\n- **ISP** (Internet Service Provider) gives the connection. **Intranet** = private network of an organisation using Internet technology; **extranet** = intranet partly opened to outside partners.\n- **HTTP** (port 80) transfers web pages; **HTTPS** (port 443) is HTTP secured with TLS/SSL; **FTP** transfers files.\n- **Cookies** are small text files a website stores in the browser to remember the user.\n\n**E-mail**\n- Address format: `username@domain`, e.g. `teacher@school.in`. Ray Tomlinson sent the first network e-mail on ARPANET and chose the **@** sign.\n- **SMTP** sends mail (port 25); **POP3** (port 110) downloads mail to one device; **IMAP** (port 143) keeps mail on the server and syncs across devices.\n- **To** = main recipients; **CC** (carbon copy) = copied, visible to all; **BCC** (blind carbon copy) = copied, hidden from other recipients.\n- Other terms: attachment, inbox, drafts, **spam** (unwanted bulk mail), **phishing** (fake mail to steal passwords), signature, forward, reply all.\n- The **mailto:** URL scheme opens an e-mail client, e.g. `mailto:info@example.com`."
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Storage unit step",
+   "formula": "1 KB = 2¹⁰ B; 1 MB = 2²⁰ B; 1 GB = 2³⁰ B; 1 TB = 2⁴⁰ B",
+   "note": "Each step up is × 1024."
+  },
+  {
+   "name": "Bits and bytes",
+   "formula": "1 byte = 8 bits; 1 nibble = 4 bits",
+   "note": "Convert bytes to bits by multiplying by 8."
+  },
+  {
+   "name": "Clock period",
+   "formula": "T = 1 / f",
+   "note": "1 GHz → 1 ns per cycle; 2 GHz → 0.5 ns."
+  },
+  {
+   "name": "Rotation time of a disk",
+   "formula": "Time per rotation = 60 / RPM seconds",
+   "note": "Average rotational latency = half of this."
+  },
+  {
+   "name": "Disk access time",
+   "formula": "Access time = seek time + rotational latency + transfer time",
+   "note": "Seek = move head to track; latency = wait for sector."
+  },
+  {
+   "name": "Disk capacity",
+   "formula": "Capacity = surfaces × tracks per surface × sectors per track × bytes per sector",
+   "note": "Cylinders = tracks per surface."
+  },
+  {
+   "name": "Time units",
+   "formula": "ms 10⁻³, µs 10⁻⁶, ns 10⁻⁹, ps 10⁻¹², fs 10⁻¹⁵, as 10⁻¹⁸ s",
+   "note": "Pico = 10⁻¹², femto = 10⁻¹⁵."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "A file is 3 MB in size. How many bits is that? (take 1 KB = 1024 bytes)",
+   "solution": "3 MB = 3 × 2²⁰ bytes = 3 × 1,048,576 = 3,145,728 bytes.\nBits = 3,145,728 × 8 = 25,165,824 bits (= 3 × 2²³ bits)."
+  },
+  {
+   "problem": "A hard disk rotates at 7200 RPM and has an average seek time of 5 ms. Ignoring transfer time, find the average access time.",
+   "solution": "One rotation = 60 / 7200 s = 1/120 s ≈ 8.33 ms.\nAverage rotational latency = half a rotation ≈ 4.17 ms.\nAverage access time ≈ 5 + 4.17 = 9.17 ms."
+  },
+  {
+   "problem": "A disk has 4 platters (both surfaces used), 1000 tracks per surface, 500 sectors per track and 512 bytes per sector. Find its capacity.",
+   "solution": "Surfaces = 4 × 2 = 8.\nCapacity = 8 × 1000 × 500 × 512 bytes = 4,000,000 × 512 = 2,048,000,000 bytes.\nIn MB (2²⁰): 2,048,000,000 / 1,048,576 ≈ 1953.1 MB, i.e. about 1.91 GB (2³⁰ based) or 2.048 GB (10⁹ based)."
+  },
+  {
+   "problem": "A CPU runs at 2.5 GHz. How long is one clock cycle, and how many cycles occur in 1 microsecond?",
+   "solution": "T = 1 / (2.5 × 10⁹) s = 0.4 × 10⁻⁹ s = 0.4 ns = 400 ps.\nCycles in 1 µs = 10⁻⁶ / (0.4 × 10⁻⁹) = 2500 cycles."
+  },
+  {
+   "problem": "In Excel, A1 = 10, A2 = 0, A3 is empty and A4 contains the text \"ten\". What do =COUNT(A1:A4), =COUNTA(A1:A4) and =A1/A2 return?",
+   "solution": "COUNT counts only numeric cells: A1 and A2 → 2.\nCOUNTA counts non-empty cells: A1, A2, A4 → 3.\n=A1/A2 divides by zero → #DIV/0!."
+  },
+  {
+   "problem": "Formula =B$2*$C1 is in cell D5. It is copied to E7. What is the formula in E7?",
+   "solution": "Moving from D5 to E7 shifts 1 column right and 2 rows down.\nB$2: column relative (B → C), row fixed (2) → C$2.\n$C1: column fixed (C), row relative (1 → 3) → $C3.\nResult: =C$2*$C3."
+  }
+ ],
+ "pitfalls": [
+  "Joystick and light pen are input devices; plotter and printer are output devices. A touch screen is both.",
+  "OMR reads marks (bubbles), OCR reads printed characters, MICR reads magnetic-ink characters on cheques. Do not mix them up.",
+  "Dot-matrix, daisy-wheel and line printers are impact printers; inkjet, laser and thermal are non-impact.",
+  "Transistors = second generation, ICs = third generation, microprocessors = fourth generation. Vacuum tubes = first.",
+  "EPROM is erased by ultraviolet light; EEPROM is erased electrically.",
+  "Magnetic tape is sequential access, not direct access; it is used mainly for backup.",
+  "A virus needs a host file to spread; a worm spreads by itself over a network.",
+  "Excel COUNT ignores text and blanks; COUNTA counts every non-empty cell, including text.",
+  "Pico = 10⁻¹², femto = 10⁻¹⁵, atto = 10⁻¹⁸; nano = 10⁻⁹. Exam options mix these.",
+  "In BCC, other recipients cannot see the BCC addresses; in CC everyone can see them.",
+  "Compiler translates the whole program before execution; interpreter translates line by line. C is compiled; Perl and Python are typically interpreted."
+ ],
+ "quickRevision": [
+  "Charles Babbage = Father of the Computer; Ada Lovelace = first programmer.",
+  "ENIAC = Electronic Numerical Integrator and Computer; EDVAC = Electronic Discrete Variable Automatic Computer.",
+  "Stored-program concept: John von Neumann.",
+  "Generations: vacuum tube → transistor → IC → microprocessor (VLSI) → AI/ULSI.",
+  "First-generation computers were programmed in machine language.",
+  "Diligence = works for hours without tiredness or errors.",
+  "Hollerith's punched-card tabulator (1890 census) → company later part of IBM.",
+  "1 nibble = 4 bits, 1 byte = 8 bits, 1 KB = 1024 bytes.",
+  "SRAM → cache (flip-flops, no refresh); DRAM → main memory (capacitors, refresh).",
+  "Seek time = moving the head to the track; rotational latency = waiting for the sector.",
+  "Malicious (perverse) software = malware: virus, worm, Trojan, ransomware, spyware.",
+  "PHP, Apache, Linux, MySQL, LibreOffice are open source.",
+  "Batch file extension: .BAT.",
+  "SMTP sends mail; POP3/IMAP receive mail; mailto: URL opens an e-mail message.",
+  "Excel 2007+: 1,048,576 rows × 16,384 columns (last column XFD)."
+ ],
+ "flashcards": [
+  {
+   "front": "Which generation of computers used transistors?",
+   "back": "Second generation."
+  },
+  {
+   "front": "Full form of ENIAC?",
+   "back": "Electronic Numerical Integrator and Computer."
+  },
+  {
+   "front": "Who proposed the stored-program concept?",
+   "back": "John von Neumann (EDVAC report)."
+  },
+  {
+   "front": "Which device reads pencil marks on answer sheets?",
+   "back": "OMR (Optical Mark Reader)."
+  },
+  {
+   "front": "Which device do banks use to read cheque numbers?",
+   "back": "MICR (Magnetic Ink Character Recognition)."
+  },
+  {
+   "front": "Name an impact printer.",
+   "back": "Dot-matrix (also daisy-wheel, line printer)."
+  },
+  {
+   "front": "1 picosecond = ?",
+   "back": "10⁻¹² seconds."
+  },
+  {
+   "front": "10⁻¹⁵ second is called?",
+   "back": "1 femtosecond."
+  },
+  {
+   "front": "How is EPROM erased?",
+   "back": "By exposure to ultraviolet light."
+  },
+  {
+   "front": "Which RAM needs periodic refreshing?",
+   "back": "DRAM (dynamic RAM)."
+  },
+  {
+   "front": "Wait time until the desired sector comes under the read/write head?",
+   "back": "Rotational delay (rotational latency)."
+  },
+  {
+   "front": "Software that converts a whole high-level program into machine code?",
+   "back": "Compiler."
+  },
+  {
+   "front": "Another name for perverse software?",
+   "back": "Malicious software (malware)."
+  },
+  {
+   "front": "Excel shortcut for AutoSum?",
+   "back": "Alt+="
+  },
+  {
+   "front": "PowerPoint shortcut to start the slide show from the current slide?",
+   "back": "Shift+F5 (F5 starts from the first slide)."
+  },
+  {
+   "front": "Protocol used to send e-mail?",
+   "back": "SMTP (Simple Mail Transfer Protocol)."
+  },
+  {
+   "front": "Full form of FORTRAN?",
+   "back": "FORmula TRANslation."
+  },
+  {
+   "front": "Which property lets a computer work for hours without tiredness?",
+   "back": "Diligence."
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Hardware",
+   "hi": "हार्डवेयर (भौतिक अवयव)"
+  },
+  {
+   "en": "Software",
+   "hi": "सॉफ्टवेयर (प्रोग्रामों का समूह)"
+  },
+  {
+   "en": "Input device",
+   "hi": "निवेश युक्ति"
+  },
+  {
+   "en": "Output device",
+   "hi": "निर्गम युक्ति"
+  },
+  {
+   "en": "Memory",
+   "hi": "स्मृति"
+  },
+  {
+   "en": "Volatile memory",
+   "hi": "अस्थायी (वाष्पशील) स्मृति"
+  },
+  {
+   "en": "Secondary storage",
+   "hi": "द्वितीयक भंडारण"
+  },
+  {
+   "en": "Vacuum tube",
+   "hi": "निर्वात नली"
+  },
+  {
+   "en": "Integrated circuit",
+   "hi": "एकीकृत परिपथ"
+  },
+  {
+   "en": "Operating system",
+   "hi": "प्रचालन तंत्र"
+  },
+  {
+   "en": "Utility software",
+   "hi": "उपयोगिता सॉफ्टवेयर"
+  },
+  {
+   "en": "Spreadsheet",
+   "hi": "स्प्रेडशीट (विस्तृत तालिका)"
+  },
+  {
+   "en": "Shortcut key",
+   "hi": "शॉर्टकट कुंजी"
+  },
+  {
+   "en": "Web browser",
+   "hi": "वेब ब्राउज़र"
+  },
+  {
+   "en": "E-mail",
+   "hi": "ई-मेल (विद्युत डाक)"
+  }
+ ]
+}

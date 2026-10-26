@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set3-q028",
+  "copies": [
+   "2021-set3-q028"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Five boxes B1, B2, B3, B4 and B5 are placed one above the other in racks. The lowermost rack is numbered as one and just above the lowermost\nis numbered as two and so on. Each box is coloured with different colour such as L1, L2, L3, L4 and L5 (not necessarily in the same order). Two\nboxes are placed between L2 coloured box and L5 coloured box. Box B1 is not placed immediately above box B3. Box B4 is placed in the top\nmost rack. L1 coloured box is placed immediate above L5 coloured box. Box B3 is coloured with L4. L5 coloured box is placed above L4\ncoloured box. Box B2 is coloured with L1. Which of the following boxes are placed immediately above and immediately below B5 box\nrespectively?",
+  "options": [
+   "A) B3 and B2",
+   "B) B4 and B1",
+   "C) B1 and B3",
+   "D) B2 and B3"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q029",
+  "copies": [
+   "2021-set3-q029"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Seven boys A, B, C, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). S is second to\nthe left of C. P is second to the left of S. Q is not the immediate neighbour of P or S. B is fourth to the right of A.\nWhich of the following statement is correct?",
+  "options": [
+   "A) B is second to the right of Q.",
+   "B) P is third to the left of C.",
+   "C) A is not the immediate neighbour of P or Q.",
+   "D) B is the immediate neighbour of S and C."
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q033",
+  "copies": [
+   "2021-set3-q033"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "If ‘A’ means ‘+’, ‘B’ means ‘–’, ‘C’ means ‘×’ and ‘D’ means ‘÷’, then which of the following equation is correct?",
+  "options": [
+   "A) 9A16D64C32B3 = 14",
+   "B) 26D14C7A9B3 = 20",
+   "C) 8A15D5C11B7 = 35",
+   "D) 6C21D7A9B15 = 10"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q036",
+  "copies": [
+   "2021-set3-q036"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In evening, Prema and Radhika were facing each other. Radhika’s shadow was to the left of Prema. In which direction was Prema facing?",
+  "options": [
+   "A) North",
+   "B) South",
+   "C) East",
+   "D) West"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q037",
+  "copies": [
+   "2021-set3-q037"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Ramesh is facing towards south direction. He rotates by 140 degrees in clockwise direction. He again rotates by 362 degrees in anti-clockwise\ndirection. In which direction is he facing now?",
+  "options": [
+   "A) North-east",
+   "B) West",
+   "C) North-west",
+   "D) East"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q040",
+  "copies": [
+   "2021-set3-q040"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Pairs of adjacent sides of a big cube are coloured with red, yellow and brown colour. Now this big cube is divided into 64 small equal cubes.\nHow many small cubes will have 3 faces painted with different colours?",
+  "options": [
+   "A) 0",
+   "B) 6",
+   "C) 2",
+   "D) 8"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q041",
+  "copies": [
+   "2021-set3-q041"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "What is the value of 153 ÷ 17 × 8?",
+  "options": [
+   "A) 63",
+   "B) 72",
+   "C) 81",
+   "D) 99"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q044",
+  "copies": [
+   "2021-set3-q044"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "If (9835 × 88A) is divisible by 15, then what is the value of A?",
+  "options": [
+   "A) 3",
+   "B) 2",
+   "C) 7",
+   "D) 6"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q045",
+  "copies": [
+   "2021-set3-q045"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Highest common factor of three distinct numbers is 7 and their least common multiple is 42. If all numbers are less than the least common\nmultiple, then what is the product of these three numbers?",
+  "options": [
+   "A) 686",
+   "B) 6174",
+   "C) 4116",
+   "D) 2058"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q046",
+  "copies": [
+   "2021-set3-q046"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Marked price of an article is Rs. 4000. Selling price of the article is Rs. 2600. What is the discount percentage?",
+  "options": [
+   "A) 35",
+   "B) 25",
+   "C) 20",
+   "D) 30"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q047",
+  "copies": [
+   "2021-set3-q047"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "What is the value of 24 percent of 35 percent of 6500?",
+  "options": [
+   "A) 546",
+   "B) 648",
+   "C) 576",
+   "D) 612"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q048",
+  "copies": [
+   "2021-set3-q048"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Income of A is 20 percent more than the income of B and income of B is 30 percent more than the income of C. The income of C is\n(approximately) how much percentage less than the income of A?",
+  "options": [
+   "A) 36",
+   "B) 40",
+   "C) 32",
+   "D) 30"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q049",
+  "copies": [
+   "2021-set3-q049"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "An article is sold for Rs. 864 at a loss of 28 percent. If it is sold at 20 percent profit, then what will be the selling price?",
+  "options": [
+   "A) Rs. 1440",
+   "B) Rs. 1560",
+   "C) Rs. 1380",
+   "D) Rs. 1240"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q050",
+  "copies": [
+   "2021-set3-q050"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The sum of two numbers is 66 and their difference is 22. What is the ratio of the two numbers?",
+  "options": [
+   "A) 2 : 1",
+   "B) 6 : 5",
+   "C) 17 : 5",
+   "D) 5 : 1"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q051",
+  "copies": [
+   "2021-set3-q051"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "If (x + y) : (y + z) : (z + x) = 2 : 3 : 4 and (x + y + z) = 27, then what is the value of z?",
+  "options": [
+   "A) 10",
+   "B) 17",
+   "C) 15",
+   "D) 12"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q052",
+  "copies": [
+   "2021-set3-q052"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "A sum of Rs. 1200 becomes Rs. 1560 at a rate of simple interest in 3 years. In how many years will the sum of Rs. 800 amounts to Rs. 1120 at\nthe same rate of simple interest?",
+  "options": [
+   "A) 3 years",
+   "B) 4 years",
+   "C) 5 years",
+   "D) 6 years"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q053",
+  "copies": [
+   "2021-set3-q053"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The downstream speed of a boat is 20 km/hr and the speed of stream is 4 km/hr. What will be the total time taken by the boat to cover 160 km\ndownstream and 96 km upstream?",
+  "options": [
+   "A) 16 hours",
+   "B) 12 hours",
+   "C) 14 hours",
+   "D) 10 hours"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q054",
+  "copies": [
+   "2021-set3-q054"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Diameter of wheel of a cycle is 17.5 cm. A cyclist takes 165 minutes to travel a distance with speed of 90 km/hr. How many revolutions will the\nwheel make during journey?",
+  "options": [
+   "A) 450000",
+   "B) 500000",
+   "C) 425000",
+   "D) 525000"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q055",
+  "copies": [
+   "2021-set3-q055"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "P, Q and R alone can do a work in 12, 18 and 24 days respectively. They worked for 5 days, 4 days and 6 days respectively. They received Rs.\n32000. What is the share of Q?",
+  "options": [
+   "A) 15000",
+   "B) 8000",
+   "C) 12000",
+   "D) 6000"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q056",
+  "copies": [
+   "2021-set3-q056"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Length of the largest side of an isosceles right angle triangle is 30 cm. What will be the area of this triangle?",
+  "options": [
+   "A) 350 cm^2",
+   "B) 550 cm^2",
+   "C) 450 cm^2",
+   "D) 225 cm^2"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q057",
+  "copies": [
+   "2021-set3-q057"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Total surface area of a solid hemisphere is 4158 cm^2. It is melted to form cylinder whose height is 1 cm and radius of base 7 cm. How many\ncylinders will be formed?",
+  "options": [
+   "A) 126",
+   "B) 156",
+   "C) 96",
+   "D) 136"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q081",
+  "copies": [
+   "2021-set3-q081"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nMy son is the most /bravest of all /other men in the city. / No error",
+  "options": [
+   "A) My son is the most",
+   "B) bravest of all",
+   "C) other men in the city.",
+   "D) No error"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q082",
+  "copies": [
+   "2021-set3-q082"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nIndia’s forest and tree cover has/increased by nearly 4,000 sq km/for the last assessment report in 2017. /No error",
+  "options": [
+   "A) India’s forest and tree cover has",
+   "B) increased by nearly 4,000 sq km",
+   "C) for the last assessment report in 2017.",
+   "D) No error"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q083",
+  "copies": [
+   "2021-set3-q083"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAlthough, he comes to the event but he was as usual late.",
+  "options": [
+   "A) comes to",
+   "B) came to",
+   "C) will come to",
+   "D) No Improvement"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q084",
+  "copies": [
+   "2021-set3-q084"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThe meeting had evoked curiosity in regards to the recent panchayat.",
+  "options": [
+   "A) with regards to",
+   "B) in view of",
+   "C) in regarding to",
+   "D) No Improvement"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q085",
+  "copies": [
+   "2021-set3-q085"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nMental stress can make a person ______ in many ways.",
+  "options": [
+   "A) lunatic",
+   "B) hail",
+   "C) rally",
+   "D) inspirit"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q086",
+  "copies": [
+   "2021-set3-q086"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nThey ______ it difficult to read that book.",
+  "options": [
+   "A) founded",
+   "B) find",
+   "C) found",
+   "D) founds"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q087",
+  "copies": [
+   "2021-set3-q087"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Rearrange the parts of the sentence in correct order.\nThe common goals of the Stop TB Partnership\nP: efforts aimed at preventing and\nQ: developing a cure for the disease\nR: of tuberculosis and supporting\nS: include raising global awareness",
+  "options": [
+   "A) PRQS",
+   "B) SRQP",
+   "C) SPQR",
+   "D) SRPQ"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q088",
+  "copies": [
+   "2021-set3-q088"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Rearrange the parts of the sentence in the correct order.\nP: spite of sometimes anaemic comic book sales\nQ: has appeared on all manner of merchandise and\nR: has remained a presence in the pop culture consciousness in\nS: appealing to a vast demographic, Wonder Woman",
+  "options": [
+   "A) RPSQ",
+   "B) PSQR",
+   "C) SQRP",
+   "D) RQPS"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q089",
+  "copies": [
+   "2021-set3-q089"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Choose the word that means the same as the given word.\nWarning",
+  "options": [
+   "A) Caution",
+   "B) Attention",
+   "C) Accuse",
+   "D) Victim"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q090",
+  "copies": [
+   "2021-set3-q090"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Choose the word that is opposite in meaning to the given word.\nAltercate",
+  "options": [
+   "A) Concurrent",
+   "B) Coexist",
+   "C) Nitpick",
+   "D) Contend"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q091",
+  "copies": [
+   "2021-set3-q091"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+  "options": [
+   "A) Tranmission",
+   "B) Transmession",
+   "C) Trensmission",
+   "D) Transmission"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q092",
+  "copies": [
+   "2021-set3-q092"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+  "options": [
+   "A) Assumption",
+   "B) Brightness",
+   "C) Comisson",
+   "D) Gathering"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q093",
+  "copies": [
+   "2021-set3-q093"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+  "options": [
+   "A) A violent thunderstorm",
+   "B) A catastrophic happening",
+   "C) An apparition",
+   "D) A sudden and entirely unforeseen event"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q094",
+  "copies": [
+   "2021-set3-q094"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+  "options": [
+   "A) To spend extravagantly",
+   "B) To cause commotion",
+   "C) To bring lots of energy in an event",
+   "D) To treat someone indifferently"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q095",
+  "copies": [
+   "2021-set3-q095"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Choose the word that can substitute the given sentence.\nAn act of remembering or telling about past experiences",
+  "options": [
+   "A) Reminiscence",
+   "B) Blockade",
+   "C) Indictment",
+   "D) Vengeance"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q096",
+  "copies": [
+   "2021-set3-q096"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "What can be the suitable title for the given passage?",
+  "options": [
+   "A) Mind the gap: On Gender gap",
+   "B) India’s Rank",
+   "C) Prevailing Inequality in India",
+   "D) Economic Gender Gap"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q097",
+  "copies": [
+   "2021-set3-q097"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not one of the key parameters to measure the extent of gender based gap?",
+  "options": [
+   "A) Educational attainment",
+   "B) Political empowerment",
+   "C) Economic participation",
+   "D) Labour force"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q098",
+  "copies": [
+   "2021-set3-q098"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statements is/are not correct as per the given passage?\nI. The participation of women in the labour force is lowest in the whole world.\nII. In India, female income is only one-fifth of female income.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q099",
+  "copies": [
+   "2021-set3-q099"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "Identify the nearby antonym of the word ‘Alarming’?",
+  "options": [
+   "A) Dread",
+   "B) Ghastly",
+   "C) Exonerate",
+   "D) Unwary"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q100",
+  "copies": [
+   "2021-set3-q100"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "English Language",
+  "language": "en",
+  "passage": null,
+  "text": "In what context, the word ‘precarious’ is used in the passage?",
+  "options": [
+   "A) The condition of women in India is at a risk.",
+   "B) The condition of women in less important parts of India is dangerous.",
+   "C) The role of women in India is in jeopardy.",
+   "D) Women conditions in larger part of India is balanced.\nQuestion Id : 54062617612 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension\nQuestions : No\nQuestion Numbers : (96 to 100)\nRead the following information carefully and answer the given questions.\nAssessing women’s access to equal opportunity and resources against the access that men have would be a scientific way of evaluating a nation’s\ncommitment to the advancement of its citizens. But going by the World Economic Forum’s Global Gender Gap Index 2020, released last week,\nquestions can easily be raised about whether this government is doing the right thing by the country’s women. India has dropped four points from\n2018, to take the 112th rank on the Index. The Index measures the extent of gender-based gaps on four key parameters — economic participation\nand opportunity, educational attainment, health and survival, and political empowerment. Notably, it measures gender-based gaps in access to\nresources and opportunities in countries, rather than the actual levels of the available resources and opportunities. Despite a small score\nimprovement, India has lost four positions as some countries ranked lower than India have shown better improvement. The country has\nreportedly closed two-thirds of its overall gender gap, with a score of 66.8 percent, but the report notes with concern that the condition of women\nin large fringes of Indian society is ‘precarious’. Of significant concern is the economic gender gap, with a score of 35.4 percent, at the 149th\nplace, among 153 countries, and down seven places since the previous edition, indicating only a third of the gap has been bridged. The\nparticipation of women in the labour force is also among the lowest in the world, and the female estimated earned income is only one-fifth of\nmale income. An alarming statistic is India’s position (150th rank) on the very bottom of the Health and Survival subindex, determined largely by\nthe skewed sex ratio at birth, violence, forced marriage and discrimination in access to health. It is on the educational attainment (112th rank) and\npolitical empowerment (18th rank) fronts that the relatively good news is buried.\nSub questions"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q101",
+  "copies": [
+   "2021-set3-q101"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a shortcut key to justify paragraph alignment in MS-Word?",
+  "options": [
+   "A) Ctrl + J",
+   "B) Ctrl + I",
+   "C) Ctrl + S",
+   "D) Ctrl + Y"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q102",
+  "copies": [
+   "2021-set3-q102"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the function of Ctrl + T in MS Word?",
+  "options": [
+   "A) Undo last action",
+   "B) Hanging indent",
+   "C) Redo the last action",
+   "D) Justify paragraph alignment"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q103",
+  "copies": [
+   "2021-set3-q103"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Perverse Software is also known as ______.",
+  "options": [
+   "A) utility software",
+   "B) application software",
+   "C) diagnostic software",
+   "D) malicious software"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q104",
+  "copies": [
+   "2021-set3-q104"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is the feature(s) of High level programming languages?\nI. Portability\nII. Easy debugging",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q105",
+  "copies": [
+   "2021-set3-q105"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are the key feature(s) of cloud computing?\nI. Scalability\nII. Self service\nIII. Pay-per-use",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q106",
+  "copies": [
+   "2021-set3-q106"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the open-source software(s)?\nI. PHP\nII. Apache",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q107",
+  "copies": [
+   "2021-set3-q107"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true about binary search algorithm?\nI. It is implemented on sorted array.\nII. One must have direct access to the middle element in any sub-list.\nIII. It is implemented on sorted linked list.",
+  "options": [
+   "A) II and III",
+   "B) I and III",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q108",
+  "copies": [
+   "2021-set3-q108"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "2 Dimensional array (Matrices) with relatively high proportion of zero entries are called ______ while with low proportion of zero entries are\ncalled ______.",
+  "options": [
+   "A) Regular Matrix; Non-Regular Matrix",
+   "B) Sparse Matrix; Dense Matrix",
+   "C) Transpose Matrix; Inverse Matrix",
+   "D) Square Matrix; Dense Matrix"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q109",
+  "copies": [
+   "2021-set3-q109"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which one is the reserved word in C language?",
+  "options": [
+   "A) automatic",
+   "B) integer",
+   "C) Constant",
+   "D) Volatile"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

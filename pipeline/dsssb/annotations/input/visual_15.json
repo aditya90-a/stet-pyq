@@ -1,0 +1,527 @@
+[
+ {
+  "id": "2023-06-24-s2-q143",
+  "copies": [
+   "2023-06-24-s2-q143"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are the dimensions of communication?\nDimensions:\ni) Downward\nii) Upward\niii) Horizontal/Lateral\niv) Diagonal\nv) Grapevine\nvi) Circular",
+  "options": [
+   "A) i, i, iii, iv and v",
+   "B) ii, ili and v only",
+   "C) i, iv and iv only",
+   "D) i and ii only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q143.png"
+ },
+ {
+  "id": "2023-06-24-s2-q144",
+  "copies": [
+   "2023-06-24-s2-q144"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following correctly defines coplanar force?",
+  "options": [
+   "A) When the lines of the action of all forces lie in one plane.",
+   "B) Two or more than two forces acting at a point.",
+   "C) A single force, which acting along with other forces, keeps the body in equilibrium.",
+   "D) A single force which produces the same effect as that produced by two or more forces acting on the body."
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q144.png"
+ },
+ {
+  "id": "2023-06-24-s2-q145",
+  "copies": [
+   "2023-06-24-s2-q145"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Physical quantities which have magnitude only are called scalar quantities.\nil) Physical quantities which have both magnitude and direction are called vector quantities.\niil) Iwo equal and opposite parallel forces acting at different points in a body constitute a couple.",
+  "options": [
+   "A) 1-True, ii-Tre, ill-True",
+   "B) i-False, ii-True, iii-True",
+   "C) 1-True, il-True, ill-False",
+   "D) i-True, ii-False, iii-True"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q145.png"
+ },
+ {
+  "id": "2023-06-24-s2-q146",
+  "copies": [
+   "2023-06-24-s2-q146"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following protocols assign(s) dynamic IP?\ni) POP\nii) DHCP\niii) BOOTP\niv) SNMP\nv) ICMP",
+  "options": [
+   "A) i, ii, iii and v only",
+   "B) ii and ili only",
+   "C) ii, iii, iv and v only",
+   "D) i, ii and ili only"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q146.png"
+ },
+ {
+  "id": "2023-06-24-s2-q147",
+  "copies": [
+   "2023-06-24-s2-q147"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following security services protects against repudiation?",
+  "options": [
+   "A) Nonrepudiation",
+   "B) Access control",
+   "C) Authentication",
+   "D) Data integrity"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q147.png"
+ },
+ {
+  "id": "2023-06-24-s2-q148",
+  "copies": [
+   "2023-06-24-s2-q148"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Service Set Identification (SSID) is human readable text string with a maximum length of 2000 bytes.\nii) Service Set Identification (SSID) acts as a single shared identifier between the access points and clients.",
+  "options": [
+   "A) i-True, ii-True",
+   "B) i-False, il-True",
+   "C) i-True, ii-False",
+   "D) i-False, ii-False"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q148.png"
+ },
+ {
+  "id": "2023-06-24-s2-q149",
+  "copies": [
+   "2023-06-24-s2-q149"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the column LIST-I with the column LIST-II.\nLIST-I\nLIST-II\na) Front-End Framework i) React JS\nb) Front-End Asset\nii) Tailwind CSS\nc) Front-End Boilerplate iii) Font Awesome\nd) JavaScript Library:\niv) Reset CSS",
+  "options": [
+   "A) a-ii, b-i, c-iv, d-iii",
+   "B) a-i, b-ii, c-iv, d-iii",
+   "C) a-ii, b-iii, c-iv, d-i",
+   "D) a- iii, b-i, c- iv, d-ii"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q149.png"
+ },
+ {
+  "id": "2023-06-24-s2-q150",
+  "copies": [
+   "2023-06-24-s2-q150"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following languages are object-oriented programming languages?\nLanguages:\ni) LISP\nii) Java\niii) C++\niv) Simula\nv) SOL\nvi) C",
+  "options": [
+   "A) i, il, iii and iv only",
+   "B) ii, ili and iv only",
+   "C) i, ii, iii, iv, v and vi",
+   "D) i and ii only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q150.png"
+ },
+ {
+  "id": "2023-06-24-s2-q151",
+  "copies": [
+   "2023-06-24-s2-q151"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT a valid Software Life Cycle Model?",
+  "options": [
+   "A) JAD",
+   "B) Iterative",
+   "C) Prototype",
+   "D) Circular"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q151.png"
+ },
+ {
+  "id": "2023-06-24-s2-q152",
+  "copies": [
+   "2023-06-24-s2-q152"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the expected output of the following Java code?\npublic class operators\npublic static void main(String[] args)\n{\nint a = 5;\nint b = 7;\nSystem.out.println(\"a&b =\" + (a & b)):",
+  "options": [
+   "A) a&b =5",
+   "B) a&b = 7",
+   "C) a&b = 35",
+   "D) a&b = 2"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q152.png"
+ },
+ {
+  "id": "2023-06-24-s2-q153",
+  "copies": [
+   "2023-06-24-s2-q153"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "is a discipline which deals with the application of economic theory to business management.",
+  "options": [
+   "A) Business economics",
+   "B) Management Information System",
+   "C) Decision Support System",
+   "D) Information processing"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q153.png"
+ },
+ {
+  "id": "2023-06-24-s2-q154",
+  "copies": [
+   "2023-06-24-s2-q154"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of WPF with respect to ASP.NET?",
+  "options": [
+   "A) Windows Presentation Foundation",
+   "B) Windows Presentation Framework",
+   "C) Windows Programming Force",
+   "D) Windows Presentation File"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q154.png"
+ },
+ {
+  "id": "2023-06-24-s2-q155",
+  "copies": [
+   "2023-06-24-s2-q155"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Just-In-Time compiler (JIT) is a part of Common Language Runtime (CLR).\nil) NEI Framework is part of the .NET platform, a collection of technologies for building apps for Linux, macOs,\nWindows, iOs, Android.\nil) ASPINET applications are compiled codes, written using the extensible and reusable components or objects present\nin .Net framework.",
+  "options": [
+   "A) 1-True, il-True, ill-True",
+   "B) i-False, ii-True, iii-True",
+   "C) 1-True, il-False, ili-True",
+   "D) i-False, ii-False, ili-True"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q155.png"
+ },
+ {
+  "id": "2023-06-24-s2-q156",
+  "copies": [
+   "2023-06-24-s2-q156"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT a key driver of e-business?",
+  "options": [
+   "A) Commercial benefits",
+   "B) Skilled and committed workforce",
+   "C) Requirements of customers and suppliers",
+   "D) Supplementary workforce"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q156.png"
+ },
+ {
+  "id": "2023-06-24-s2-q157",
+  "copies": [
+   "2023-06-24-s2-q157"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are management information system resources?\nResources:\ni) Hardware ii) Software iii) People iv) Data",
+  "options": [
+   "A) i, ii, iii and iv",
+   "B) ii, ili and iv only",
+   "C) ili and iv only",
+   "D) i and ii only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q157.png"
+ },
+ {
+  "id": "2023-06-24-s2-q158",
+  "copies": [
+   "2023-06-24-s2-q158"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulmess of the following statements?\ni) Clipping process determines each element into the visible and invisible portion. The visible portion is selected. Al\ninvisible portion is discarded.\ni) Clipping cam be applied through hardware as well as software.\nini) Point clipping, area clipping and text clipping are the types of elipping.",
+  "options": [
+   "A) 1-True, il-True, ill-False",
+   "B) 1-True, il-True, ill-True",
+   "C) 1-True, il-False, ili-True",
+   "D) i-False, ii-False, iii-False"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q158.png"
+ },
+ {
+  "id": "2023-06-24-s2-q159",
+  "copies": [
+   "2023-06-24-s2-q159"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "geometric representation of physical object.\nSolid modeling is based on\nand",
+  "options": [
+   "A) complete; valid; unambiguous",
+   "B) complete; valid; varying",
+   "C) incomplete; valid; unambiguous",
+   "D) complete; valid; undefined"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q159.png"
+ },
+ {
+  "id": "2023-06-24-s2-q160",
+  "copies": [
+   "2023-06-24-s2-q160"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the expected output of the following Python code?\nprint(\" nDictionary Iteration\")\nd= dictO\nd''Imn']= 123\ndl'abc'l = 345\nfor i in d :\nprint(*%s %d\" %(i, d[i]))",
+  "options": [
+   "A) Dictionary Iteration\nImn 123\nabc 345",
+   "B) Dictionary Iteration'\n123 Imn\nabc 345",
+   "C) Dictionary Iteration'\n123 Imn\n345 abc",
+   "D) Dictionary Iteration'\nImn 345\nabc 123"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q160.png"
+ },
+ {
+  "id": "2023-06-24-s2-q161",
+  "copies": [
+   "2023-06-24-s2-q161"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Find the rank of the given matrix.\n5 67\n4\n[-1\n2",
+  "options": [
+   "A) ",
+   "B) 6",
+   "C) 9",
+   "D) 4"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q161.png"
+ },
+ {
+  "id": "2023-06-24-s2-q162",
+  "copies": [
+   "2023-06-24-s2-q162"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following input devices is used to detect orientation and angular velocity?",
+  "options": [
+   "A) Light pen",
+   "B) Gyroscope",
+   "C) Magnetometer",
+   "D) Proximity sensor"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q162.png"
+ },
+ {
+  "id": "2023-06-24-s2-q163",
+  "copies": [
+   "2023-06-24-s2-q163"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) A compiler translates the entire source code lime by line.\nii) Computer architecture refers to those attributes of a system visible to a programmer.\n1l) The Reduced Instruction Set Architecture (RISC) computer orgamisation reduces the cycles per instruction at the cost\nof the number of instructions per program to increase the CPU performance.\niv) All the arithmetic and logical processing is performed by the Arithmetic Logic Unit under the supervision of a\ncontrol unit.",
+  "options": [
+   "A) 1-True, ii-True, ii-True, iv-True",
+   "B) 1-False, ii-True, iii-True, iv-True",
+   "C) 1-True, ii-False, ili-True, iv-True",
+   "D) i-False, li-False, ili-True, iv-False"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q163.png"
+ },
+ {
+  "id": "2023-06-24-s2-q164",
+  "copies": [
+   "2023-06-24-s2-q164"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A stack is a liner data structure in which insertion and deletion of elements are done at only one end, which is known as\nthe top of the stack. Stack is called a last-in, first-out (LIFO) structure because the last element which is added to the\nstack is the first element which is deleted from the stack.\nTop\nM\nBottom\nRead the above paragraph and answer the following.\nWhich of the following items will be at the top in the stack after removing three items?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) N",
+   "D) "
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q164.png"
+ },
+ {
+  "id": "2023-06-24-s2-q165",
+  "copies": [
+   "2023-06-24-s2-q165"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfuluess of the following statements?\ni) The 'communications', 'Schedules' and 'Task lists' are key functionality aspects of project management software to\nguide you in your decision.\ni) A data warehouse is a relational database that is designed for query and analysis rather than transaction processing.\ni) Software integration option is one of the criteria for selecting project mana gement software.",
+  "options": [
+   "A) 1-True, il-True, ill-True",
+   "B) i-False, ii-True, iii-True",
+   "C) 1-True, il-True, ill-False",
+   "D) i-True, ii-False, iii-True"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q165.png"
+ },
+ {
+  "id": "2023-06-24-s2-q166",
+  "copies": [
+   "2023-06-24-s2-q166"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following languages is referred to as a database language?",
+  "options": [
+   "A) IOS",
+   "B) VI++",
+   "C) HTML",
+   "D) Python"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q166.png"
+ },
+ {
+  "id": "2023-06-24-s2-q167",
+  "copies": [
+   "2023-06-24-s2-q167"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following devices works at the network layer of the ISO-OSI reference model?",
+  "options": [
+   "A) Hub",
+   "B) Router",
+   "C) Amplifier",
+   "D) Repeater"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q167.png"
+ }
+]

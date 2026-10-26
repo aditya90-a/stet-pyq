@@ -1,0 +1,418 @@
+{
+ "slug": "current-affairs-sports",
+ "subject": "General Awareness",
+ "topic": "Current Affairs & Sports",
+ "titleHi": "समसामयिकी एवं खेल",
+ "summary": "Current affairs questions in DSSSB ask about schemes, international organisations, sports events, awards, science missions and reports/indices, usually from the 12-18 months before the exam. These notes give a preparation method plus the stable background facts (headquarters, report publishers, important days, sports trophies and terms) that recur every year; any recent event, rank or winner must be checked in a current source before the exam.",
+ "sections": [
+  {
+   "heading": "How to prepare current affairs for DSSSB",
+   "level": "basic",
+   "subtopic": "National events & schemes",
+   "body": "Current affairs is the only part of General Awareness whose answers keep changing, so treat it in two layers:\n- **Static layer (this note)**: facts that do not change from year to year, such as where an organisation is headquartered, who publishes a report, which trophy belongs to which sport, which day is observed on which date.\n- **Dynamic layer (your own notes)**: events, winners, ranks, appointments and summits from roughly the last 12-18 months before your exam date.\n\n**Method that works**\n- Use one monthly compilation and one government source (press releases of ministries, official scheme pages). Do not read five sources once; read one source five times.\n- For each news item write one line in the format **What - Who - Where - When - Linked static fact**. Example format: \"Summit X held in city Y; organisation HQ is Z\".\n- Link every news item to the static layer. A question on a new report almost always has options that test the publisher (WEF vs IMF vs World Bank).\n- Revise weekly; take 20-question quizzes from the last 6 months.\n\n**Important:** previous papers asked things like a medal won at a particular championship, a repo rate announced in a given month, or the number of Padma awardees in a year. Such answers are tied to a date. Never memorise them from an old book; verify the latest values in a current source.",
+   "table": {
+    "columns": [
+     "Question type seen in DSSSB",
+     "What to store"
+    ],
+    "rows": [
+     [
+      "Medal winners of a recent championship",
+      "Dynamic: check latest results"
+     ],
+     [
+      "HQ of an organisation (ILO, IAEA)",
+      "Static: this note"
+     ],
+     [
+      "Publisher of a report (Gender Gap, WEO)",
+      "Static: this note"
+     ],
+     [
+      "Rank of India in an index",
+      "Dynamic: rank changes every edition"
+     ],
+     [
+      "Scheme launched in a year",
+      "Static once launched; details may be revised"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Flagship national schemes: stable facts",
+   "level": "basic",
+   "subtopic": "National events & schemes",
+   "body": "Scheme questions usually ask the launch year, the target group or the ministry. The facts below are stable; benefit amounts and coverage figures are revised by the government, so check current values.\n- **MGNREGA** (Mahatma Gandhi National Rural Employment Guarantee Act, 2005): legal guarantee of at least **100 days** of wage employment per rural household per year.\n- **Pradhan Mantri Jan Dhan Yojana** (2014): financial inclusion, zero-balance bank accounts.\n- **Swachh Bharat Mission** launched on **2 October 2014** (Gandhi Jayanti).\n- **Make in India** (2014): manufacturing promotion, lion logo.\n- **Beti Bachao Beti Padhao** (2015): launched at Panipat, Haryana; addresses the declining child sex ratio.\n- **Digital India** (2015) and **Smart Cities Mission** (2015).\n- **Startup India** and **Stand-Up India** (2016).\n- **PM Ujjwala Yojana** (2016): LPG connections to women of poor households.\n- **Ayushman Bharat - PM-JAY** (2018): health assurance for poor families.\n- **PM-KISAN** (2019): direct income support to farmer families in three instalments a year.\n- **Jal Jeevan Mission** (2019): tap water connection to every rural household.\n\nTip: when two options look right, think of the ministry that would logically run the scheme (e.g. Ujjwala - Petroleum and Natural Gas; Jal Jeevan - Jal Shakti)."
+  },
+  {
+   "heading": "International organisations and headquarters",
+   "level": "basic",
+   "subtopic": "International events & organisations",
+   "body": "Headquarters questions are the most repeated static current-affairs items. Learn them in clusters by city:\n- **Geneva**: WHO, ILO, WTO, WIPO, ITU, WMO, UNHCR, International Committee of the Red Cross.\n- **New York**: UN headquarters, UNICEF, UNDP, UNFPA.\n- **Washington DC**: IMF, World Bank.\n- **Vienna**: IAEA, OPEC, UNIDO.\n- **Rome**: FAO, IFAD, World Food Programme.\n- **Paris**: UNESCO, OECD.\n- **Nairobi**: UNEP, UN-Habitat.\n- **The Hague**: International Court of Justice, International Criminal Court.\n- **Brussels**: NATO, European Union institutions.\n- **Lausanne**: International Olympic Committee; **Zurich**: FIFA; **Dubai**: ICC (cricket).\n\nRegional groupings around India:\n- **SAARC** (1985): 8 members (Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka); secretariat **Kathmandu**.\n- **BIMSTEC** (1997): Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand; secretariat **Dhaka**.\n- **ASEAN** (1967, Bangkok Declaration): secretariat **Jakarta**. Founding five: Indonesia, Malaysia, Philippines, Singapore, Thailand. Pacific island states such as **Fiji are not members**. Membership has expanded over time, so confirm the current list.\n- **International Solar Alliance**: an India-France initiative; HQ in Gurugram (Haryana), India.\n\nThe UN was founded on **24 October 1945** (UN Day). Its six principal organs are the General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat; the Security Council has 5 permanent members (USA, UK, France, Russia, China) with veto power.",
+   "table": {
+    "columns": [
+     "Organisation",
+     "Headquarters"
+    ],
+    "rows": [
+     [
+      "WHO / ILO / WTO",
+      "Geneva"
+     ],
+     [
+      "IMF / World Bank",
+      "Washington DC"
+     ],
+     [
+      "IAEA / OPEC",
+      "Vienna"
+     ],
+     [
+      "UNESCO",
+      "Paris"
+     ],
+     [
+      "FAO",
+      "Rome"
+     ],
+     [
+      "UNEP",
+      "Nairobi"
+     ],
+     [
+      "ICJ",
+      "The Hague"
+     ],
+     [
+      "Asian Development Bank",
+      "Manila (Mandaluyong), Philippines"
+     ],
+     [
+      "New Development Bank (BRICS)",
+      "Shanghai"
+     ],
+     [
+      "AIIB",
+      "Beijing"
+     ],
+     [
+      "Amnesty International",
+      "London"
+     ],
+     [
+      "Interpol",
+      "Lyon"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Sports: players, trophies and terms",
+   "level": "intermediate",
+   "subtopic": "Sports events & awards",
+   "body": "Sports questions mix a dynamic part (recent winners, medal tallies) with a static part that you can learn once.\n\n**Grand Slam tennis surfaces**: Australian Open and US Open - hard court; French Open (Roland Garros) - clay; Wimbledon - grass.\n\n**Team trophies**: Thomas Cup (men's badminton), Uber Cup (women's badminton), Sudirman Cup (mixed badminton), Davis Cup (men's tennis), Billie Jean King Cup (women's tennis, formerly Fed Cup), Ryder Cup (golf, Europe vs USA), Stanley Cup (ice hockey).\n\n**Indian domestic trophies**: Ranji Trophy, Duleep Trophy, Irani Cup, Vijay Hazare Trophy (cricket); Durand Cup (football, among the oldest football tournaments in Asia), Santosh Trophy (national football championship), Subroto Cup (school football); Beighton Cup (hockey).\n\n**Milestones (stable)**: modern Olympics began in **1896, Athens**; the IOC was founded in 1894 by Pierre de Coubertin. First FIFA World Cup: **1930, Uruguay**, won by Uruguay. First Asian Games: **1951, New Delhi**. India won the men's cricket ODI World Cup in **1983** and **2011**, and the first T20 World Cup in **2007**. India's hockey team has won **8 Olympic gold medals**. **Abhinav Bindra** (10 m air rifle, Beijing 2008) won India's first individual Olympic gold; **Neeraj Chopra** (javelin, Tokyo 2020 Games) won India's first Olympic gold in athletics.\n\n**National sports awards**: Major Dhyan Chand Khel Ratna (highest; renamed in 2021 from Rajiv Gandhi Khel Ratna), Arjuna Award (sportspersons), Dronacharya Award (coaches), Maulana Abul Kalam Azad (MAKA) Trophy (universities). **National Sports Day** is 29 August, Dhyan Chand's birth anniversary.",
+   "table": {
+    "columns": [
+     "Sport",
+     "Players per side on field",
+     "Typical terms"
+    ],
+    "rows": [
+     [
+      "Cricket",
+      "11",
+      "LBW, maiden over, googly, stumping"
+     ],
+     [
+      "Football",
+      "11",
+      "offside, penalty kick, corner, hat-trick"
+     ],
+     [
+      "Hockey",
+      "11",
+      "penalty corner, bully, dribble"
+     ],
+     [
+      "Basketball",
+      "5",
+      "dunk, free throw, rebound"
+     ],
+     [
+      "Volleyball",
+      "6",
+      "spike, block, service"
+     ],
+     [
+      "Kabaddi",
+      "7",
+      "raid, cant, bonus line"
+     ],
+     [
+      "Kho-kho",
+      "9",
+      "chaser, pole dive"
+     ],
+     [
+      "Polo",
+      "4",
+      "chukker, mallet"
+     ],
+     [
+      "Golf",
+      "individual",
+      "birdie, eagle, bogey, tee, caddie"
+     ],
+     [
+      "Chess",
+      "individual",
+      "castling, checkmate, stalemate, gambit"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Science and technology: India's space and research base",
+   "level": "intermediate",
+   "subtopic": "Science & technology news",
+   "body": "News questions on missions are easier when you know the institutional background.\n- **ISRO** was set up in **1969**; headquarters **Bengaluru**. **Vikram Sarabhai** is called the father of the Indian space programme. The first sounding rocket was launched from **Thumba** (Kerala) in 1963.\n- Main launch centre: **Satish Dhawan Space Centre, Sriharikota** (Andhra Pradesh).\n- Launch vehicles: **PSLV** (workhorse, polar and sun-synchronous orbits), **GSLV**, **LVM3** (heaviest, earlier called GSLV Mk III), **SSLV** (small satellites).\n- **Aryabhata** (1975): India's first satellite, launched by a Soviet rocket.\n- **Chandrayaan-1** (2008): its instruments helped confirm water molecules on the Moon.\n- **Mars Orbiter Mission (Mangalyaan)**: launched 2013, reached Mars orbit in 2014; India became the first country to reach Mars orbit in its first attempt. It appears on the back of the Rs 2000 note.\n- **Chandrayaan-3** (2023): soft landing near the lunar south pole; 23 August is observed as **National Space Day**.\n- **Aditya-L1** (2023): India's solar observatory placed around the Sun-Earth Lagrange point L1.\n- **Gaganyaan**: India's human spaceflight programme (check current status before the exam).\n- Other bodies: **DRDO** (1958, New Delhi), **BARC** (Trombay, Mumbai), **CSIR** (New Delhi).\n\nFor any new mission, store: launch vehicle, purpose (lunar, solar, Earth observation, navigation), launch site and one 'first' associated with it."
+  },
+  {
+   "heading": "Reports and indices: who publishes what",
+   "level": "intermediate",
+   "subtopic": "Reports, indices & days",
+   "body": "The publisher of a report is stable; India's rank in it is not. Learn the publisher, and check the rank only from the latest edition. Note the two most-confused pairs: the **World Economic Outlook** is by the **IMF**, while the **World Economic Forum** (an organisation based near Geneva) publishes the **Global Gender Gap**, **Global Competitiveness**, **Global Risks** and **Energy Transition Index** reports. The **World Development Report** is by the **World Bank**.\n\nIndian sources: the **Economic Survey** is prepared by the Ministry of Finance (Chief Economic Adviser) and tabled before the Union Budget; the **Sample Registration System** (birth rate, death rate, infant mortality) is by the **Registrar General of India**; the **India State of Forest Report** is by the **Forest Survey of India** (Dehradun); the **SDG India Index** is by **NITI Aayog**; the **Financial Stability Report** is by the **RBI**; **NIRF** rankings are by the **Ministry of Education**; **Swachh Survekshan** is by the **Ministry of Housing and Urban Affairs**.",
+   "table": {
+    "columns": [
+     "Report / Index",
+     "Publisher"
+    ],
+    "rows": [
+     [
+      "World Economic Outlook",
+      "IMF"
+     ],
+     [
+      "World Development Report",
+      "World Bank"
+     ],
+     [
+      "Global Gender Gap Report",
+      "World Economic Forum"
+     ],
+     [
+      "Human Development Report (HDI)",
+      "UNDP"
+     ],
+     [
+      "Global Innovation Index",
+      "WIPO"
+     ],
+     [
+      "World Happiness Report",
+      "UN Sustainable Development Solutions Network (with partners)"
+     ],
+     [
+      "Global Hunger Index",
+      "Concern Worldwide and Welthungerhilfe"
+     ],
+     [
+      "Corruption Perceptions Index",
+      "Transparency International"
+     ],
+     [
+      "World Press Freedom Index",
+      "Reporters Without Borders (RSF)"
+     ],
+     [
+      "Global Peace Index",
+      "Institute for Economics and Peace"
+     ],
+     [
+      "Democracy Index",
+      "Economist Intelligence Unit"
+     ],
+     [
+      "State of World Population",
+      "UNFPA"
+     ],
+     [
+      "World Investment Report",
+      "UNCTAD"
+     ],
+     [
+      "World Energy Outlook",
+      "International Energy Agency"
+     ],
+     [
+      "Living Planet Report",
+      "WWF"
+     ],
+     [
+      "Emissions Gap Report",
+      "UNEP"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Important national and international days",
+   "level": "basic",
+   "subtopic": "Reports, indices & days",
+   "body": "Dates of observance are fixed and are asked directly or as 'whose birth anniversary is celebrated as...'. The theme of a day changes every year, so check the current theme separately.\n- **12 Jan** National Youth Day (Swami Vivekananda); **24 Jan** National Girl Child Day; **25 Jan** National Voters' Day (Election Commission founded 1950).\n- **21 Feb** International Mother Language Day; **28 Feb** National Science Day (discovery of the Raman effect, 1928).\n- **8 Mar** International Women's Day; **22 Mar** World Water Day; **24 Mar** World TB Day.\n- **7 Apr** World Health Day (WHO founding, 1948); **22 Apr** Earth Day.\n- **11 May** National Technology Day (Pokhran-II, 1998); **31 May** World No Tobacco Day.\n- **5 Jun** World Environment Day; **21 Jun** International Day of Yoga.\n- **1 Jul** National Doctors' Day (Dr B.C. Roy); **11 Jul** World Population Day.\n- **29 Aug** National Sports Day (Major Dhyan Chand).\n- **5 Sep** Teachers' Day (Dr S. Radhakrishnan); **8 Sep** International Literacy Day; **14 Sep** Hindi Diwas; **15 Sep** Engineers' Day (M. Visvesvaraya); **16 Sep** World Ozone Day.\n- **2 Oct** Gandhi Jayanti and International Day of Non-Violence; **16 Oct** World Food Day; **24 Oct** UN Day; **31 Oct** National Unity Day (Sardar Patel).\n- **11 Nov** National Education Day (Maulana Abul Kalam Azad); **14 Nov** Children's Day; **26 Nov** Constitution Day.\n- **1 Dec** World AIDS Day; **10 Dec** Human Rights Day; **22 Dec** National Mathematics Day (Srinivasa Ramanujan); **23 Dec** Kisan Diwas (Chaudhary Charan Singh)."
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "Practice: Which organisation publishes the World Economic Outlook? Options: (A) World Economic Forum (B) IMF (C) World Bank (D) OECD",
+   "solution": "Step 1: Do not match on the words 'World Economic'. The World Economic Forum publishes the Global Gender Gap, Global Competitiveness and Global Risks reports, not the WEO.\nStep 2: The World Bank's flagship is the World Development Report.\nStep 3: The World Economic Outlook (with the Global Financial Stability Report) is the IMF's flagship.\nAnswer: **(B) IMF**."
+  },
+  {
+   "problem": "Practice: Which pair is correctly matched? I. IAEA - Vienna II. UNEP - Geneva",
+   "solution": "Step 1: Recall the Vienna cluster: IAEA, OPEC, UNIDO. So I is correct.\nStep 2: UNEP is one of the few UN bodies headquartered in Africa, at Nairobi (with UN-Habitat). So II is wrong.\nAnswer: **Only I**."
+  },
+  {
+   "problem": "Practice: Which country is NOT a member of BIMSTEC? (A) Thailand (B) Myanmar (C) Pakistan (D) Bhutan",
+   "solution": "Step 1: BIMSTEC links South Asia with South-East Asia around the Bay of Bengal: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand.\nStep 2: Pakistan is in SAARC but has no Bay of Bengal coast and is not in BIMSTEC.\nAnswer: **(C) Pakistan**."
+  },
+  {
+   "problem": "Practice: Which pair of trophy and sport is correct? I. Thomas Cup - Badminton II. Durand Cup - Hockey",
+   "solution": "Step 1: Thomas Cup is the men's world team badminton championship (Uber Cup for women). I is correct.\nStep 2: Durand Cup is a football tournament (one of Asia's oldest). Beighton Cup is the hockey one. II is wrong.\nAnswer: **Only I**."
+  }
+ ],
+ "pitfalls": [
+  "Using an old guidebook for dynamic facts: ranks, winners, repo rate, office holders and medal counts change; always verify in a current source.",
+  "Confusing World Economic Forum reports (Gender Gap, Competitiveness) with IMF's World Economic Outlook.",
+  "Placing UNEP in Geneva; it is in Nairobi.",
+  "Placing the IMF/World Bank in New York; both are in Washington DC.",
+  "Mixing up Thomas Cup (men) and Uber Cup (women) in badminton.",
+  "Thinking Fiji or Sri Lanka is in ASEAN; neither is.",
+  "Remembering a day's theme from a previous year; themes change annually.",
+  "Treating the Khel Ratna name before and after 2021 as two different awards; it is the same award, renamed."
+ ],
+ "quickRevision": [
+  "Prepare current affairs in two layers: static facts (learn once) and the last 12-18 months of events (verify).",
+  "Geneva: WHO, ILO, WTO, WIPO, ITU, UNHCR.",
+  "Washington DC: IMF and World Bank; Vienna: IAEA, OPEC; Rome: FAO; Paris: UNESCO; Nairobi: UNEP.",
+  "SAARC secretariat Kathmandu; BIMSTEC Dhaka; ASEAN Jakarta.",
+  "UN Day 24 October; UN founded 1945.",
+  "World Economic Outlook - IMF; Global Gender Gap - World Economic Forum; HDI - UNDP.",
+  "Global Innovation Index - WIPO; Corruption Perceptions Index - Transparency International.",
+  "Wimbledon on grass, French Open on clay.",
+  "Thomas Cup / Uber Cup - badminton; Davis Cup - tennis; Durand Cup - football.",
+  "First modern Olympics 1896 Athens; first FIFA World Cup 1930 Uruguay.",
+  "ISRO 1969, HQ Bengaluru; launch site Sriharikota.",
+  "National Science Day 28 Feb; National Sports Day 29 Aug; Teachers' Day 5 Sep.",
+  "MGNREGA guarantees 100 days of wage employment."
+ ],
+ "flashcards": [
+  {
+   "front": "HQ of the International Labour Organisation?",
+   "back": "Geneva"
+  },
+  {
+   "front": "HQ of the IAEA?",
+   "back": "Vienna"
+  },
+  {
+   "front": "HQ of UNESCO?",
+   "back": "Paris"
+  },
+  {
+   "front": "HQ of UNEP?",
+   "back": "Nairobi"
+  },
+  {
+   "front": "Who publishes the World Economic Outlook?",
+   "back": "International Monetary Fund (IMF)"
+  },
+  {
+   "front": "Who publishes the Global Gender Gap Report?",
+   "back": "World Economic Forum"
+  },
+  {
+   "front": "Who publishes the Human Development Index?",
+   "back": "UNDP"
+  },
+  {
+   "front": "Thomas Cup is associated with which sport?",
+   "back": "Badminton (men's team)"
+  },
+  {
+   "front": "Surface of Wimbledon?",
+   "back": "Grass"
+  },
+  {
+   "front": "Players per side in kabaddi?",
+   "back": "7"
+  },
+  {
+   "front": "Where were the first modern Olympics held?",
+   "back": "Athens, 1896"
+  },
+  {
+   "front": "Who won the first FIFA World Cup (1930)?",
+   "back": "Uruguay (also the host)"
+  },
+  {
+   "front": "SAARC secretariat?",
+   "back": "Kathmandu"
+  },
+  {
+   "front": "National Science Day commemorates?",
+   "back": "Discovery of the Raman effect (28 Feb)"
+  },
+  {
+   "front": "Award for sports coaches in India?",
+   "back": "Dronacharya Award"
+  },
+  {
+   "front": "ISRO headquarters?",
+   "back": "Bengaluru"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Current affairs",
+   "hi": "समसामयिकी"
+  },
+  {
+   "en": "Headquarters",
+   "hi": "मुख्यालय"
+  },
+  {
+   "en": "Scheme",
+   "hi": "योजना"
+  },
+  {
+   "en": "International organisation",
+   "hi": "अंतरराष्ट्रीय संगठन"
+  },
+  {
+   "en": "Index",
+   "hi": "सूचकांक"
+  },
+  {
+   "en": "Report",
+   "hi": "प्रतिवेदन / रिपोर्ट"
+  },
+  {
+   "en": "Trophy",
+   "hi": "ट्रॉफी / पुरस्कार-चिह्न"
+  },
+  {
+   "en": "Satellite",
+   "hi": "उपग्रह"
+  },
+  {
+   "en": "Launch vehicle",
+   "hi": "प्रक्षेपण यान"
+  },
+  {
+   "en": "Day of observance",
+   "hi": "दिवस"
+  }
+ ]
+}

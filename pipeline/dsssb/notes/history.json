@@ -1,0 +1,493 @@
+{
+ "slug": "history",
+ "subject": "General Awareness",
+ "topic": "History",
+ "titleHi": "इतिहास",
+ "summary": "Indian history from the Harappan civilisation through the Vedic age, Buddhism and Jainism, the Mauryas and Guptas, the Delhi Sultanate and Mughals, to British rule and the freedom struggle, plus authors of classical and modern works. DSSSB asks one-line factual questions (years of battles and movements, founders, places) and 'which pair is correct' items, so chronology and pairing matter most.",
+ "sections": [
+  {
+   "heading": "Harappan (Indus Valley) civilisation",
+   "level": "basic",
+   "subtopic": "Ancient India",
+   "body": "The Harappan civilisation was a Bronze Age urban culture; its mature phase is usually dated to about **2600-1900 BCE**. **Harappa** (on the Ravi) was excavated by **Daya Ram Sahni** in 1921 and **Mohenjo-daro** (on the Indus) by **R.D. Banerji** in 1922; both are now in Pakistan.\n\nKey features: planned towns with grid streets, covered drains and baked bricks of standard proportion; a citadel and a lower town; seals with an undeciphered script (written mostly right to left); trade with Mesopotamia. Harappans grew wheat, barley and cotton; the earliest cotton evidence in the subcontinent comes from **Mehrgarh** (a Neolithic site in Baluchistan that predates Harappa).",
+   "table": {
+    "columns": [
+     "Site",
+     "Present location",
+     "Known for"
+    ],
+    "rows": [
+     [
+      "Mohenjo-daro",
+      "Sindh (Pakistan)",
+      "Great Bath, granary, bronze dancing girl, 'priest-king'"
+     ],
+     [
+      "Harappa",
+      "Punjab (Pakistan)",
+      "First site excavated; granaries"
+     ],
+     [
+      "Lothal",
+      "Gujarat",
+      "Dockyard, bead-making"
+     ],
+     [
+      "Kalibangan",
+      "Rajasthan",
+      "Ploughed field, fire altars"
+     ],
+     [
+      "Dholavira",
+      "Gujarat (Kutch)",
+      "Water reservoirs, large signboard; UNESCO site"
+     ],
+     [
+      "Rakhigarhi",
+      "Haryana",
+      "One of the largest Harappan sites"
+     ],
+     [
+      "Chanhudaro",
+      "Sindh (Pakistan)",
+      "Bead-making; no citadel"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Vedic age, Buddhism, Jainism and the Mahajanapadas",
+   "level": "basic",
+   "subtopic": "Ancient India",
+   "body": "The **Rigveda** is the oldest Veda: 10 mandalas, a little over 1,000 hymns; the Gayatri mantra is in it. **Samaveda** is linked with chanting and music, **Yajurveda** with sacrificial formulae, **Atharvaveda** with charms and medicine. 'Satyameva Jayate' is from the **Mundaka Upanishad**.\n\n**Buddhism**: Gautama Buddha was born at **Lumbini** (Nepal), attained enlightenment at **Bodh Gaya**, gave his first sermon at **Sarnath** (Dharmachakra Pravartana) and died at **Kushinagar**. Buddhist councils: 1st Rajagriha (under Ajatashatru), 2nd Vaishali, 3rd Pataliputra (under Ashoka), 4th Kashmir (under Kanishka). Canon: Tripitaka (Vinaya, Sutta, Abhidhamma).\n\n**Jainism**: Mahavira was the 24th tirthankara (Rishabhanatha the 1st, Parshvanatha the 23rd); born near Vaishali, died at Pavapuri. Triratna: right faith, right knowledge, right conduct.\n\nOf the **16 Mahajanapadas**, **Magadha** (capital Rajagriha, later Pataliputra) became dominant under the Haryanka (Bimbisara, Ajatashatru), Shishunaga and Nanda dynasties, helped by the Ganga and its tributaries and by iron deposits."
+  },
+  {
+   "heading": "Mauryas, Guptas and the South",
+   "level": "intermediate",
+   "subtopic": "Ancient India",
+   "body": "**Mauryas**: Chandragupta Maurya founded the empire (c. 322 BCE) with **Chanakya (Kautilya)**, author of the **Arthashastra**. **Megasthenes**, envoy of Seleucus, wrote **Indica**. **Ashoka** turned to dhamma after the **Kalinga war** (c. 261 BCE); most of his edicts are in Prakrit in the **Brahmi** script (Kharoshthi in the north-west; Greek and Aramaic in Afghanistan) and were first deciphered by **James Prinsep** (1837). The Lion Capital of Sarnath is India's national emblem.\n\n**Kushans**: Kanishka; the **Saka era** begins in **78 CE** (India's national calendar uses it).\n\n**Guptas** (from c. 320 CE): Samudragupta's conquests are recorded in the **Allahabad (Prayag) pillar** inscription composed by **Harisena**; V.A. Smith called him the 'Napoleon of India'. Chandragupta II (Vikramaditya) was visited by the Chinese pilgrim **Fa-Hien**. Scholars of the age: **Aryabhata** (Aryabhatiya), **Varahamihira** (Brihat Samhita), **Kalidasa**. Nalanda was founded under Kumaragupta I.\n\n**Harshavardhana** (7th century): visited by **Hiuen Tsang (Xuanzang)**; his court poet **Banabhatta** wrote Harshacharita.\n\n**South**: Sangam literature (Tamil); the Pallavas built the Mahabalipuram monuments; **Rajaraja I (Chola)** built the **Brihadeshwara temple, Thanjavur**; Rajendra I led a naval expedition to South-East Asia."
+  },
+  {
+   "heading": "Delhi Sultanate and regional kingdoms",
+   "level": "intermediate",
+   "subtopic": "Medieval India",
+   "body": "The Delhi Sultanate (**1206-1526**) had five dynasties in order: **Slave (Mamluk) - Khalji - Tughlaq - Sayyid - Lodi** (memory aid: 'SKTSL').\n- **Qutb-ud-din Aibak** began the Qutb Minar; **Iltutmish** added storeys to it and introduced the silver tanka and copper jital. **Razia Sultan** was the only woman to rule from Delhi in the Sultanate. **Sultan Ghari** in Delhi, built by Iltutmish for his son Nasiruddin Mahmud, is regarded as the first Islamic mausoleum in India.\n- **Alauddin Khalji**: market control and price regulation; standing army.\n- **Muhammad bin Tughlaq**: shifted the capital to Daulatabad and issued token currency; **Firoz Shah Tughlaq** built canals and new towns.\n- **Bahlul Lodi** founded the Lodi dynasty (1451); **Sikandar Lodi** founded Agra; **Ibrahim Lodi** lost to Babur in 1526.\n\n**Vijayanagara** was founded in **1336** by **Harihara and Bukka**; capital Hampi. **Krishnadevaraya** (Tuluva dynasty) wrote the Telugu work **Amuktamalyada**. The empire was defeated at the **Battle of Talikota (1565)**.\n\n**Marathas**: **Shivaji** was crowned at **Raigad in 1674**; his council of eight ministers was the **Ashtapradhan**."
+  },
+  {
+   "heading": "The Mughal empire and key battles",
+   "level": "intermediate",
+   "subtopic": "Medieval India",
+   "body": "**Babur** was the first Mughal emperor. **Humayun** lost to **Sher Shah Suri** at Chausa (1539) and Kannauj (1540). Sher Shah issued the silver **rupiya** and rebuilt the road later called the Grand Trunk Road; Humayun regained Delhi in 1555. **Akbar** introduced the **mansabdari** system, built Fatehpur Sikri (Buland Darwaza) and promoted Din-i-Ilahi (1582). **Jahangir** received the English envoy **Sir Thomas Roe**. **Shah Jahan** built the **Taj Mahal**, the Red Fort and Jama Masjid in Delhi. **Aurangzeb** re-imposed jizya (1679) and died in 1707.\n\n**Humayun's Tomb (Delhi)** was built under his widow Bega Begum; **Bibi ka Maqbara** (Aurangabad) is the tomb of Aurangzeb's wife.\n\n**Sikh history**: Guru Nanak was the first Guru; Guru Arjan Dev compiled the **Adi Granth (1604)**; **Guru Gobind Singh**, the tenth Guru, founded the **Khalsa in 1699** at Anandpur Sahib (Takht Sri Keshgarh Sahib).",
+   "table": {
+    "columns": [
+     "Battle",
+     "Year",
+     "Result"
+    ],
+    "rows": [
+     [
+      "First Panipat",
+      "1526",
+      "Babur defeated Ibrahim Lodi"
+     ],
+     [
+      "Khanwa",
+      "1527",
+      "Babur defeated Rana Sanga"
+     ],
+     [
+      "Chausa",
+      "1539",
+      "Sher Shah defeated Humayun"
+     ],
+     [
+      "Kannauj (Bilgram)",
+      "1540",
+      "Sher Shah defeated Humayun"
+     ],
+     [
+      "Second Panipat",
+      "1556",
+      "Akbar's army (Bairam Khan) defeated Hemu"
+     ],
+     [
+      "Haldighati",
+      "1576",
+      "Mughal army vs Maharana Pratap"
+     ],
+     [
+      "Third Panipat",
+      "1761",
+      "Ahmad Shah Abdali defeated the Marathas"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Company rule and the Revolt of 1857",
+   "level": "intermediate",
+   "subtopic": "Modern India & freedom struggle",
+   "body": "- **Battle of Plassey (1757)**: Robert Clive defeated Siraj-ud-Daulah.\n- **Battle of Buxar (1764)**: the Company defeated Mir Qasim, Shuja-ud-Daulah and Shah Alam II; the **Treaty of Allahabad (1765)** gave the Company the **Diwani** of Bengal, Bihar and Orissa.\n- **Anglo-Mysore wars**: Tipu Sultan died defending **Seringapatam in 1799** (Fourth war).\n- **Permanent Settlement (1793)**: Cornwallis. **Subsidiary Alliance (1798)**: Wellesley.\n- **Doctrine of Lapse**: **Dalhousie** (Satara, Jhansi, Nagpur annexed). **Awadh (1856)** was annexed on the ground of misgovernance, not lapse.\n- **Social laws**: Sati abolished 1829 (Bentinck, with Raja Ram Mohan Roy's campaign); **Hindu Widows' Remarriage Act 1856** (Ishwar Chandra Vidyasagar's campaign); **Child Marriage Restraint (Sarda) Act 1929**.\n- **Revolt of 1857** began at **Meerut on 10 May 1857**. Leaders: Bahadur Shah Zafar (Delhi), Nana Saheb and Tantia Tope (Kanpur), Begum Hazrat Mahal (Lucknow), Rani Lakshmibai (Jhansi), Kunwar Singh (Jagdishpur, Bihar). The **Government of India Act 1858** transferred power from the Company to the Crown.\n\n**Reform movements**: Brahmo Samaj (Raja Ram Mohan Roy, 1828), Young Bengal (**Henry Derozio**), Prarthana Samaj (1867), Arya Samaj (**Dayanand Saraswati, 1875**), Satyashodhak Samaj (Jyotiba Phule, 1873), Singh Sabha (Amritsar, 1873), Mohammedan Anglo-Oriental College at Aligarh (**Sayyid Ahmad Khan, 1875**), Ramakrishna Mission (Vivekananda, 1897)."
+  },
+  {
+   "heading": "National movement: chronology",
+   "level": "advanced",
+   "subtopic": "Modern India & freedom struggle",
+   "body": "Learn the events as one ordered chain; most questions are 'which year' or 'which pair is correct'. The **INC** was founded in **Bombay** in December 1885; **A.O. Hume** was the founder and **W.C. Bonnerjee** the first president. The moderates' economic critique was Dadabhai Naoroji's **drain theory**. **Gandhi** returned from South Africa in January 1915; his first three Indian satyagrahas were **Champaran (1917)**, the **Ahmedabad mill strike (1918)** and **Kheda (1918)**.",
+   "table": {
+    "columns": [
+     "Year",
+     "Event"
+    ],
+    "rows": [
+     [
+      "1885",
+      "INC founded, Bombay"
+     ],
+     [
+      "1905",
+      "Partition of Bengal by Lord Curzon; Swadeshi movement"
+     ],
+     [
+      "1906",
+      "Muslim League founded at Dacca"
+     ],
+     [
+      "1907",
+      "Surat split of Congress"
+     ],
+     [
+      "1909",
+      "Morley-Minto reforms (separate electorates)"
+     ],
+     [
+      "1911",
+      "Partition of Bengal annulled; capital to shift to Delhi"
+     ],
+     [
+      "1916",
+      "Lucknow Pact; Home Rule Leagues (Tilak, Annie Besant)"
+     ],
+     [
+      "1917",
+      "Champaran satyagraha"
+     ],
+     [
+      "1919",
+      "Rowlatt Act; Jallianwala Bagh massacre (13 April)"
+     ],
+     [
+      "1920",
+      "Non-Cooperation and Khilafat movement"
+     ],
+     [
+      "1922",
+      "Chauri Chaura; Non-Cooperation withdrawn"
+     ],
+     [
+      "1928",
+      "Simon Commission boycott; Nehru Report"
+     ],
+     [
+      "1929",
+      "Lahore session: Purna Swaraj resolution"
+     ],
+     [
+      "1930",
+      "Dandi March; Civil Disobedience Movement"
+     ],
+     [
+      "1931",
+      "Gandhi-Irwin Pact; Second Round Table Conference"
+     ],
+     [
+      "1932",
+      "Communal Award; Poona Pact (Gandhi-Ambedkar)"
+     ],
+     [
+      "1935",
+      "Government of India Act"
+     ],
+     [
+      "1942",
+      "Cripps Mission; Quit India ('Do or Die'), 8 August"
+     ],
+     [
+      "1946",
+      "Cabinet Mission"
+     ],
+     [
+      "1947",
+      "Mountbatten Plan (3 June); Independence (15 August)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Literature, authors and epics",
+   "level": "basic",
+   "subtopic": "Literature, authors & epics",
+   "body": "Author-work pairs are asked every year. The **Ramayana** is attributed to **Valmiki**; the **Mahabharata** and, by tradition, the arrangement of the Vedas and the Puranas to **Ved Vyasa**. Among the Tamil epics, **Silappadikaram** is by **Ilango Adigal** and **Manimekalai** by **Sattanar**; the **Tirukkural** is by **Thiruvalluvar**.",
+   "table": {
+    "columns": [
+     "Work",
+     "Author"
+    ],
+    "rows": [
+     [
+      "Arthashastra",
+      "Kautilya (Chanakya)"
+     ],
+     [
+      "Indica",
+      "Megasthenes"
+     ],
+     [
+      "Abhijnanashakuntalam, Meghaduta, Raghuvamsha",
+      "Kalidasa"
+     ],
+     [
+      "Harshacharita, Kadambari",
+      "Banabhatta"
+     ],
+     [
+      "Mudrarakshasa",
+      "Vishakhadatta"
+     ],
+     [
+      "Buddhacharita",
+      "Ashvaghosha"
+     ],
+     [
+      "Natyashastra",
+      "Bharata Muni"
+     ],
+     [
+      "Panchatantra",
+      "Vishnu Sharma"
+     ],
+     [
+      "Rajatarangini",
+      "Kalhana"
+     ],
+     [
+      "Gita Govinda",
+      "Jayadeva"
+     ],
+     [
+      "Kitab-ul-Hind",
+      "Al-Biruni"
+     ],
+     [
+      "Baburnama (in Turki)",
+      "Babur"
+     ],
+     [
+      "Humayun-nama",
+      "Gulbadan Begum"
+     ],
+     [
+      "Akbarnama, Ain-i-Akbari",
+      "Abul Fazl"
+     ],
+     [
+      "Padmavat",
+      "Malik Muhammad Jayasi"
+     ],
+     [
+      "Ramcharitmanas",
+      "Tulsidas"
+     ],
+     [
+      "Anandamath (Vande Mataram)",
+      "Bankim Chandra Chattopadhyay"
+     ],
+     [
+      "Neel Darpan",
+      "Dinabandhu Mitra"
+     ],
+     [
+      "Gulamgiri",
+      "Jyotiba Phule"
+     ],
+     [
+      "Poverty and Un-British Rule in India",
+      "Dadabhai Naoroji"
+     ],
+     [
+      "Hind Swaraj; My Experiments with Truth",
+      "M.K. Gandhi"
+     ],
+     [
+      "Gita Rahasya",
+      "B.G. Tilak"
+     ],
+     [
+      "The Discovery of India",
+      "Jawaharlal Nehru"
+     ],
+     [
+      "Annihilation of Caste",
+      "B.R. Ambedkar"
+     ],
+     [
+      "Gitanjali",
+      "Rabindranath Tagore"
+     ]
+    ]
+   }
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "Practice: Which pair is correct? I. Battle of Buxar - 1764 II. Third Battle of Panipat - 1556",
+   "solution": "Step 1: Plassey 1757, then Buxar seven years later in 1764. I is correct.\nStep 2: The three Panipat battles are 1526, 1556 and 1761. 1556 is the Second battle (Akbar vs Hemu); the Third was 1761 (Abdali vs Marathas). II is wrong.\nAnswer: **Only I**."
+  },
+  {
+   "problem": "Practice: Arrange chronologically: (a) Poona Pact (b) Chauri Chaura incident (c) Dandi March (d) Jallianwala Bagh massacre",
+   "solution": "Step 1: Jallianwala Bagh - 1919.\nStep 2: Chauri Chaura - 1922 (ended Non-Cooperation).\nStep 3: Dandi March - 1930.\nStep 4: Poona Pact - 1932 (after the Communal Award).\nOrder: **d, b, c, a**."
+  },
+  {
+   "problem": "Practice: Match the place with the event in Buddha's life: Lumbini, Bodh Gaya, Sarnath, Kushinagar.",
+   "solution": "Step 1: Life begins - birth at Lumbini.\nStep 2: Enlightenment under the Bodhi tree - Bodh Gaya.\nStep 3: First sermon (turning the wheel of dharma) - Sarnath.\nStep 4: Mahaparinirvana (death) - Kushinagar.\nThe order of places follows the order of his life: birth, enlightenment, first sermon, death."
+  },
+  {
+   "problem": "Practice: Which statement is correct? I. Lord Dalhousie annexed Awadh under the Doctrine of Lapse. II. Lord Curzon partitioned Bengal in 1905.",
+   "solution": "Step 1: Dalhousie did annex Awadh (1856), but on the ground of misgovernance; the Nawab had heirs, so the Doctrine of Lapse did not apply. Statement I is wrong.\nStep 2: Curzon announced the Partition of Bengal in 1905. Statement II is correct.\nAnswer: **Only II**."
+  }
+ ],
+ "pitfalls": [
+  "Mixing up the three Panipat battles: 1526 (Babur), 1556 (Akbar), 1761 (Abdali vs Marathas).",
+  "Saying Awadh was taken under the Doctrine of Lapse; it was annexed for alleged misgovernance.",
+  "Writing Kheda satyagraha as 1917; Champaran was 1917, Kheda and the Ahmedabad mill strike were 1918.",
+  "Confusing Silappadikaram (Ilango Adigal) with Manimekalai (Sattanar).",
+  "Taking Hume as the first INC president; Hume was the founder, W.C. Bonnerjee the first president.",
+  "Placing Sarnath as the site of enlightenment; that is Bodh Gaya.",
+  "Treating 'Sayyid' (dynasty) and 'Sayyid Ahmad Khan' (Aligarh reformer) as related.",
+  "Assuming Mohenjo-daro and Harappa are in India; both are in Pakistan."
+ ],
+ "quickRevision": [
+  "Harappa excavated 1921 (Daya Ram Sahni); Mohenjo-daro 1922 (R.D. Banerji).",
+  "Lothal - dockyard; Kalibangan - ploughed field; Dholavira - water reservoirs.",
+  "Buddha: born Lumbini, enlightenment Bodh Gaya, first sermon Sarnath, death Kushinagar.",
+  "Mahavira was the 24th tirthankara; Rishabhanatha the 1st.",
+  "Arthashastra - Kautilya; Indica - Megasthenes; Ashoka's edicts deciphered by James Prinsep.",
+  "Saka era begins 78 CE; Allahabad pillar inscription by Harisena praises Samudragupta.",
+  "Delhi Sultanate order: Slave, Khalji, Tughlaq, Sayyid, Lodi (1206-1526).",
+  "Vijayanagara founded 1336 by Harihara and Bukka; defeated at Talikota 1565.",
+  "Khalsa founded 1699 by Guru Gobind Singh at Anandpur Sahib.",
+  "Plassey 1757, Buxar 1764, Seringapatam 1799.",
+  "Revolt of 1857 began at Meerut on 10 May 1857.",
+  "INC 1885, Partition of Bengal 1905, Muslim League 1906.",
+  "Dandi March 1930, Poona Pact 1932, Quit India 1942."
+ ],
+ "flashcards": [
+  {
+   "front": "Where did Buddha give his first sermon?",
+   "back": "Sarnath"
+  },
+  {
+   "front": "Who wrote Silappadikaram?",
+   "back": "Ilango Adigal"
+  },
+  {
+   "front": "Who wrote Indica?",
+   "back": "Megasthenes"
+  },
+  {
+   "front": "Harappan site with a dockyard?",
+   "back": "Lothal (Gujarat)"
+  },
+  {
+   "front": "First Mughal emperor?",
+   "back": "Babur (won First Panipat, 1526)"
+  },
+  {
+   "front": "Founder of the Lodi dynasty?",
+   "back": "Bahlul Lodi"
+  },
+  {
+   "front": "Year of the Battle of Plassey?",
+   "back": "1757"
+  },
+  {
+   "front": "Year Tipu Sultan died at Seringapatam?",
+   "back": "1799"
+  },
+  {
+   "front": "Who introduced the Doctrine of Lapse?",
+   "back": "Lord Dalhousie"
+  },
+  {
+   "front": "Founder of the Young Bengal Movement?",
+   "back": "Henry Louis Vivian Derozio"
+  },
+  {
+   "front": "INC founded in which year and city?",
+   "back": "1885, Bombay"
+  },
+  {
+   "front": "Gandhi's first satyagraha in India?",
+   "back": "Champaran, 1917"
+  },
+  {
+   "front": "Poona Pact year and parties?",
+   "back": "1932, Gandhi and B.R. Ambedkar"
+  },
+  {
+   "front": "Who founded the Arya Samaj?",
+   "back": "Swami Dayanand Saraswati (1875)"
+  },
+  {
+   "front": "Who wrote Rajatarangini?",
+   "back": "Kalhana"
+  },
+  {
+   "front": "Where was the Khalsa founded in 1699?",
+   "back": "Anandpur Sahib (Takht Sri Keshgarh Sahib)"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Civilisation",
+   "hi": "सभ्यता"
+  },
+  {
+   "en": "Excavation",
+   "hi": "उत्खनन"
+  },
+  {
+   "en": "Inscription",
+   "hi": "अभिलेख"
+  },
+  {
+   "en": "Edict",
+   "hi": "शिलालेख / राजाज्ञा"
+  },
+  {
+   "en": "Dynasty",
+   "hi": "राजवंश"
+  },
+  {
+   "en": "Battle",
+   "hi": "युद्ध"
+  },
+  {
+   "en": "Revolt",
+   "hi": "विद्रोह"
+  },
+  {
+   "en": "Freedom struggle",
+   "hi": "स्वतंत्रता संग्राम"
+  },
+  {
+   "en": "Social reform",
+   "hi": "समाज सुधार"
+  },
+  {
+   "en": "Epic",
+   "hi": "महाकाव्य"
+  }
+ ]
+}

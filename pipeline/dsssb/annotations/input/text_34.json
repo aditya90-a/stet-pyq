@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set5-q104",
+  "copies": [
+   "2021-set5-q104"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In a public limited company, the minimum number of shareholders is ______.",
+  "options": [
+   "A) Nine",
+   "B) Four",
+   "C) Seven",
+   "D) Ten"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q105",
+  "copies": [
+   "2021-set5-q105"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which is the shortcut key to find and replace action in MS-Word?",
+  "options": [
+   "A) Ctrl+H",
+   "B) Ctrl+R",
+   "C) Ctrl+D",
+   "D) Ctrl+A"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q106",
+  "copies": [
+   "2021-set5-q106"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of FORTRAN computer programming langauge?",
+  "options": [
+   "A) Formula Translation",
+   "B) First Translation",
+   "C) Formula Transition",
+   "D) First Transition"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q107",
+  "copies": [
+   "2021-set5-q107"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The memory resident components of an operating system are commonly known as the ______ of the operating system.",
+  "options": [
+   "A) blocks",
+   "B) kernel",
+   "C) partition",
+   "D) segments"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q108",
+  "copies": [
+   "2021-set5-q108"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a typically interpreted language?\nI. C\nII. Perl",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q109",
+  "copies": [
+   "2021-set5-q109"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "There are three main concepts that any language needs to support to be an object-oriented language. Which of the following is one of them?\nI. Encapsulation\nII. Inheritance\nIII. Polymorphism",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q110",
+  "copies": [
+   "2021-set5-q110"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the total number of elements in a array E[–4 : 1, 6 : 10]?",
+  "options": [
+   "A) 30",
+   "B) 20",
+   "C) 9",
+   "D) 11"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q111",
+  "copies": [
+   "2021-set5-q111"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which data structure is used to indicate that the order of the processing of data must be postponed until other conditions are fulfilled?",
+  "options": [
+   "A) Array",
+   "B) Linked list",
+   "C) Trees",
+   "D) Stack"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q112",
+  "copies": [
+   "2021-set5-q112"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the worst case running time of quick sort algorithm?",
+  "options": [
+   "A) Ɵ(x)",
+   "B) Ɵ(x^2)",
+   "C) Ɵ(x log_2x)",
+   "D) Ɵ(x log_2x^2)"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q113",
+  "copies": [
+   "2021-set5-q113"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the polish notation of the given infix expression?\n(A * B + C)/(E – F * G)",
+  "options": [
+   "A) +*/ABCE*FG",
+   "B) /+*ABC–E*FG",
+   "C) /ABC+*–E*FG",
+   "D) +/ABC*–E*FG"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q114",
+  "copies": [
+   "2021-set5-q114"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the output of the code written in C?\nvoid main()\n{\nint k=8, v=8,i;\ni=k/++v;\nprintf(\"%d\\n\",i);\n}",
+  "options": [
+   "A) 0",
+   "B) 1",
+   "C) 0.8",
+   "D) Error"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q117",
+  "copies": [
+   "2021-set5-q117"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider the following C declaration. Assume that objects of data type short, float and long occupy 2 bytes, 4 bytes and 8 bytes respectively.\nWhat is memory requirement for variable t?\nstruct {\nshort a[5];\nunion{\nfloat v;\nlong z;}\nu;\n}t;",
+  "options": [
+   "A) 22 bytes",
+   "B) 18 bytes",
+   "C) 24 bytes",
+   "D) 10 bytes"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q118",
+  "copies": [
+   "2021-set5-q118"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ protocol is used for uploading and downloading files between different computers.",
+  "options": [
+   "A) X.12",
+   "B) XMODEM",
+   "C) X.75",
+   "D) XON"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q119",
+  "copies": [
+   "2021-set5-q119"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "An operating system that helps in sharing the files across the network is known as ______.",
+  "options": [
+   "A) network operating system",
+   "B) real operating system",
+   "C) time operating system",
+   "D) coupling operating system"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q120",
+  "copies": [
+   "2021-set5-q120"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "(84)_12 = (?)_8?",
+  "options": [
+   "A) 142",
+   "B) 144",
+   "C) 134",
+   "D) 104"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q121",
+  "copies": [
+   "2021-set5-q121"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ mode allows transmission in either direction but not simultaneously.",
+  "options": [
+   "A) Duplex",
+   "B) Half duplex",
+   "C) Simplex",
+   "D) Half-simplex"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q122",
+  "copies": [
+   "2021-set5-q122"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which input device is used for reading answer to question in a test or survey?",
+  "options": [
+   "A) OCR",
+   "B) OMR",
+   "C) Barcode reader",
+   "D) MICR"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q124",
+  "copies": [
+   "2021-set5-q124"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are not true about magnetic tapes?\nI. Direct access device\nII. Store large volume of data\nIII. Use for backup purpose",
+  "options": [
+   "A) II and III",
+   "B) I and III",
+   "C) Only I",
+   "D) Only II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q125",
+  "copies": [
+   "2021-set5-q125"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct regarding electric power?",
+  "options": [
+   "A) P = I^2V",
+   "B) P = I/V",
+   "C) P = VI",
+   "D) P = V/I"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q126",
+  "copies": [
+   "2021-set5-q126"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A 2 way switch works as follows:\nBoth switches ON = lights off\nBoth switches OFF = light off\nOne switch ON and other OFF = light on\nWhich gate can be used to implement this?",
+  "options": [
+   "A) OR",
+   "B) AND",
+   "C) NAND",
+   "D) XOR"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q127",
+  "copies": [
+   "2021-set5-q127"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which counter is a shift register with its complement output of the last stage connected to the D-input of the first stage?",
+  "options": [
+   "A) Synchronous",
+   "B) Twisted ring",
+   "C) Up",
+   "D) Down"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q128",
+  "copies": [
+   "2021-set5-q128"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Linearity error is expressed as a percentage of ______.",
+  "options": [
+   "A) minimum input voltage",
+   "B) maximum input voltage",
+   "C) maximum output voltage",
+   "D) minimum output voltage"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q129",
+  "copies": [
+   "2021-set5-q129"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A code in which only one bit changes between successive numbers is known as ______ code.",
+  "options": [
+   "A) ASCII",
+   "B) Hamming",
+   "C) GRAY",
+   "D) BCD"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q130",
+  "copies": [
+   "2021-set5-q130"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair regarding sign bit is correct?\nI. 0 – positive\nII. 1 – negative",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q131",
+  "copies": [
+   "2021-set5-q131"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If (21121)_3 = (C)_4, then what is the value of C?",
+  "options": [
+   "A) (2023)_4",
+   "B) (3032)_4",
+   "C) (2112)_4",
+   "D) (3031)_4"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q132",
+  "copies": [
+   "2021-set5-q132"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is known as the acquisition, storage, organization, retrieval, display and dissemination of information.",
+  "options": [
+   "A) Data management",
+   "B) Information processing",
+   "C) Data structure",
+   "D) Programming management"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q133",
+  "copies": [
+   "2021-set5-q133"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the cardinality of Relation having 500 tuples and 50 attribute?",
+  "options": [
+   "A) 500",
+   "B) 50",
+   "C) 450",
+   "D) 2500"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q134",
+  "copies": [
+   "2021-set5-q134"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many rule does Dr. E.F. Codd provides which qualify a database as a RDBMS?",
+  "options": [
+   "A) 10",
+   "B) 11",
+   "C) 12",
+   "D) 13"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q135",
+  "copies": [
+   "2021-set5-q135"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a type of connection trap in Entity relationship model?\nI. Fan traps\nII. Chasm traps",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q137",
+  "copies": [
+   "2021-set5-q137"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT an approach of database design in database management system?",
+  "options": [
+   "A) Top-down approach",
+   "B) Bottom-up approach",
+   "C) Inside-out approach",
+   "D) Up-down approach"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q138",
+  "copies": [
+   "2021-set5-q138"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is an Aggregate operator in Structured Query Language?",
+  "options": [
+   "A) Minus",
+   "B) Intersect",
+   "C) Union",
+   "D) Count"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q139",
+  "copies": [
+   "2021-set5-q139"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many address lines and input-output data line are needed for the 64k × 8 memory unit?",
+  "options": [
+   "A) 16 address line, 3 data line",
+   "B) 6 address line, 3 data line",
+   "C) 16 address line, 8 data line",
+   "D) 10 address line, 8 data line"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q141",
+  "copies": [
+   "2021-set5-q141"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The mask logical micro operation is equivalent to which logical gate?",
+  "options": [
+   "A) OR gate",
+   "B) NOR gate",
+   "C) AND gate",
+   "D) NAND gate"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q142",
+  "copies": [
+   "2021-set5-q142"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many memory references are required to fetch an operand in indirect addressing?",
+  "options": [
+   "A) 1",
+   "B) 2",
+   "C) 3",
+   "D) 4"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q143",
+  "copies": [
+   "2021-set5-q143"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "This instruction is of what type?\nADD R1, A, B",
+  "options": [
+   "A) Zero Address Instruction",
+   "B) Two Address Instruction",
+   "C) One Address Instruction",
+   "D) Three Address Instruction"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q144",
+  "copies": [
+   "2021-set5-q144"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which attribute in HTML table tag defines the number of columns in a column group?",
+  "options": [
+   "A) border",
+   "B) colspan",
+   "C) Rowspan",
+   "D) span"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q145",
+  "copies": [
+   "2021-set5-q145"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When the drawee fails to make the payment on the date of maturity, then a bill is said to have been ______.",
+  "options": [
+   "A) discounted",
+   "B) dishonoured",
+   "C) defected",
+   "D) cleared"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q146",
+  "copies": [
+   "2021-set5-q146"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the objective(s) of accounting?\nI. Maintenance of Records of Business Transactions\nII. Calculation of Profit and Loss",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q147",
+  "copies": [
+   "2021-set5-q147"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the reason(s) for difference between cash book and bank passbook?\nI. Cheques paid into the bank but not yet collected\nII. Interest and dividends collected by the bank",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q149",
+  "copies": [
+   "2021-set5-q149"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding software metrics in software engineering?\nI. Direct measures of the software product include functionality quality, efficiency etc. of the software.\nII. Indirect measures of the software product includes lines of code produced, execution speed, memory size etc. of the software product.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q150",
+  "copies": [
+   "2021-set5-q150"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The SRS document produced at the end of requirement analysis and specification is known as ______.",
+  "options": [
+   "A) white-box specification",
+   "B) black-box specification",
+   "C) design plan",
+   "D) architectural design"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q151",
+  "copies": [
+   "2021-set5-q151"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statements are not true about CASE tool?\nI. It degrades the quality\nII. Reduce the drudgery in software engineer’s work\nIII. Increase maintenance cost",
+  "options": [
+   "A) I and III",
+   "B) II and III",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q152",
+  "copies": [
+   "2021-set5-q152"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Process of recovering the design and the requirement specification of a product from an analysis of its code is called as _______.",
+  "options": [
+   "A) Software analysis",
+   "B) Software engineering",
+   "C) Software reverse engineering",
+   "D) Software return engineering"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q153",
+  "copies": [
+   "2021-set5-q153"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Spiral model of software development is also known as ______.",
+  "options": [
+   "A) successive model",
+   "B) meta model",
+   "C) prototype model",
+   "D) risk model"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q154",
+  "copies": [
+   "2021-set5-q154"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In which debugging approach, the program is loaded with print statements to print the intermediate values with the hope that some of the printed\nvalues will help to identify the statement as error?",
+  "options": [
+   "A) Backtracking",
+   "B) Cause Elimination Method",
+   "C) Brute Force Method",
+   "D) Program Slicing"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q155",
+  "copies": [
+   "2021-set5-q155"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a invalid relational operator in Java?",
+  "options": [
+   "A) < =",
+   "B) = >",
+   "C) ! =",
+   "D) = ="
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q156",
+  "copies": [
+   "2021-set5-q156"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are monolithic kernel systems?\nI. Linux\nII. Windows",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q157",
+  "copies": [
+   "2021-set5-q157"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true regarding processes and threads in operating system?\nI. Threads encapsulates concurrency within a process.\nII. Process encapsulates protection within the system.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q158",
+  "copies": [
+   "2021-set5-q158"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true regarding threads in operating system?\nI. The threads in a process are visible to other processes.\nII. A thread is strictly private resource of a process.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q159",
+  "copies": [
+   "2021-set5-q159"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not a state of a process in operating system?",
+  "options": [
+   "A) Waiting",
+   "B) Excite",
+   "C) Running",
+   "D) Ready"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

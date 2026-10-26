@@ -5,5 +5,7 @@ pipeline/cache
 __pycache__
 .pytest_cache
 public/pdfs
+public/dsssb/pdfs
+.tools
 .DS_Store
 *.log

@@ -1,0 +1,477 @@
+{
+  "slug": "computer-graphics-multimedia",
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "titleHi": "कंप्यूटर ग्राफिक्स एवं मल्टीमीडिया",
+  "summary": "Covers display hardware (CRT, raster/random scan, flat panels, colour models), line and circle algorithms (DDA, Bresenham, midpoint), 2D/3D transformations and projections, clipping (Cohen-Sutherland, Liang-Barsky, Sutherland-Hodgman), curves, hidden-surface removal and shading, and multimedia digitisation, compression and file formats. Exams mix definition questions (CRT parts, resolution, emissive displays, formats) with short numericals on algorithms, transformations and colour conversion.",
+  "sections": [
+    {
+      "heading": "Display devices: CRT, raster and random scan",
+      "level": "basic",
+      "subtopic": "Graphics hardware & displays",
+      "body": "**CRT** (Cathode Ray Tube) parts, in order along the beam:\n- **Heating filament** heats the **cathode**, which emits electrons (together, the electron gun).\n- **Control grid** - a negatively charged cylinder that regulates the number of electrons, i.e. the **intensity (brightness)** of the beam.\n- **Focusing anode / system** - converges the beam to a small spot.\n- **Accelerating anode** - accelerates electrons towards the screen.\n- **Deflection plates or coils** (horizontal and vertical) - steer the beam.\n- **Phosphor-coated screen** - glows where the beam strikes.\n\nKey terms: **persistence** - time for emitted light to decay to one-tenth of its original intensity (low persistence needs a higher refresh rate); **refresh rate** - screen redraws per second (Hz); **resolution** - the maximum number of points that can be displayed **without overlap**; **aspect ratio** - ratio of horizontal to vertical points (or width : height); **pixel** (picture element) - smallest addressable screen point.\n\n**Raster scan** - beam sweeps the screen row by row (scan lines) from top to bottom; picture stored as intensity values in the **frame buffer** (refresh buffer); horizontal retrace at the end of each line, vertical retrace at the end of each frame; interlacing draws odd lines then even lines. Good for realistic shaded scenes; lines may show jaggies (aliasing).\n**Random scan (vector / calligraphic)** - beam draws only the lines of the picture, stored as a **display file** (display list); smooth lines, but cannot show realistic shaded areas.\n\nColour CRTs: **beam penetration** (red and green phosphor layers, few colours, used with random scan) and **shadow mask** (RGB phosphor triads with three guns, used with raster systems).",
+      "table": {
+        "columns": [
+          "Raster scan",
+          "Random scan"
+        ],
+        "rows": [
+          [
+            "Draws whole screen line by line",
+            "Draws only the picture's lines"
+          ],
+          [
+            "Picture in frame buffer (pixels)",
+            "Picture in display file (commands)"
+          ],
+          [
+            "Realistic shading, colour",
+            "Line drawings only"
+          ],
+          [
+            "Jagged (aliased) lines",
+            "Smooth lines"
+          ],
+          [
+            "Refresh independent of picture complexity",
+            "Refresh time depends on number of lines"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Flat panels, frame buffer and input devices",
+      "level": "intermediate",
+      "subtopic": "Graphics hardware & displays",
+      "body": "**Flat-panel displays**:\n- **Emissive** (convert electrical energy into light): **plasma panels**, **LED** displays, **thin-film electroluminescent** displays.\n- **Non-emissive** (use optical effects to modulate external/back light): **LCD** (liquid crystal display, uses polarised light through liquid crystal).\n\n**Frame buffer size** = horizontal resolution × vertical resolution × bits per pixel (÷ 8 for bytes). With *n* bits per pixel, 2ⁿ colours/intensities are possible. A **colour look-up table** lets a small pixel value index a larger palette.\n\n**Input devices**: keyboard, mouse, trackball, **spaceball** (6 degrees of freedom), **joystick**, **data glove**, **digitizer / graphics tablet**, **light pen** (detects light from the screen to pick positions), touch panel, image scanner, voice systems. Sensors in phones: **gyroscope** detects orientation and angular velocity, **accelerometer** detects linear acceleration, **magnetometer** detects the magnetic field (compass), **proximity sensor** detects nearby objects.\n\n**Colour models**: **RGB** - additive (monitors); **CMY** - subtractive (printers), with **(C, M, Y) = (1, 1, 1) − (R, G, B)**; **CMYK** adds black; **HSV/HSB** (hue, saturation, value) and **HLS** - intuitive for users; **YIQ** - NTSC television."
+    },
+    {
+      "heading": "Line drawing: DDA and Bresenham",
+      "level": "intermediate",
+      "subtopic": "Line & circle drawing",
+      "body": "Scan conversion = choosing the pixels that best approximate a primitive.\n\n**DDA (Digital Differential Analyzer)**: steps = max(|Δx|, |Δy|); x_inc = Δx ÷ steps, y_inc = Δy ÷ steps; starting at (x₁, y₁) repeatedly add the increments and **round** each coordinate. Simple, but uses floating-point additions and rounding, so it is slower and round-off error can accumulate on long lines.\n\n**Bresenham's line algorithm** (for slope 0 ≤ m ≤ 1, x₁ < x₂) uses **only integer addition/subtraction and multiplication by 2**:\n- Plot (x₁, y₁); decision parameter **p₀ = 2Δy − Δx**.\n- At each step x increases by 1. If **pₖ < 0**: next point (xₖ+1, yₖ) and **pₖ₊₁ = pₖ + 2Δy**. Otherwise: next point (xₖ+1, yₖ+1) and **pₖ₊₁ = pₖ + 2Δy − 2Δx**.\n- Repeat Δx times.\nFor |m| > 1 swap the roles of x and y; other octants follow by symmetry.\n\nThe **midpoint line algorithm** gives the same pixels as Bresenham, derived by testing the midpoint between candidate pixels.",
+      "table": {
+        "columns": [
+          "Feature",
+          "DDA",
+          "Bresenham"
+        ],
+        "rows": [
+          [
+            "Arithmetic",
+            "Floating point + rounding",
+            "Integer only"
+          ],
+          [
+            "Speed",
+            "Slower",
+            "Faster"
+          ],
+          [
+            "Accuracy",
+            "Round-off error can accumulate",
+            "Exact choice of nearest pixel"
+          ],
+          [
+            "Operations",
+            "Addition, division once, rounding",
+            "Addition, subtraction, ×2 (shift)"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Circle drawing: midpoint algorithm and symmetry",
+      "level": "intermediate",
+      "subtopic": "Line & circle drawing",
+      "body": "A circle is **8-way symmetric**: computing points in one octant (from x = 0 to x = y) gives the rest as (±x, ±y) and (±y, ±x), shifted by the centre (x_c, y_c).\n\n**Midpoint circle algorithm** (centre at origin, radius r, start (0, r)):\n- **p₀ = 1 − r** (from 5/4 − r rounded for integer r).\n- At each step x increases by 1. If **pₖ < 0**: y unchanged, **pₖ₊₁ = pₖ + 2xₖ₊₁ + 1**. Otherwise: y decreases by 1, **pₖ₊₁ = pₖ + 2xₖ₊₁ + 1 − 2yₖ₊₁**.\n- Stop when x ≥ y.\nFinally add (x_c, y_c) to every point. **Bresenham's circle algorithm** is an equivalent integer method with initial decision parameter d = 3 − 2r.\n\n**Ellipse** (midpoint ellipse) uses 4-way symmetry and two regions split where the slope equals −1.\n\n**Polygon filling**: scan-line fill (intersections of each scan line with edges, filled in pairs), **boundary fill** (fill until boundary colour is reached) and **flood fill** (replace an interior colour), each using 4-connected or 8-connected neighbours.",
+      "diagram": {
+        "title": "8-way symmetry of a circle",
+        "ascii": "              ( -x, y)   |   ( x, y)\n       ( -y, x)          |          ( y, x)\n      ----------------------------------------\n       ( -y,-x)          |          ( y,-x)\n              ( -x,-y)   |   ( x,-y)"
+      }
+    },
+    {
+      "heading": "2D transformations and homogeneous coordinates",
+      "level": "intermediate",
+      "subtopic": "Transformations",
+      "body": "Using **homogeneous coordinates** (x, y, 1), every 2D transformation is a 3×3 matrix, so a sequence of transformations can be combined (concatenated) into one matrix. With column vectors, P′ = M · P.\n\n- **Translation**: x′ = x + tₓ, y′ = y + t_y.\n- **Scaling** about the origin: x′ = sₓ·x, y′ = s_y·y (sₓ = s_y gives uniform scaling; values < 1 shrink and move the object towards the origin).\n- **Rotation** by θ anticlockwise about the origin: x′ = x cos θ − y sin θ, y′ = x sin θ + y cos θ. Matrix [[cos θ, −sin θ], [sin θ, cos θ]]; for clockwise rotation replace θ by −θ.\n- **Reflection**: about x-axis (x, −y); about y-axis (−x, y); about origin (−x, −y); about y = x → (y, x); about y = −x → (−y, −x).\n- **Shear**: x-shear x′ = x + shₓ·y; y-shear y′ = y + sh_y·x.\n\n**Composite transformations**: rotation or scaling about a fixed/pivot point (x_r, y_r) = **T(x_r, y_r) · R(θ) · T(−x_r, −y_r)** (translate to origin, transform, translate back). Successive translations add, successive rotations add angles, successive scalings multiply. Matrix multiplication is generally **not commutative**, so order matters.\n\n**2D viewing pipeline**: construct the world-coordinate scene using modelling transformations → convert world coordinates to viewing coordinates → map viewing coordinates to normalised viewport coordinates (window-to-viewport mapping) → map the normalised viewport to device coordinates. A **window** is the world area selected for display; a **viewport** is the screen area where it is shown.",
+      "table": {
+        "columns": [
+          "Transformation",
+          "3×3 homogeneous matrix (rows)"
+        ],
+        "rows": [
+          [
+            "Translation",
+            "[1 0 tx] [0 1 ty] [0 0 1]"
+          ],
+          [
+            "Scaling",
+            "[sx 0 0] [0 sy 0] [0 0 1]"
+          ],
+          [
+            "Rotation θ",
+            "[cosθ −sinθ 0] [sinθ cosθ 0] [0 0 1]"
+          ],
+          [
+            "Reflection about x-axis",
+            "[1 0 0] [0 −1 0] [0 0 1]"
+          ],
+          [
+            "x-shear",
+            "[1 shx 0] [0 1 0] [0 0 1]"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "3D transformations and projections",
+      "level": "advanced",
+      "subtopic": "Transformations",
+      "body": "3D transformations use 4×4 homogeneous matrices. Rotation is about an axis: about the **z-axis** x′ = x cos θ − y sin θ, y′ = x sin θ + y cos θ, z′ = z (similarly for x and y axes).\n\n**Projection** maps 3D to a 2D view plane:\n- **Parallel projection** - projectors are parallel; preserves relative proportions, not realistic. **Orthographic** (projectors perpendicular to the view plane: front, top, side views; **axonometric** such as **isometric**, where all three axes are equally foreshortened) and **oblique** (projectors at an angle: **cavalier** - receding lines full length; **cabinet** - receding lines half length).\n- **Perspective projection** - projectors converge at the **centre of projection**; distant objects look smaller (foreshortening), realistic. Parallel lines not parallel to the view plane meet at **vanishing points**: one-, two- or three-point perspective.\n\nIn engineering drawing, a plane surface perpendicular to the plane of projection appears as a **straight line** (its edge view) on that plane."
+    },
+    {
+      "heading": "Clipping: point, line and polygon",
+      "level": "intermediate",
+      "subtopic": "Clipping",
+      "body": "**Clipping** identifies the parts of a picture inside or outside a specified region (the clip window); the visible portion is kept and the invisible portion discarded. It can be applied in world coordinates (before mapping) or to the viewport/device coordinates.\n\n**Point clipping**: keep (x, y) if xmin ≤ x ≤ xmax and ymin ≤ y ≤ ymax.\n\n**Cohen-Sutherland line clipping** assigns each endpoint a 4-bit **region code** (outcode), bits written as **TBRL** (bit 4 Top, bit 3 Bottom, bit 2 Right, bit 1 Left):\n- Top = 1 if y > ymax; Bottom = 1 if y < ymin; Right = 1 if x > xmax; Left = 1 if x < xmin.\n- Both codes 0000 → **trivially accept**.\n- Logical **AND** of the two codes ≠ 0000 → both endpoints share an outside region → **trivially reject**.\n- Otherwise pick an outside endpoint, intersect with the window edge given by a set bit (slope m = Δy ÷ Δx): vertical edge x = x_e gives y = y₁ + m(x_e − x₁); horizontal edge y = y_e gives x = x₁ + (y_e − y₁) ÷ m. Replace the endpoint, recompute its code and repeat.\n\n**Liang-Barsky** uses the parametric form x = x₁ + uΔx, y = y₁ + uΔy (0 ≤ u ≤ 1) with pₖ, qₖ values; it needs fewer intersection calculations and is usually more efficient. **Cyrus-Beck** works for any convex window. **Midpoint subdivision** repeatedly halves the line.\n\n**Polygon clipping**: **Sutherland-Hodgman** clips the polygon against each window edge in turn (correct for convex clip windows; a concave polygon can produce extraneous edges); **Weiler-Atherton** handles concave polygons. **Text clipping**: all-or-none string, all-or-none character, or clip individual character components.",
+      "diagram": {
+        "title": "Cohen-Sutherland region codes (TBRL)",
+        "ascii": "          1001     |     1000     |     1010\n                   |              |\n      -------------+--------------+------------ ymax\n                   |    window    |\n          0001     |     0000     |     0010\n                   |              |\n      -------------+--------------+------------ ymin\n                   |              |\n          0101     |     0100     |     0110\n                 xmin           xmax"
+      }
+    },
+    {
+      "heading": "Curves, surfaces and solid modelling",
+      "level": "advanced",
+      "subtopic": "Curves, surfaces & hidden surfaces",
+      "body": "**Bezier curve**: with n + 1 control points the curve is a polynomial of **degree n** (Bernstein blending functions). It **passes through the first and last control points**, is tangent there to the first and last control-polygon edges, and lies inside the **convex hull** of the control points. Control is **global**: moving one point changes the whole curve. Cubic Bezier uses 4 control points.\n\n**B-spline curve**: degree is independent of the number of control points, gives **local control** (moving a point affects only nearby segments), lies in the convex hull, and in general does not pass through the end control points (unless clamped/open-uniform).\n\n**Hermite curve**: defined by two endpoints and the tangent vectors at them. **Continuity**: C⁰ (curves meet), C¹ (equal first derivative), C² (equal second derivative); geometric G⁰, G¹.\n\n**Surface interpolation methods** (estimating unknown values from known sample points, as in GIS/terrain modelling): Inverse Distance Weighted (IDW: nearer points have more weight), Kriging (statistical), Natural Neighbor, Spline (smooth surface through points) and Topo to Raster.\n\n**Surfaces and solids**: polygon meshes, quadric surfaces (sphere, ellipsoid), Bezier and B-spline surfaces, sweep representations, **CSG** (Constructive Solid Geometry: union, intersection, difference of primitives), **B-rep** (boundary representation), octrees. A solid-modelling representation must be **complete, valid and unambiguous**."
+    },
+    {
+      "heading": "Hidden surfaces, shading and animation",
+      "level": "advanced",
+      "subtopic": "Curves, surfaces & hidden surfaces",
+      "body": "**Visible-surface (hidden-surface) detection** methods:\n- **Object-space** methods compare objects or their parts: **back-face detection** (discard polygons whose normal points away from the viewer).\n- **Image-space** methods decide visibility pixel by pixel: **Z-buffer (depth buffer)**, A-buffer, scan-line, **area subdivision (Warnock)**, ray casting.\n- **Depth-sort (painter's) algorithm** works in both spaces: sort surfaces by depth and paint the farthest first.\n\n**Z-buffer algorithm**: uses a **depth buffer** (depth per pixel) and the **frame/refresh buffer** (colour per pixel). Initialise every depth to the farthest value and every colour to the background; for each polygon and each pixel it covers, compute the depth z; if z is nearer than the stored depth, store z and the polygon's colour. No sorting needed and any number of polygons can be processed one at a time, but it needs memory for a full depth buffer and deals with one visible surface per pixel (no transparency in the basic form).\n\n**Illumination and shading**: ambient light; **diffuse reflection** (Lambert's cosine law: intensity ∝ cos θ between light direction and surface normal); **specular reflection** (Phong model, highlights). **Flat (constant) shading** - one intensity per polygon; **Gouraud shading** - interpolate **intensities** across the polygon (smooth, may miss highlights, Mach bands); **Phong shading** - interpolate **normal vectors** (better highlights, more computation).\n\n**Animation**: key frames with **in-betweening (tweening)** to create intermediate frames; **morphing** transforms one shape into another; frame-by-frame animation; motion capture."
+    },
+    {
+      "heading": "Multimedia: digitisation and compression",
+      "level": "basic",
+      "subtopic": "Multimedia & file formats",
+      "body": "**Multimedia** combines text, images/graphics, audio, video and animation, usually with interactivity; **hypermedia** adds links between them.\n\n**Digitisation** of analog media uses two steps: **sampling** (measuring the signal at regular time intervals; sampling rate in Hz) and **quantisation** (rounding each sample to one of 2ⁿ levels, n = bits per sample). **Nyquist theorem**: sample at least **twice the highest frequency** to reconstruct the signal (audio CD: 44.1 kHz, 16-bit, stereo).\n\n**Raster (bitmap)** images store pixels and blur when enlarged; **vector** images store shapes as equations and scale without loss (SVG).\n\n**Data compression** reduces the size of multimedia files:\n- **Lossless** - original recovered exactly: run-length encoding (RLE), Huffman coding, LZW, arithmetic coding (PNG, GIF, ZIP, FLAC).\n- **Lossy** - discards less noticeable information for much higher ratios: JPEG (DCT + quantisation), MP3 (psychoacoustic model), MPEG video (I, P and B frames using inter-frame prediction).\n- Compression ratio = original size ÷ compressed size.\n\n**Streaming protocols**: **RTP** (Real-time Transport Protocol) is the basic protocol for transmitting real-time audio/video, usually over UDP; **RTCP** carries control and quality feedback; **RTSP** (Real Time Streaming Protocol) gives play/pause/seek control."
+    },
+    {
+      "heading": "Multimedia file formats",
+      "level": "basic",
+      "subtopic": "Multimedia & file formats",
+      "body": "Know the full forms, compression type and typical use of each format.",
+      "table": {
+        "columns": [
+          "Format",
+          "Full form / type",
+          "Key points"
+        ],
+        "rows": [
+          [
+            "JPEG/JPG",
+            "Joint Photographic Experts Group",
+            "Lossy (DCT), 24-bit colour, photographs"
+          ],
+          [
+            "GIF",
+            "Graphics Interchange Format",
+            "Lossless LZW, max 256 colours (8-bit), animation, transparency"
+          ],
+          [
+            "PNG",
+            "Portable Network Graphics",
+            "Lossless, alpha transparency, replacement for GIF"
+          ],
+          [
+            "BMP",
+            "Bitmap (Windows)",
+            "Usually uncompressed, large files"
+          ],
+          [
+            "TIFF",
+            "Tagged Image File Format",
+            "High quality, printing/scanning, lossless or lossy"
+          ],
+          [
+            "SVG",
+            "Scalable Vector Graphics",
+            "XML-based vector image"
+          ],
+          [
+            "WAV",
+            "Waveform Audio (Microsoft)",
+            "Usually uncompressed PCM audio"
+          ],
+          [
+            "MP3",
+            "MPEG-1 (or MPEG-2) Audio Layer III",
+            "Lossy audio; extension .mp3"
+          ],
+          [
+            "MIDI",
+            "Musical Instrument Digital Interface",
+            "Stores note instructions, not sound samples; very small"
+          ],
+          [
+            "MPEG-1 / 2 / 4",
+            "Moving Picture Experts Group",
+            "Video standards: VCD / DVD and digital TV / MP4, streaming"
+          ],
+          [
+            "AVI",
+            "Audio Video Interleave (Microsoft)",
+            "Video container"
+          ],
+          [
+            "MOV",
+            "QuickTime (Apple)",
+            "Video container"
+          ]
+        ]
+      }
+    }
+  ],
+  "formulas": [
+    {
+      "name": "DDA increments",
+      "formula": "steps = max(|Δx|, |Δy|);  x_inc = Δx ÷ steps;  y_inc = Δy ÷ steps",
+      "note": "Round each computed coordinate."
+    },
+    {
+      "name": "Bresenham line (0 ≤ m ≤ 1)",
+      "formula": "p₀ = 2Δy − Δx; p < 0 → p += 2Δy; else y++ and p += 2Δy − 2Δx",
+      "note": "x increases by 1 every step; Δx steps in total."
+    },
+    {
+      "name": "Midpoint circle",
+      "formula": "p₀ = 1 − r; p < 0 → p += 2x + 1; else y−− and p += 2x + 1 − 2y",
+      "note": "x and y are the new values; stop when x ≥ y."
+    },
+    {
+      "name": "Rotation about origin",
+      "formula": "x′ = x cosθ − y sinθ;  y′ = x sinθ + y cosθ",
+      "note": "Anticlockwise for positive θ."
+    },
+    {
+      "name": "Fixed-point scaling",
+      "formula": "x′ = x_f + sₓ(x − x_f);  y′ = y_f + s_y(y − y_f)",
+      "note": "Same as T(x_f,y_f)·S·T(−x_f,−y_f)."
+    },
+    {
+      "name": "Window to viewport",
+      "formula": "x_v = xv_min + (x_w − xw_min) × (xv_max − xv_min) ÷ (xw_max − xw_min)",
+      "note": "Similarly for y; the ratio is the scaling factor sₓ."
+    },
+    {
+      "name": "RGB ↔ CMY",
+      "formula": "C = 1 − R,  M = 1 − G,  Y = 1 − B",
+      "note": "Values normalised to 0-1."
+    },
+    {
+      "name": "Frame buffer size",
+      "formula": "bits = width × height × bits per pixel; colours = 2^(bits per pixel)",
+      "note": "Divide by 8 for bytes."
+    },
+    {
+      "name": "Uncompressed audio size",
+      "formula": "bytes = sampling rate × (bits per sample ÷ 8) × channels × seconds",
+      "note": "CD audio: 44,100 × 2 × 2 bytes per second."
+    }
+  ],
+  "workedExamples": [
+    {
+      "problem": "Practice: Scan-convert the line from (2, 3) to (8, 7) using (a) DDA and (b) Bresenham.",
+      "solution": "Δx = 6, Δy = 4, slope 2/3 (between 0 and 1).\n(a) DDA: steps = 6, x_inc = 1, y_inc = 4/6 ≈ 0.667.\ny values: 3, 3.667, 4.333, 5.0, 5.667, 6.333, 7 → rounded 3, 4, 4, 5, 6, 6, 7.\nPixels: (2,3) (3,4) (4,4) (5,5) (6,6) (7,6) (8,7).\n(b) Bresenham: p₀ = 2×4 − 6 = 2; 2Δy = 8; 2Δy − 2Δx = −4.\n- p = 2 ≥ 0 → (3,4), p = 2 − 4 = −2\n- p = −2 < 0 → (4,4), p = −2 + 8 = 6\n- p = 6 ≥ 0 → (5,5), p = 2\n- p = 2 ≥ 0 → (6,6), p = −2\n- p = −2 < 0 → (7,6), p = 6\n- p = 6 ≥ 0 → (8,7)\nSame pixels as DDA, obtained with integer arithmetic only."
+    },
+    {
+      "problem": "Practice: Use the midpoint circle algorithm for r = 8, centre (0, 0), to find the first-octant pixels.",
+      "solution": "Start (0, 8), p₀ = 1 − 8 = −7.\n- p = −7 < 0 → (1, 8); new p = −7 + 2(1) + 1 = −4\n- p = −4 < 0 → (2, 8); p = −4 + 2(2) + 1 = 1\n- p = 1 ≥ 0 → (3, 7); p = 1 + 2(3) + 1 − 2(7) = −6\n- p = −6 < 0 → (4, 7); p = −6 + 2(4) + 1 = 3\n- p = 3 ≥ 0 → (5, 6); p = 3 + 2(5) + 1 − 2(6) = 2\n- p = 2 ≥ 0 → next would be (6, 5), where x > y, so the octant ends.\nFirst-octant pixels: (0,8) (1,8) (2,8) (3,7) (4,7) (5,6). The other seven octants follow by symmetry; for centre (x_c, y_c) add it to every point."
+    },
+    {
+      "problem": "Practice: Window xmin = 10, xmax = 50, ymin = 10, ymax = 40. Clip the line P₁(5, 20) to P₂(60, 45) with Cohen-Sutherland.",
+      "solution": "Codes (TBRL): P₁: x < 10 → **0001**. P₂: y > 40 (Top) and x > 50 (Right) → **1010**.\nAND = 0000 (not trivially rejected); codes not both 0000 (not trivially accepted) → clip.\nSlope m = (45 − 20) ÷ (60 − 5) = 25/55 = 5/11.\n- P₁ against left edge x = 10: y = 20 + (5/11)(10 − 5) = 20 + 2.27 = 22.27 → (10, 22.27), code 0000.\n- P₂ against top edge y = 40: x = 5 + (40 − 20) ÷ (5/11) = 5 + 44 = 49 → (49, 40), code 0000.\n(If the right edge is processed first: y = 20 + (5/11)(45) = 40.45, code 1000, then the top edge gives (49, 40) again.)\nVisible segment: **(10, 22.27) to (49, 40)**."
+    },
+    {
+      "problem": "Practice: Rotate the point (5, 3) by 90° anticlockwise about the pivot (2, 1). Also scale the point (2, 3) by sₓ = 2, s_y = 3 about the fixed point (1, 1).",
+      "solution": "Rotation: translate the pivot to the origin: (5 − 2, 3 − 1) = (3, 2).\nRotate 90°: x′ = 3·0 − 2·1 = −2, y′ = 3·1 + 2·0 = 3 → (−2, 3).\nTranslate back: (−2 + 2, 3 + 1) = **(0, 4)**.\nScaling: x′ = 1 + 2(2 − 1) = 3, y′ = 1 + 3(3 − 1) = 7 → **(3, 7)**."
+    },
+    {
+      "problem": "Practice: Map the world point (60, 70) from window (10, 20)-(110, 120) to viewport (100, 100)-(300, 200).",
+      "solution": "sₓ = (300 − 100) ÷ (110 − 10) = 200/100 = 2; s_y = (200 − 100) ÷ (120 − 20) = 100/100 = 1.\nx_v = 100 + (60 − 10) × 2 = 100 + 100 = **200**.\ny_v = 100 + (70 − 20) × 1 = 100 + 50 = **150**.\nViewport point (200, 150). Because sₓ ≠ s_y, shapes are stretched horizontally."
+    },
+    {
+      "problem": "Practice: (a) Frame-buffer memory for 1024 × 768 at 24 bits per pixel? (b) Storage for 1 minute of uncompressed CD-quality stereo audio (44.1 kHz, 16-bit)? (c) CMY of RGB (0.3, 0.9, 0.4)?",
+      "solution": "(a) 1024 × 768 × 24 bits = 1024 × 768 × 3 bytes = 2,359,296 bytes = **2.25 MB** (MiB); 2²⁴ ≈ 16.7 million colours.\n(b) 44,100 samples/s × 2 bytes × 2 channels × 60 s = **10,584,000 bytes ≈ 10.1 MB** (MiB).\n(c) CMY = (1 − 0.3, 1 − 0.9, 1 − 0.4) = **(0.7, 0.1, 0.6)**."
+    }
+  ],
+  "pitfalls": [
+    "Control grid controls beam intensity; the focusing anode focuses; the accelerating anode accelerates.",
+    "Resolution = maximum points displayable without overlap; persistence = decay time of phosphor glow.",
+    "LCD is non-emissive; plasma, LED and thin-film electroluminescent displays are emissive.",
+    "DDA uses floating point and rounding; Bresenham uses only integer operations.",
+    "Bresenham: p < 0 keeps y; p ≥ 0 increments y. Do not swap the two update formulas.",
+    "Cohen-Sutherland: trivial reject uses logical AND ≠ 0, not OR; OR = 0 means trivial accept.",
+    "Rotation and translation do not commute: T·R ≠ R·T in general.",
+    "Bezier curves pass through only the first and last control points and have global control; B-splines give local control.",
+    "Z-buffer is an image-space method; back-face detection is object-space; painter's algorithm uses both.",
+    "Gouraud interpolates intensities; Phong interpolates normals.",
+    "MP3 is MPEG Audio Layer III (.mp3), not MPEG-3; MP4 is a container from MPEG-4.",
+    "GIF supports only 256 colours; JPEG is lossy; PNG and GIF are lossless."
+  ],
+  "quickRevision": [
+    "Pixel = picture element; frame buffer stores pixel intensities.",
+    "Raster scan: frame buffer, scan lines; random scan: display file, smooth lines.",
+    "Aspect ratio = width : height (or horizontal : vertical points).",
+    "Colours with n bits per pixel = 2ⁿ.",
+    "CMY = 1 − RGB; RGB is additive, CMY subtractive.",
+    "DDA steps = max(|Δx|, |Δy|).",
+    "Bresenham p₀ = 2Δy − Δx; midpoint circle p₀ = 1 − r.",
+    "Circle has 8-way symmetry; ellipse 4-way.",
+    "Rotation about a pivot: translate to origin, rotate, translate back.",
+    "Rotation by 30°: [[√3/2, −1/2], [1/2, √3/2]].",
+    "Region code bits: Top, Bottom, Right, Left; inside = 0000.",
+    "Sutherland-Hodgman: polygon clipping edge by edge; Weiler-Atherton: concave polygons.",
+    "Z-buffer needs a depth buffer plus a frame buffer.",
+    "Digitisation = sampling + quantisation; Nyquist rate = 2 × highest frequency.",
+    "RTP = Real-time Transport Protocol for audio/video delivery."
+  ],
+  "flashcards": [
+    {
+      "front": "Which CRT component regulates beam intensity?",
+      "back": "Control grid."
+    },
+    {
+      "front": "Maximum number of points displayable without overlap on a CRT?",
+      "back": "Resolution."
+    },
+    {
+      "front": "Is LCD emissive or non-emissive?",
+      "back": "Non-emissive (plasma, LED, thin-film electroluminescent are emissive)."
+    },
+    {
+      "front": "DDA vs Bresenham: which uses only integer arithmetic?",
+      "back": "Bresenham."
+    },
+    {
+      "front": "Initial decision parameter of Bresenham's line algorithm?",
+      "back": "p₀ = 2Δy − Δx."
+    },
+    {
+      "front": "Initial decision parameter of the midpoint circle algorithm?",
+      "back": "p₀ = 1 − r (5/4 − r rounded)."
+    },
+    {
+      "front": "Rotation matrix for θ anticlockwise (2D)?",
+      "back": "[[cos θ, −sin θ], [sin θ, cos θ]]."
+    },
+    {
+      "front": "Why use homogeneous coordinates?",
+      "back": "So translation, rotation and scaling are all matrix multiplications and can be composed into one matrix."
+    },
+    {
+      "front": "Cohen-Sutherland: when is a line trivially rejected?",
+      "back": "When the logical AND of the two endpoint region codes is not 0000."
+    },
+    {
+      "front": "Region code of a point inside the window?",
+      "back": "0000"
+    },
+    {
+      "front": "Polygon clipping algorithm that clips against each window edge in turn?",
+      "back": "Sutherland-Hodgman."
+    },
+    {
+      "front": "Number of control points for a cubic Bezier curve?",
+      "back": "Four (degree = number of control points − 1)."
+    },
+    {
+      "front": "Is Z-buffer an object-space or image-space method?",
+      "back": "Image-space."
+    },
+    {
+      "front": "Gouraud vs Phong shading?",
+      "back": "Gouraud interpolates vertex intensities; Phong interpolates normals (better highlights)."
+    },
+    {
+      "front": "Two principles used in digitising multimedia?",
+      "back": "Sampling and quantisation."
+    },
+    {
+      "front": "Full form of JPEG?",
+      "back": "Joint Photographic Experts Group."
+    },
+    {
+      "front": "Extension of an MPEG audio file?",
+      "back": ".mp3 (MPEG Audio Layer III)."
+    },
+    {
+      "front": "Protocol for basic transmission of real-time multimedia?",
+      "back": "RTP (Real-time Transport Protocol)."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Pixel",
+      "hi": "चित्र तत्व (पिक्सेल)"
+    },
+    {
+      "en": "Resolution",
+      "hi": "विभेदन"
+    },
+    {
+      "en": "Frame buffer",
+      "hi": "फ्रेम बफ़र / चित्र स्मृति"
+    },
+    {
+      "en": "Scan conversion",
+      "hi": "स्कैन रूपांतरण"
+    },
+    {
+      "en": "Transformation",
+      "hi": "रूपांतरण"
+    },
+    {
+      "en": "Rotation",
+      "hi": "घूर्णन"
+    },
+    {
+      "en": "Scaling",
+      "hi": "मापन / आकार परिवर्तन"
+    },
+    {
+      "en": "Reflection",
+      "hi": "परावर्तन"
+    },
+    {
+      "en": "Clipping",
+      "hi": "कर्तन (क्लिपिंग)"
+    },
+    {
+      "en": "Projection",
+      "hi": "प्रक्षेपण"
+    },
+    {
+      "en": "Hidden surface",
+      "hi": "छिपी सतह"
+    },
+    {
+      "en": "Shading",
+      "hi": "छायांकन"
+    },
+    {
+      "en": "Compression",
+      "hi": "संपीडन"
+    },
+    {
+      "en": "Sampling",
+      "hi": "प्रतिचयन"
+    },
+    {
+      "en": "Animation",
+      "hi": "सजीवन (एनिमेशन)"
+    }
+  ]
+}

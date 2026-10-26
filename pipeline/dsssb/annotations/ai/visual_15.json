@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2023-06-24-s2-q143",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following are the dimensions of communication?\nDimensions:\ni) Downward\nii) Upward\niii) Horizontal/Lateral\niv) Diagonal\nv) Grapevine\nvi) Circular",
+   "options": [
+    "i, ii, iii, iv and v",
+    "ii, iii and v only",
+    "i, iv and iv only",
+    "i and ii only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "Option 3 repeats 'iv' ('i, iv and iv only').",
+   "changes": "Option 1: 'i, i, iii' → 'i, ii, iii'; Option 2: 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business communication & organisation",
+  "concept": "Directions (dimensions) of organisational communication",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In business communication, the **dimensions (directions) of communication** describe the paths along which messages flow in an organisation:\n- **Downward**: from superiors to subordinates (orders, policies).\n- **Upward**: from subordinates to superiors (reports, feedback, grievances).\n- **Horizontal/Lateral**: between people at the same level.\n- **Diagonal (cross-wise)**: between people at different levels in different departments.\n- **Grapevine**: the informal network that flows in all directions.\n'Circular' is not listed as a dimension; it is a pattern of a communication network (circle network), not a direction of flow. So i, ii, iii, iv and v are the dimensions, which is option A.\nWhy not the others: B, C and D each leave out recognised dimensions such as downward or diagonal."
+ },
+ {
+  "id": "2023-06-24-s2-q144",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following correctly defines coplanar force?",
+   "options": [
+    "When the lines of the action of all forces lie in one plane.",
+    "Two or more than two forces acting at a point.",
+    "A single force, which acting along with other forces, keeps the body in equilibrium.",
+    "A single force which produces the same effect as that produced by two or more forces acting on the body."
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Physics Basics",
+  "subtopic": "Units & electricity basics",
+  "concept": "Coplanar forces definition",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Forces are **coplanar** when the lines of action of all the forces lie in **one plane**. That is exactly option A.\nWhy not the others:\n- B (forces acting at a point) defines **concurrent** forces.\n- C (a single force that, together with the other forces, keeps the body in equilibrium) defines the **equilibrant**.\n- D (a single force producing the same effect as several forces together) defines the **resultant**.\nCoplanar forces may or may not be concurrent; the only condition is that all their lines of action lie in the same plane."
+ },
+ {
+  "id": "2023-06-24-s2-q145",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Physical quantities which have magnitude only are called scalar quantities.\nii) Physical quantities which have both magnitude and direction are called vector quantities.\niii) Two equal and opposite parallel forces acting at different points in a body constitute a couple.",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-True, iii-False",
+    "i-True, ii-False, iii-True"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il → ii; iil → iii; Iwo → Two; options: 1-True → i-True, Tre → True, il/ill → ii/iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Physics Basics",
+  "subtopic": "Units & electricity basics",
+  "concept": "Scalars, vectors and couple definitions",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. A scalar has magnitude only (mass, time, temperature).\n- ii) **True**. A vector has magnitude and direction (force, velocity, displacement); strictly it must also follow vector addition, but this is the standard definition.\n- iii) **True**. A **couple** is a pair of equal, opposite, parallel forces whose lines of action do not coincide (they act at different points). Its resultant force is zero but it produces a turning effect (moment = force × perpendicular distance).\nAll three are true, so the answer is option A (i-True, ii-True, iii-True)."
+ },
+ {
+  "id": "2023-06-24-s2-q146",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following protocols assign(s) dynamic IP?\ni) POP\nii) DHCP\niii) BOOTP\niv) SNMP\nv) ICMP",
+   "options": [
+    "i, ii, iii and v only",
+    "ii and iii only",
+    "ii, iii, iv and v only",
+    "i, ii and iii only"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Options: 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transport & application protocols",
+  "concept": "Protocols that assign IP addresses (DHCP, BOOTP)",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "IP addresses are handed out to hosts by **address-configuration protocols**:\n- **DHCP** (Dynamic Host Configuration Protocol) leases IP addresses dynamically from a pool.\n- **BOOTP** (Bootstrap Protocol) is the predecessor of DHCP; a BOOTP server supplies a booting host with its IP address. (Strictly, BOOTP uses a pre-configured table, and DHCP extended it with dynamic leasing, but BOOTP is the other protocol in the list that assigns IPs.)\nThe rest do not assign addresses:\n- **POP** retrieves e-mail from a mail server.\n- **SNMP** monitors and manages network devices.\n- **ICMP** reports errors and diagnostics (ping, destination unreachable).\nSo the answer is ii and iii only, option B."
+ },
+ {
+  "id": "2023-06-24-s2-q147",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following security services protects against repudiation?",
+   "options": [
+    "Nonrepudiation",
+    "Access control",
+    "Authentication",
+    "Data integrity"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Network Security & Cyber Law",
+  "subtopic": "Cryptography",
+  "concept": "Security service: nonrepudiation",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Repudiation** means a sender or receiver later denies having sent or received a message. The security service that protects against this is **nonrepudiation**, usually provided by digital signatures: the message carries proof (signed with the sender's private key) that only the sender could have produced.\nWhy not the others:\n- **Access control** prevents unauthorised use of resources.\n- **Authentication** confirms the identity of a communicating party.\n- **Data integrity** ensures the data was not modified in transit.\nThese are separate services in the ITU-T X.800 list; only nonrepudiation (option A) addresses denial of participation."
+ },
+ {
+  "id": "2023-06-24-s2-q148",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Service Set Identification (SSID) is human readable text string with a maximum length of 2000 bytes.\nii) Service Set Identification (SSID) acts as a single shared identifier between the access points and clients.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, ii-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option 2: 'il-True' → 'ii-True'"
+  },
+  "subject": "Computer Science",
+  "topic": "Mobile Computing & Emerging Tech",
+  "subtopic": "Mobile & wireless computing",
+  "concept": "SSID maximum length (32 bytes)",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The **SSID** is the name of a Wi-Fi (IEEE 802.11) network.\n- i) **False**. An SSID is a case-sensitive text string with a maximum length of **32 bytes** (octets), not 2000 bytes.\n- ii) **True**. All access points and client devices of one wireless network use the same SSID, so it acts as a single shared identifier that a client uses to join that network.\nSo the correct combination is i-False, ii-True, which is option B."
+ },
+ {
+  "id": "2023-06-24-s2-q149",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the column LIST-I with the column LIST-II.\nLIST-I | LIST-II\na) Front-End Framework | i) React JS\nb) Front-End Asset | ii) Tailwind CSS\nc) Front-End Boilerplate | iii) Font Awesome\nd) JavaScript Library: | iv) Reset CSS",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a- iii, b-i, c- iv, d-ii"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "The two lists are printed as a two-column table.",
+   "printedErrors": "",
+   "changes": "Rebuilt the table rows that OCR had split across lines"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": "Front-end tool categories (framework, library, asset)",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Classify each tool:\n- **Tailwind CSS** is a utility-first CSS **framework** → a-ii.\n- **Font Awesome** is an icon set, i.e. a ready-made **front-end asset** → b-iii.\n- **Reset CSS** is a small starter stylesheet that removes browser default styles, a piece of **boilerplate** code → c-iv.\n- **React JS** describes itself as a JavaScript **library** for building user interfaces → d-i.\nThis gives a-ii, b-iii, c-iv, d-i, which is option C.\nWhy not the others: A and D call React a front-end asset; B calls React a framework and Tailwind an asset."
+ },
+ {
+  "id": "2023-06-24-s2-q150",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following languages are object-oriented programming languages?\nLanguages:\ni) LISP\nii) Java\niii) C++\niv) Simula\nv) SQL\nvi) C",
+   "options": [
+    "i, ii, iii and iv only",
+    "ii, iii and iv only",
+    "i, ii, iii, iv, v and vi",
+    "i and ii only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "SOL → SQL; options: 'il' → 'ii', 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "subtopic": "OOP concepts",
+  "concept": "Object-oriented vs non-OOP languages",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "medium",
+  "keyAssessment": "ambiguous",
+  "keyNote": "The key (A) counts LISP as object-oriented. Classic LISP is a functional/list-processing language; it is object-oriented only through the later CLOS extension of Common Lisp. Textbook classification gives ii, iii and iv (option B), so both A and B can be argued.",
+  "explanation": "Check each language:\n- **Java** and **C++**: object-oriented (classes, inheritance, polymorphism).\n- **Simula**: Simula 67 introduced classes and objects and is regarded as the first object-oriented language.\n- **SQL**: a declarative database query language, not OOP.\n- **C**: a procedural language, not OOP.\n- **LISP**: originally a **functional**, list-processing language. Object orientation came later through extensions, chiefly **CLOS** (Common Lisp Object System), which is part of ANSI Common Lisp.\nOn the usual textbook classification, the OOP languages are Java, C++ and Simula, which is option B. The source key marks option A, which also includes LISP. That is defensible only if LISP is taken to mean Common Lisp with CLOS, so the question is ambiguous."
+ },
+ {
+  "id": "2023-06-24-s2-q151",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following is NOT a valid Software Life Cycle Model?",
+   "options": [
+    "JAD",
+    "Iterative",
+    "Prototype",
+    "Circular"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "subtopic": "SDLC & process models",
+  "concept": "Valid SDLC models",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Recognised software development life cycle models and approaches include Waterfall, Iterative, Incremental, Prototype, Spiral, V-model, RAD and Agile.\n- **JAD** (Joint Application Development) is a requirements and design approach in which users and developers work together in structured workshops. It is listed among SDLC methodologies.\n- **Iterative** model: the product is built in repeated cycles, each refining the previous version.\n- **Prototype** model: a working prototype is built and refined using customer feedback before the final system.\n- **Circular** is not a named SDLC model. (The Spiral model is cyclic, but 'Circular model' is not a recognised name.)\nSo the answer is option D."
+ },
+ {
+  "id": "2023-06-24-s2-q152",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the expected output of the following Java code?\npublic class operators {\n  public static void main(String[] args)\n  {\n    int a = 5;\n    int b = 7;\n    System.out.println(\"a&b = \" + (a & b));\n  }\n}",
+   "options": [
+    "a&b = 5",
+    "a&b = 7",
+    "a&b = 35",
+    "a&b = 2"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added missing braces '{' and '}'; '):' → ');'"
+  },
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "subtopic": "Java basics & JVM",
+  "concept": "Bitwise AND operator on integers",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "`&` applied to two `int` values is the **bitwise AND** operator: a result bit is 1 only if both input bits are 1.\n- a = 5 = `0101`\n- b = 7 = `0111`\n- a & b = `0101` = 5\nThe brackets around `(a & b)` make the AND happen first, and then the result is concatenated to the string, so the program prints `a&b = 5` (option A).\nWhy not the others: 7 would be `a | b` (bitwise OR), 35 is `a * b`, and 2 is `a ^ b` (XOR: 0101 ^ 0111 = 0010)."
+ },
+ {
+  "id": "2023-06-24-s2-q153",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "______ is a discipline which deals with the application of economic theory to business management.",
+   "options": [
+    "Business economics",
+    "Management Information System",
+    "Decision Support System",
+    "Information processing"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the leading blank '______'"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business economics",
+  "concept": "Definition of business (managerial) economics",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Business economics** (also called managerial economics) applies economic theory and tools of analysis to business decision-making, such as demand forecasting, pricing, production and cost decisions, and capital budgeting. The classic definition (Spencer and Siegelman) calls it the integration of economic theory with business practice to help management make decisions and plan ahead.\nWhy not the others:\n- **MIS** provides information to managers for routine decisions.\n- **Decision Support System** is an interactive computer system that helps with semi-structured decisions.\n- **Information processing** is the conversion of data into information.\nNone of these is a discipline applying economic theory, so the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q154",
+  "transcription": {
+   "verdict": "match",
+   "text": "What is the full form of WPF with respect to ASP.NET?",
+   "options": [
+    "Windows Presentation Foundation",
+    "Windows Presentation Framework",
+    "Windows Programming Force",
+    "Windows Presentation File"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": "WPF full form",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**WPF** stands for **Windows Presentation Foundation**. It is Microsoft's UI framework in .NET for building Windows desktop applications. It uses **XAML** (an XML-based markup language) to describe the user interface and supports data binding, styles, templates, vector graphics and animation.\nStrictly, WPF belongs to the .NET framework family rather than to ASP.NET (which is for web applications), but the full form is the same either way. It was introduced with .NET Framework 3.0 together with WCF (Windows Communication Foundation) and WF (Windows Workflow Foundation), which explains the word 'Foundation'.\nSo the answer is option A; 'Framework', 'Programming Force' and 'File' are distractors."
+ },
+ {
+  "id": "2023-06-24-s2-q155",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Just-In-Time compiler (JIT) is a part of Common Language Runtime (CLR).\nii) NET Framework is part of the .NET platform, a collection of technologies for building apps for Linux, macOS, Windows, iOS, Android.\niii) ASP.NET applications are compiled codes, written using the extensible and reusable components or objects present in .Net framework.",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-False, iii-True",
+    "i-False, ii-False, iii-True"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "Statement ii begins 'NET Framework' without the leading dot ('.NET Framework').",
+   "changes": "il → ii; NEI → NET; macOs → macOS; iOs → iOS; ASPINET → ASP.NET; option numerals 1/il/ill/ili → i/ii/iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": ".NET CLR, JIT and ASP.NET basics",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. The CLR (Common Language Runtime) contains the **JIT compiler**, which converts MSIL/CIL code into native machine code at run time.\n- ii) **True** as worded. Microsoft's documentation describes .NET Framework as part of the .NET platform, a collection of technologies for building apps for Linux, macOS, Windows, iOS, Android and more. (.NET Framework itself runs on Windows; the cross-platform part is .NET Core/.NET, but the statement describes the wider platform.)\n- iii) **True**. ASP.NET pages are compiled, not interpreted, and are built from the extensible, reusable components and objects of the .NET framework.\nSo all three are true: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q156",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following is NOT a key driver of e-business?",
+   "options": [
+    "Commercial benefits",
+    "Skilled and committed workforce",
+    "Requirements of customers and suppliers",
+    "Supplementary workforce"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "E-commerce models & payments",
+  "concept": "Key drivers of e-business",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The forces that push organisations to adopt e-business include:\n- **Commercial benefits**: lower costs, wider market reach, faster transactions.\n- **Requirements of customers and suppliers**: trading partners expect online ordering, tracking and integration.\n- **A skilled and committed workforce**: people who can use and support the technology make e-business possible.\nA **supplementary workforce** (extra or temporary staff added to the regular workforce) is not a driver of e-business adoption. It has nothing to do with why a firm moves its processes online. So the answer is option D.\nThis item reflects a textbook list of e-business drivers; the exact list varies between textbooks, but D is clearly the odd one out."
+ },
+ {
+  "id": "2023-06-24-s2-q157",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following are management information system resources?\nResources:\ni) Hardware ii) Software iii) People iv) Data",
+   "options": [
+    "i, ii, iii and iv",
+    "ii, iii and iv only",
+    "iii and iv only",
+    "i and ii only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Options: 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "MIS & decision support",
+  "concept": "Resources (components) of an MIS",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "An information system, including a management information system, is built from several kinds of resources:\n- **Hardware**: computers, peripherals and other physical devices.\n- **Software**: programs and procedures that process the data.\n- **People**: end users and IS specialists who run and use the system.\n- **Data**: the raw facts stored in databases and knowledge bases.\nStandard textbook models (e.g. O'Brien's) also list **network** resources, but every item given here is an MIS resource. So all four (i, ii, iii and iv) are correct, which is option A. The other options leave out at least one essential resource."
+ },
+ {
+  "id": "2023-06-24-s2-q158",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Clipping process determines each element into the visible and invisible portion. The visible portion is selected. An invisible portion is discarded.\nii) Clipping can be applied through hardware as well as software.\niii) Point clipping, area clipping and text clipping are the types of clipping.",
+   "options": [
+    "i-True, ii-True, iii-False",
+    "i-True, ii-True, iii-True",
+    "i-True, ii-False, iii-True",
+    "i-False, ii-False, iii-False"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "truthfulmess → truthfulness; Al → An; i) → ii); cam → can; ini) → iii); elipping → clipping; option numerals 1/il/ill/ili → i/ii/iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "subtopic": "Clipping",
+  "concept": "Clipping definition and types",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. Clipping divides each element of a picture into the part inside the clipping window (visible), which is kept, and the part outside (invisible), which is discarded.\n- ii) **True**. Clipping can be done in software (algorithms such as Cohen-Sutherland) or in hardware (dedicated clipping circuits in graphics processors).\n- iii) **True**. Types of clipping include point clipping, line clipping, area (polygon) clipping, curve clipping and text clipping.\nAll three are true, so the answer is option B."
+ },
+ {
+  "id": "2023-06-24-s2-q159",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Solid modeling is based on ______, ______ and ______ geometric representation of physical object.",
+   "options": [
+    "complete; valid; unambiguous",
+    "complete; valid; varying",
+    "incomplete; valid; unambiguous",
+    "complete; valid; undefined"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored word order and the three blanks"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "subtopic": "Curves, surfaces & hidden surfaces",
+  "concept": "Solid modeling: complete, valid, unambiguous",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Solid modeling** represents an object as a closed volume, not just as edges (wireframe) or faces (surface model). Its defining property is that the representation is:\n- **Complete**: it holds enough information to answer any geometric question, e.g. whether a point is inside the object, or its volume and mass.\n- **Valid**: it describes a physically realisable solid (no dangling edges or faces).\n- **Unambiguous**: each representation corresponds to exactly one solid.\nSo the blanks are complete, valid and unambiguous, option A.\nWhy not the others: 'incomplete', 'varying' and 'undefined' contradict the purpose of a solid model, which is an exact, informationally complete description."
+ },
+ {
+  "id": "2023-06-24-s2-q160",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the expected output of the following Python code?\nprint(\"\\nDictionary Iteration\")\nd = dict()\nd['lmn'] = 123\nd['abc'] = 345\nfor i in d :\n    print(\"%s %d\" %(i, d[i]))",
+   "options": [
+    "Dictionary Iteration\nlmn 123\nabc 345",
+    "Dictionary Iteration’\n123 lmn\nabc 345",
+    "Dictionary Iteration’\n123 lmn\n345 abc",
+    "Dictionary Iteration’\nlmn 345\nabc 123"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "Options 2-4 show a stray closing quote after 'Iteration' (Dictionary Iteration’).",
+   "changes": "\" nDictionary → \"\\nDictionary; dictO → dict(); d''Imn'] → d['lmn']; dl'abc'l → d['abc']; print(*%s → print(\"%s; Imn → lmn in options"
+  },
+  "subject": "Computer Science",
+  "topic": "Python Programming",
+  "subtopic": "Strings, lists, tuples & dictionaries",
+  "concept": "Iterating over a dictionary (insertion order)",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Step by step:\n- `print(\"\\nDictionary Iteration\")` prints a blank line (from `\\n`) and then `Dictionary Iteration`.\n- `d = dict()` creates an empty dictionary; then `d['lmn'] = 123` and `d['abc'] = 345` add two key-value pairs.\n- `for i in d:` iterates over the **keys**. Since Python 3.7, dictionaries keep **insertion order**, so the keys come out as `lmn`, then `abc`.\n- `\"%s %d\" % (i, d[i])` prints the key (string) followed by its value (integer).\nOutput:\n`Dictionary Iteration`\n`lmn 123`\n`abc 345`\nThis is option A. B and C put the value before the key, and D pairs the keys with the wrong values."
+ },
+ {
+  "id": "2023-06-24-s2-q161",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Find the rank of the given matrix.\n[ 1 5 6 ]\n[ 2 3 4 ]\n[ −1 2 2 ]",
+   "options": [
+    "2",
+    "6",
+    "9",
+    "4"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "A 3×3 matrix with rows (1, 5, 6), (2, 3, 4) and (−1, 2, 2).",
+   "printedErrors": "",
+   "changes": "Rebuilt the matrix from the image; option 1 was empty → '2'"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Matrices & calculus",
+  "concept": "Rank of a 3×3 matrix",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Matrix rows: (1, 5, 6), (2, 3, 4), (−1, 2, 2).\n**Step 1: determinant.**\ndet = 1(3·2 − 4·2) − 5(2·2 − 4·(−1)) + 6(2·2 − 3·(−1))\n= 1(6 − 8) − 5(4 + 4) + 6(4 + 3)\n= −2 − 40 + 42 = 0\nSo the rank is less than 3.\n**Step 2: find a non-zero 2×2 minor.** From the first two rows and columns: 1·3 − 5·2 = −7 ≠ 0.\nSo the rank is **2** (option A). (Check: R₃ = R₂ − R₁ gives (2−1, 3−5, 4−6) = (1, −2, −2) = −(−1, 2, 2), so the rows are dependent.)\nWhy not the others: a 3×3 matrix can never have rank greater than 3, so 6, 9 and 4 are impossible."
+ },
+ {
+  "id": "2023-06-24-s2-q162",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following input devices is used to detect orientation and angular velocity?",
+   "options": [
+    "Light pen",
+    "Gyroscope",
+    "Magnetometer",
+    "Proximity sensor"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Hardware, input/output devices",
+  "concept": "Gyroscope sensor function",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A **gyroscope** sensor measures **angular velocity** (rate of rotation about the x, y and z axes). Integrating this rotation tells the device how its **orientation** has changed. Phones, game controllers and VR headsets use it for motion control and screen rotation.\nWhy not the others:\n- **Light pen**: a pointing device that selects or draws on a CRT screen.\n- **Magnetometer**: measures the strength and direction of a magnetic field (used as a digital compass); it gives heading, not angular velocity.\n- **Proximity sensor**: detects nearby objects, e.g. turning off a phone screen near the ear.\nSo the answer is option B."
+ },
+ {
+  "id": "2023-06-24-s2-q163",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) A compiler translates the entire source code line by line.\nii) Computer architecture refers to those attributes of a system visible to a programmer.\niii) The Reduced Instruction Set Architecture (RISC) computer organisation reduces the cycles per instruction at the cost of the number of instructions per program to increase the CPU performance.\niv) All the arithmetic and logical processing is performed by the Arithmetic Logic Unit under the supervision of a control unit.",
+   "options": [
+    "i-True, ii-True, iii-True, iv-True",
+    "i-False, ii-True, iii-True, iv-True",
+    "i-True, ii-False, iii-True, iv-True",
+    "i-False, ii-False, iii-True, iv-False"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "lime → line; 1l) → iii); orgamisation → organisation; option numerals 1/li/ili → i/ii/iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Architecture",
+  "subtopic": "CPU, registers & instruction cycle",
+  "concept": "Compiler vs interpreter; architecture vs organisation; RISC",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **False**. A compiler translates the **entire program at once** into object code; translating line by line is what an **interpreter** does.\n- ii) **True**. Computer architecture is the set of attributes visible to the programmer (instruction set, data types, addressing modes, I/O mechanisms); organisation is how they are implemented.\n- iii) **True**. CPU time = instructions/program × cycles/instruction × time/cycle. RISC lowers cycles per instruction (simple, often single-cycle instructions) but needs more instructions per program.\n- iv) **True**. The ALU performs arithmetic and logical operations, while the control unit directs and supervises it.\nSo i-False, ii-True, iii-True, iv-True: option B."
+ },
+ {
+  "id": "2023-06-24-s2-q164",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A stack is a liner data structure in which insertion and deletion of elements are done at only one end, which is known as the top of the stack. Stack is called a last-in, first-out (LIFO) structure because the last element which is added to the stack is the first element which is deleted from the stack.\nTop → L\nM\nN\nO\nP\nBottom → Q\nRead the above paragraph and answer the following.\nWhich of the following items will be at the top in the stack after removing three items?",
+   "options": [
+    "O",
+    "L",
+    "N",
+    "P"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "A vertical stack of six boxes labelled, from Top to Bottom: L, M, N, O, P, Q.",
+   "printedErrors": "'liner' is printed for 'linear'.",
+   "changes": "Filled in the stack contents from the figure; options were empty → O, L, P"
+  },
+  "subject": "Computer Science",
+  "topic": "Data Structures",
+  "subtopic": "Stacks & queues",
+  "concept": "Stack LIFO pop sequence",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In a stack, removal (pop) always happens at the **top**, following LIFO.\nStack from top to bottom: L, M, N, O, P, Q.\n- Pop 1 removes **L** → top is M\n- Pop 2 removes **M** → top is N\n- Pop 3 removes **N** → top is **O**\nAfter three removals the stack is O, P, Q with **O** on top, which is option A.\nWhy not the others: L is the original top (no removal); N is the third item removed, so it is no longer in the stack; P would be on top only after four removals."
+ },
+ {
+  "id": "2023-06-24-s2-q165",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) The ‘communications’, ‘Schedules’ and ‘Task lists’ are key functionality aspects of project management software to guide you in your decision.\nii) A data warehouse is a relational database that is designed for query and analysis rather than transaction processing.\niii) Software integration option is one of the criteria for selecting project management software.",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-True, iii-False",
+    "i-True, ii-False, iii-True"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "truthfuluess → truthfulness; second and third 'i)' → ii), iii); mana gement → management; option numerals 1/il/ill → i/ii/iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "subtopic": "Project management & estimation",
+  "concept": "Project management software selection criteria",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. When choosing project management software, the key functions to compare are communication/collaboration tools, scheduling (Gantt charts, timelines) and task lists or task management.\n- ii) **True**. This is the standard definition (used, for example, by Oracle): a data warehouse is a relational database designed for **query and analysis** (OLAP) rather than for transaction processing (OLTP). It holds historical data drawn from many sources.\n- iii) **True**. Whether the tool integrates with other software (e-mail, calendars, accounting, version control) is a common selection criterion.\nAll three are true: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q166",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following languages is referred to as a database language?",
+   "options": [
+    "SQL",
+    "VJ++",
+    "HTML",
+    "Python"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "IOS → SQL; VI++ → VJ++"
+  },
+  "subject": "Computer Science",
+  "topic": "DBMS & SQL",
+  "subtopic": "SQL",
+  "concept": "SQL as a database language",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**SQL** (Structured Query Language) is the standard database language for relational databases. It includes:\n- **DDL** (CREATE, ALTER, DROP) to define structures,\n- **DML** (SELECT, INSERT, UPDATE, DELETE) to work with data,\n- **DCL** (GRANT, REVOKE) and **TCL** (COMMIT, ROLLBACK).\nWhy not the others:\n- **VJ++** (Visual J++) was Microsoft's Java development tool.\n- **HTML** is a markup language for web pages.\n- **Python** is a general-purpose programming language; it can connect to databases through libraries but is not itself a database language.\nSo the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q167",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following devices works at the network layer of the ISO-OSI reference model?",
+   "options": [
+    "Hub",
+    "Router",
+    "Amplifier",
+    "Repeater"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transmission media & devices",
+  "concept": "Network devices and OSI layers",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A **router** works at the **network layer (Layer 3)**. It reads the logical (IP) address in each packet and forwards it between different networks using its routing table.\nWhy not the others:\n- **Hub**: Layer 1 (physical); it repeats incoming signals out of all ports.\n- **Repeater**: Layer 1; it regenerates a signal to extend cable length.\n- **Amplifier**: boosts an analog signal, also at the physical level.\n(For reference: switches and bridges work at Layer 2, data link; gateways can work up to Layer 7.) So the answer is option B."
+ }
+]

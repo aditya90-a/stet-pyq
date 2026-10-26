@@ -1,0 +1,290 @@
+{
+  "slug": "physics-basics",
+  "subject": "Computer Science",
+  "topic": "Physics Basics",
+  "titleHi": "भौतिकी के मूल तत्व",
+  "summary": "Covers SI units, electric charge and Coulomb's law, current and resistance, series and parallel circuits, power and AC basics, elasticity and fluid flow, and semiconductors - band theory, doping, p-n junction diodes, rectifiers and transistors. DSSSB asks direct questions here (laws, units, equivalent resistance, moduli, types of flow, transistor facts), so a quick formula revision earns easy marks.",
+  "sections": [
+    {
+      "heading": "Physical quantities and SI units",
+      "level": "basic",
+      "subtopic": "Units & electricity basics",
+      "body": "The **SI system** has **seven base quantities**; all other units are derived from them. Two supplementary units are the radian (plane angle) and steradian (solid angle). Common derived units: **newton** N = kg m s⁻² (force), **joule** J = N m (work, energy), **watt** W = J s⁻¹ (power), **coulomb** C = A s (charge), **volt** V = J C⁻¹ (potential difference), **ohm** Ω = V A⁻¹ (resistance), **siemens** S = Ω⁻¹ (conductance), **farad** F = C V⁻¹ (capacitance), **henry** H (inductance), **weber** Wb (magnetic flux), **tesla** T (magnetic field), **hertz** Hz = s⁻¹ (frequency), **pascal** Pa = N m⁻² (pressure).\n\nPrefixes: pico 10⁻¹², nano 10⁻⁹, micro 10⁻⁶, milli 10⁻³, kilo 10³, mega 10⁶, giga 10⁹, tera 10¹².",
+      "table": {
+        "columns": [
+          "Base quantity",
+          "SI unit",
+          "Symbol"
+        ],
+        "rows": [
+          [
+            "Length",
+            "metre",
+            "m"
+          ],
+          [
+            "Mass",
+            "kilogram",
+            "kg"
+          ],
+          [
+            "Time",
+            "second",
+            "s"
+          ],
+          [
+            "Electric current",
+            "ampere",
+            "A"
+          ],
+          [
+            "Thermodynamic temperature",
+            "kelvin",
+            "K"
+          ],
+          [
+            "Amount of substance",
+            "mole",
+            "mol"
+          ],
+          [
+            "Luminous intensity",
+            "candela",
+            "cd"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Electric charge, Coulomb's law and potential",
+      "level": "basic",
+      "subtopic": "Units & electricity basics",
+      "body": "Charge is **quantised** (q = ne, with e = 1.6 × 10⁻¹⁹ C) and **conserved**. Like charges repel, unlike charges attract.\n\n**Coulomb's law**: the force between two point charges is **directly proportional to the product of the charges** and inversely proportional to the square of the distance between them: **F = k q₁q₂ / r²**, where k = 1/(4πε₀) ≈ 9 × 10⁹ N m² C⁻². Doubling the distance makes the force one-fourth.\n\n- **Electric field** E = F/q (N C⁻¹ or V m⁻¹); field lines start on positive and end on negative charges.\n- **Electric potential** V = W/q (volt); **potential difference** drives current.\n- **Gauss's law**: total electric flux through a closed surface = q/ε₀.\n- Conductors allow charges to move freely (metals); insulators do not (glass, rubber)."
+    },
+    {
+      "heading": "Current, Ohm's law and resistance",
+      "level": "basic",
+      "subtopic": "Units & electricity basics",
+      "body": "**Electric current** I = Q/t (ampere). Conventional current flows from + to −, opposite to electron flow.\n\n**Ohm's law**: at constant temperature, the current through a conductor is proportional to the potential difference: **V = IR**. Devices obeying it are ohmic; diodes and transistors are non-ohmic.\n\n**Resistance** R = ρL/A, where ρ is the **resistivity** (Ω m), a property of the material and temperature; conductivity σ = 1/ρ; conductance G = 1/R. Stretching a wire to n times its length (same volume) makes R n² times.\n\n**Effect of temperature**: resistance of **metals increases** with temperature (positive temperature coefficient); resistance of **semiconductors decreases** (negative coefficient); **superconductors** have zero resistance below a critical temperature.\n\nA cell of emf E with internal resistance r gives terminal voltage **V = E − Ir** while supplying current I."
+    },
+    {
+      "heading": "Circuits: series, parallel, Kirchhoff and power",
+      "level": "intermediate",
+      "subtopic": "Units & electricity basics",
+      "body": "- **Series**: R = R₁ + R₂ + …; same current through each; voltages add. n equal resistors R in series give **nR** (e.g. three 3 Ω in series = 9 Ω).\n- **Parallel**: 1/R = 1/R₁ + 1/R₂ + …; same voltage across each; currents add; the equivalent is **smaller than the smallest** resistor; n equal resistors give R/n. For two resistors R = R₁R₂/(R₁ + R₂).\n- **Capacitors** combine the opposite way: parallel C = C₁ + C₂; series 1/C = 1/C₁ + 1/C₂. Capacitance C = Q/V; energy stored = ½CV².\n\n**Kirchhoff's laws**: **current (junction) law** - the sum of currents entering a junction equals the sum leaving (conservation of charge); **voltage (loop) law** - the algebraic sum of potential differences round a closed loop is zero (conservation of energy).\n\n**Power** P = VI = I²R = V²/R (watt). **Energy** = P × t; the commercial unit is the **kilowatt-hour** (1 kWh = 1 \"unit\" = 3.6 × 10⁶ J). **Joule heating**: H = I²Rt.\n\n**AC basics**: v = V₀ sin ωt; **V_rms = V₀/√2**. Indian domestic supply is 230 V (rms) at 50 Hz, so its peak is about 325 V. A **transformer** works only on AC by mutual induction: V_s/V_p = N_s/N_p (step-up if N_s > N_p). **Faraday's law**: induced emf = rate of change of magnetic flux; **Lenz's law** gives its direction (opposes the change)."
+    },
+    {
+      "heading": "Elasticity and fluid flow",
+      "level": "intermediate",
+      "subtopic": "Units & electricity basics",
+      "body": "**Stress** = force per unit area; **strain** = fractional change in dimension (no unit). **Hooke's law**: within the elastic limit, stress ∝ strain; the constant is a **modulus of elasticity** (unit N m⁻² = Pa).\n- **Young's modulus** Y = longitudinal (tensile) stress ÷ longitudinal strain.\n- **Bulk (volume) modulus** B = volume stress (pressure change) ÷ volumetric strain; **compressibility** = 1/B.\n- **Shear modulus (modulus of rigidity)** G = shearing stress ÷ shearing strain.\n- **Poisson's ratio** = lateral strain ÷ longitudinal strain.\nSteel is more elastic than rubber because it has a larger modulus.\n\n**Fluid flow**: in **streamline (laminar) flow** the liquid moves in orderly layers and the velocity at a point stays constant; above a **critical velocity** flow becomes **turbulent** - zigzag, random, with eddies. The **Reynolds number** Re = ρvd/η decides the type: in NCERT, Re below about 1000 is streamline and above about 2000 is turbulent (other texts quote slightly different limits). **Viscosity** is internal friction of a fluid; **Bernoulli's principle** relates pressure, speed and height along a streamline."
+    },
+    {
+      "heading": "Semiconductors: bands and doping",
+      "level": "basic",
+      "subtopic": "Semiconductors",
+      "body": "**Energy bands**: electrons occupy the **valence band**; free electrons are in the **conduction band**; the gap between them is the **forbidden energy gap Eg**.\n- **Conductors** - bands overlap (no gap).\n- **Insulators** - large gap (Eg > 3 eV; diamond about 5.4 eV).\n- **Semiconductors** - small gap (Eg < 3 eV): **silicon about 1.1 eV**, **germanium about 0.7 eV**. At 0 K a semiconductor behaves as an insulator; conductivity rises with temperature.\n\n**Intrinsic semiconductor**: pure Si or Ge (tetravalent, group 14); thermal energy breaks covalent bonds, creating equal numbers of free electrons and **holes** (vacancies that behave as positive carriers): nₑ = nₕ = nᵢ.\n\n**Extrinsic semiconductor** (doped with a tiny amount of impurity):\n- **n-type** - **pentavalent** donor impurity (phosphorus, arsenic, antimony); **majority carriers electrons**, minority holes.\n- **p-type** - **trivalent** acceptor impurity (boron, aluminium, gallium, indium); **majority carriers holes**, minority electrons.\nBoth types remain electrically **neutral**. In equilibrium nₑ × nₕ = nᵢ²."
+    },
+    {
+      "heading": "p-n junction diode and its applications",
+      "level": "intermediate",
+      "subtopic": "Semiconductors",
+      "body": "At a **p-n junction**, electrons and holes diffuse across and recombine, leaving a **depletion layer** of immobile ions and a **barrier potential** (about **0.7 V for Si**, about **0.2-0.3 V for Ge**).\n- **Forward bias** (p to +, n to −): barrier and depletion width decrease; current rises sharply beyond the **knee (cut-in) voltage**.\n- **Reverse bias**: depletion layer widens; only a tiny **reverse saturation current** due to minority carriers flows, until **breakdown** (Zener or avalanche) at high reverse voltage.\nA diode therefore conducts in one direction only.\n\n**Applications**:\n- **Rectifier** (AC to DC): **half-wave** uses one diode, output frequency = input frequency (50 Hz); **full-wave** uses two diodes with a centre-tap transformer or **four diodes in a bridge**, output ripple frequency = 2 × input (100 Hz). A capacitor **filter** smooths the output. Maximum efficiency: half-wave 40.6%, full-wave 81.2%.\n- **Zener diode** - heavily doped, works in **reverse breakdown**; used as a **voltage regulator**.\n- **LED** - forward biased; emits light as electrons recombine with holes (GaAs, GaAsP).\n- **Photodiode** - reverse biased; current depends on light intensity (light sensors).\n- **Solar cell** - no external bias; converts light into electrical energy (photovoltaic effect)."
+    },
+    {
+      "heading": "Transistors and their use in computers",
+      "level": "intermediate",
+      "subtopic": "Semiconductors",
+      "body": "A **transistor** is a semiconductor device that acts as a **controlled electronic switch** and as an **amplifier**. The bipolar junction transistor (BJT) was invented at Bell Labs (Bardeen, Brattain, Shockley, 1947). Transistors replaced vacuum tubes in **second-generation** computers; integrated circuits (ICs) pack many transistors on one chip.\n\n**BJT structure** - **npn** or **pnp** with three regions: **emitter** (heavily doped, supplies carriers), **base** (very thin, lightly doped), **collector** (moderately doped, largest, collects carriers). The arrow on the emitter shows conventional current direction.\n- **I_E = I_B + I_C**; current gain **α = I_C/I_E** (slightly less than 1); **β = I_C/I_B** (large, e.g. 50-200); **β = α/(1 − α)**.\n- Configurations: common base, **common emitter** (most used, high gain), common collector (emitter follower).\n- **Active region** (emitter-base forward biased, collector-base reverse biased) → amplifier. **Cut-off** (both junctions reverse biased) = switch OFF; **saturation** (both forward biased) = switch ON. This ON/OFF action represents binary 0 and 1 in digital logic gates.\n\n**FET/MOSFET** - voltage-controlled, very high input impedance; **CMOS** (complementary MOS) circuits use very little power and form modern processors and memories."
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Coulomb's law",
+      "formula": "F = k q₁q₂ / r²,  k = 9 × 10⁹ N m² C⁻²",
+      "note": "Force ∝ product of charges, ∝ 1/r²."
+    },
+    {
+      "name": "Ohm's law",
+      "formula": "V = IR",
+      "note": "At constant temperature."
+    },
+    {
+      "name": "Resistance",
+      "formula": "R = ρL/A",
+      "note": "Stretching to n times length (same volume) → n²R."
+    },
+    {
+      "name": "Series / parallel resistors",
+      "formula": "R_s = R₁ + R₂ + …;  1/R_p = 1/R₁ + 1/R₂ + …",
+      "note": "n equal resistors: nR and R/n."
+    },
+    {
+      "name": "Electric power",
+      "formula": "P = VI = I²R = V²/R",
+      "note": "1 kWh = 3.6 × 10⁶ J."
+    },
+    {
+      "name": "RMS value",
+      "formula": "V_rms = V₀/√2",
+      "note": "Same for current."
+    },
+    {
+      "name": "Transformer",
+      "formula": "V_s/V_p = N_s/N_p = I_p/I_s",
+      "note": "Ideal transformer."
+    },
+    {
+      "name": "Moduli of elasticity",
+      "formula": "Y = (F/A)/(ΔL/L);  B = −p/(ΔV/V);  G = shear stress/shear strain",
+      "note": "All in N m⁻² (Pa)."
+    },
+    {
+      "name": "Transistor currents",
+      "formula": "I_E = I_B + I_C;  α = I_C/I_E;  β = I_C/I_B = α/(1 − α)",
+      "note": ""
+    }
+  ],
+  "workedExamples": [
+    {
+      "problem": "Practice: (a) Resistors of 3 Ω and 6 Ω in parallel are connected in series with 4 Ω across a 12 V battery. Find the total current, the current in each parallel branch and the total power. (b) A copper wire (ρ = 1.7 × 10⁻⁸ Ω m) is 2 m long with cross-section 1 mm². Find its resistance.",
+      "solution": "(a) Parallel part: 3×6/(3 + 6) = 18/9 = 2 Ω. Total R = 2 + 4 = 6 Ω.\nI = 12/6 = **2 A**. Voltage across the parallel part = 2 × 2 = 4 V.\nCurrent in 3 Ω = 4/3 ≈ **1.33 A**; in 6 Ω = 4/6 ≈ **0.67 A** (sum 2 A, KCL satisfied).\nPower = VI = 12 × 2 = **24 W**.\n(b) A = 1 mm² = 1 × 10⁻⁶ m². R = ρL/A = 1.7 × 10⁻⁸ × 2 / 10⁻⁶ = **0.034 Ω**."
+    },
+    {
+      "problem": "Practice: Two point charges of +2 μC and +3 μC are 30 cm apart in air. Find the force between them. What is it if the distance is halved?",
+      "solution": "F = 9 × 10⁹ × (2 × 10⁻⁶)(3 × 10⁻⁶) / (0.3)² = 9 × 10⁹ × 6 × 10⁻¹² / 0.09 = 0.054/0.09 = **0.6 N**, repulsive (like charges).\nHalving r multiplies F by 4: **2.4 N**."
+    },
+    {
+      "problem": "Practice: A house uses five 60 W bulbs for 6 hours a day and a 1 kW heater for 2 hours a day on 230 V mains. Find the monthly (30-day) energy, the bill at ₹6 per unit, and the heater's current and resistance.",
+      "solution": "Bulbs: 5 × 60 W × 6 h = 1,800 Wh = 1.8 kWh/day. Heater: 1 kW × 2 h = 2 kWh/day.\nDaily = 3.8 kWh; monthly = 3.8 × 30 = **114 units**; bill = 114 × 6 = **₹684**.\nHeater current I = P/V = 1000/230 ≈ **4.35 A**; resistance R = V²/P = 230²/1000 = **52.9 Ω**."
+    },
+    {
+      "problem": "Practice: In a transistor α = 0.98 and emitter current is 5 mA. Find I_C, I_B and β. Also state the output frequency of half-wave and full-wave rectifiers fed from 50 Hz mains.",
+      "solution": "I_C = α I_E = 0.98 × 5 = **4.9 mA**.\nI_B = I_E − I_C = 5 − 4.9 = **0.1 mA**.\nβ = I_C/I_B = 4.9/0.1 = **49** (check: α/(1 − α) = 0.98/0.02 = 49).\nRectifiers: half-wave output frequency = **50 Hz**; full-wave = **100 Hz**."
+    }
+  ],
+  "pitfalls": [
+    "Kelvin (not degree Celsius) is the SI base unit of temperature; candela is the base unit of luminous intensity.",
+    "In parallel the equivalent resistance is less than the smallest resistor; capacitors combine the opposite way.",
+    "Resistance of semiconductors falls with temperature, unlike metals.",
+    "n-type uses pentavalent donors (majority electrons); p-type uses trivalent acceptors (majority holes); both are neutral.",
+    "Zener diodes regulate voltage in reverse bias; LEDs work in forward bias; photodiodes in reverse bias.",
+    "Base of a transistor is thin and lightly doped; emitter is heavily doped.",
+    "Young's modulus is for length, bulk modulus for volume, shear modulus for shape.",
+    "Turbulent flow is zigzag and random; orderly flow is streamline (laminar)."
+  ],
+  "quickRevision": [
+    "Seven SI base units: m, kg, s, A, K, mol, cd.",
+    "Coulomb's law: F ∝ q₁q₂/r².",
+    "V = IR; R = ρL/A.",
+    "Three 3 Ω resistors in series = 9 Ω; in parallel = 1 Ω.",
+    "P = VI = I²R = V²/R; 1 kWh = 3.6 MJ.",
+    "KCL: conservation of charge; KVL: conservation of energy.",
+    "Indian mains: 230 V rms, 50 Hz.",
+    "Band gap: Si ≈ 1.1 eV, Ge ≈ 0.7 eV.",
+    "Barrier potential: Si ≈ 0.7 V, Ge ≈ 0.2-0.3 V.",
+    "Bridge rectifier uses four diodes; full-wave ripple frequency is twice the input.",
+    "β = α/(1 − α); I_E = I_B + I_C.",
+    "Transistor = semiconductor controlled switch; used from second-generation computers."
+  ],
+  "flashcards": [
+    {
+      "front": "SI unit of electric current?",
+      "back": "Ampere (A) - a base unit."
+    },
+    {
+      "front": "Law giving force between two charges?",
+      "back": "Coulomb's law: F = kq₁q₂/r²."
+    },
+    {
+      "front": "Equivalent of two 4 Ω resistors in series and in parallel?",
+      "back": "8 Ω in series; 2 Ω in parallel."
+    },
+    {
+      "front": "Formula for electrical power?",
+      "back": "P = VI = I²R = V²/R."
+    },
+    {
+      "front": "How many joules in 1 kWh?",
+      "back": "3.6 × 10⁶ J."
+    },
+    {
+      "front": "RMS value of AC with peak V₀?",
+      "back": "V₀/√2."
+    },
+    {
+      "front": "Ratio defining Young's modulus?",
+      "back": "Longitudinal stress ÷ longitudinal strain."
+    },
+    {
+      "front": "What is turbulent flow?",
+      "back": "Irregular, zigzag, random flow with eddies, above the critical velocity."
+    },
+    {
+      "front": "Majority carriers in p-type semiconductor?",
+      "back": "Holes."
+    },
+    {
+      "front": "Impurities used for n-type doping?",
+      "back": "Pentavalent: phosphorus, arsenic, antimony."
+    },
+    {
+      "front": "Which diode is used as a voltage regulator?",
+      "back": "Zener diode (in reverse breakdown)."
+    },
+    {
+      "front": "Relation between α and β of a transistor?",
+      "back": "β = α/(1 − α)."
+    },
+    {
+      "front": "Which region of a BJT is thinnest and lightly doped?",
+      "back": "Base."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Electric charge",
+      "hi": "विद्युत आवेश"
+    },
+    {
+      "en": "Current",
+      "hi": "धारा"
+    },
+    {
+      "en": "Resistance",
+      "hi": "प्रतिरोध"
+    },
+    {
+      "en": "Potential difference",
+      "hi": "विभवांतर"
+    },
+    {
+      "en": "Power",
+      "hi": "शक्ति"
+    },
+    {
+      "en": "Semiconductor",
+      "hi": "अर्धचालक"
+    },
+    {
+      "en": "Doping",
+      "hi": "अपमिश्रण"
+    },
+    {
+      "en": "Diode",
+      "hi": "डायोड / द्विअग्र"
+    },
+    {
+      "en": "Rectifier",
+      "hi": "दिष्टकारी"
+    },
+    {
+      "en": "Transistor",
+      "hi": "ट्रांजिस्टर"
+    },
+    {
+      "en": "Elasticity",
+      "hi": "प्रत्यास्थता"
+    }
+  ]
+}

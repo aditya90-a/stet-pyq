@@ -1,0 +1,658 @@
+{
+ "slug": "computer-networks-protocols",
+ "subject": "Computer Science",
+ "topic": "Computer Networks & Protocols",
+ "titleHi": "कंप्यूटर नेटवर्क एवं प्रोटोकॉल",
+ "summary": "Covers network types and topologies, switching, the OSI and TCP/IP models, transmission media and connecting devices, data-link framing, error and flow control and medium access, IPv4/IPv6 addressing with subnetting and routing, and the main transport and application protocols with their ports. DSSSB asks layer-function, device-layer, protocol full-form and port questions, plus small calculations on subnets, CRC, Hamming code and channel capacity.",
+ "sections": [
+  {
+   "heading": "Data communication and network types",
+   "level": "basic",
+   "subtopic": "Network types & topologies",
+   "body": "**Five components of data communication**: message, sender, receiver, transmission medium and protocol. A **protocol** is a set of rules (syntax, semantics, timing) that governs communication.\n**Transmission modes**: **simplex** (one direction only, e.g. keyboard → computer, TV broadcast), **half-duplex** (both directions, one at a time, e.g. walkie-talkie), **full-duplex** (both directions simultaneously, e.g. telephone).\n**Line configuration**: **point-to-point** gives a dedicated link between two devices; **multipoint** shares one link among many devices (spatially or time-shared).\n**Networks by size:**\n- **PAN**: around a person, a few metres (Bluetooth).\n- **LAN**: a room, building or campus; privately owned; high speed, low error rate (Ethernet, Wi-Fi).\n- **MAN**: a city; often a collection of interconnected LANs; carries data and voice (cable TV networks, IEEE 802.6 DQDB).\n- **WAN**: country or continent; uses leased lines, satellites; the Internet is the largest WAN.\nArchitectures: **client–server** and **peer-to-peer** (each node is both client and server)."
+  },
+  {
+   "heading": "Network topologies",
+   "level": "basic",
+   "subtopic": "Network types & topologies",
+   "body": "**Topology** is the physical or logical arrangement of devices and links.\n- **Bus**: all devices on one backbone cable with terminators; cheap and easy, but a backbone fault stops the whole network and collisions increase with load.\n- **Star**: every device connects to a central hub or switch; easy to install, add and troubleshoot; one link failure affects only that device, but **failure of the central device brings down the whole network**. Adding computers does not by itself increase communication time.\n- **Ring**: each device connects to exactly two neighbours; data travels in one direction, often with a **token**; one break can disable the ring (dual rings, as in FDDI, add fault tolerance).\n- **Mesh**: every device has a dedicated link to every other; robust, private and fault-tolerant, but expensive cabling and ports.\n- **Tree**: a hierarchy of stars connected to a root.\n- **Hybrid**: a combination of two or more topologies.",
+   "table": {
+    "columns": [
+     "Topology",
+     "Links for n devices",
+     "Main drawback"
+    ],
+    "rows": [
+     [
+      "Bus",
+      "1 backbone + n drop lines",
+      "Backbone failure stops all"
+     ],
+     [
+      "Star",
+      "n",
+      "Hub/switch is single point of failure"
+     ],
+     [
+      "Ring",
+      "n",
+      "One break can stop the ring"
+     ],
+     [
+      "Mesh",
+      "n(n − 1)/2 (each device has n − 1 ports)",
+      "Costly cabling and I/O ports"
+     ],
+     [
+      "Tree",
+      "n − 1",
+      "Root failure splits the network"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Switching techniques",
+   "level": "intermediate",
+   "subtopic": "Network types & topologies",
+   "body": "**Circuit switching** sets up a **dedicated path** for the whole session in three phases — setup, data transfer, teardown — as in the traditional telephone network. Bandwidth is reserved, so there is no queuing delay but the channel is wasted during silence.\n**Packet switching** splits data into packets that share links (store-and-forward):\n- **Datagram** approach: connectionless, each packet routed independently and may arrive out of order (the Internet/IP).\n- **Virtual-circuit** approach: a logical connection is set up first and all packets follow the same path (X.25, Frame Relay, ATM).\n**Message switching** stores and forwards the whole message at each node (no size limit; obsolete, like early telegraph/email relays).\nPacket switching uses bandwidth better for bursty data traffic."
+  },
+  {
+   "heading": "The OSI reference model",
+   "level": "basic",
+   "subtopic": "OSI & TCP/IP models",
+   "body": "The **OSI (Open Systems Interconnection)** model was developed by **ISO** and has **seven layers**. Mnemonic from bottom: **P**lease **D**o **N**ot **T**hrow **S**ausage **P**izza **A**way (Physical, Data link, Network, Transport, Session, Presentation, Application).\n- At the sender each layer adds its header (**encapsulation**).\n- Layers 1–3 (**network support layers**) work **hop by hop** (chained through intermediate routers); layers 4–7 work **end to end** between the source and destination hosts.\n- **Session layer (5)**: dialog control (half/full duplex) and **synchronisation** with checkpoints; also token management.\n- **Transport layer (4)**: **process-to-process** delivery using port numbers, segmentation, end-to-end flow and error control.\n- **Network layer (3)**: **logical (IP) addressing and routing** from source host to destination host.\n- **Data link layer (2)**: framing, physical (MAC) addressing, hop-to-hop flow and error control, medium access; sublayers **LLC** and **MAC**.",
+   "table": {
+    "columns": [
+     "No.",
+     "Layer",
+     "Main job",
+     "PDU",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "7",
+      "Application",
+      "Network services to the user",
+      "Data / message",
+      "HTTP, FTP, SMTP, DNS"
+     ],
+     [
+      "6",
+      "Presentation",
+      "Translation, encryption, compression",
+      "Data",
+      "JPEG, MPEG, SSL/TLS (often placed here)"
+     ],
+     [
+      "5",
+      "Session",
+      "Dialog control, synchronisation",
+      "Data",
+      "RPC, NetBIOS"
+     ],
+     [
+      "4",
+      "Transport",
+      "Process-to-process delivery",
+      "Segment",
+      "TCP, UDP"
+     ],
+     [
+      "3",
+      "Network",
+      "Logical addressing, routing",
+      "Packet",
+      "IP, ICMP, routers"
+     ],
+     [
+      "2",
+      "Data link",
+      "Framing, MAC address, error control",
+      "Frame",
+      "Ethernet, PPP, switches, bridges"
+     ],
+     [
+      "1",
+      "Physical",
+      "Bits over the medium, signals",
+      "Bit",
+      "Cables, hubs, repeaters"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "TCP/IP model and comparison with OSI",
+   "level": "intermediate",
+   "subtopic": "OSI & TCP/IP models",
+   "body": "The **TCP/IP protocol suite** (developed for ARPANET, US DoD) came before OSI and is what the Internet actually uses. Textbooks show it as **four layers** — Application, Transport, Internet, Network access (link / host-to-network) — while Forouzan uses five (physical and data link shown separately).\n- **Application layer** of TCP/IP covers OSI layers 5, 6 and 7.\n- **Transport layer**: TCP, UDP, SCTP.\n- **Internet layer**: IP, ICMP, IGMP, ARP.\n**OSI vs TCP/IP:**\n- OSI is a reference model designed before its protocols; TCP/IP protocols came first and the model describes them.\n- OSI network layer supports both connectionless and connection-oriented service; the TCP/IP Internet layer is connectionless only (IP), while its transport layer offers both (UDP and TCP).\n**Addresses at each level**: physical (MAC, 48-bit), logical (IP), port (16-bit) and application-specific (e-mail address, URL).",
+   "diagram": {
+    "title": "OSI layers mapped to TCP/IP",
+    "ascii": "    OSI model              TCP/IP model\n +----------------+   +------------------------+\n | 7 Application  |   |                        |\n | 6 Presentation |   |      Application       |\n | 5 Session      |   |                        |\n +----------------+   +------------------------+\n | 4 Transport    |   |  Transport (TCP, UDP)  |\n +----------------+   +------------------------+\n | 3 Network      |   |  Internet (IP)         |\n +----------------+   +------------------------+\n | 2 Data link    |   |  Network access        |\n | 1 Physical     |   |  (link)                |\n +----------------+   +------------------------+"
+   }
+  },
+  {
+   "heading": "Transmission media and signals",
+   "level": "basic",
+   "subtopic": "Transmission media & devices",
+   "body": "**Guided (wired) media:**\n- **Twisted pair**: two insulated copper wires twisted to reduce crosstalk and interference; **UTP** (unshielded, RJ-45 connector, Cat 5e/6 for Ethernet) and **STP** (shielded).\n- **Coaxial cable**: central conductor, insulator, braided shield; categorised by **RG (Radio Government) ratings** (RG-59 cable TV, RG-58 thin Ethernet, RG-11 thick Ethernet); BNC connectors.\n- **Optical fibre**: carries light by **total internal reflection** (core has a higher refractive index than cladding); multimode (step-index, graded-index) and single-mode; highest bandwidth, immune to electromagnetic interference.\n**Unguided (wireless) media** carry electromagnetic waves without a physical conductor, by ground, sky or line-of-sight propagation: **radio waves** (omnidirectional, AM/FM), **microwaves** (unidirectional, line-of-sight; satellite, cellular), **infrared** (short range, cannot pass through walls; TV remotes).\n**Signals**: a sine wave is described by **peak amplitude, frequency (or period) and phase**; wavelength depends on frequency and the medium. **Bandwidth** = highest − lowest frequency. **Bit rate** = bits per second; **baud (signal) rate** = signal elements per second; bit rate = baud × log₂L for L signal levels.\n**Multiplexing** shares one link: FDM (analog), TDM (digital), WDM (light wavelengths in fibre)."
+  },
+  {
+   "heading": "Network connecting devices",
+   "level": "basic",
+   "subtopic": "Transmission media & devices",
+   "body": "- **Repeater** (physical layer): regenerates a weakened signal to extend a segment; does not filter.\n- **Hub** (physical layer): a multiport repeater; sends every frame out of all ports; the whole hub is **one collision domain**.\n- **Bridge** (data link layer): filters and forwards frames using MAC addresses; divides collision domains.\n- **Switch** (data link layer): a multiport bridge; each port is a separate collision domain, but all ports are one **broadcast domain** (unless VLANs are used). Layer-3 switches also route.\n- **Router** (network layer): forwards packets between different networks using IP addresses and a routing table; separates broadcast domains.\n- **Gateway**: protocol converter joining dissimilar networks; can work at all layers (up to the application layer).\n- **Modem**: modulator–demodulator; converts digital ↔ analog signals.\n- **NIC**: network interface card, holds the 48-bit MAC address.\nA **multiplexer** combines many low-speed lines into one high-speed line; a demultiplexer separates them.",
+   "table": {
+    "columns": [
+     "Device",
+     "OSI layer",
+     "Address used",
+     "Splits collision domain?",
+     "Splits broadcast domain?"
+    ],
+    "rows": [
+     [
+      "Repeater / Hub",
+      "1 Physical",
+      "None",
+      "No",
+      "No"
+     ],
+     [
+      "Bridge / Switch",
+      "2 Data link",
+      "MAC",
+      "Yes",
+      "No"
+     ],
+     [
+      "Router",
+      "3 Network",
+      "IP",
+      "Yes",
+      "Yes"
+     ],
+     [
+      "Gateway",
+      "Up to 7",
+      "Protocol-specific",
+      "Yes",
+      "Yes"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Framing and error detection/correction",
+   "level": "intermediate",
+   "subtopic": "Data link & error control",
+   "body": "**Framing** methods: character count, **byte stuffing** (escape byte before a flag inside data) and **bit stuffing** (HDLC flag 01111110; after **five consecutive 1s** the sender inserts a 0, which the receiver removes).\n**Detection:**\n- **Parity** (even/odd): detects all single-bit and any odd number of bit errors; misses even numbers of errors.\n- **Checksum**: one's-complement sum of data words; used by IP (header), TCP and UDP.\n- **CRC** (Cyclic Redundancy Check): append (degree of generator) zeros, divide by the generator using modulo-2 (XOR) division, transmit the remainder as the CRC; the receiver's remainder must be 0. Ethernet uses CRC-32.\n**Correction**: **forward error correction** (e.g. **Hamming code**) or **retransmission** (ARQ). For m data bits, r parity bits must satisfy 2ʳ ≥ m + r + 1, so 4 data bits need 3 parity bits (Hamming (7, 4)); parity bits sit at positions 1, 2, 4, 8, ….\n**Hamming distance** d between two codewords = number of differing bits. With minimum distance d_min a code detects up to d_min − 1 errors and corrects up to ⌊(d_min − 1)/2⌋."
+  },
+  {
+   "heading": "Flow control, ARQ and medium access (Ethernet)",
+   "level": "advanced",
+   "subtopic": "Data link & error control",
+   "body": "**ARQ (Automatic Repeat reQuest)** protocols:\n- **Stop-and-Wait ARQ**: send one frame, wait for a **positive acknowledgement** before the next; resend on timeout.\n- **Go-Back-N ARQ**: sender window up to 2ᵐ − 1 (m-bit sequence numbers), receiver window 1; on error the sender resends that frame and all after it.\n- **Selective Repeat ARQ**: both windows up to 2ᵐ⁻¹; only the damaged frame is resent.\n**Piggybacking** carries an ACK inside a data frame going the other way. Software flow control uses **XON/XOFF** characters.\n**Random (contention) access** — users share one channel and may collide:\n- **Pure ALOHA**: maximum throughput **18.4%** (at G = 0.5); vulnerable time = 2 × frame time. **Slotted ALOHA**: **36.8%** (at G = 1).\n- **CSMA**: sense before sending (1-persistent, non-persistent, p-persistent).\n- **CSMA/CD** (classic wired Ethernet, IEEE 802.3): detect collision, send jam signal, binary exponential backoff.\n- **CSMA/CA** (Wi-Fi, IEEE 802.11): avoids collisions (IFS, contention window, RTS/CTS).\n**Controlled access**: reservation, polling, token passing (Token Ring 802.5, FDDI). **Channelisation**: FDMA, TDMA, CDMA, WDMA (Wavelength Division Multiple Access).\nClassic 10 Mbps Ethernet uses **Manchester encoding**: a transition in mid-bit, so pulses are half as wide as in NRZ and the signal rate doubles. Ethernet frames carry 46–1500 data bytes (minimum frame 64 bytes). Bluetooth = IEEE 802.15.1, WiMAX = 802.16."
+  },
+  {
+   "heading": "IPv4 addressing, classes and IPv6",
+   "level": "basic",
+   "subtopic": "IP addressing & routing",
+   "body": "An **IPv4 address** is **32 bits**, written in dotted-decimal (four octets, 0–255). It has a **network part** and a **host part**; the **subnet mask** marks the network bits. In each network the all-0s host part is the **network address** and the all-1s host part is the **directed broadcast address**; neither can be given to a host, hence usable hosts = 2ʰ − 2.\n**Special addresses**: 127.0.0.0/8 **loopback** (127.0.0.1 = localhost), 0.0.0.0 (this host), 255.255.255.255 (limited broadcast), 169.254.0.0/16 link-local (APIPA).\n**Private ranges** (RFC 1918, not routed on the Internet, used with **NAT**): 10.0.0.0/8, 172.16.0.0/12 (172.16–172.31), 192.168.0.0/16.\n**Classless addressing (CIDR)** writes a prefix length, e.g. 200.10.4.0/22, and allows supernetting (route aggregation).\n**IPv6** uses **128-bit** addresses written as eight groups of four hex digits separated by colons; leading zeros may be dropped and one run of zero groups replaced by `::` (e.g. 2001:db8::1). IPv6 has a fixed 40-byte base header, no broadcast (uses multicast and anycast) and no header checksum. ::1 is the IPv6 loopback.",
+   "table": {
+    "columns": [
+     "Class",
+     "First octet",
+     "Leading bits",
+     "Default mask",
+     "Networks",
+     "Hosts per network"
+    ],
+    "rows": [
+     [
+      "A",
+      "1–126 (0 and 127 reserved)",
+      "0",
+      "255.0.0.0 (/8)",
+      "126",
+      "16,777,214"
+     ],
+     [
+      "B",
+      "128–191",
+      "10",
+      "255.255.0.0 (/16)",
+      "16,384",
+      "65,534"
+     ],
+     [
+      "C",
+      "192–223",
+      "110",
+      "255.255.255.0 (/24)",
+      "2,097,152",
+      "254"
+     ],
+     [
+      "D",
+      "224–239",
+      "1110",
+      "None",
+      "Multicast",
+      "—"
+     ],
+     [
+      "E",
+      "240–255",
+      "1111",
+      "None",
+      "Reserved / experimental",
+      "—"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Subnetting and CIDR calculations",
+   "level": "advanced",
+   "subtopic": "IP addressing & routing",
+   "body": "**Subnetting** borrows host bits to create smaller networks.\n- Borrowing s bits gives 2ˢ subnets; with h host bits left, each subnet has 2ʰ − 2 usable hosts.\n- **Block size** (in the octet where the mask ends) = 256 − mask value in that octet; subnets start at multiples of the block size.\n- **Network address** = IP AND mask; **broadcast** = network address with all host bits 1; first host = network + 1; last host = broadcast − 1.\nCommon masks: /25 = 255.255.255.128 (126 hosts), /26 = .192 (62 hosts), /27 = .224 (30 hosts), /28 = .240 (14 hosts), /29 = .248 (6 hosts), /30 = .252 (2 hosts, used for point-to-point links).\n**Steps for a host requirement**: find the smallest h with 2ʰ − 2 ≥ hosts needed; prefix = 32 − h. For a subnet requirement: smallest s with 2ˢ ≥ subnets needed.\nPython's `ipaddress` module checks such answers:",
+   "code": {
+    "lang": "python",
+    "source": "import ipaddress\nnet = ipaddress.ip_network(\"172.16.45.130/20\", strict=False)\nprint(net)\nprint(net.netmask)\nprint(net.broadcast_address)\nprint(net.num_addresses - 2)",
+    "output": "172.16.32.0/20\n255.255.240.0\n172.16.47.255\n4094"
+   }
+  },
+  {
+   "heading": "Routing and network-layer protocols",
+   "level": "intermediate",
+   "subtopic": "IP addressing & routing",
+   "body": "Routes are **static** (set manually) or **dynamic** (learned by routing protocols).\n- **Distance vector** (Bellman–Ford): each router shares its table with neighbours. **RIP** uses hop count, maximum 15 hops (16 = infinity), periodic updates every 30 s; suffers the **count-to-infinity** problem (eased by split horizon and poison reverse).\n- **Link state** (Dijkstra): each router floods link-state packets and builds the whole map; **OSPF**, IS-IS.\n- **Path vector**: **BGP** (Border Gateway Protocol), used between autonomous systems (inter-domain routing).\nRIP and OSPF are **interior** gateway protocols; BGP is an **exterior** gateway protocol. Multicast routing: **DVMRP** (Distance Vector Multicast Routing Protocol), MOSPF, PIM.\n**Supporting protocols:**\n- **ARP**: finds the MAC address for a known IP address (broadcast request, unicast reply); **RARP**: MAC → IP.\n- **BOOTP**: lets a diskless computer get its IP address and boot from the network; **DHCP** is its extension, supporting automatic, dynamic (leased) and manual (static) allocation via Discover–Offer–Request–Acknowledge (DORA).\n- **ICMP** (Internet Control Message Protocol): error reporting and queries; `ping` (echo request/reply) and `traceroute` (TTL exceeded) use it.\n- **IGMP**: multicast group membership. **NAT**: maps private addresses to a public address."
+  },
+  {
+   "heading": "Transport layer: TCP and UDP",
+   "level": "intermediate",
+   "subtopic": "Transport & application protocols",
+   "body": "The transport layer gives **process-to-process** delivery. A **port number** is 16 bits (0–65535): well-known 0–1023, registered 1024–49151, dynamic/private 49152–65535. A **socket** = IP address + port number.\n**TCP** (Transmission Control Protocol): connection-oriented, reliable, ordered **byte stream**, full-duplex; sequence and acknowledgement numbers, retransmission, **sliding-window flow control** and **congestion control** (slow start, congestion avoidance). Header 20–60 bytes. Connection set-up uses a **three-way handshake** (SYN, SYN+ACK, ACK); release uses FIN segments.\n**UDP** (User Datagram Protocol): connectionless, unreliable, no flow/congestion control, **8-byte header**, low overhead; used by DNS queries, DHCP, SNMP, TFTP, VoIP and streaming.\n**RTP** (Real-time Transport Protocol) carries audio/video (multimedia) over UDP, with RTCP for control. **SCTP** combines features of both and supports multistreaming.",
+   "diagram": {
+    "title": "TCP three-way handshake",
+    "ascii": "  Client                              Server\n    |   SYN (seq = x)                    |\n    |----------------------------------->|\n    |   SYN + ACK (seq = y, ack = x + 1) |\n    |<-----------------------------------|\n    |   ACK (ack = y + 1)                |\n    |----------------------------------->|\n    |      connection ESTABLISHED        |"
+   }
+  },
+  {
+   "heading": "Application-layer protocols and port numbers",
+   "level": "intermediate",
+   "subtopic": "Transport & application protocols",
+   "body": "- **HTTP**: stateless request–response protocol of the web (methods GET, POST, PUT, DELETE, HEAD; status 200 OK, 301 moved, 404 Not Found, 500 server error). **HTTPS** = HTTP over TLS.\n- **FTP**: file transfer using two TCP connections — **control on port 21** and **data on port 20** (control is 'out of band'). **TFTP** is a simple UDP version.\n- **E-mail**: **SMTP** pushes mail from client to server and between servers; **POP3** downloads mail to the client; **IMAP** keeps and manages mail on the server. **MIME** allows non-ASCII attachments.\n- **DNS**: maps domain names to IP addresses using a hierarchy (root, top-level domain, authoritative servers); records A (IPv4), AAAA (IPv6), MX (mail server), CNAME (alias), NS.\n- **Telnet** gives remote login in plain text; **SSH** is the secure replacement. **SNMP** manages network devices (manager, agent, MIB).\n- A **URL** has protocol (scheme), host name, optional port, and path (directory and file name), in the form `scheme://hostname:port/directory/filename`.\nOlder standards seen in exams: **XMODEM** (file transfer between computers over modems), **X.25** (packet-switched WAN interface), **X.75** (links X.25 networks), **ANSI X12** (electronic data interchange).",
+   "table": {
+    "columns": [
+     "Protocol",
+     "Port",
+     "Transport"
+    ],
+    "rows": [
+     [
+      "FTP data / control",
+      "20 / 21",
+      "TCP"
+     ],
+     [
+      "SSH",
+      "22",
+      "TCP"
+     ],
+     [
+      "Telnet",
+      "23",
+      "TCP"
+     ],
+     [
+      "SMTP",
+      "25",
+      "TCP"
+     ],
+     [
+      "DNS",
+      "53",
+      "UDP (TCP for zone transfers and large replies)"
+     ],
+     [
+      "DHCP server / client",
+      "67 / 68",
+      "UDP"
+     ],
+     [
+      "TFTP",
+      "69",
+      "UDP"
+     ],
+     [
+      "HTTP",
+      "80",
+      "TCP"
+     ],
+     [
+      "POP3",
+      "110",
+      "TCP"
+     ],
+     [
+      "NTP",
+      "123",
+      "UDP"
+     ],
+     [
+      "IMAP",
+      "143",
+      "TCP"
+     ],
+     [
+      "SNMP / SNMP trap",
+      "161 / 162",
+      "UDP"
+     ],
+     [
+      "BGP",
+      "179",
+      "TCP"
+     ],
+     [
+      "HTTPS",
+      "443",
+      "TCP"
+     ],
+     [
+      "RIP",
+      "520",
+      "UDP"
+     ],
+     [
+      "RDP",
+      "3389",
+      "TCP"
+     ]
+    ]
+   }
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Mesh topology",
+   "formula": "Links = n(n − 1)/2; ports per device = n − 1",
+   "note": "Duplex links."
+  },
+  {
+   "name": "Nyquist bit rate (noiseless)",
+   "formula": "Bit rate = 2 × B × log₂L",
+   "note": "B = bandwidth in Hz, L = number of signal levels."
+  },
+  {
+   "name": "Shannon capacity (noisy)",
+   "formula": "C = B × log₂(1 + SNR)",
+   "note": "SNR as a ratio; SNR(dB) = 10 log₁₀(SNR)."
+  },
+  {
+   "name": "Bit rate and baud",
+   "formula": "Bit rate = Baud rate × log₂L",
+   "note": ""
+  },
+  {
+   "name": "Transmission delay",
+   "formula": "Tt = Frame size ÷ Bandwidth",
+   "note": ""
+  },
+  {
+   "name": "Propagation delay",
+   "formula": "Tp = Distance ÷ Propagation speed",
+   "note": ""
+  },
+  {
+   "name": "Stop-and-Wait efficiency",
+   "formula": "η = 1 ÷ (1 + 2a), a = Tp ÷ Tt",
+   "note": ""
+  },
+  {
+   "name": "ALOHA throughput",
+   "formula": "Pure: S = G·e^(−2G), max 18.4%; Slotted: S = G·e^(−G), max 36.8%",
+   "note": "G = average frames generated per frame time."
+  },
+  {
+   "name": "CSMA/CD minimum frame",
+   "formula": "Tt ≥ 2 × Tp, i.e. L_min = 2 × Tp × Bandwidth",
+   "note": ""
+  },
+  {
+   "name": "Hamming parity bits",
+   "formula": "2ʳ ≥ m + r + 1",
+   "note": "m data bits, r parity bits."
+  },
+  {
+   "name": "Error detection/correction capability",
+   "formula": "Detect d_min − 1; correct ⌊(d_min − 1)/2⌋",
+   "note": "d_min = minimum Hamming distance."
+  },
+  {
+   "name": "Sliding-window sizes",
+   "formula": "Go-Back-N: Ws ≤ 2ᵐ − 1; Selective Repeat: Ws = Wr ≤ 2ᵐ⁻¹",
+   "note": "m = bits in sequence number."
+  },
+  {
+   "name": "Hosts per subnet",
+   "formula": "2ʰ − 2",
+   "note": "h = host bits (subtract network and broadcast addresses)."
+  },
+  {
+   "name": "Number of subnets",
+   "formula": "2ˢ",
+   "note": "s = borrowed bits."
+  },
+  {
+   "name": "Block size",
+   "formula": "256 − mask octet value",
+   "note": "Subnets start at multiples of the block size in that octet."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Divide 192.168.10.0/24 into at least 6 equal subnets. Give the new mask, hosts per subnet, and the range of the first three subnets.",
+   "solution": "Need 2ˢ ≥ 6 → s = 3 bits borrowed → 8 subnets.\nNew prefix = 24 + 3 = **/27**, mask **255.255.255.224**; host bits = 5 → 2⁵ − 2 = **30 hosts** per subnet.\nBlock size = 256 − 224 = 32.\n- Subnet 1: network 192.168.10.0, hosts .1–.30, broadcast .31\n- Subnet 2: network 192.168.10.32, hosts .33–.62, broadcast .63\n- Subnet 3: network 192.168.10.64, hosts .65–.94, broadcast .95\n…the last subnet is 192.168.10.224 (hosts .225–.254, broadcast .255)."
+  },
+  {
+   "problem": "For host 172.16.45.130/20 find the class, subnet mask, network address, broadcast address, first and last usable host and the number of usable hosts.",
+   "solution": "First octet 172 → **Class B** (default /16), here subnetted to /20.\n/20 = 11111111.11111111.11110000.00000000 → mask **255.255.240.0**.\nThe mask ends in the 3rd octet (240) → block size = 256 − 240 = 16. Multiples of 16: 32 ≤ 45 < 48.\n- Network address = **172.16.32.0**\n- Broadcast = **172.16.47.255**\n- First host = 172.16.32.1, last host = 172.16.47.254\n- Host bits = 32 − 20 = 12 → 2¹² − 2 = **4094** usable hosts."
+  },
+  {
+   "problem": "Find the CRC to be transmitted for data 110101 with generator polynomial x³ + x + 1.",
+   "solution": "Generator = 1011 (degree 3) → append three 0s: 110101 000.\nModulo-2 division (XOR wherever the leading bit is 1):\n- 1101 XOR 1011 = 0110 → working bits 011001000\n- 1100 XOR 1011 = 0111 → 001111000\n- 1111 XOR 1011 = 0100 → 000100000\n- 1000 XOR 1011 = 0011 → 000001100\n- next leading bit is 0, skip; 1100 XOR 1011 = 0111 → 000000111\nRemainder = **111**. Transmitted frame = **110101111**. The receiver divides this by 1011 and gets remainder 000 if there is no error."
+  },
+  {
+   "problem": "Encode the data 1011 using a (7, 4) Hamming code with even parity (positions 1, 2, 4 are parity bits). If bit 6 is flipped in transit, show how the receiver finds it.",
+   "solution": "Positions: 1 = p1, 2 = p2, 3 = d1, 4 = p4, 5 = d2, 6 = d3, 7 = d4 with d1 d2 d3 d4 = 1 0 1 1.\n- p1 checks 1, 3, 5, 7: d1 + d2 + d4 = 1 + 0 + 1 = 2 (even) → p1 = 0\n- p2 checks 2, 3, 6, 7: d1 + d3 + d4 = 1 + 1 + 1 = 3 (odd) → p2 = 1\n- p4 checks 4, 5, 6, 7: d2 + d3 + d4 = 0 + 1 + 1 = 2 (even) → p4 = 0\nCodeword = **0110011**.\nReceived with bit 6 flipped: 0110001.\n- Check 4 (positions 4, 5, 6, 7 = 0, 0, 0, 1): odd → 1\n- Check 2 (positions 2, 3, 6, 7 = 1, 1, 0, 1): odd → 1\n- Check 1 (positions 1, 3, 5, 7 = 0, 1, 0, 1): even → 0\nSyndrome = 110₂ = **6** → bit 6 is wrong; flipping it restores 0110011."
+  },
+  {
+   "problem": "A telephone line has bandwidth 3000 Hz and SNR of 30 dB. (a) Find the Shannon capacity. (b) What bit rate does Nyquist allow on a noiseless 3000 Hz channel with 4 signal levels?",
+   "solution": "(a) 30 dB → SNR = 10^(30/10) = 1000.\nC = 3000 × log₂(1 + 1000) = 3000 × log₂1001 ≈ 3000 × 9.967 ≈ **29,902 bps (about 30 kbps)**.\n(b) Bit rate = 2 × 3000 × log₂4 = 2 × 3000 × 2 = **12,000 bps**."
+  },
+  {
+   "problem": "(a) How many cables and ports are needed to connect 6 computers in a full mesh? How many links would a star need? (b) Apply HDLC bit stuffing to the data 011111111 (a 0 followed by eight 1s).",
+   "solution": "(a) Mesh links = n(n − 1)/2 = 6 × 5 / 2 = **15** cables; each computer needs n − 1 = **5** ports (30 ports in total). A star needs **6** links (one per computer to the hub/switch).\n(b) After every five consecutive 1s the sender inserts a 0:\n0 11111 → insert 0 → then the remaining 111.\nStuffed data = **0111110111** (10 bits). The receiver deletes the 0 that follows five 1s."
+  }
+ ],
+ "pitfalls": [
+  "Repeaters and hubs work at layer 1, bridges and switches at layer 2, routers at layer 3 — a 'switch' in a question means layer 2 unless 'layer-3 switch' is stated.",
+  "Session layer handles dialog control and token management; routing is a network-layer job; process-to-process delivery is the transport layer's job.",
+  "Layers 1–3 are hop-to-hop (chained); layers 4–7 are end-to-end — not the other way round.",
+  "Usable hosts = 2ʰ − 2, not 2ʰ; network and broadcast addresses cannot be assigned.",
+  "127.x.x.x is loopback, so class A usable first octets are 1–126, and 128 starts class B.",
+  "172.16.0.0/12 means 172.16.0.0 to 172.31.255.255; 172.32.x.x is public.",
+  "Parity detects only an odd number of bit errors.",
+  "ARP maps IP → MAC; RARP maps MAC → IP. DHCP is an extension of BOOTP.",
+  "FTP control is port 21 and data port 20; SMTP sends mail, POP3/IMAP retrieve it.",
+  "Coaxial cables are rated by RG numbers; infrared and radio waves are unguided media, coaxial is guided.",
+  "Manchester encoding halves the pulse width and doubles the required bandwidth compared with NRZ.",
+  "In a star topology the hub is a single point of failure; adding a computer does not increase communication time."
+ ],
+ "quickRevision": [
+  "MAN is a collection of LANs and supports both data and voice.",
+  "Mesh needs n(n − 1)/2 links; star needs n links.",
+  "Circuit switching uses a dedicated channel; the Internet uses datagram packet switching.",
+  "OSI has 7 layers; layer 5 = Session (dialog control, synchronisation).",
+  "TCP/IP application layer = OSI application + presentation + session.",
+  "A sine wave is described by peak amplitude, frequency and phase.",
+  "Optical fibre works on total internal reflection; highest bandwidth, immune to EMI.",
+  "Router separates broadcast domains; switch separates collision domains.",
+  "Pure ALOHA max throughput 18.4%, slotted ALOHA 36.8%.",
+  "Ethernet = IEEE 802.3 with CSMA/CD; Wi-Fi = IEEE 802.11 with CSMA/CA.",
+  "IPv4 = 32 bits, IPv6 = 128 bits, MAC = 48 bits, port = 16 bits.",
+  "Class C default mask 255.255.255.0 gives 254 hosts.",
+  "RIP: distance vector, max 15 hops; OSPF: link state (Dijkstra); BGP: path vector between autonomous systems.",
+  "ICMP = Internet Control Message Protocol (ping, traceroute).",
+  "Ports: FTP 20/21, SSH 22, Telnet 23, SMTP 25, DNS 53, HTTP 80, POP3 110, IMAP 143, HTTPS 443."
+ ],
+ "flashcards": [
+  {
+   "front": "Which layer of OSI handles dialog control and token management?",
+   "back": "Session layer (layer 5)."
+  },
+  {
+   "front": "Which OSI layer is responsible for routing?",
+   "back": "Network layer (layer 3)."
+  },
+  {
+   "front": "At which layer does a repeater work?",
+   "back": "Physical layer."
+  },
+  {
+   "front": "Device that combines many low-speed lines into one high-speed line?",
+   "back": "Multiplexer."
+  },
+  {
+   "front": "Which guided medium is classified by RG ratings?",
+   "back": "Coaxial cable."
+  },
+  {
+   "front": "Number of links for a full mesh of n devices?",
+   "back": "n(n − 1)/2."
+  },
+  {
+   "front": "Switching technique needing a dedicated channel?",
+   "back": "Circuit switching."
+  },
+  {
+   "front": "Maximum throughput of slotted ALOHA?",
+   "back": "36.8% (1/e)."
+  },
+  {
+   "front": "Bit-stuffing rule in HDLC?",
+   "back": "Insert a 0 after five consecutive 1s in the data."
+  },
+  {
+   "front": "Parity bits needed for 4 data bits (Hamming)?",
+   "back": "3, since 2³ ≥ 4 + 3 + 1."
+  },
+  {
+   "front": "Default mask and host count of a class C network?",
+   "back": "255.255.255.0 (/24), 254 hosts."
+  },
+  {
+   "front": "Private IPv4 ranges?",
+   "back": "10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16."
+  },
+  {
+   "front": "Protocol that resolves an IP address to a MAC address?",
+   "back": "ARP."
+  },
+  {
+   "front": "DHCP is an extension of which protocol?",
+   "back": "BOOTP (Bootstrap Protocol)."
+  },
+  {
+   "front": "Full form of DVMRP?",
+   "back": "Distance Vector Multicast Routing Protocol."
+  },
+  {
+   "front": "Size of a UDP header?",
+   "back": "8 bytes."
+  },
+  {
+   "front": "Three steps of TCP connection set-up?",
+   "back": "SYN, SYN + ACK, ACK (three-way handshake)."
+  },
+  {
+   "front": "Protocol for real-time multimedia transport?",
+   "back": "RTP (Real-time Transport Protocol)."
+  },
+  {
+   "front": "Well-known ports of HTTP and HTTPS?",
+   "back": "80 and 443."
+  },
+  {
+   "front": "Full form of WDMA?",
+   "back": "Wavelength Division Multiple Access."
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Network",
+   "hi": "नेटवर्क / संजाल"
+  },
+  {
+   "en": "Topology",
+   "hi": "संस्थिति / टोपोलॉजी"
+  },
+  {
+   "en": "Protocol",
+   "hi": "प्रोटोकॉल (नियमावली)"
+  },
+  {
+   "en": "Bandwidth",
+   "hi": "बैंडविड्थ"
+  },
+  {
+   "en": "Transmission medium",
+   "hi": "संचरण माध्यम"
+  },
+  {
+   "en": "Router",
+   "hi": "राउटर (मार्गदर्शक)"
+  },
+  {
+   "en": "Switching",
+   "hi": "स्विचन"
+  },
+  {
+   "en": "Packet",
+   "hi": "पैकेट"
+  },
+  {
+   "en": "Error detection",
+   "hi": "त्रुटि पहचान"
+  },
+  {
+   "en": "Flow control",
+   "hi": "प्रवाह नियंत्रण"
+  },
+  {
+   "en": "Subnet mask",
+   "hi": "सबनेट मास्क"
+  },
+  {
+   "en": "Routing",
+   "hi": "मार्ग निर्धारण / रूटिंग"
+  },
+  {
+   "en": "Acknowledgement",
+   "hi": "पावती"
+  },
+  {
+   "en": "Port number",
+   "hi": "पोर्ट संख्या"
+  },
+  {
+   "en": "Encapsulation",
+   "hi": "संपुटन"
+  }
+ ]
+}

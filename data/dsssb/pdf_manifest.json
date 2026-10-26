@@ -1,0 +1,154 @@
+[
+ {
+  "name": "DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf",
+  "relativePath": "DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf",
+  "sizeBytes": 2195187,
+  "type": "pdf",
+  "md5": "35a2f2db00d886a652f7944c251af453",
+  "pages": 67,
+  "status": "ok",
+  "format": "digialm_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [
+   2,
+   66
+  ],
+  "pagesWithoutQuestions": [
+   2,
+   66
+  ],
+  "paperId": "2024-02-07-s2"
+ },
+ {
+  "name": "pc-41-26_tgt_computer_science_in_doe.pdf",
+  "relativePath": "pc-41-26_tgt_computer_science_in_doe.pdf",
+  "sizeBytes": 280224,
+  "type": "pdf",
+  "md5": "80c9b859bc4238c6655df6b6fcdcdda0",
+  "pages": 2,
+  "status": "ocr",
+  "format": "scanned-document",
+  "questionsExtracted": 0,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [
+   1,
+   2
+  ],
+  "pagesWithoutQuestions": []
+ },
+ {
+  "name": "tgt_computer_science1.pdf",
+  "relativePath": "tgt_computer_science1.pdf",
+  "sizeBytes": 1751064,
+  "type": "pdf",
+  "md5": "957720c90ba6bb4a9ca0275d165b6213",
+  "pages": 168,
+  "status": "ok",
+  "format": "edcil_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [],
+  "pagesWithoutQuestions": [
+   1
+  ],
+  "paperId": "2021-set1"
+ },
+ {
+  "name": "tgt_computer_science2.pdf",
+  "relativePath": "tgt_computer_science2.pdf",
+  "sizeBytes": 2020244,
+  "type": "pdf",
+  "md5": "0e80fa3ceb4df9f4417784dce7ee7c2a",
+  "pages": 175,
+  "status": "ok",
+  "format": "edcil_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [
+   146,
+   151,
+   154
+  ],
+  "pagesWithoutQuestions": [
+   1
+  ],
+  "paperId": "2021-set2"
+ },
+ {
+  "name": "tgt_computer_science3.pdf",
+  "relativePath": "tgt_computer_science3.pdf",
+  "sizeBytes": 1534245,
+  "type": "pdf",
+  "md5": "45fbe96b39c9678ddf688f3ab1f6abfa",
+  "pages": 167,
+  "status": "ok",
+  "format": "edcil_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [],
+  "pagesWithoutQuestions": [
+   1
+  ],
+  "paperId": "2021-set3"
+ },
+ {
+  "name": "tgt_computer_science4.pdf",
+  "relativePath": "tgt_computer_science4.pdf",
+  "sizeBytes": 1656724,
+  "type": "pdf",
+  "md5": "1f87e17507d8032119b68cca31e78717",
+  "pages": 169,
+  "status": "ok",
+  "format": "edcil_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [],
+  "pagesWithoutQuestions": [
+   1
+  ],
+  "paperId": "2021-set4"
+ },
+ {
+  "name": "tgt_computer_science5.pdf",
+  "relativePath": "tgt_computer_science5.pdf",
+  "sizeBytes": 1652694,
+  "type": "pdf",
+  "md5": "fab4427cf0c4b340573fc527eb1811c3",
+  "pages": 171,
+  "status": "ok",
+  "format": "edcil_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [],
+  "pagesWithoutQuestions": [
+   1
+  ],
+  "paperId": "2021-set5"
+ },
+ {
+  "name": "tgtcomputerscience_24th_jun_2023_shift_2.pdf",
+  "relativePath": "tgtcomputerscience_24th_jun_2023_shift_2.pdf",
+  "sizeBytes": 7985260,
+  "type": "pdf",
+  "md5": "d0975d35d0b728252f6a797800d700bf",
+  "pages": 232,
+  "status": "ok",
+  "format": "edcil_master_paper",
+  "questionsExtracted": 200,
+  "errors": [],
+  "warnings": [],
+  "emptyTextPages": [],
+  "pagesWithoutQuestions": [
+   1
+  ],
+  "paperId": "2023-06-24-s2"
+ }
+]

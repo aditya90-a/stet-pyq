@@ -1,0 +1,3842 @@
+[
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set4-q092",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.612,
+   "options": 39.9,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Brethless",
+    "Technology",
+    "Modulation",
+    "Economics"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Stimulus",
+    "Nostelgic",
+    "Precision",
+    "Quarrel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set5-q091",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.411,
+   "options": 39.4,
+   "answer": 27.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Brethless",
+    "Technology",
+    "Modulation",
+    "Economics"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Intirnational",
+    "International",
+    "Intirnationel",
+    "Internationel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set5-q092",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.609,
+   "options": 42.6,
+   "answer": 21.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Brethless",
+    "Technology",
+    "Modulation",
+    "Economics"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Clinical",
+    "Dictionery",
+    "Bilingual",
+    "Redemption"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set1-q094",
+  "scores": {
+   "stem": 92.9,
+   "stemTokenSet": 96.0,
+   "cosine": 0.29,
+   "options": 53.7,
+   "answer": 51.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set2-q093",
+  "scores": {
+   "stem": 94.8,
+   "stemTokenSet": 94.7,
+   "cosine": 0.316,
+   "options": 44.2,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBread and cheese",
+   "options": [
+    "Rich and heavy food",
+    "Livelihood",
+    "To mock someone",
+    "Simple food"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set2-q094",
+  "scores": {
+   "stem": 93.8,
+   "stemTokenSet": 95.5,
+   "cosine": 0.298,
+   "options": 46.8,
+   "answer": 27.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLong in the tooth",
+   "options": [
+    "Very talkative",
+    "Rather old",
+    "To have sweet cravings",
+    "Big hearted person"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set3-q093",
+  "scores": {
+   "stem": 94.8,
+   "stemTokenSet": 94.7,
+   "cosine": 0.29,
+   "options": 42.2,
+   "answer": 38.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set3-q094",
+  "scores": {
+   "stem": 95.1,
+   "stemTokenSet": 96.0,
+   "cosine": 0.279,
+   "options": 49.9,
+   "answer": 37.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set4-q093",
+  "scores": {
+   "stem": 92.6,
+   "stemTokenSet": 96.0,
+   "cosine": 0.345,
+   "options": 42.9,
+   "answer": 36.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set4-q094",
+  "scores": {
+   "stem": 92.9,
+   "stemTokenSet": 96.0,
+   "cosine": 0.3,
+   "options": 49.5,
+   "answer": 43.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set5-q093",
+  "scores": {
+   "stem": 97.0,
+   "stemTokenSet": 96.5,
+   "cosine": 0.375,
+   "options": 50.8,
+   "answer": 40.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 92.7,
+   "stemTokenSet": 96.0,
+   "cosine": 0.27,
+   "options": 47.6,
+   "answer": 44.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo break the ice",
+   "options": [
+    "To unfreeze something",
+    "To make an end",
+    "The last option",
+    "To overcome reserve"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set2-q093",
+  "scores": {
+   "stem": 92.3,
+   "stemTokenSet": 93.2,
+   "cosine": 0.328,
+   "options": 47.0,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBread and cheese",
+   "options": [
+    "Rich and heavy food",
+    "Livelihood",
+    "To mock someone",
+    "Simple food"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set2-q094",
+  "scores": {
+   "stem": 92.0,
+   "stemTokenSet": 95.5,
+   "cosine": 0.257,
+   "options": 42.8,
+   "answer": 38.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLong in the tooth",
+   "options": [
+    "Very talkative",
+    "Rather old",
+    "To have sweet cravings",
+    "Big hearted person"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set3-q093",
+  "scores": {
+   "stem": 91.7,
+   "stemTokenSet": 94.0,
+   "cosine": 0.25,
+   "options": 41.8,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set3-q094",
+  "scores": {
+   "stem": 92.6,
+   "stemTokenSet": 94.9,
+   "cosine": 0.289,
+   "options": 53.3,
+   "answer": 41.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set4-q093",
+  "scores": {
+   "stem": 94.6,
+   "stemTokenSet": 95.1,
+   "cosine": 0.318,
+   "options": 42.5,
+   "answer": 39.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set4-q094",
+  "scores": {
+   "stem": 91.2,
+   "stemTokenSet": 92.3,
+   "cosine": 0.344,
+   "options": 54.8,
+   "answer": 34.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set5-q093",
+  "scores": {
+   "stem": 92.6,
+   "stemTokenSet": 96.4,
+   "cosine": 0.268,
+   "options": 45.6,
+   "answer": 39.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 92.8,
+   "stemTokenSet": 94.7,
+   "cosine": 0.396,
+   "options": 55.2,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo kick up one’s heels",
+   "options": [
+    "To die suddenly",
+    "To enjoy oneself",
+    "To restrain someone",
+    "To win a competition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q101",
+  "b": "2021-set2-q050",
+  "scores": {
+   "stem": 43.9,
+   "stemTokenSet": 70.6,
+   "cosine": 0.489,
+   "options": 29.2,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the minimum value of function y = x^2 in the interval [1, 6]?",
+   "options": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q103",
+  "b": "2021-set2-q050",
+  "scores": {
+   "stem": 63.6,
+   "stemTokenSet": 87.2,
+   "cosine": 0.294,
+   "options": 28.6,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If x + iy = tan (A + iB), then what is the value of x^2 + y^2 + 2x cot 2A – 2?",
+   "options": [
+    "1",
+    "–1",
+    "0",
+    "2"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set1-q144",
+  "scores": {
+   "stem": 68.7,
+   "stemTokenSet": 69.5,
+   "cosine": 0.526,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following symbol represent the NOR gate?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set1-q199",
+  "scores": {
+   "stem": 34.7,
+   "stemTokenSet": 34.7,
+   "cosine": 0.437,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Gender discrimination can be ______.\nI. direct\nII. indirect",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set2-q013",
+  "scores": {
+   "stem": 50.8,
+   "stemTokenSet": 100.0,
+   "cosine": 0.431,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) regarding Partition of Bengal is/are correct?\nI. It was happened in 1905.\nII. It was done by Viceroy Curzon.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set2-q119",
+  "scores": {
+   "stem": 97.9,
+   "stemTokenSet": 100.0,
+   "cosine": 1.0,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set2-q199",
+  "scores": {
+   "stem": 59.9,
+   "stemTokenSet": 100.0,
+   "cosine": 0.499,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are NOT correct?\nI. Gender is a socio-cultural construct.\nII. Sex is systemic.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set3-q106",
+  "scores": {
+   "stem": 62.7,
+   "stemTokenSet": 76.3,
+   "cosine": 0.455,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following is/are the open-source software(s)?\nI. PHP\nII. Apache",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set4-q105",
+  "scores": {
+   "stem": 60.0,
+   "stemTokenSet": 63.8,
+   "cosine": 0.433,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following is a type of subprogram?\nI. Functions\nII. Subroutines",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set5-q035",
+  "scores": {
+   "stem": 43.7,
+   "stemTokenSet": 100.0,
+   "cosine": 0.443,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Total number of black are 24.\nII. Number 12 represents those cars which are only black.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q112",
+  "b": "2021-set5-q112",
+  "scores": {
+   "stem": 66.1,
+   "stemTokenSet": 79.5,
+   "cosine": 0.581,
+   "options": 77.0,
+   "answer": 80.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is the worst case time complexity of bubble sort?",
+   "options": [
+    "O(x)",
+    "O(log_2x)",
+    "O(x^2)",
+    "O(xlog_2x)"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the worst case running time of quick sort algorithm?",
+   "options": [
+    "Ɵ(x)",
+    "Ɵ(x^2)",
+    "Ɵ(x log_2x)",
+    "Ɵ(x log_2x^2)"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set2-q115",
+  "scores": {
+   "stem": 77.9,
+   "stemTokenSet": 89.6,
+   "cosine": 0.286,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the following code written in C?\nvoid main()\n{\nprintf(\"%d%d%d\",62,062,0x62);\n}",
+   "options": [
+    "506298",
+    "629850",
+    "625098",
+    "986250"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nprintf(\"%d\",7%-3);\nprintf(\"%d\",-7%3);\n}",
+   "options": [
+    "1 –1",
+    "–1 –1",
+    "–1 1",
+    "1 1"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set3-q111",
+  "scores": {
+   "stem": 70.7,
+   "stemTokenSet": 79.4,
+   "cosine": 0.305,
+   "options": 21.0,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the following code written in C?\nvoid main()\n{\nprintf(\"%d%d%d\",62,062,0x62);\n}",
+   "options": [
+    "506298",
+    "629850",
+    "625098",
+    "986250"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, val=1;\nk= ++val*++val;\nprintf(\"%d\",k);\n}",
+   "options": [
+    "1",
+    "4",
+    "9",
+    "16"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set4-q111",
+  "scores": {
+   "stem": 73.6,
+   "stemTokenSet": 83.0,
+   "cosine": 0.301,
+   "options": 35.3,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the following code written in C?\nvoid main()\n{\nprintf(\"%d%d%d\",62,062,0x62);\n}",
+   "options": [
+    "506298",
+    "629850",
+    "625098",
+    "986250"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, v;\nk=(v=20,v+2);\nprintf(\"%d\",k);\n}",
+   "options": [
+    "2",
+    "20",
+    "22",
+    "Error"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set5-q114",
+  "scores": {
+   "stem": 73.0,
+   "stemTokenSet": 80.6,
+   "cosine": 0.291,
+   "options": 27.4,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the following code written in C?\nvoid main()\n{\nprintf(\"%d%d%d\",62,062,0x62);\n}",
+   "options": [
+    "506298",
+    "629850",
+    "625098",
+    "986250"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k=8, v=8,i;\ni=k/++v;\nprintf(\"%d\\n\",i);\n}",
+   "options": [
+    "0",
+    "1",
+    "0.8",
+    "Error"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q117",
+  "b": "2021-set3-q169",
+  "scores": {
+   "stem": 24.4,
+   "stemTokenSet": 80.0,
+   "cosine": 0.444,
+   "options": 34.0,
+   "answer": 27.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Consider the following New-order strategy for traversing a binary tree.\nI. Visit the right subtree of node using new-order\nII. Visit the left subtree of node using new-order\nIII. Visit the node.\nWhat is the new-order traversal of the given tree?",
+   "options": [
+    "K, J, I, H, G, F, E, D, C, B, A",
+    "A, B, C, D, E, F, G, H, I, J, K",
+    "B, D, C, A, G, F, H, E, I, J, K",
+    "A, B, C, D, K, J, I, H, G, F, E"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Post-order Binary tree traversal is ______.",
+   "options": [
+    "Left, Node, Right",
+    "Left, Right, Node",
+    "Node, Left, Right",
+    "Right, Left, Node"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q117",
+  "b": "2021-set5-q115",
+  "scores": {
+   "stem": 89.6,
+   "stemTokenSet": 100.0,
+   "cosine": 0.991,
+   "options": 47.6,
+   "answer": 47.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Consider the following New-order strategy for traversing a binary tree.\nI. Visit the right subtree of node using new-order\nII. Visit the left subtree of node using new-order\nIII. Visit the node.\nWhat is the new-order traversal of the given tree?",
+   "options": [
+    "K, J, I, H, G, F, E, D, C, B, A",
+    "A, B, C, D, E, F, G, H, I, J, K",
+    "B, D, C, A, G, F, H, E, I, J, K",
+    "A, B, C, D, K, J, I, H, G, F, E"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Consider the following new-order strategy for traversing a given tree.\nI. Visit the right subtree of a Node using new-order\nII. Visit the Node\nIII. Visit the left subtree of a Node using new-order\nWhat is the new-order traversal of the given tree?",
+   "options": [
+    "Z, V, Y, X, W, P, S, U, T, Q, R",
+    "R, Q, T, U, S, P, W, X, Y, V, Z",
+    "P, W, X, Y, V, Z, R, Q, T, U, S",
+    "S, U, T, Q, R, Z, V, Y, X, W, P"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q123",
+  "b": "2021-set3-q114",
+  "scores": {
+   "stem": 46.1,
+   "stemTokenSet": 54.7,
+   "cosine": 0.687,
+   "options": 23.7,
+   "answer": 13.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is a type of transmission mode?\nI. Simplex mode\nII. Half simplex mode\nIII. Duplex mode",
+   "options": [
+    "I and II",
+    "II and III",
+    "I and III",
+    "I, II and III"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "______ mode allows transmission in both directions simultaneously.",
+   "options": [
+    "Duplex",
+    "Half duplex",
+    "Simplex",
+    "Half simplex"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q123",
+  "b": "2021-set5-q121",
+  "scores": {
+   "stem": 47.1,
+   "stemTokenSet": 55.4,
+   "cosine": 0.574,
+   "options": 18.4,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is a type of transmission mode?\nI. Simplex mode\nII. Half simplex mode\nIII. Duplex mode",
+   "options": [
+    "I and II",
+    "II and III",
+    "I and III",
+    "I, II and III"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "______ mode allows transmission in either direction but not simultaneously.",
+   "options": [
+    "Duplex",
+    "Half duplex",
+    "Simplex",
+    "Half-simplex"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q124",
+  "b": "2021-set4-q104",
+  "scores": {
+   "stem": 79.5,
+   "stemTokenSet": 81.8,
+   "cosine": 0.285,
+   "options": 54.7,
+   "answer": 24.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which one of the following is an impact printer?",
+   "options": [
+    "Inkjet printer",
+    "Dot-matrix printer",
+    "Laser printer",
+    "Thermal printer"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which of the following is an input device?",
+   "options": [
+    "Plotter",
+    "Printer",
+    "Joystick",
+    "Speaker"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q128",
+  "b": "2021-set1-q134",
+  "scores": {
+   "stem": 89.2,
+   "stemTokenSet": 100.0,
+   "cosine": 0.31,
+   "options": 35.6,
+   "answer": 7.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Simplify the following Boolean Expression?",
+   "options": [
+    "B",
+    "AB",
+    "",
+    "A + B"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Simplify the following expression.",
+   "options": [
+    "1",
+    "[(A +c)B + [(B +C)A +[(A + B)C",
+    "[(A +C)B + (B+C)A",
+    "A + B + C"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q128",
+  "b": "2021-set1-q143",
+  "scores": {
+   "stem": 77.9,
+   "stemTokenSet": 87.7,
+   "cosine": 0.346,
+   "options": 6.2,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Simplify the following Boolean Expression?",
+   "options": [
+    "B",
+    "AB",
+    "",
+    "A + B"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "What is equivalent of the following Boolean expression?",
+   "options": [
+    "x+y",
+    "xy",
+    "ху",
+    "x"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q128",
+  "b": "2021-set2-q127",
+  "scores": {
+   "stem": 78.1,
+   "stemTokenSet": 100.0,
+   "cosine": 0.489,
+   "options": 32.6,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Simplify the following Boolean Expression?",
+   "options": [
+    "B",
+    "AB",
+    "",
+    "A + B"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Simplify the following Boolean expression.\nE(E + F) + DE + D(E + F)",
+   "options": [
+    "E + DF",
+    "F + DE",
+    "D + EF",
+    "D + E + F"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q131",
+  "b": "2021-set4-q119",
+  "scores": {
+   "stem": 87.7,
+   "stemTokenSet": 95.0,
+   "cosine": 0.371,
+   "options": 43.7,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ)",
+  "qa": {
+   "text": "Minimize the three variable logic function using the following K-Map.\nf(A, B, C) = Sm(0, 2, 5, 7)",
+   "options": [
+    "AC+AB",
+    "AC+AC",
+    "AC+B",
+    "ACB"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Minimize the three variable logic function using K-Map.\nf(A, B, C) = PM(0, 3, 4, 7)",
+   "options": [
+    "(B+C)(B+Ґ",
+    "(B+C) (B+C)",
+    "(B+c)(B+C)",
+    "(B+c)(B+c)"
+   ],
+   "key": ""
+  }
+ },
+ {
+  "a": "2021-set1-q140",
+  "b": "2021-set3-q134",
+  "scores": {
+   "stem": 78.3,
+   "stemTokenSet": 88.3,
+   "cosine": 0.372,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is NOT a Structured Query Language Data type?",
+   "options": [
+    "REAL",
+    "INTERVAL",
+    "TIME STAMP",
+    "BASE"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following is a Comparison operator in Structured Query Language?",
+   "options": [
+    "+",
+    "*",
+    "/",
+    ">="
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q140",
+  "b": "2021-set5-q138",
+  "scores": {
+   "stem": 78.3,
+   "stemTokenSet": 86.4,
+   "cosine": 0.298,
+   "options": 39.2,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is NOT a Structured Query Language Data type?",
+   "options": [
+    "REAL",
+    "INTERVAL",
+    "TIME STAMP",
+    "BASE"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following is an Aggregate operator in Structured Query Language?",
+   "options": [
+    "Minus",
+    "Intersect",
+    "Union",
+    "Count"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q141",
+  "b": "2021-set2-q126",
+  "scores": {
+   "stem": 38.5,
+   "stemTokenSet": 59.7,
+   "cosine": 0.517,
+   "options": 15.9,
+   "answer": 14.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "The input-output relationship of the binary variable for each gate can be represented in tabular form by a ______.",
+   "options": [
+    "symbol table",
+    "decision table",
+    "truth table",
+    "characteristic table"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which gate is represented by the following truth table?",
+   "options": [
+    "OR",
+    "AND",
+    "NAND",
+    "NOR"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q141",
+  "b": "2021-set3-q122",
+  "scores": {
+   "stem": 38.5,
+   "stemTokenSet": 59.7,
+   "cosine": 0.505,
+   "options": 18.2,
+   "answer": 15.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "The input-output relationship of the binary variable for each gate can be represented in tabular form by a ______.",
+   "options": [
+    "symbol table",
+    "decision table",
+    "truth table",
+    "characteristic table"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which gate is represented by the following truth table?",
+   "options": [
+    "OR",
+    "AND",
+    "XOR",
+    "NOT"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q144",
+  "b": "2021-set2-q119",
+  "scores": {
+   "stem": 67.3,
+   "stemTokenSet": 68.0,
+   "cosine": 0.526,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Which of the following symbol represent the NOR gate?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q144",
+  "b": "2021-set3-q135",
+  "scores": {
+   "stem": 53.0,
+   "stemTokenSet": 64.8,
+   "cosine": 0.474,
+   "options": 33.1,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following symbol represent the NOR gate?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which logical gate is used to represent product of sum expression?",
+   "options": [
+    "EX-OR gate",
+    "AND gate",
+    "OR gate",
+    "NOR gate"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q144",
+  "b": "2021-set5-q136",
+  "scores": {
+   "stem": 62.0,
+   "stemTokenSet": 89.7,
+   "cosine": 0.292,
+   "options": 0.0,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "Which of the following symbol represent the NOR gate?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following symbol represent one to one cardinality relationship in Entity relationship diagram?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q150",
+  "b": "2021-set2-q146",
+  "scores": {
+   "stem": 90.9,
+   "stemTokenSet": 96.0,
+   "cosine": 0.289,
+   "options": 39.0,
+   "answer": 39.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is the full form of SQA in software engineering?",
+   "options": [
+    "Software Quality Activity",
+    "System Quality Assurance",
+    "Service Quality Activity",
+    "Software Quality Assurance"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "What is the full form of CASE tool in software engineering?",
+   "options": [
+    "Computer Aided Software Engineering",
+    "Computer Application Software Engineering",
+    "Control Application Software Engineering",
+    "Code Aided Software Engineering"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q151",
+  "b": "2021-set2-q145",
+  "scores": {
+   "stem": 85.5,
+   "stemTokenSet": 100.0,
+   "cosine": 0.774,
+   "options": 25.9,
+   "answer": 16.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In ______ model, software is developed in a series of incremental releases.\nI. Spiral\nII. Sequential",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In ______ model, software is developed in a series of incremental releases.",
+   "options": [
+    "Spiral",
+    "Sequential",
+    "Concurrent",
+    "RAD"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q154",
+  "b": "2021-set3-q145",
+  "scores": {
+   "stem": 65.1,
+   "stemTokenSet": 76.2,
+   "cosine": 0.422,
+   "options": 100.0,
+   "answer": 62.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following statement(s) is/are correct regarding software project management?\nI. PERT charts can be derived automatically form Gantt charts.\nII. Gantt charts cannot be automatically derived from PERT charts.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are true regarding PERT chart in software project management?\nI. PERT charts consists of a network of boxes and arrows.\nII. In PERT chart, the boxes represent activities and the arrow represents task dependencies.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q156",
+  "b": "2021-set4-q149",
+  "scores": {
+   "stem": 68.5,
+   "stemTokenSet": 80.0,
+   "cosine": 0.338,
+   "options": 100.0,
+   "answer": 62.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following statement(s) is/are correct regarding java programming?\nI. Place a semicolon immediately after a method header\nII. Define a method outside the braces of a class definition",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following statement is/are correct regarding JAVA programming?\nI. A class marked as final cannot be inherited\nII. A method marked final cannot be overridden",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q158",
+  "b": "2021-set2-q154",
+  "scores": {
+   "stem": 28.2,
+   "stemTokenSet": 75.3,
+   "cosine": 0.423,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which page replacement algorithm has Belady’s anomaly?",
+   "options": [
+    "Optimal page replacement",
+    "FIFO page replacement",
+    "Least recent used page replacement",
+    "Not recently used page replacement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Consider a main memory with the capacity of 3 page frames which are initially empty. Page reference is 4, 7, 6, 1, 7, 6, 1, 2, 7, 2. What is the\nnumber of page fault using optimal page replacement algorithm?",
+   "options": [
+    "7",
+    "6",
+    "5",
+    "4"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q160",
+  "b": "2021-set1-q161",
+  "scores": {
+   "stem": 51.9,
+   "stemTokenSet": 69.4,
+   "cosine": 0.643,
+   "options": 89.7,
+   "answer": 90.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "If a memory partition of size 80k is allocated to a process of size 60k then the 20k of the partition is wasted and cannot be allocated to any\nprocess. It is called ______.",
+   "options": [
+    "external fragmentation",
+    "best fit",
+    "worst fit",
+    "internal fragmentation"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "If two non-continuous free partition of size ‘a’ and ‘b’ are available. A process of size ‘c’ cannot be allocated even when a + b > c, a < c and b <\nc. This problem is known as ______.",
+   "options": [
+    "external fragmentation",
+    "internal fragmentation",
+    "quick fit",
+    "worst fit"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q162",
+  "b": "2021-set1-q163",
+  "scores": {
+   "stem": 36.4,
+   "stemTokenSet": 47.8,
+   "cosine": 0.437,
+   "options": 87.3,
+   "answer": 38.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "The rate at which page fault occurs is known as ______.",
+   "options": [
+    "swapping",
+    "paging",
+    "thrashing",
+    "compaction"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "______ is a process of lifting the process from memory and placing it on disk.",
+   "options": [
+    "Paging",
+    "Swapping out",
+    "Swapping in",
+    "Thrashing"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q164",
+  "b": "2021-set2-q154",
+  "scores": {
+   "stem": 88.2,
+   "stemTokenSet": 97.4,
+   "cosine": 0.898,
+   "options": 50.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Consider a main memory with the capacity of 4 page frames which are initially empty. If the page reference string is 1, 3, 4, 4, 3, 2, 1, 7, 5, 6 then\nwhat is the number of page fault using FIFO page replacement algorithm?",
+   "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Consider a main memory with the capacity of 3 page frames which are initially empty. Page reference is 4, 7, 6, 1, 7, 6, 1, 2, 7, 2. What is the\nnumber of page fault using optimal page replacement algorithm?",
+   "options": [
+    "7",
+    "6",
+    "5",
+    "4"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q165",
+  "b": "2021-set2-q160",
+  "scores": {
+   "stem": 37.8,
+   "stemTokenSet": 49.1,
+   "cosine": 0.432,
+   "options": 68.1,
+   "answer": 38.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A certain percentage of deposits which a bank must keep in the form of cash with the RBI is called ______.",
+   "options": [
+    "Statutory Liquidity Ratio",
+    "Cash Reserve Ratio",
+    "Open Market Operations",
+    "Liquidity Adjustment Facility"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which of the following is a qualitative tool used by RBI to control money supply?",
+   "options": [
+    "Moral Suasion",
+    "Cash Reserve Ratio",
+    "Bank Rate",
+    "Open Market Operations"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q168",
+  "b": "2021-set1-q169",
+  "scores": {
+   "stem": 48.5,
+   "stemTokenSet": 88.1,
+   "cosine": 0.679,
+   "options": 41.1,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which layer in OSI model is responsible for the dialogue control and token management?",
+   "options": [
+    "Transport layer",
+    "Session layer",
+    "Physical layer",
+    "Network layer"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In OSI model network layer is responsible for ______.",
+   "options": [
+    "Dialog control",
+    "Token management",
+    "Routing",
+    "Physical transmission"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q168",
+  "b": "2021-set1-q171",
+  "scores": {
+   "stem": 37.2,
+   "stemTokenSet": 78.3,
+   "cosine": 0.72,
+   "options": 91.3,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "Which layer in OSI model is responsible for the dialogue control and token management?",
+   "options": [
+    "Transport layer",
+    "Session layer",
+    "Physical layer",
+    "Network layer"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Layer five of OSI model is ______.",
+   "options": [
+    "Network layer",
+    "Transport layer",
+    "Session layer",
+    "Presentation layer"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q170",
+  "b": "2021-set1-q171",
+  "scores": {
+   "stem": 28.4,
+   "stemTokenSet": 69.8,
+   "cosine": 0.425,
+   "options": 38.4,
+   "answer": 27.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which statement is/are true about the OSI model?\nI. Layer 1 through 3 are end-to-end\nII. Layer 4 through 7 are chained",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Layer five of OSI model is ______.",
+   "options": [
+    "Network layer",
+    "Transport layer",
+    "Session layer",
+    "Presentation layer"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q172",
+  "b": "2021-set5-q172",
+  "scores": {
+   "stem": 74.4,
+   "stemTokenSet": 80.0,
+   "cosine": 0.455,
+   "options": 28.8,
+   "answer": 18.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following business models fall into the category of ‘Native Internet Business Models’?\nI. Library Model\nII. Subscription Model",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following business models falls into the category of ‘Transplanted Real-World Business Models’?",
+   "options": [
+    "Free trial model",
+    "Freeware model",
+    "Access provision model",
+    "Digital products model"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q174",
+  "b": "2021-set3-q169",
+  "scores": {
+   "stem": 24.3,
+   "stemTokenSet": 56.0,
+   "cosine": 0.467,
+   "options": 41.3,
+   "answer": 45.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which statement is correct regarding binary search tree?\nI. The value at node N is less than every value in the left subtree of node.\nII. The value at node N is greater than or equal to every value in the right subtree of N.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Post-order Binary tree traversal is ______.",
+   "options": [
+    "Left, Node, Right",
+    "Left, Right, Node",
+    "Node, Left, Right",
+    "Right, Left, Node"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q178",
+  "b": "2021-set3-q173",
+  "scores": {
+   "stem": 81.2,
+   "stemTokenSet": 94.8,
+   "cosine": 0.269,
+   "options": 49.9,
+   "answer": 30.4
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following is a type of information system?",
+   "options": [
+    "Transaction Processing System",
+    "Online Processing System",
+    "Real-time Processing System",
+    "Distributed Processing System"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following is a component of Management Information System (MIS)?",
+   "options": [
+    "External database",
+    "Knowledge engine",
+    "Data entry",
+    "Inquiry processing"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q186",
+  "b": "2021-set2-q187",
+  "scores": {
+   "stem": 80.4,
+   "stemTokenSet": 87.1,
+   "cosine": 0.523,
+   "options": 87.5,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "Which symbol in flowchart is used for representing start and end?",
+   "options": [
+    "",
+    "",
+    "",
+    "⟶"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which symbol in flowchart is used for processing?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set2-q050",
+  "scores": {
+   "stem": 63.8,
+   "stemTokenSet": 90.0,
+   "cosine": 0.286,
+   "options": 20.8,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+   "options": [
+    "5",
+    "6.5",
+    "4",
+    "3"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set4-q041",
+  "scores": {
+   "stem": 42.4,
+   "stemTokenSet": 85.2,
+   "cosine": 0.437,
+   "options": 29.2,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+   "options": [
+    "5",
+    "6.5",
+    "4",
+    "3"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "What is the value of 10 ÷ 5(4 – 2) × 6?",
+   "options": [
+    "12",
+    "8",
+    "6",
+    "24"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set5-q187",
+  "scores": {
+   "stem": 33.0,
+   "stemTokenSet": 65.3,
+   "cosine": 0.483,
+   "options": 57.4,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+   "options": [
+    "5",
+    "6.5",
+    "4",
+    "3"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "What is the mean of the mode and median of the data given below?\n8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+   "options": [
+    "6.5",
+    "5.75",
+    "6.25",
+    "5.5"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set5-q190",
+  "scores": {
+   "stem": 43.0,
+   "stemTokenSet": 70.6,
+   "cosine": 0.51,
+   "options": 28.1,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+   "options": [
+    "5",
+    "6.5",
+    "4",
+    "3"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "What is Lagrange’s interpolation polynomial for the following data?",
+   "options": [
+    "2x + 6",
+    "x + 5",
+    "x + 1",
+    "2x + 5"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2023-06-24-s2-q121",
+  "scores": {
+   "stem": 39.4,
+   "stemTokenSet": 65.5,
+   "cosine": 0.473,
+   "options": 42.3,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+   "options": [
+    "5",
+    "6.5",
+    "4",
+    "3"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "IfA= (1,2,3,4), B = (2,4,5) and C = (2,5), then (A-B)x(B-C)=?",
+   "options": [
+    "{1,3)",
+    "(1.4)",
+    "{1,3,4)",
+    "(1,3,4,5)"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q194",
+  "b": "2021-set3-q194",
+  "scores": {
+   "stem": 50.0,
+   "stemTokenSet": 61.3,
+   "cosine": 0.426,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "______ is the type of assessment.\nI. Formative assessment\nII. Summative assessment",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In contrast to other approaches to assessment of learning, assessment as learning is entirely ______ controlled.\nI. student\nII. Teacher",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q199",
+  "b": "2021-set2-q119",
+  "scores": {
+   "stem": 36.0,
+   "stemTokenSet": 34.0,
+   "cosine": 0.437,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Gender discrimination can be ______.\nI. direct\nII. indirect",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q003",
+  "b": "2021-set4-q003",
+  "scores": {
+   "stem": 76.6,
+   "stemTokenSet": 86.9,
+   "cosine": 0.209,
+   "options": 8.6,
+   "answer": 9.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which image is printed at the back of Rs. 500 note of Mahatma Gandhi (New) series?",
+   "options": [
+    "Mangalyaan",
+    "Red Fort",
+    "Sanchi Stupa",
+    "Ellora Caves"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "What is the size of Rs. 50 note of the Mahatma Gandhi (New) series?",
+   "options": [
+    "69 mm × 137 mm",
+    "66 mm × 137 mm",
+    "66 mm × 135 mm",
+    "69 mm × 135 mm"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q005",
+  "b": "2021-set4-q005",
+  "scores": {
+   "stem": 76.2,
+   "stemTokenSet": 76.2,
+   "cosine": 0.511,
+   "options": 85.6,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Fishes breath through there ______.",
+   "options": [
+    "gills",
+    "skin",
+    "tail",
+    "eyes"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Earthworms breathe through their ______.",
+   "options": [
+    "skin",
+    "lungs",
+    "gills",
+    "eyes"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q006",
+  "b": "2021-set4-q006",
+  "scores": {
+   "stem": 85.7,
+   "stemTokenSet": 90.9,
+   "cosine": 0.347,
+   "options": 31.1,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In a concave mirror, when object is at inflinity then image is ______.",
+   "options": [
+    "at C",
+    "at F",
+    "beyond C",
+    "at infinity"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In a concave mirror, when object is at C then size of image is ______.",
+   "options": [
+    "of same size",
+    "highly diminished",
+    "enlarged",
+    "highly enlarged"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q013",
+  "b": "2021-set2-q119",
+  "scores": {
+   "stem": 52.4,
+   "stemTokenSet": 100.0,
+   "cosine": 0.431,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Which of the following statement(s) regarding Partition of Bengal is/are correct?\nI. It was happened in 1905.\nII. It was done by Viceroy Curzon.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q015",
+  "b": "2021-set4-q016",
+  "scores": {
+   "stem": 88.0,
+   "stemTokenSet": 84.0,
+   "cosine": 0.452,
+   "options": 25.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "How many people were given Padma Bhushan in 2021?",
+   "options": [
+    "10",
+    "12",
+    "8",
+    "14"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "How many people were awarded Padma Vibhushan in 2021?",
+   "options": [
+    "5",
+    "7",
+    "9",
+    "11"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q018",
+  "b": "2021-set4-q018",
+  "scores": {
+   "stem": 68.8,
+   "stemTokenSet": 78.9,
+   "cosine": 0.217,
+   "options": 41.7,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which article of Indian constitution is related with the power of parliament to amend the constitution and procedure therefor?",
+   "options": [
+    "361",
+    "368",
+    "373",
+    "378"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which article of Indian constitution is related with the borrowing by the government of India?",
+   "options": [
+    "218",
+    "326",
+    "246",
+    "292"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set2-q018",
+  "b": "2021-set5-q018",
+  "scores": {
+   "stem": 66.7,
+   "stemTokenSet": 79.4,
+   "cosine": 0.211,
+   "options": 41.7,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which article of Indian constitution is related with the power of parliament to amend the constitution and procedure therefor?",
+   "options": [
+    "361",
+    "368",
+    "373",
+    "378"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which article of Indian constitution is related to the duration of state legislatures?",
+   "options": [
+    "168",
+    "172",
+    "179",
+    "187"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q019",
+  "b": "2021-set5-q019",
+  "scores": {
+   "stem": 75.6,
+   "stemTokenSet": 79.0,
+   "cosine": 0.425,
+   "options": 66.7,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "How many silver medals did India won at 2016 Olympic games?",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "How many gold medals did India won in 2018 Commonwealth games?",
+   "options": [
+    "18",
+    "32",
+    "26",
+    "20"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q020",
+  "b": "2021-set3-q020",
+  "scores": {
+   "stem": 69.3,
+   "stemTokenSet": 81.6,
+   "cosine": 0.356,
+   "options": 42.9,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which country won the 2019 FIFA U20 World cup?",
+   "options": [
+    "South Korea",
+    "Ukraine",
+    "Ecuador",
+    "Uruguay"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Who won the Golden Boot award at 2019 FIFA U20 World Cup?",
+   "options": [
+    "Erling Haaland",
+    "Lee Kangin",
+    "Andriy Lunin",
+    "Sekou Koita"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q020",
+  "b": "2021-set5-q020",
+  "scores": {
+   "stem": 77.1,
+   "stemTokenSet": 88.9,
+   "cosine": 0.447,
+   "options": 61.9,
+   "answer": 42.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which country won the 2019 FIFA U20 World cup?",
+   "options": [
+    "South Korea",
+    "Ukraine",
+    "Ecuador",
+    "Uruguay"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which country has won the first ever FIFA World Cup?",
+   "options": [
+    "Mexico",
+    "Brazil",
+    "Uruguay",
+    "France"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set2-q025",
+  "scores": {
+   "stem": 64.5,
+   "stemTokenSet": 83.9,
+   "cosine": 0.266,
+   "options": 32.1,
+   "answer": 19.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, four pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "CL – LC",
+    "KW – WK",
+    "BY – YB",
+    "NM – MP"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TRAB, JHZA, IGPQ)",
+   "options": [
+    "(ALPM, UVTH, PADB)",
+    "(KNSQ, YZVR, ZDHF)",
+    "(GBLK, SSJN, VQAZ)",
+    "(ANJH, QQVH, PCYX)"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set3-q023",
+  "scores": {
+   "stem": 98.7,
+   "stemTokenSet": 100.0,
+   "cosine": 0.639,
+   "options": 62.5,
+   "answer": 71.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, four pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "CL – LC",
+    "KW – WK",
+    "BY – YB",
+    "NM – MP"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, four letter pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "LX – WK",
+    "NO – MN",
+    "CR – QB",
+    "TA – ZS"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set3-q025",
+  "scores": {
+   "stem": 65.3,
+   "stemTokenSet": 83.9,
+   "cosine": 0.267,
+   "options": 32.1,
+   "answer": 19.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, four pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "CL – LC",
+    "KW – WK",
+    "BY – YB",
+    "NM – MP"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(GROB, EKUC, FQNA)",
+   "options": [
+    "(LAPT, WLDH, KZOS)",
+    "(CGND, GJJY, BFMD)",
+    "(RFID, GECV, YYHC)",
+    "(NEFT, WBHJ, MDEA)"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set5-q038",
+  "scores": {
+   "stem": 54.9,
+   "stemTokenSet": 86.2,
+   "cosine": 0.444,
+   "options": 9.4,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ)",
+  "qa": {
+   "text": "In the following question, four pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "CL – LC",
+    "KW – WK",
+    "BY – YB",
+    "NM – MP"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right of (::) from the given\nalternatives based on the same logic/rule/relation.",
+   "options": [
+    "M",
+    "",
+    "M",
+    ""
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set2-q025",
+  "b": "2021-set3-q023",
+  "scores": {
+   "stem": 65.9,
+   "stemTokenSet": 83.9,
+   "cosine": 0.26,
+   "options": 28.6,
+   "answer": 19.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TRAB, JHZA, IGPQ)",
+   "options": [
+    "(ALPM, UVTH, PADB)",
+    "(KNSQ, YZVR, ZDHF)",
+    "(GBLK, SSJN, VQAZ)",
+    "(ANJH, QQVH, PCYX)"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the following question, four letter pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "LX – WK",
+    "NO – MN",
+    "CR – QB",
+    "TA – ZS"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q025",
+  "b": "2021-set3-q025",
+  "scores": {
+   "stem": 96.6,
+   "stemTokenSet": 95.1,
+   "cosine": 0.39,
+   "options": 32.1,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TRAB, JHZA, IGPQ)",
+   "options": [
+    "(ALPM, UVTH, PADB)",
+    "(KNSQ, YZVR, ZDHF)",
+    "(GBLK, SSJN, VQAZ)",
+    "(ANJH, QQVH, PCYX)"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(GROB, EKUC, FQNA)",
+   "options": [
+    "(LAPT, WLDH, KZOS)",
+    "(CGND, GJJY, BFMD)",
+    "(RFID, GECV, YYHC)",
+    "(NEFT, WBHJ, MDEA)"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q026",
+  "b": "2021-set3-q026",
+  "scores": {
+   "stem": 75.5,
+   "stemTokenSet": 82.9,
+   "cosine": 0.282,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In a certain code language, ‘VENUE’ is written as ‘LBULC’. What is the code for ‘TEMPO’ in that code language?",
+   "options": [
+    "VWTLA",
+    "VWTAL",
+    "VTWLA",
+    "VTWAL"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In a certain code language, ‘LACKEY’ is written as ‘121311525’, ‘LUSTER’ is written as ‘12211920518’. What is the code for ‘KIPPER’ in that\ncode language?",
+   "options": [
+    "1191616518",
+    "1191617520",
+    "1191622522",
+    "1191640532"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q026",
+  "b": "2021-set4-q026",
+  "scores": {
+   "stem": 81.5,
+   "stemTokenSet": 82.9,
+   "cosine": 0.3,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In a certain code language, ‘VENUE’ is written as ‘LBULC’. What is the code for ‘TEMPO’ in that code language?",
+   "options": [
+    "VWTLA",
+    "VWTAL",
+    "VTWLA",
+    "VTWAL"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In a certain code language, ‘RACER’ is written as ‘46’, ‘USAGE’ is written as ‘54’. What is the code for ‘ESSAY’ in that code language?",
+   "options": [
+    "69",
+    "70",
+    "72",
+    "75"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2021-set3-q029",
+  "scores": {
+   "stem": 71.6,
+   "stemTokenSet": 95.2,
+   "cosine": 0.835,
+   "options": 34.8,
+   "answer": 38.5
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Seven girls L, M, N, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). M is second to\nthe right of N. N is third to the right of P. R is third to the right of S. L is third to the left of Q. S is not the immediate neighbour of M.\nWhich of the following statement(s) is/are correct?\nI. Q is to the immediate left of N.\nII. P is third to the left of N.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Seven boys A, B, C, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). S is second to\nthe left of C. P is second to the left of S. Q is not the immediate neighbour of P or S. B is fourth to the right of A.\nWhich of the following statement is correct?",
+   "options": [
+    "B is second to the right of Q.",
+    "P is third to the left of C.",
+    "A is not the immediate neighbour of P or Q.",
+    "B is the immediate neighbour of S and C."
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2021-set4-q027",
+  "scores": {
+   "stem": 72.6,
+   "stemTokenSet": 87.6,
+   "cosine": 0.761,
+   "options": 5.4,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Seven girls L, M, N, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). M is second to\nthe right of N. N is third to the right of P. R is third to the right of S. L is third to the left of Q. S is not the immediate neighbour of M.\nWhich of the following statement(s) is/are correct?\nI. Q is to the immediate left of N.\nII. P is third to the left of N.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Eight players A, B, C, D, E, F, G and H are sitting around a circular table facing towards the centre (not necessarily in the same order). G is\nfourth to the right of A. D is second to the left of A. E is second to the right of C. C is not the immediate neighbour of G or D. B is second to the\nright of F. Who is third to the right of H?",
+   "options": [
+    "B",
+    "F",
+    "D",
+    "G"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2021-set5-q029",
+  "scores": {
+   "stem": 74.4,
+   "stemTokenSet": 95.7,
+   "cosine": 0.792,
+   "options": 75.8,
+   "answer": 64.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Seven girls L, M, N, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). M is second to\nthe right of N. N is third to the right of P. R is third to the right of S. L is third to the left of Q. S is not the immediate neighbour of M.\nWhich of the following statement(s) is/are correct?\nI. Q is to the immediate left of N.\nII. P is third to the left of N.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Nine boys P, Q, R, S, T, U, V, W and X are sitting around a circular table facing towards the centre (not necessarily in the same order). U is fourth\nto the right of P. P is third to the right of Q. X is fourth to the left of Q. S is third to the left of X. R is third to the right of W. T is second to the left\nof V.\nWhich of the following statement(s) is/are not correct?\nI. U and V are not the immediate neighbours.\nII. V is the immediate neighbour of Q and U.\nIII. R is second to the right of T.\nIV. W is third to the left of U.",
+   "options": [
+    "Only II",
+    "II and III",
+    "I, II, III and IV",
+    "I, III and IV"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2023-06-24-s2-q001",
+  "scores": {
+   "stem": 58.8,
+   "stemTokenSet": 69.1,
+   "cosine": 0.459,
+   "options": 7.1,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Seven girls L, M, N, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). M is second to\nthe right of N. N is third to the right of P. R is third to the right of S. L is third to the left of Q. S is not the immediate neighbour of M.\nWhich of the following statement(s) is/are correct?\nI. Q is to the immediate left of N.\nII. P is third to the left of N.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Six friends, A, B, C, D, E and E, are sitting around a round table facing toward the centre and equidistant from each\nother. A is sitting second to the left of C. D is sitting opposite to B. F is sitting to the immediate right of B. Who is\nsitting second to the right of E?",
+   "options": [
+    "A",
+    "B",
+    "D",
+    "F"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set2-q030",
+  "b": "2023-06-24-s2-q003",
+  "scores": {
+   "stem": 64.1,
+   "stemTokenSet": 76.7,
+   "cosine": 0.461,
+   "options": 88.7,
+   "answer": 94.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some P are K.\nII. No S is P.\nConclusions:\nI. No P is S.\nII. All S are K.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+   "options": [
+    "Only conclusions III follows",
+    "Only conclusions II and III follow",
+    "All the conclusions, I, II and III, follow",
+    "Only conclusions I and II follow"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q031",
+  "b": "2021-set3-q030",
+  "scores": {
+   "stem": 91.9,
+   "stemTokenSet": 98.0,
+   "cosine": 0.793,
+   "options": 97.2,
+   "answer": 78.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All L are J.\nII. No V is L.\nConclusions:\nI. All J are L.\nII. All V are J.\nIII. All L are V.",
+   "options": [
+    "Only conclusion I follows",
+    "Neither conclusion follows",
+    "Both conclusions II and III follows",
+    "All conclusion follows"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some land are hard.\nII. No stone is land.\nConclusions:\nI. Some hard are land.\nII. Some stone are hard.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q031",
+  "b": "2021-set4-q030",
+  "scores": {
+   "stem": 90.4,
+   "stemTokenSet": 97.4,
+   "cosine": 0.78,
+   "options": 97.2,
+   "answer": 78.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All L are J.\nII. No V is L.\nConclusions:\nI. All J are L.\nII. All V are J.\nIII. All L are V.",
+   "options": [
+    "Only conclusion I follows",
+    "Neither conclusion follows",
+    "Both conclusions II and III follows",
+    "All conclusion follows"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No ground are land.\nII. Some garden are land.\nConclusions:\nI. Some land are garden.\nII. Some land are ground.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q031",
+  "b": "2023-06-24-s2-q003",
+  "scores": {
+   "stem": 65.2,
+   "stemTokenSet": 76.9,
+   "cosine": 0.482,
+   "options": 86.9,
+   "answer": 74.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All L are J.\nII. No V is L.\nConclusions:\nI. All J are L.\nII. All V are J.\nIII. All L are V.",
+   "options": [
+    "Only conclusion I follows",
+    "Neither conclusion follows",
+    "Both conclusions II and III follows",
+    "All conclusion follows"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+   "options": [
+    "Only conclusions III follows",
+    "Only conclusions II and III follow",
+    "All the conclusions, I, II and III, follow",
+    "Only conclusions I and II follow"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q032",
+  "b": "2021-set5-q032",
+  "scores": {
+   "stem": 73.8,
+   "stemTokenSet": 89.4,
+   "cosine": 0.238,
+   "options": 37.5,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, select the related number from the given alternatives.\n198 : 66 :: ?",
+   "options": [
+    "144 : 48",
+    "146 : 46",
+    "148 : 44",
+    "142 : 42"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.",
+   "options": [
+    "36",
+    "48",
+    "24",
+    "30"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q035",
+  "b": "2021-set3-q035",
+  "scores": {
+   "stem": 79.3,
+   "stemTokenSet": 88.0,
+   "cosine": 0.474,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 3 represents those bottles which are odd and even both.\nII. Number of odd bottles are 7.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 9 represents those figures which are neither red nor bottle.\nII. Number 2 represents those figures which are not red.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q035",
+  "b": "2021-set4-q035",
+  "scores": {
+   "stem": 74.6,
+   "stemTokenSet": 85.8,
+   "cosine": 0.587,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 3 represents those bottles which are odd and even both.\nII. Number of odd bottles are 7.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are incorrect?\nI. Total number of odd are 10.\nII. Number of even which are not letters, are 10.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q035",
+  "b": "2021-set5-q035",
+  "scores": {
+   "stem": 73.8,
+   "stemTokenSet": 88.7,
+   "cosine": 0.498,
+   "options": 100.0,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 3 represents those bottles which are odd and even both.\nII. Number of odd bottles are 7.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Total number of black are 24.\nII. Number 12 represents those cars which are only black.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q036",
+  "b": "2021-set3-q037",
+  "scores": {
+   "stem": 48.4,
+   "stemTokenSet": 58.1,
+   "cosine": 0.429,
+   "options": 84.8,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "A is to the west of K. J is to the south of B. B is to the south of K. L is to the east of A and west of K. In which direction is J from L?",
+   "options": [
+    "North-west",
+    "South-east",
+    "South-west",
+    "North-east"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Ramesh is facing towards south direction. He rotates by 140 degrees in clockwise direction. He again rotates by 362 degrees in anti-clockwise\ndirection. In which direction is he facing now?",
+   "options": [
+    "North-east",
+    "West",
+    "North-west",
+    "East"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q036",
+  "b": "2021-set4-q036",
+  "scores": {
+   "stem": 45.0,
+   "stemTokenSet": 59.2,
+   "cosine": 0.721,
+   "options": 80.3,
+   "answer": 77.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A is to the west of K. J is to the south of B. B is to the south of K. L is to the east of A and west of K. In which direction is J from L?",
+   "options": [
+    "North-west",
+    "South-east",
+    "South-west",
+    "North-east"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If South-east becomes North-west and West becomes East, then what South-west will become?",
+   "options": [
+    "North",
+    "East",
+    "North-east",
+    "South"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q036",
+  "b": "2021-set5-q036",
+  "scores": {
+   "stem": 46.5,
+   "stemTokenSet": 57.1,
+   "cosine": 0.574,
+   "options": 93.8,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "A is to the west of K. J is to the south of B. B is to the south of K. L is to the east of A and west of K. In which direction is J from L?",
+   "options": [
+    "North-west",
+    "South-east",
+    "South-west",
+    "North-east"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If north becomes south-west and south-east becomes north, then what west will become?",
+   "options": [
+    "South-east",
+    "East",
+    "North-east",
+    "North-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q037",
+  "b": "2021-set4-q037",
+  "scores": {
+   "stem": 82.8,
+   "stemTokenSet": 85.5,
+   "cosine": 0.548,
+   "options": 73.5,
+   "answer": 76.5
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Saroj walks 24 km towards north. She turns right and walks 20 km. She turns left and walks 30 km. She rotates by 90 degrees in clockwise\ndirection and walks 15 km. she turns right and walks 30 km. She finally rotates by 90 degrees in clockwise direction and walks 25 km. How far\nand in which direction is her starting point from the finishing point?",
+   "options": [
+    "26 km, South-west",
+    "49 km, North-east",
+    "26 km, North-east",
+    "49 km, South-west"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Prem walks 13 metres towards north. He turns right and walks 11 metres. He rotates by 90 degrees in anti-clockwise direction and walks 11\nmetres. He again rotates by 90 degrees in anti-clockwise direction and walks 4 metres. How far and in which direction is his starting point from\nthe finishing point?",
+   "options": [
+    "25 metres, South-west",
+    "33 metres, North-east",
+    "25 metres, North-east",
+    "33 metres, South-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q037",
+  "b": "2021-set5-q037",
+  "scores": {
+   "stem": 82.2,
+   "stemTokenSet": 91.5,
+   "cosine": 0.758,
+   "options": 85.0,
+   "answer": 86.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Saroj walks 24 km towards north. She turns right and walks 20 km. She turns left and walks 30 km. She rotates by 90 degrees in clockwise\ndirection and walks 15 km. she turns right and walks 30 km. She finally rotates by 90 degrees in clockwise direction and walks 25 km. How far\nand in which direction is her starting point from the finishing point?",
+   "options": [
+    "26 km, South-west",
+    "49 km, North-east",
+    "26 km, North-east",
+    "49 km, South-west"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Radha walks 14 km towards north. She turns right and walks 22 km. She turns right and walks 24 km. She turns left and walks 26 km. She finally\nrotates by an angle of 90 degrees in anti-clockwise direction and walks 24 km. How far and in which direction is her starting point from the\nfinishing point?",
+   "options": [
+    "50 km, south-west",
+    "76 km, north-west",
+    "76 km, south-east",
+    "50 km, north-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q040",
+  "b": "2023-06-24-s2-q013",
+  "scores": {
+   "stem": 49.8,
+   "stemTokenSet": 71.3,
+   "cosine": 0.509,
+   "options": 100.0,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "If a mirror is placed on the line AB, then which of the answer figures is the right image of the given figure?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Select the correct mirror image of the given figure when the mirror is held at the right side.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q042",
+  "b": "2021-set2-q050",
+  "scores": {
+   "stem": 59.3,
+   "stemTokenSet": 88.9,
+   "cosine": 0.43,
+   "options": 34.4,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "2\n2\n-of =\n÷\n6\n6\n6 ?\nWhat is the value of\n2\n2\n-of\n6\n6\n6",
+   "options": [
+    "1\n3",
+    "3",
+    "1\n9",
+    "9"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q042",
+  "b": "2021-set4-q041",
+  "scores": {
+   "stem": 65.9,
+   "stemTokenSet": 88.9,
+   "cosine": 0.368,
+   "options": 15.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "2\n2\n-of =\n÷\n6\n6\n6 ?\nWhat is the value of\n2\n2\n-of\n6\n6\n6",
+   "options": [
+    "1\n3",
+    "3",
+    "1\n9",
+    "9"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the value of 10 ÷ 5(4 – 2) × 6?",
+   "options": [
+    "12",
+    "8",
+    "6",
+    "24"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set2-q042",
+  "b": "2021-set5-q187",
+  "scores": {
+   "stem": 37.6,
+   "stemTokenSet": 75.0,
+   "cosine": 0.428,
+   "options": 23.8,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "2\n2\n-of =\n÷\n6\n6\n6 ?\nWhat is the value of\n2\n2\n-of\n6\n6\n6",
+   "options": [
+    "1\n3",
+    "3",
+    "1\n9",
+    "9"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the mean of the mode and median of the data given below?\n8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+   "options": [
+    "6.5",
+    "5.75",
+    "6.25",
+    "5.5"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q044",
+  "b": "2021-set2-q050",
+  "scores": {
+   "stem": 66.7,
+   "stemTokenSet": 90.0,
+   "cosine": 0.274,
+   "options": 32.1,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If product of two prime numbers A and B (A < B) is 221, then what is the value of (4A – 3B)?",
+   "options": [
+    "–1",
+    "1",
+    "–2",
+    "2"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q047",
+  "b": "2021-set4-q046",
+  "scores": {
+   "stem": 45.5,
+   "stemTokenSet": 63.8,
+   "cosine": 0.442,
+   "options": 81.2,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If A percent of 434 = 62, then what is the value of A?",
+   "options": [
+    "16.66",
+    "12.5",
+    "15",
+    "14.28"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "15 percent of marked price is equal to the 18 percent of selling price. What is the discount percentage?",
+   "options": [
+    "20",
+    "16.66",
+    "14.28",
+    "17.5"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q049",
+  "b": "2021-set4-q046",
+  "scores": {
+   "stem": 51.4,
+   "stemTokenSet": 76.2,
+   "cosine": 0.52,
+   "options": 29.2,
+   "answer": 43.5
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Cost price of 10 articles is equal to the selling price of 12 articles. What is the profit/loss percentage? (Cost price of all articles is same and selling\nprice of all articles is same)",
+   "options": [
+    "Loss 20 percent",
+    "Loss 16.66 percent",
+    "Profit 20 percent",
+    "Profit 16.66 percent"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "15 percent of marked price is equal to the 18 percent of selling price. What is the discount percentage?",
+   "options": [
+    "20",
+    "16.66",
+    "14.28",
+    "17.5"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2021-set3-q044",
+  "scores": {
+   "stem": 67.8,
+   "stemTokenSet": 81.1,
+   "cosine": 0.205,
+   "options": 20.8,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If (9835 × 88A) is divisible by 15, then what is the value of A?",
+   "options": [
+    "3",
+    "2",
+    "7",
+    "6"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2021-set3-q051",
+  "scores": {
+   "stem": 67.7,
+   "stemTokenSet": 90.0,
+   "cosine": 0.312,
+   "options": 39.3,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If (x + y) : (y + z) : (z + x) = 2 : 3 : 4 and (x + y + z) = 27, then what is the value of z?",
+   "options": [
+    "10",
+    "17",
+    "15",
+    "12"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2021-set4-q042",
+  "scores": {
+   "stem": 61.7,
+   "stemTokenSet": 81.1,
+   "cosine": 0.244,
+   "options": 25.0,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "If the number 58579A is exactly divisible by 36, then what is the value of A?",
+   "options": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2023-06-24-s2-q121",
+  "scores": {
+   "stem": 57.9,
+   "stemTokenSet": 65.5,
+   "cosine": 0.548,
+   "options": 53.8,
+   "answer": 60.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "IfA= (1,2,3,4), B = (2,4,5) and C = (2,5), then (A-B)x(B-C)=?",
+   "options": [
+    "{1,3)",
+    "(1.4)",
+    "{1,3,4)",
+    "(1,3,4,5)"
+   ],
+   "key": "C"
+  }
+ }
+]

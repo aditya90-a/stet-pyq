@@ -1,0 +1,550 @@
+{
+ "slug": "dbms-sql",
+ "subject": "Computer Science",
+ "topic": "DBMS & SQL",
+ "titleHi": "DBMS एवं SQL",
+ "summary": "Covers database concepts and the three-schema architecture, the ER model and keys, the relational model and relational algebra, SQL (DDL, DML, joins, aggregates), functional dependencies and normal forms, and transactions with concurrency control and recovery. DSSSB papers ask many one-line factual questions (keys, Codd's rules, SQL operators and functions, checkpoint, timestamp) along with short query-output and normal-form problems.",
+ "sections": [
+  {
+   "heading": "Database, DBMS and data models",
+   "level": "basic",
+   "subtopic": "DBMS concepts & architecture",
+   "body": "A **database** is an organised collection of related data; a **DBMS** is the software used to define, store, manage, retrieve and protect it (e.g. MySQL, Oracle, PostgreSQL, SQL Server).\n**Advantages over file systems**: less redundancy and inconsistency, integrity, concurrent access, security, recovery, data independence.\n**Data models** in historical order:\n- **Hierarchical** (oldest; tree, parent–child; IBM IMS).\n- **Network** (graph of records and sets; CODASYL/DBTG).\n- **Relational** (tables; proposed by **E. F. Codd** in 1970).\n- **Object-oriented / object-relational** (objects, classes, inheritance).\n- **Deductive** (also called the **inference model**; facts plus rules, as in Datalog).\n**OLTP** gives immediate responses and keeps the database always up to date; **batch processing** updates collected transactions together, with reports at scheduled intervals. **OLAP** analyses historical data.\n**Distributed databases**: **fragmentation** splits data into logical units (horizontal/vertical), **replication** keeps copies and **data allocation** decides which site stores what."
+  },
+  {
+   "heading": "Three-schema architecture, data independence and languages",
+   "level": "basic",
+   "subtopic": "DBMS concepts & architecture",
+   "body": "The **ANSI/SPARC three-schema architecture** has:\n- **Internal (physical) level**: how data is actually stored (files, indexes).\n- **Conceptual (logical) level**: what data is stored and the relationships, for the whole database.\n- **External (view) level**: the part of the database each user group sees.\n**Physical data independence**: change the internal schema without changing the conceptual schema (easier to achieve). **Logical data independence**: change the conceptual schema without changing external schemas or programs (harder).\nA **schema** is the design (intension, changes rarely); an **instance** (extension) is the data at a moment.\nThe **data dictionary / system catalog** stores **metadata** (data about data).\nThe **DBA** defines schemas, grants access, plans backup and tunes performance.\n**Architectures**: 1-tier, 2-tier (client–server) and 3-tier (client, application server, database server — common for web apps).\nDatabase design approaches are **top-down, bottom-up, inside-out and mixed**; the overall process is the **Database Development Life Cycle (DDLC)**.",
+   "table": {
+    "columns": [
+     "Language",
+     "Commands",
+     "Purpose"
+    ],
+    "rows": [
+     [
+      "DDL",
+      "CREATE, ALTER, DROP, TRUNCATE, RENAME",
+      "Define or change structure"
+     ],
+     [
+      "DML",
+      "SELECT, INSERT, UPDATE, DELETE",
+      "Query and modify data (SELECT is sometimes called DQL)"
+     ],
+     [
+      "DCL",
+      "GRANT, REVOKE",
+      "Control access rights"
+     ],
+     [
+      "TCL",
+      "COMMIT, ROLLBACK, SAVEPOINT",
+      "Control transactions"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "File organisation and indexing",
+   "level": "intermediate",
+   "subtopic": "DBMS concepts & architecture",
+   "body": "**File organisations**: **heap** (unordered), **sequential** (sorted on a key; insertion/deletion needs rewriting the file and a search reads half the records on average), **hashed** (direct address from a hash function) and **ISAM** (Indexed Sequential Access Method).\n**Index types:**\n- **Primary index**: on the ordering key field of a sorted file; an ordered file of fixed-length entries ⟨key, block pointer⟩, one per block, so it is **sparse**.\n- **Clustering index**: on an ordering non-key field. (Silberschatz calls any index whose search key defines the file order a clustering, or primary, index.)\n- **Secondary index**: on a non-ordering field; must be **dense**.\nA **dense index** has an entry for every search-key value; a **sparse index** only for some (e.g. one per block). A **multilevel index** indexes the index.\n**B-tree**: keys and data pointers in all nodes. **B+ tree**: data pointers only in leaves, which are linked for range queries — the most widely used DBMS index."
+  },
+  {
+   "heading": "ER model: components and notation",
+   "level": "basic",
+   "subtopic": "ER model & keys",
+   "body": "The **Entity–Relationship model** (Peter Chen, 1976) is a conceptual design tool.\n- **Entity**: a real-world object (a student). **Entity type**: the collection of entities with the same attributes (STUDENT); the current set of entities is the **entity set**.\n- **Attributes**: simple vs **composite** (Name → First, Last); single-valued vs **multivalued** (phone numbers); stored vs **derived** (Age from DOB); **key** attribute.\n- **Relationship**: association among entities; its **degree** is the number of participating entity types (unary/recursive, binary, ternary).\n- **Cardinality ratio**: 1:1, 1:N, M:N. **Participation**: **total** (every entity participates, double line) or **partial**.\n- **Weak entity**: has no key of its own; identified by its owner entity through an **identifying relationship** and a **partial key** (discriminator).\n**Enhanced ER**: **specialisation** (top-down, subclasses), **generalisation** (bottom-up, superclass), **aggregation** (relationship treated as an entity).\n**Connection traps**: **fan trap** (ambiguous path where two 1:N relationships fan out from one entity) and **chasm trap** (an expected path is missing for some entities because of partial participation).",
+   "table": {
+    "columns": [
+     "Chen symbol",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "Rectangle",
+      "Entity"
+     ],
+     [
+      "Double rectangle",
+      "Weak entity"
+     ],
+     [
+      "Ellipse",
+      "Attribute"
+     ],
+     [
+      "Underlined attribute",
+      "Key attribute"
+     ],
+     [
+      "Double ellipse",
+      "Multivalued attribute"
+     ],
+     [
+      "Dashed ellipse",
+      "Derived attribute"
+     ],
+     [
+      "Diamond",
+      "Relationship"
+     ],
+     [
+      "Double diamond",
+      "Identifying relationship"
+     ],
+     [
+      "Double line",
+      "Total participation"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Keys and integrity constraints",
+   "level": "basic",
+   "subtopic": "ER model & keys",
+   "body": "- **Super key**: any set of attributes that uniquely identifies a tuple.\n- **Candidate key**: a **minimal** super key (no proper subset is a super key).\n- **Primary key**: the candidate key chosen by the designer; cannot be NULL.\n- **Alternate (secondary) key**: candidate keys not chosen as primary key.\n- **Foreign key**: attribute(s) in one relation referring to the primary key of another (or the same) relation.\n- **Composite key**: two or more attributes; **surrogate key**: system-generated identifier.\nAn attribute in some candidate key is a **prime attribute**.\n**Integrity constraints:**\n- **Domain constraint**: values must come from the attribute's domain.\n- **Entity integrity**: no primary-key attribute may be NULL.\n- **Referential integrity**: specified **between two relations**; a foreign-key value must match an existing primary-key value or be NULL.\n- **Key constraint**: no two tuples share a candidate-key value.\nWith n attributes and one single-attribute candidate key there are 2ⁿ⁻¹ super keys."
+  },
+  {
+   "heading": "Relational model, Codd's rules and ER-to-table mapping",
+   "level": "intermediate",
+   "subtopic": "Relational model & algebra",
+   "body": "In the relational model data is stored in **relations (tables)**. A row is a **tuple**, a column an **attribute**, the set of allowed values a **domain**. **Degree** = number of attributes; **cardinality** = number of tuples (a relation with 500 tuples and 50 attributes has cardinality 500 and degree 50). Tuples are unordered, and each value is atomic.\n**Codd's 12 rules** (numbered 0 to 12, rule 0 being the foundation rule) define what a fully relational DBMS must satisfy (e.g. information rule, guaranteed access, systematic treatment of NULLs, online catalog, non-subversion).\n**Mapping an ER diagram to tables:**\n- Strong entity → table; key attribute → primary key.\n- Weak entity → table with owner's primary key + partial key as the composite key.\n- **1:1 or 1:N relationship** → a **foreign key** (on the N side for 1:N).\n- **M:N relationship** → a separate table whose key combines both primary keys.\n- Multivalued attribute → separate table."
+  },
+  {
+   "heading": "Relational algebra and calculus",
+   "level": "intermediate",
+   "subtopic": "Relational model & algebra",
+   "body": "**Relational algebra** is **procedural**: each operation takes relations and returns a relation. **Relational calculus** is **non-procedural** (says what, not how): **tuple relational calculus** {t | P(t)} and **domain relational calculus**. SQL is based on both.\nThe **six fundamental operations** are select σ, project π, union ∪, set difference −, Cartesian product × and rename ρ. Intersection, join and division can be derived from them, e.g. R ∩ S = R − (R − S).\nUnion, intersection and difference need **union-compatible** relations (same degree and matching domains).\nFor R with m attributes and r tuples and S with n attributes and s tuples, R × S has degree m + n and cardinality r × s.\n**Natural join** ⋈ equates common attributes and keeps one copy; a **theta join** uses any condition, an **equi-join** only =. **Outer joins** (left ⟕, right ⟖, full ⟗) also keep unmatched tuples, padding with NULL. **Division** ÷ answers 'for all' queries (students who took **all** courses).",
+   "table": {
+    "columns": [
+     "Operation",
+     "Symbol",
+     "Type",
+     "Effect"
+    ],
+    "rows": [
+     [
+      "Select",
+      "σ condition (R)",
+      "Unary",
+      "Chooses rows (horizontal subset)"
+     ],
+     [
+      "Project",
+      "π attributes (R)",
+      "Unary",
+      "Chooses columns, removes duplicates"
+     ],
+     [
+      "Rename",
+      "ρ",
+      "Unary",
+      "Renames relation or attributes"
+     ],
+     [
+      "Union",
+      "R ∪ S",
+      "Binary",
+      "Tuples in R or S"
+     ],
+     [
+      "Set difference",
+      "R − S",
+      "Binary",
+      "Tuples in R but not in S"
+     ],
+     [
+      "Cartesian product",
+      "R × S",
+      "Binary",
+      "Every tuple of R with every tuple of S"
+     ],
+     [
+      "Intersection",
+      "R ∩ S",
+      "Binary",
+      "Tuples in both"
+     ],
+     [
+      "Join",
+      "R ⋈ S",
+      "Binary",
+      "Product followed by selection"
+     ],
+     [
+      "Division",
+      "R ÷ S",
+      "Binary",
+      "Values related to all tuples of S"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "SQL: data types, constraints and DDL",
+   "level": "basic",
+   "subtopic": "SQL",
+   "body": "**SQL** (originally SEQUEL, IBM) is the ANSI/ISO standard relational language.\n**Common data types**: CHAR(n) (fixed length), VARCHAR(n) (variable length), INT/INTEGER, SMALLINT, NUMERIC(p,s)/DECIMAL, REAL, FLOAT, DATE, TIME, TIMESTAMP, INTERVAL, BOOLEAN, BLOB/CLOB.\n**Constraints**: NOT NULL, UNIQUE, PRIMARY KEY (= UNIQUE + NOT NULL), FOREIGN KEY … REFERENCES … [ON DELETE CASCADE / SET NULL], CHECK, DEFAULT.\n**DELETE vs TRUNCATE vs DROP:**\n- `DELETE FROM t WHERE …` — DML, removes chosen rows, can be rolled back.\n- `TRUNCATE TABLE t` — DDL, removes all rows quickly and keeps the structure (auto-committed in Oracle and MySQL).\n- `DROP TABLE t` — DDL, removes data and structure.\n`ALTER TABLE` adds, drops or modifies columns and constraints. `DROP SCHEMA s RESTRICT` drops the schema only if it is empty; `CASCADE` also drops everything inside it.\n`GRANT SELECT ON t TO user;` and `REVOKE` manage privileges. A **view** (`CREATE VIEW v AS SELECT …`) is a virtual table stored as a query.",
+   "code": {
+    "lang": "sql",
+    "source": "CREATE TABLE Dept (dept VARCHAR(10) PRIMARY KEY, floor INT);\nCREATE TABLE Employee (\n  emp_id INT PRIMARY KEY,\n  name   VARCHAR(20) NOT NULL,\n  dept   VARCHAR(10),\n  salary INT CHECK (salary > 0),\n  city   VARCHAR(20)\n);\nINSERT INTO Dept VALUES ('IT', 3), ('HR', 1), ('Admin', 2);\nINSERT INTO Employee VALUES\n (1, 'Asha',  'IT',    60000, 'Delhi'),\n (2, 'Ravi',  'HR',    45000, 'Noida'),\n (3, 'Meena', 'IT',    75000, 'Delhi'),\n (4, 'John',  'Sales', 40000, 'Gurugram'),\n (5, 'Kiran', 'Sales', 52000, 'Delhi'),\n (6, 'Farah', 'HR',    48000, NULL);",
+    "output": ""
+   }
+  },
+  {
+   "heading": "SQL queries: clauses, operators and aggregates",
+   "level": "intermediate",
+   "subtopic": "SQL",
+   "body": "**Logical evaluation order**: FROM → WHERE → GROUP BY → HAVING → SELECT → DISTINCT → ORDER BY.\n- `SELECT *` returns all attributes; `DISTINCT` removes duplicate rows.\n- **Comparison operators**: =, <> (or !=), <, >, <=, >=. Logical: AND, OR, NOT.\n- `BETWEEN a AND b` is **inclusive**; `IN (…)` tests membership; `IS NULL` tests for NULL (`= NULL` never works).\n- `LIKE` matches patterns: `%` = any sequence of zero or more characters, `_` = exactly one character.\n- **Aggregate functions**: COUNT, SUM, AVG, MIN, MAX. All ignore NULLs except `COUNT(*)`.\n- **WHERE** filters rows before grouping; **HAVING** filters groups after grouping and may use aggregates.\n- ORDER BY is ascending by default (DESC for descending).\nQueries below run on the Employee/Dept tables created above.",
+   "code": {
+    "lang": "sql",
+    "source": "SELECT dept, SUM(salary) AS total\nFROM Employee\nGROUP BY dept\nHAVING SUM(salary) > 92000\nORDER BY total DESC;\n\nSELECT COUNT(*), COUNT(city), COUNT(DISTINCT city) FROM Employee;\n\nSELECT name FROM Employee WHERE name LIKE '_a%' ORDER BY name;",
+    "output": "dept | total\nIT   | 135000\nHR   | 93000\n\nCOUNT(*) | COUNT(city) | COUNT(DISTINCT city)\n6        | 5           | 3\n\nname\nFarah\nRavi"
+   }
+  },
+  {
+   "heading": "Joins, subqueries, set operations and functions",
+   "level": "intermediate",
+   "subtopic": "SQL",
+   "body": "- **INNER JOIN** returns only matching rows; **LEFT/RIGHT/FULL OUTER JOIN** also keep unmatched rows with NULLs; **CROSS JOIN** is the Cartesian product; a **self join** joins a table with itself.\n- A **subquery** is a query nested inside another; a **correlated subquery** refers to the outer query and runs once per outer row. Operators: IN, NOT IN, EXISTS, ANY, ALL.\n- **Set operations**: UNION (removes duplicates), UNION ALL (keeps them), INTERSECT, EXCEPT (MINUS in Oracle).\n- **Numeric functions**: CEILING/CEIL (smallest integer ≥ x), FLOOR (largest integer ≤ x), ROUND, ABS, MOD.\n- **String**: UPPER, LOWER, SUBSTRING, LENGTH (LEN in SQL Server), TRIM. The standard concatenation operator is `||` (SQL Server uses `+`, MySQL uses CONCAT()).\n- **Date** (vary by product): GETDATE() in SQL Server returns the current timestamp as datetime without time-zone offset; NOW() in MySQL; SYSDATE in Oracle; DATEDIFF(datepart, startdate, enddate) in SQL Server returns the difference between two dates.\nBelow, Kiran (Sales) is dropped by the inner join since Sales has no Dept row, and Farah is missing from `city <> 'Delhi'` because comparing with NULL gives unknown.",
+   "code": {
+    "lang": "sql",
+    "source": "SELECT e.name, d.floor\nFROM Employee e JOIN Dept d ON e.dept = d.dept\nWHERE e.salary > 50000 ORDER BY e.name;\n\nSELECT name FROM Employee\nWHERE salary > (SELECT AVG(salary) FROM Employee) ORDER BY name;\n\nSELECT name FROM Employee WHERE city <> 'Delhi' ORDER BY name;",
+    "output": "name  | floor\nAsha  | 3\nMeena | 3\n\nname\nAsha\nMeena\n\nname\nJohn\nRavi"
+   }
+  },
+  {
+   "heading": "Functional dependencies and Armstrong's axioms",
+   "level": "intermediate",
+   "subtopic": "Normalisation",
+   "body": "A **functional dependency (FD)** X → Y means that two tuples agreeing on X must agree on Y. X is the **determinant** and Y the **dependent**.\n- **Trivial FD**: Y ⊆ X (e.g. AB → A).\n- **Full FD**: Y depends on the whole of X, not on a proper subset; otherwise it is a **partial dependency**.\n- **Transitive FD**: X → Y and Y → Z give X → Z (Y not a key).\n- **Multivalued dependency** X ↠ Y: a set of Y values is associated with each X independently of other attributes.\n**Armstrong's axioms** (sound and complete): **reflexivity** (if Y ⊆ X then X → Y), **augmentation** (X → Y ⇒ XZ → YZ), **transitivity** (X → Y, Y → Z ⇒ X → Z). Derived rules: union, decomposition, pseudotransitivity.\nThe **closure X⁺** is the set of attributes determined by X; X is a super key if X⁺ has all attributes. An attribute that never appears on the right side of any FD must be part of every candidate key.\nRedundancy causes **insertion, deletion and update anomalies**."
+  },
+  {
+   "heading": "Normal forms: 1NF to 5NF",
+   "level": "advanced",
+   "subtopic": "Normalisation",
+   "body": "**Normalisation** decomposes relations to remove redundancy and anomalies.\n- **1NF**: all values atomic; no repeating groups and no relations within relations.\n- **2NF**: 1NF and no **partial dependency** of a non-prime attribute on a candidate key (every non-prime attribute is **fully** functionally dependent on each key). A relation whose candidate keys are all single attributes is automatically in 2NF.\n- **3NF**: 2NF and no **transitive dependency**; formally for every non-trivial X → A, X is a super key or A is prime.\n- **BCNF**: for every non-trivial X → Y, X is a **super key** (every determinant is a candidate key). Stricter than 3NF.\n- **4NF**: BCNF and no non-trivial multivalued dependency other than on a super key.\n- **5NF (PJNF)**: no join dependency that is not implied by candidate keys.\n**Desirable decomposition properties**: **lossless join** (R1 ∩ R2 → R1 or R1 ∩ R2 → R2 must hold) and **dependency preservation**. 3NF decomposition can always achieve both; BCNF is always lossless but may lose dependencies.",
+   "table": {
+    "columns": [
+     "Normal form",
+     "Removes"
+    ],
+    "rows": [
+     [
+      "1NF",
+      "Multivalued / composite (non-atomic) values"
+     ],
+     [
+      "2NF",
+      "Partial dependencies"
+     ],
+     [
+      "3NF",
+      "Transitive dependencies"
+     ],
+     [
+      "BCNF",
+      "Any FD whose determinant is not a super key"
+     ],
+     [
+      "4NF",
+      "Non-trivial multivalued dependencies"
+     ],
+     [
+      "5NF",
+      "Join dependencies"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Transactions, ACID and serializability",
+   "level": "intermediate",
+   "subtopic": "Transactions & concurrency",
+   "body": "A **transaction** is a logical unit of work (e.g. a fund transfer).\n**ACID properties** are summarised in the table.\n**States**: Active → Partially committed → Committed; or Active/Partially committed → Failed → Aborted (then restart or kill).\nA **schedule** is an interleaving of operations of several transactions; a **serial schedule** runs them one after another. A schedule is **serializable** if it is equivalent to some serial schedule.\n- Two operations **conflict** if they belong to different transactions, access the same item, and at least one is a write (R–W, W–R, W–W).\n- **Conflict serializable** ⇔ the **precedence graph** (edge Ti → Tj when Ti's conflicting operation comes first) has **no cycle**.\n- Every conflict-serializable schedule is **view serializable**, but not conversely (blind writes).\n**Recoverable**: a transaction commits only after those it read from commit; **cascadeless**: reads only committed data.",
+   "table": {
+    "columns": [
+     "Property",
+     "Meaning",
+     "Ensured by"
+    ],
+    "rows": [
+     [
+      "Atomicity",
+      "All operations happen or none",
+      "Recovery system"
+     ],
+     [
+      "Consistency",
+      "Consistent state → consistent state",
+      "Programmer + integrity constraints"
+     ],
+     [
+      "Isolation",
+      "No transaction sees another's uncommitted results",
+      "Concurrency control"
+     ],
+     [
+      "Durability",
+      "Committed changes survive failures",
+      "Recovery system"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Concurrency control and recovery",
+   "level": "advanced",
+   "subtopic": "Transactions & concurrency",
+   "body": "**Problems without control**: **lost update**, **dirty read** (uncommitted data), **unrepeatable read**, **phantom** rows.\n**Locking**: shared (S, read) and exclusive (X, write) locks; only S–S is compatible. **Two-Phase Locking (2PL)**: a **growing phase** (acquire only) then a **shrinking phase** (release only); it guarantees conflict serializability but **not** freedom from deadlock. **Strict 2PL** holds X locks till commit (cascadeless); **rigorous 2PL** holds all locks till commit.\n**Timestamp ordering**: each transaction gets a unique **timestamp** at start, and conflicting operations follow timestamp order. Variants: basic TO, strict TO, **Thomas's write rule** (ignore obsolete writes), **multiversion** TO.\n**Deadlock prevention by timestamps**: **wait–die** (older waits, younger is rolled back) and **wound–wait** (older preempts younger, younger waits).\n**Recovery**: the **log** records old and new values; **write-ahead logging (WAL)** writes the log record before the data. **Deferred update** needs only redo; **immediate update** needs undo and redo. A **checkpoint** is the point of synchronisation between the database and the log, limiting how far back recovery must scan. **Shadow paging** is an alternative to log-based recovery that keeps a shadow page table and switches it on commit."
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Degree and cardinality",
+   "formula": "Degree = number of attributes; Cardinality = number of tuples",
+   "note": ""
+  },
+  {
+   "name": "Cartesian product size",
+   "formula": "deg(R × S) = deg(R) + deg(S); |R × S| = |R| × |S|",
+   "note": ""
+  },
+  {
+   "name": "Natural join size bounds",
+   "formula": "0 ≤ |R ⋈ S| ≤ |R| × |S|",
+   "note": "If the common attribute is a key of S and a foreign key in R (not NULL), |R ⋈ S| = |R|."
+  },
+  {
+   "name": "Super keys from one candidate key",
+   "formula": "2ⁿ⁻ᵏ",
+   "note": "n attributes, a single candidate key of k attributes."
+  },
+  {
+   "name": "Super keys from two candidate keys",
+   "formula": "|SK(K1)| + |SK(K2)| − |SK(K1 ∪ K2)|",
+   "note": "Inclusion–exclusion; each term = 2^(n − size of the key set)."
+  },
+  {
+   "name": "Intersection via difference",
+   "formula": "R ∩ S = R − (R − S)",
+   "note": ""
+  },
+  {
+   "name": "Lossless-join test (binary)",
+   "formula": "(R1 ∩ R2) → R1 or (R1 ∩ R2) → R2",
+   "note": "The common attributes must be a key of at least one part."
+  },
+  {
+   "name": "Tables when mapping an ER diagram (usual minimum)",
+   "formula": "Strong entities + weak entities + M:N relationships + multivalued attributes",
+   "note": "1:1 and 1:N relationships are normally absorbed as foreign keys."
+  },
+  {
+   "name": "Number of serial schedules",
+   "formula": "n!",
+   "note": "For n transactions."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Using the Employee table from the notes (6 rows; Farah's city is NULL; Kiran is in Sales, which has no row in Dept), find the output of:\n(a) SELECT COUNT(*) FROM Employee WHERE salary BETWEEN 45000 AND 52000;\n(b) SELECT e.name, d.floor FROM Employee e LEFT JOIN Dept d ON e.dept = d.dept WHERE e.salary > 50000;\n(c) SELECT MAX(salary) FROM Employee WHERE salary < (SELECT MAX(salary) FROM Employee);",
+   "solution": "(a) BETWEEN is inclusive: Ravi 45000, Kiran 52000 and Farah 48000 qualify → **3**.\n(b) Salaries above 50000: Asha (IT), Meena (IT), Kiran (Sales). A LEFT JOIN keeps Kiran even though Sales has no Dept row, so floor is NULL:\n- Asha | 3\n- Meena | 3\n- Kiran | NULL\n(c) The inner query gives 75000; the outer query finds the largest salary below it → **60000** (the second-highest salary)."
+  },
+  {
+   "problem": "R(A, B) = {(1, a), (2, b), (3, a)} and S(B, C) = {(a, x), (b, y), (c, z)}. Find (a) π_B(R), (b) σ_A>1(R), (c) R ⋈ S, (d) degree and cardinality of R × S, (e) π_B(S) − π_B(R).",
+   "solution": "(a) π_B(R) = {a, b} — projection removes the duplicate 'a'.\n(b) σ_A>1(R) = {(2, b), (3, a)}.\n(c) Natural join on B: (1, a) matches (a, x); (2, b) matches (b, y); (3, a) matches (a, x) → R ⋈ S = {(1, a, x), (2, b, y), (3, a, x)}.\n(d) R × S has degree 2 + 2 = **4** and cardinality 3 × 3 = **9**.\n(e) {a, b, c} − {a, b} = **{c}**."
+  },
+  {
+   "problem": "R(A, B, C, D, E) with F = {A → B, B → C, CD → E}. Find the candidate key(s), the number of super keys and the highest normal form of R.",
+   "solution": "A and D never appear on the right side, so every key must contain A and D.\n(AD)⁺: start {A, D}; A → B adds B; B → C adds C; CD → E adds E → {A, B, C, D, E}. So **AD is the only candidate key**.\nSuper keys = all supersets of AD = 2⁵⁻² = **8**.\nNormal form: A → B is a partial dependency (B is non-prime and depends on part of the key AD) → not 2NF. Hence R is only in **1NF**.\nA 3NF/BCNF decomposition: R1(A, B), R2(B, C), R3(C, D, E), R4(A, D) — each FD's determinant is the key of its relation, and R4 keeps the original key so the join is lossless."
+  },
+  {
+   "problem": "STUDENT(Roll, Name, DeptID, DeptName) with Roll → Name, Roll → DeptID, DeptID → DeptName. Find the normal form and decompose to 3NF.",
+   "solution": "Candidate key: Roll (Roll⁺ = all attributes). The key is a single attribute, so there are no partial dependencies → **2NF**.\nRoll → DeptID → DeptName is a **transitive dependency** of the non-prime DeptName on the key → **not 3NF**.\nDecompose: STUDENT(Roll, Name, DeptID) and DEPT(DeptID, DeptName). The common attribute DeptID is the key of DEPT, so the decomposition is **lossless**, and both FDs are preserved. Both relations are in BCNF."
+  },
+  {
+   "problem": "Check conflict serializability:\nS1: R1(X), R2(X), W1(X), W2(X)\nS2: R1(A), W1(A), R2(A), W2(A), R1(B), W1(B), R2(B), W2(B)",
+   "solution": "**S1**: R1(X) before W2(X) → edge T1 → T2. R2(X) before W1(X) → edge T2 → T1. Cycle T1 → T2 → T1 → **not conflict serializable** (this is the lost-update pattern).\n**S2**: every conflicting pair on A and on B has T1's operation first → only edge T1 → T2, no cycle → **conflict serializable**, equivalent to the serial schedule **T1, T2**."
+  },
+  {
+   "problem": "R(A, B, C, D) has candidate keys {A} and {B, C}. How many super keys does R have?",
+   "solution": "Super keys containing A: 2⁴⁻¹ = 8.\nSuper keys containing B and C: 2⁴⁻² = 4.\nSuper keys containing A, B and C (counted twice): 2⁴⁻³ = 2.\nTotal = 8 + 4 − 2 = **10**."
+  }
+ ],
+ "pitfalls": [
+  "Cardinality = number of rows (tuples); degree = number of columns (attributes). Do not swap them.",
+  "COUNT(*) counts all rows; COUNT(column) and the other aggregates ignore NULLs.",
+  "WHERE cannot contain aggregate functions; use HAVING to filter groups.",
+  "Use IS NULL, not = NULL; any comparison with NULL is unknown, so such rows are silently dropped (e.g. city <> 'Delhi' does not return NULL cities).",
+  "BETWEEN is inclusive of both limits.",
+  "In LIKE, % matches zero or more characters and _ exactly one.",
+  "TRUNCATE is DDL and removes all rows; DELETE is DML; DROP removes the table itself.",
+  "Projection in relational algebra removes duplicates; SQL SELECT does not unless DISTINCT is used.",
+  "BCNF is stricter than 3NF; every BCNF relation is in 3NF but not vice versa.",
+  "2PL ensures conflict serializability but not deadlock freedom.",
+  "Codd's rules are called '12 rules' though they are numbered 0 to 12.",
+  "In wait–die the older transaction waits; in wound–wait the older transaction preempts (wounds) the younger."
+ ],
+ "quickRevision": [
+  "Hierarchical model is the oldest; relational model was proposed by E. F. Codd (1970).",
+  "Three levels: internal, conceptual, external; logical data independence is harder than physical.",
+  "Data dictionary / system catalog stores metadata.",
+  "Alternate keys = candidate keys not chosen as primary key.",
+  "Referential integrity is defined between two relations through a foreign key.",
+  "1:1 and 1:N relationships map to foreign keys; M:N needs a separate relation.",
+  "Fundamental relational-algebra operations: σ, π, ∪, −, ×, ρ.",
+  "R − S gives tuples in R but not in S.",
+  "SQL: % and _ are LIKE wildcards; || is the standard concatenation operator; CEILING gives the smallest integer ≥ x.",
+  "Logical order: FROM, WHERE, GROUP BY, HAVING, SELECT, DISTINCT, ORDER BY.",
+  "2NF removes partial dependency, 3NF transitive dependency, BCNF needs every determinant to be a super key.",
+  "1NF disallows relations within relations (non-atomic values).",
+  "ACID = Atomicity, Consistency, Isolation, Durability.",
+  "Conflict serializable ⇔ precedence graph is acyclic.",
+  "Checkpoint synchronises the database and the log; shadow paging is an alternative to log-based recovery."
+ ],
+ "flashcards": [
+  {
+   "front": "Which is the oldest database model?",
+   "back": "Hierarchical model."
+  },
+  {
+   "front": "Another name for the deductive database model?",
+   "back": "Inference model."
+  },
+  {
+   "front": "What is metadata and where is it stored?",
+   "back": "Data about data; stored in the data dictionary (system catalog)."
+  },
+  {
+   "front": "Candidate keys other than the primary key are called?",
+   "back": "Alternate keys."
+  },
+  {
+   "front": "Minimal super key is called?",
+   "back": "Candidate key."
+  },
+  {
+   "front": "In X → Y, what are X and Y called?",
+   "back": "X is the determinant, Y is the dependent."
+  },
+  {
+   "front": "Relation with 500 tuples and 50 attributes: cardinality?",
+   "back": "500 (degree is 50)."
+  },
+  {
+   "front": "How many rules did Codd give for an RDBMS?",
+   "back": "12 (numbered 0 to 12)."
+  },
+  {
+   "front": "ER traps: name two types.",
+   "back": "Fan trap and chasm trap."
+  },
+  {
+   "front": "Which relational-algebra operation chooses columns?",
+   "back": "Projection π (it also removes duplicate rows)."
+  },
+  {
+   "front": "Wildcards used with LIKE?",
+   "back": "% for any number of characters, _ for exactly one."
+  },
+  {
+   "front": "Clause used to filter groups?",
+   "back": "HAVING."
+  },
+  {
+   "front": "SQL function returning the smallest integer ≥ a number?",
+   "back": "CEILING (CEIL)."
+  },
+  {
+   "front": "Which normal form removes transitive dependency?",
+   "back": "3NF."
+  },
+  {
+   "front": "Condition for BCNF?",
+   "back": "For every non-trivial FD X → Y, X is a super key."
+  },
+  {
+   "front": "What does Isolation in ACID ensure?",
+   "back": "Concurrent transactions do not see each other's uncommitted intermediate results."
+  },
+  {
+   "front": "Two phases of 2PL?",
+   "back": "Growing (acquire locks) and shrinking (release locks)."
+  },
+  {
+   "front": "Unique identifier for a transaction's start time?",
+   "back": "Timestamp."
+  },
+  {
+   "front": "Alternative to log-based recovery?",
+   "back": "Shadow paging."
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Database",
+   "hi": "डेटाबेस / आँकड़ा-कोष"
+  },
+  {
+   "en": "Relation (table)",
+   "hi": "संबंध (तालिका)"
+  },
+  {
+   "en": "Tuple",
+   "hi": "टपल (पंक्ति)"
+  },
+  {
+   "en": "Attribute",
+   "hi": "गुण / विशेषता (स्तंभ)"
+  },
+  {
+   "en": "Primary key",
+   "hi": "प्राथमिक कुंजी"
+  },
+  {
+   "en": "Foreign key",
+   "hi": "विदेशी कुंजी"
+  },
+  {
+   "en": "Candidate key",
+   "hi": "प्रत्याशी कुंजी"
+  },
+  {
+   "en": "Entity",
+   "hi": "इकाई / सत्ता"
+  },
+  {
+   "en": "Functional dependency",
+   "hi": "कार्यात्मक निर्भरता"
+  },
+  {
+   "en": "Normalisation",
+   "hi": "सामान्यीकरण"
+  },
+  {
+   "en": "Transaction",
+   "hi": "लेन-देन (ट्रांजैक्शन)"
+  },
+  {
+   "en": "Concurrency control",
+   "hi": "समवर्तिता नियंत्रण"
+  },
+  {
+   "en": "Integrity constraint",
+   "hi": "अखंडता बाध्यता"
+  },
+  {
+   "en": "Query",
+   "hi": "प्रश्न / क्वेरी"
+  },
+  {
+   "en": "Schema",
+   "hi": "स्कीमा (संरचना)"
+  }
+ ]
+}

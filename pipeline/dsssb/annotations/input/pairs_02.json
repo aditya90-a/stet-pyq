@@ -1,0 +1,3842 @@
+[
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set1-q074",
+  "scores": {
+   "stem": 87.3,
+   "stemTokenSet": 90.2,
+   "cosine": 0.424,
+   "options": 51.1,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया पहचानना",
+   "options": [
+    "मन की बात जानना",
+    "छुपी हुई प्रतिभा",
+    "तुच्छ समझना",
+    "निश्चिंत होना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set1-q075",
+  "scores": {
+   "stem": 89.4,
+   "stemTokenSet": 94.0,
+   "cosine": 0.412,
+   "options": 48.4,
+   "answer": 47.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक पंथ दो काज",
+   "options": [
+    "एक कार्यके साथ दूसरा कार्यभी पूरा करना",
+    "कठिनाइयों का ज्ञान होना",
+    "असंभव कार्यकरना",
+    "काम निकालना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set2-q074",
+  "scores": {
+   "stem": 89.0,
+   "stemTokenSet": 93.4,
+   "cosine": 0.47,
+   "options": 55.9,
+   "answer": 43.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nगंगा लाभ होना",
+   "options": [
+    "किसी कार्यसे मुक्ति पाना",
+    "मृत्यु होना",
+    "मारे-मारे फिरना",
+    "मृत्यु के पश्चात्मोक्ष"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set2-q075",
+  "scores": {
+   "stem": 88.2,
+   "stemTokenSet": 90.2,
+   "cosine": 0.413,
+   "options": 42.2,
+   "answer": 26.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइति-श्री करना",
+   "options": [
+    "तुच्छ लगना",
+    "लज्जित होना",
+    "समाप्त करना",
+    "बहुत सस्ता"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set3-q074",
+  "scores": {
+   "stem": 88.5,
+   "stemTokenSet": 90.2,
+   "cosine": 0.435,
+   "options": 50.8,
+   "answer": 42.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nअधर में लटकना",
+   "options": [
+    "दुःख होना",
+    "घबराना",
+    "दुविधा में पड़ा रह जाना",
+    "बाधक होना"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set3-q075",
+  "scores": {
+   "stem": 89.3,
+   "stemTokenSet": 91.4,
+   "cosine": 0.42,
+   "options": 53.0,
+   "answer": 34.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nघड़ों पानी पड़ना",
+   "options": [
+    "ईर्ष्यासे जलना",
+    "बात को और बढ़ाना",
+    "संकट में पड़ना",
+    "अत्यन्त लज्जित होना"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set4-q074",
+  "scores": {
+   "stem": 88.0,
+   "stemTokenSet": 90.2,
+   "cosine": 0.417,
+   "options": 48.2,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्चकरना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set4-q075",
+  "scores": {
+   "stem": 87.0,
+   "stemTokenSet": 90.2,
+   "cosine": 0.372,
+   "options": 50.2,
+   "answer": 41.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set5-q074",
+  "scores": {
+   "stem": 86.7,
+   "stemTokenSet": 90.2,
+   "cosine": 0.443,
+   "options": 49.6,
+   "answer": 22.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया के पंख गिनना",
+   "options": [
+    "अज्ञान का पर्दादूर करना",
+    "अनुभवी होना",
+    "व्यर्थसमय गंवाना",
+    "छुपी हुई प्रतिभा"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set5-q075",
+  "scores": {
+   "stem": 87.7,
+   "stemTokenSet": 90.8,
+   "cosine": 0.402,
+   "options": 46.3,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दी गई लोकोक के अर्थ\nसर्वश्रेष्ठे रूप से व्यक्त करता है।\nअपना हाथ जगन्नाथ",
+   "options": [
+    "दोहरा फायदा होना",
+    "पूरी तरह अनियंत्रि त होना",
+    "स्वंय द्वारा किया गया कार्य अच्छा होता है",
+    "दोनों ओर संकट होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइधर का न उधर का होना",
+   "options": [
+    "बे-आबरू होना",
+    "खुद पर थोड़ा खर्चकरना",
+    "जीवन की परवाह न करना",
+    "कलंक लगना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q088",
+  "b": "2024-02-07-s2-q092",
+  "scores": {
+   "stem": 77.8,
+   "stemTokenSet": 87.1,
+   "cosine": 0.312,
+   "options": 40.5,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में उचित संज्ञा का चयन करके रिक्त स्थान की पूर् ति करें।\nमाही ने आते ही ______ से सबका दिल जीत लिया।",
+   "options": [
+    "लकड़ी",
+    "प्रार्थना",
+    "प्लास्टिक",
+    "प्यार"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए वाक्य में उचित कारक का चयन करके रिक्त स्थान की पूर् ति करें।\nमिठाई ______ डब्बे में से एक मिठाई निकालकर ले आओ।",
+   "options": [
+    "का",
+    "म",
+    "के",
+    "पर"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q088",
+  "b": "2024-02-07-s2-q094",
+  "scores": {
+   "stem": 80.0,
+   "stemTokenSet": 90.3,
+   "cosine": 0.308,
+   "options": 42.8,
+   "answer": 18.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में उचित संज्ञा का चयन करके रिक्त स्थान की पूर् ति करें।\nमाही ने आते ही ______ से सबका दिल जीत लिया।",
+   "options": [
+    "लकड़ी",
+    "प्रार्थना",
+    "प्लास्टिक",
+    "प्यार"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए वाक्य में उचित क या का चयन करके रिक्त स्थान की पूर् ति करें।\nठंड के मारे मेरे दांत भी ______ लगे।",
+   "options": [
+    "लंगड़ाने",
+    "कटकटाने",
+    "सठियाने",
+    "कांपने"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2024-02-07-s2-q095",
+  "scores": {
+   "stem": 93.3,
+   "stemTokenSet": 95.5,
+   "cosine": 0.393,
+   "options": 43.5,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nगणेश",
+   "options": [
+    "नीरद",
+    "चक्रपाणि",
+    "कौशलेन्द्र",
+    "लम्बोदर"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nरमा",
+   "options": [
+    "निशा",
+    "फूल",
+    "कटक",
+    "श्री"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2024-02-07-s2-q100",
+  "scores": {
+   "stem": 67.3,
+   "stemTokenSet": 84.4,
+   "cosine": 0.321,
+   "options": 53.4,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nगणेश",
+   "options": [
+    "नीरद",
+    "चक्रपाणि",
+    "कौशलेन्द्र",
+    "लम्बोदर"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "गद्यांश में दिए गए निम्नलिखित शब्द का उचित पर्यायवाची शब्द चुनें।\nप्रमाण",
+   "options": [
+    "मिथ्या",
+    "कृत्रि म",
+    "काल्पनिक",
+    "साक्ष्य"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set1-q067",
+  "scores": {
+   "stem": 72.3,
+   "stemTokenSet": 82.5,
+   "cosine": 0.217,
+   "options": 39.5,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nगणेश",
+   "options": [
+    "नीरद",
+    "चक्रपाणि",
+    "कौशलेन्द्र",
+    "लम्बोदर"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित शब्द का पर्यायवाची नहीं हैं, ज्ञात कीजिए।\nकमल",
+   "options": [
+    "शतदल",
+    "राजीव",
+    "पंकज",
+    "द्रुम"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set2-q066",
+  "scores": {
+   "stem": 70.8,
+   "stemTokenSet": 82.5,
+   "cosine": 0.288,
+   "options": 43.5,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nगणेश",
+   "options": [
+    "नीरद",
+    "चक्रपाणि",
+    "कौशलेन्द्र",
+    "लम्बोदर"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित शब्द का पर्यायवाची नहीं है, ज्ञात कीजिए।\nअकिंचन",
+   "options": [
+    "दरिद्र",
+    "गरीब",
+    "दीनहीन",
+    "भिन्न"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set5-q063",
+  "scores": {
+   "stem": 65.1,
+   "stemTokenSet": 86.4,
+   "cosine": 0.348,
+   "options": 34.0,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nगणेश",
+   "options": [
+    "नीरद",
+    "चक्रपाणि",
+    "कौशलेन्द्र",
+    "लम्बोदर"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए शब्द की संज्ञा ज्ञात कीजिए।\nगुच्छा",
+   "options": [
+    "जातिवाचक संज्ञा",
+    "द्रव्यवाचक संज्ञा",
+    "समूहवाचक संज्ञा",
+    "व्यक्तिवाचक संज्ञा"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set5-q064",
+  "scores": {
+   "stem": 62.1,
+   "stemTokenSet": 80.0,
+   "cosine": 0.206,
+   "options": 40.4,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nगणेश",
+   "options": [
+    "नीरद",
+    "चक्रपाणि",
+    "कौशलेन्द्र",
+    "लम्बोदर"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nप्रणय : परिणय",
+   "options": [
+    "विवाह : प्रेम",
+    "विवाह : विच्छेद",
+    "विच्छेद : शत्रुता",
+    "प्रेम : विवाह"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q090",
+  "b": "2024-02-07-s2-q091",
+  "scores": {
+   "stem": 73.6,
+   "stemTokenSet": 80.0,
+   "cosine": 0.274,
+   "options": 44.3,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित शब्द के अनेकार्थी शब्द का चयन करें।\nगुण",
+   "options": [
+    "लाल",
+    "धतूरा",
+    "इच्छा",
+    "विशेषता"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित शब्द का विलोम शब्द ज्ञात करें।\nमोक्ष",
+   "options": [
+    "खगोल",
+    "शाश्वत",
+    "बंधन",
+    "सभ्य"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q091",
+  "b": "2023-06-24-s2-q081",
+  "scores": {
+   "stem": 61.5,
+   "stemTokenSet": 82.0,
+   "cosine": 0.204,
+   "options": 13.0,
+   "answer": 8.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित शब्द का विलोम शब्द ज्ञात करें।\nमोक्ष",
+   "options": [
+    "खगोल",
+    "शाश्वत",
+    "बंधन",
+    "सभ्य"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित में से शुद्ध वाक्य का चयन करें।",
+   "options": [
+    "एक ऐसा जीवन राजपथ है जिससे होकर चलना पड़ता है सभी को।",
+    "एक ऐसा जीवन है राजपथ जिससे होकर सभी को चलना पड़ता है।",
+    "जीवन एक ऐसा राजपथ है जिससे होकर सभी को चलना पड़ता है।",
+    "एक ऐसा राजपथ जिससे होकर चलना पड़ता है सभी को जीवन है।"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q092",
+  "b": "2024-02-07-s2-q094",
+  "scores": {
+   "stem": 81.4,
+   "stemTokenSet": 92.6,
+   "cosine": 0.297,
+   "options": 22.7,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में उचित कारक का चयन करके रिक्त स्थान की पूर् ति करें।\nमिठाई ______ डब्बे में से एक मिठाई निकालकर ले आओ।",
+   "options": [
+    "का",
+    "म",
+    "के",
+    "पर"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "दिए गए वाक्य में उचित क या का चयन करके रिक्त स्थान की पूर् ति करें।\nठंड के मारे मेरे दांत भी ______ लगे।",
+   "options": [
+    "लंगड़ाने",
+    "कटकटाने",
+    "सठियाने",
+    "कांपने"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q094",
+  "b": "2021-set3-q066",
+  "scores": {
+   "stem": 60.0,
+   "stemTokenSet": 78.1,
+   "cosine": 0.225,
+   "options": 37.0,
+   "answer": 36.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में उचित क या का चयन करके रिक्त स्थान की पूर् ति करें।\nठंड के मारे मेरे दांत भी ______ लगे।",
+   "options": [
+    "लंगड़ाने",
+    "कटकटाने",
+    "सठियाने",
+    "कांपने"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "दिए गए वाक्यांश के लिए उचित शब्द का चयन कीजिए।\nजो प्रतिदिन होता हैं।",
+   "options": [
+    "साप्ताहिक",
+    "वार्षिक",
+    "दैनिक",
+    "अर्धवार्षिक"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2024-02-07-s2-q100",
+  "scores": {
+   "stem": 66.7,
+   "stemTokenSet": 88.9,
+   "cosine": 0.612,
+   "options": 33.8,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nरमा",
+   "options": [
+    "निशा",
+    "फूल",
+    "कटक",
+    "श्री"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "गद्यांश में दिए गए निम्नलिखित शब्द का उचित पर्यायवाची शब्द चुनें।\nप्रमाण",
+   "options": [
+    "मिथ्या",
+    "कृत्रि म",
+    "काल्पनिक",
+    "साक्ष्य"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2021-set1-q067",
+  "scores": {
+   "stem": 73.9,
+   "stemTokenSet": 85.2,
+   "cosine": 0.316,
+   "options": 33.5,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nरमा",
+   "options": [
+    "निशा",
+    "फूल",
+    "कटक",
+    "श्री"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित शब्द का पर्यायवाची नहीं हैं, ज्ञात कीजिए।\nकमल",
+   "options": [
+    "शतदल",
+    "राजीव",
+    "पंकज",
+    "द्रुम"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2021-set2-q066",
+  "scores": {
+   "stem": 70.2,
+   "stemTokenSet": 85.2,
+   "cosine": 0.289,
+   "options": 36.3,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nरमा",
+   "options": [
+    "निशा",
+    "फूल",
+    "कटक",
+    "श्री"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित शब्द का पर्यायवाची नहीं है, ज्ञात कीजिए।\nअकिंचन",
+   "options": [
+    "दरिद्र",
+    "गरीब",
+    "दीनहीन",
+    "भिन्न"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2021-set5-q063",
+  "scores": {
+   "stem": 61.7,
+   "stemTokenSet": 86.4,
+   "cosine": 0.245,
+   "options": 16.1,
+   "answer": 11.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "नीचे दिए गए शब्द का पर्यायवाची शब्द ज्ञात करें।\nरमा",
+   "options": [
+    "निशा",
+    "फूल",
+    "कटक",
+    "श्री"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए शब्द की संज्ञा ज्ञात कीजिए।\nगुच्छा",
+   "options": [
+    "जातिवाचक संज्ञा",
+    "द्रव्यवाचक संज्ञा",
+    "समूहवाचक संज्ञा",
+    "व्यक्तिवाचक संज्ञा"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q096",
+  "b": "2024-02-07-s2-q097",
+  "scores": {
+   "stem": 66.7,
+   "stemTokenSet": 84.4,
+   "cosine": 0.461,
+   "options": 56.3,
+   "answer": 52.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "गद्यांश के आधार पर उचित केन्द्री य विषय का चयन करें।",
+   "options": [
+    "शोध और उनमें प्रकाशित तथ्य की जांच ज़रूरी है",
+    "अल्पाइन आइबेक्स की बदलती गतिविधियाँ और घटती जनसंख्या का जोखिम",
+    "परिवर्तन मानव जीवन की महत्वपूर्ण शैली है",
+    "अल्पाइन आइबेक्स की वि ध प्रजातियाँ"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "गद्यांश के आधार पर उस विकल्प का चयन करें जिसमें दिया गया तथ्य नहीं हें।",
+   "options": [
+    "अल्पाइन आइबेक्स (कैपरा आइबेक्स) एक पहाड़ी बकरी की प्रजाति है।",
+    "व्यवहार पैटर्न में बदलाव से शिकार के जोखिम कम हो रहे ह।ैं",
+    "जीवनशैली में बदलाव के कारण अल्पाइन आइबेक्स की जनसंख्या में गिरावट आ सकती है।",
+    "गर्म दिनों से बचने के लिए अल्पाइन आइबेक्स अपनी दैनिक आदतों को रात की आदतों में बदलने के लिएमजबूर ह।ैं"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q098",
+  "b": "2024-02-07-s2-q100",
+  "scores": {
+   "stem": 87.3,
+   "stemTokenSet": 91.5,
+   "cosine": 0.487,
+   "options": 44.3,
+   "answer": 46.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "गद्यांश में दिए गए निम्नलिखित शब्द का उचित विलोम शब्द चुनें।\nपरिवर्तन",
+   "options": [
+    "प्रवर",
+    "बहुज्ञ",
+    "प्रस्थान",
+    "स्थि रता"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "गद्यांश में दिए गए निम्नलिखित शब्द का उचित पर्यायवाची शब्द चुनें।\nप्रमाण",
+   "options": [
+    "मिथ्या",
+    "कृत्रि म",
+    "काल्पनिक",
+    "साक्ष्य"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q098",
+  "b": "2021-set2-q067",
+  "scores": {
+   "stem": 48.5,
+   "stemTokenSet": 84.0,
+   "cosine": 0.503,
+   "options": 33.6,
+   "answer": 36.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "गद्यांश में दिए गए निम्नलिखित शब्द का उचित विलोम शब्द चुनें।\nपरिवर्तन",
+   "options": [
+    "प्रवर",
+    "बहुज्ञ",
+    "प्रस्थान",
+    "स्थि रता"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए शब्दों में शुद्ध वर्तनी का चयन कीजिए।",
+   "options": [
+    "कालंदि",
+    "कालिंदी",
+    "कालींदी",
+    "कालिंदि"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q100",
+  "b": "2021-set1-q067",
+  "scores": {
+   "stem": 60.7,
+   "stemTokenSet": 81.7,
+   "cosine": 0.361,
+   "options": 46.0,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "गद्यांश में दिए गए निम्नलिखित शब्द का उचित पर्यायवाची शब्द चुनें।\nप्रमाण",
+   "options": [
+    "मिथ्या",
+    "कृत्रि म",
+    "काल्पनिक",
+    "साक्ष्य"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित शब्द का पर्यायवाची नहीं हैं, ज्ञात कीजिए।\nकमल",
+   "options": [
+    "शतदल",
+    "राजीव",
+    "पंकज",
+    "द्रुम"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q101",
+  "b": "2024-02-07-s2-q119",
+  "scores": {
+   "stem": 83.5,
+   "stemTokenSet": 92.1,
+   "cosine": 0.934,
+   "options": 100.0,
+   "answer": 81.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the AI Ethics with its correct description.",
+   "options": [
+    "I-1, II-3, III-2",
+    "I-2, II-3, III-1",
+    "I-1, II-2, III-3",
+    "I-2, II-1, III-3"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Match the categories of AI with its correct description.",
+   "options": [
+    "I-2, II-3, III-1",
+    "I-2, II-1, III-3",
+    "I-1, II-2, III-3",
+    "I-1, II-3, III-2"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q101",
+  "b": "2024-02-07-s2-q180",
+  "scores": {
+   "stem": 50.8,
+   "stemTokenSet": 49.2,
+   "cosine": 0.604,
+   "options": 90.9,
+   "answer": 72.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the AI Ethics with its correct description.",
+   "options": [
+    "I-1, II-3, III-2",
+    "I-2, II-3, III-1",
+    "I-1, II-2, III-3",
+    "I-2, II-1, III-3"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Match the following Process states of Operating System with their de finitions.",
+   "options": [
+    "I-3, II-1, III-2",
+    "I-1, II-3, III-2",
+    "I-1, II-2, III-3",
+    "I-3, II-2, III-1"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q101",
+  "b": "2024-02-07-s2-q199",
+  "scores": {
+   "stem": 37.6,
+   "stemTokenSet": 45.2,
+   "cosine": 0.646,
+   "options": 95.5,
+   "answer": 81.8
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Match the AI Ethics with its correct description.",
+   "options": [
+    "I-1, II-3, III-2",
+    "I-2, II-3, III-1",
+    "I-1, II-2, III-3",
+    "I-2, II-1, III-3"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Match the following Classification Of Cognitive Disability (Mental Retardation) with their\nrange of intelligence quotient (IQ).",
+   "options": [
+    "I-2, II-3, III-1",
+    "I-1, II-3, III-2",
+    "I-3, II-2, III-1",
+    "I-2, II-1, III-3"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q106",
+  "b": "2024-02-07-s2-q190",
+  "scores": {
+   "stem": 66.3,
+   "stemTokenSet": 81.7,
+   "cosine": 0.29,
+   "options": 37.8,
+   "answer": 26.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following command is used in the communication system call of an\noperating system?",
+   "options": [
+    "Request device, release device",
+    "Attach or detach remote devices",
+    "Allocate and free memory",
+    "Read, write, reposition"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which of the following system call include ‘wait for time’ operation command in\nOperating System?",
+   "options": [
+    "Process Control",
+    "Device Management",
+    "File Management",
+    "Communications"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q117",
+  "b": "2024-02-07-s2-q156",
+  "scores": {
+   "stem": 61.5,
+   "stemTokenSet": 87.5,
+   "cosine": 0.259,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In Python language, which of the following method of lists is used to add an element to\nthe end of the list?",
+   "options": [
+    "index ( )",
+    "sort ( )",
+    "pop ( )",
+    "append ( )"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following symbol is used to add comments in the Python language?",
+   "options": [
+    "*",
+    "#",
+    "!",
+    "//"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q119",
+  "b": "2024-02-07-s2-q180",
+  "scores": {
+   "stem": 55.6,
+   "stemTokenSet": 49.6,
+   "cosine": 0.607,
+   "options": 90.9,
+   "answer": 81.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the categories of AI with its correct description.",
+   "options": [
+    "I-2, II-3, III-1",
+    "I-2, II-1, III-3",
+    "I-1, II-2, III-3",
+    "I-1, II-3, III-2"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Match the following Process states of Operating System with their de finitions.",
+   "options": [
+    "I-3, II-1, III-2",
+    "I-1, II-3, III-2",
+    "I-1, II-2, III-3",
+    "I-3, II-2, III-1"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q119",
+  "b": "2024-02-07-s2-q199",
+  "scores": {
+   "stem": 41.8,
+   "stemTokenSet": 47.2,
+   "cosine": 0.648,
+   "options": 95.5,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Match the categories of AI with its correct description.",
+   "options": [
+    "I-2, II-3, III-1",
+    "I-2, II-1, III-3",
+    "I-1, II-2, III-3",
+    "I-1, II-3, III-2"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Match the following Classification Of Cognitive Disability (Mental Retardation) with their\nrange of intelligence quotient (IQ).",
+   "options": [
+    "I-2, II-3, III-1",
+    "I-1, II-3, III-2",
+    "I-3, II-2, III-1",
+    "I-2, II-1, III-3"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q136",
+  "b": "2021-set1-q124",
+  "scores": {
+   "stem": 79.6,
+   "stemTokenSet": 94.1,
+   "cosine": 0.816,
+   "options": 61.5,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following printer is type of impact printer?",
+   "options": [
+    "Ink-Jet",
+    "Laser",
+    "Dot matrix",
+    "Thermal"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which one of the following is an impact printer?",
+   "options": [
+    "Inkjet printer",
+    "Dot-matrix printer",
+    "Laser printer",
+    "Thermal printer"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q136",
+  "b": "2021-set5-q123",
+  "scores": {
+   "stem": 83.7,
+   "stemTokenSet": 97.6,
+   "cosine": 0.816,
+   "options": 61.5,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following printer is type of impact printer?",
+   "options": [
+    "Ink-Jet",
+    "Laser",
+    "Dot matrix",
+    "Thermal"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following is a impact printer?",
+   "options": [
+    "Inkjet printer",
+    "Dot-matrix printer",
+    "Laser printer",
+    "Thermal printer"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q143",
+  "b": "2024-02-07-s2-q148",
+  "scores": {
+   "stem": 56.9,
+   "stemTokenSet": 63.7,
+   "cosine": 0.489,
+   "options": 100.0,
+   "answer": 35.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "______ is a two-dimensional labelled data structure with columns of potentially\ndifferent type, in data handling with pandas.",
+   "options": [
+    "Series",
+    "Missing data",
+    "Iteration",
+    "Data frames"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following is a one-dimensional labelled array capable of holding any data\ntype (integers, strings, floating point numbers, python objects, etc) in data handling\nwith pandas?",
+   "options": [
+    "Series",
+    "Missing data",
+    "Data frames",
+    "Iteration"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q162",
+  "b": "2021-set1-q158",
+  "scores": {
+   "stem": 40.0,
+   "stemTokenSet": 72.3,
+   "cosine": 0.555,
+   "options": 28.0,
+   "answer": 14.8
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following page replacement algorithms(s) does not suffer from Belady\nanomaly in Operating System?\nI. Least-Recently Used (LRU) page replacement.\nII. First-In, First-Out (FIFO) page replacement.",
+   "options": [
+    "Only I",
+    "Neither I nor II",
+    "Only II",
+    "Both I and II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which page replacement algorithm has Belady’s anomaly?",
+   "options": [
+    "Optimal page replacement",
+    "FIFO page replacement",
+    "Least recent used page replacement",
+    "Not recently used page replacement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q167",
+  "b": "2021-set2-q131",
+  "scores": {
+   "stem": 47.1,
+   "stemTokenSet": 58.1,
+   "cosine": 0.457,
+   "options": 3.8,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following logic gate is shown in the given Graphic Symbol? (where, A and\nB = inputs, x = output)",
+   "options": [
+    "OR gate",
+    "NAND gate",
+    "NOR gate",
+    "Exclusive – OR (XOR) gate"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Both the inputs of XOR gate are connected to B. What will be the output?",
+   "options": [
+    "0",
+    "1",
+    "B",
+    "ШUI"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q167",
+  "b": "2021-set3-q127",
+  "scores": {
+   "stem": 46.9,
+   "stemTokenSet": 58.2,
+   "cosine": 0.513,
+   "options": 12.6,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ)",
+  "qa": {
+   "text": "Which of the following logic gate is shown in the given Graphic Symbol? (where, A and\nB = inputs, x = output)",
+   "options": [
+    "OR gate",
+    "NAND gate",
+    "NOR gate",
+    "Exclusive – OR (XOR) gate"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Both the inputs of NAND gate are connected to A. What will be the output?",
+   "options": [
+    "0",
+    "1",
+    "A",
+    ""
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q167",
+  "b": "2021-set5-q141",
+  "scores": {
+   "stem": 39.5,
+   "stemTokenSet": 50.6,
+   "cosine": 0.431,
+   "options": 92.6,
+   "answer": 32.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following logic gate is shown in the given Graphic Symbol? (where, A and\nB = inputs, x = output)",
+   "options": [
+    "OR gate",
+    "NAND gate",
+    "NOR gate",
+    "Exclusive – OR (XOR) gate"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "The mask logical micro operation is equivalent to which logical gate?",
+   "options": [
+    "OR gate",
+    "NOR gate",
+    "AND gate",
+    "NAND gate"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q171",
+  "b": "2021-set5-q138",
+  "scores": {
+   "stem": 71.6,
+   "stemTokenSet": 82.8,
+   "cosine": 0.278,
+   "options": 55.7,
+   "answer": 44.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is NOT an aggregate function in SQL?",
+   "options": [
+    "CROSS PRODUCT",
+    "MAXIMUM",
+    "COUNT",
+    "SUM"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following is an Aggregate operator in Structured Query Language?",
+   "options": [
+    "Minus",
+    "Intersect",
+    "Union",
+    "Count"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q177",
+  "b": "2021-set1-q144",
+  "scores": {
+   "stem": 29.7,
+   "stemTokenSet": 82.9,
+   "cosine": 0.435,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Which of the following statement(s) is/are correct regarding AND logic gate?\nI. The AND gate produces the output value 1 if input A and input B are both equal to 1.\nII. The algebraic operation symbol of the AND function is the same as the\nmultiplication symbol of ordinary arithmetic.",
+   "options": [
+    "Neither I nor II",
+    "Only I",
+    "Both I and II",
+    "Only II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following symbol represent the NOR gate?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q180",
+  "b": "2024-02-07-s2-q199",
+  "scores": {
+   "stem": 58.0,
+   "stemTokenSet": 59.5,
+   "cosine": 0.553,
+   "options": 90.9,
+   "answer": 81.8
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Match the following Process states of Operating System with their de finitions.",
+   "options": [
+    "I-3, II-1, III-2",
+    "I-1, II-3, III-2",
+    "I-1, II-2, III-3",
+    "I-3, II-2, III-1"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Match the following Classification Of Cognitive Disability (Mental Retardation) with their\nrange of intelligence quotient (IQ).",
+   "options": [
+    "I-2, II-3, III-1",
+    "I-1, II-3, III-2",
+    "I-3, II-2, III-1",
+    "I-2, II-1, III-3"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q181",
+  "b": "2024-02-07-s2-q185",
+  "scores": {
+   "stem": 65.9,
+   "stemTokenSet": 84.4,
+   "cosine": 0.361,
+   "options": 10.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following operator is used as concatenation operator in SQL?",
+   "options": [
+    "+ +",
+    "“ ”",
+    "# #",
+    "| |"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following operator of SQL is used in WHERE clause for match a character\npattern in database?",
+   "options": [
+    "LIKE",
+    "IN",
+    "IS NULL",
+    "OR"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q181",
+  "b": "2021-set4-q109",
+  "scores": {
+   "stem": 46.5,
+   "stemTokenSet": 67.4,
+   "cosine": 0.447,
+   "options": 9.1,
+   "answer": 8.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following operator is used as concatenation operator in SQL?",
+   "options": [
+    "+ +",
+    "“ ”",
+    "# #",
+    "| |"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "The operator in C++, which is used to access a value referred by a pointer is known as ______.",
+   "options": [
+    "indirect operator",
+    "direct operator",
+    "indirection operator",
+    "insertion operator"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q189",
+  "b": "2021-set3-q158",
+  "scores": {
+   "stem": 54.2,
+   "stemTokenSet": 75.2,
+   "cosine": 0.441,
+   "options": 55.9,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Which of the following type of guided transmission media are categorized by their\nRadio Government (RG) ratings in computer networking?",
+   "options": [
+    "Fiber-Optic Cable",
+    "Coaxial Cable",
+    "Metallic Cable",
+    "Twisted-Pair Cable"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which of the following is not an example of unguided transmission media?",
+   "options": [
+    "Radio transmission",
+    "Microwave transmission",
+    "Coaxial cable",
+    "Light transmission"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2024-02-07-s2-q191",
+  "b": "2024-02-07-s2-q198",
+  "scores": {
+   "stem": 46.7,
+   "stemTokenSet": 60.3,
+   "cosine": 0.579,
+   "options": 44.6,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following stage is used for child cognition development at the age from 2\nyears to 7 years?",
+   "options": [
+    "Sensori-motor",
+    "Pre-operational",
+    "Formal operational",
+    "Concrete operational"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Piaget divided which of the following domain of development into four stages: The\nSensorimotor Stage, The Pre-Operational Stage, Concrete Operational Stage and The\nFormal Operational Stage?",
+   "options": [
+    "Moral development",
+    "Physical and motor development",
+    "Cognitive development",
+    "Socio-emotional development"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q002",
+  "b": "2021-set3-q002",
+  "scores": {
+   "stem": 74.3,
+   "stemTokenSet": 79.1,
+   "cosine": 0.412,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "Which of the following pair of vadya – type is correct?\nI. Tata – Wind\nII. Avanddha – Stringed",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following pair of type – instrument is correct?\nI. Tata – Flute\nII. Sushir – Table",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q002",
+  "b": "2021-set4-q008",
+  "scores": {
+   "stem": 64.8,
+   "stemTokenSet": 76.3,
+   "cosine": 0.435,
+   "options": 100.0,
+   "answer": 62.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following pair of vadya – type is correct?\nI. Tata – Wind\nII. Avanddha – Stringed",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following pair is correct?\nI. Permanent wind – westerlies\nII. Local wind – loo",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q002",
+  "b": "2021-set5-q002",
+  "scores": {
+   "stem": 73.7,
+   "stemTokenSet": 80.7,
+   "cosine": 0.238,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "Which of the following pair of vadya – type is correct?\nI. Tata – Wind\nII. Avanddha – Stringed",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following pair of instrument – type is correct?\nI. Veena – Avanaddha\nII. Sarangi – Sushir",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q004",
+  "b": "2021-set4-q004",
+  "scores": {
+   "stem": 51.8,
+   "stemTokenSet": 62.5,
+   "cosine": 0.614,
+   "options": 72.3,
+   "answer": 64.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is the ratio of the stock of money to the stock of high powered money in an economy called?",
+   "options": [
+    "Money multiplier",
+    "Money exchange",
+    "Money credit",
+    "Money supply"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "The total stock of money in circulation among the public at a particular point of time is called ______.",
+   "options": [
+    "Money multiplier",
+    "Reserve money",
+    "Money supply",
+    "Narrow money"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set2-q018",
+  "scores": {
+   "stem": 63.6,
+   "stemTokenSet": 83.3,
+   "cosine": 0.217,
+   "options": 28.6,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which article of Indian constitution is related to duration of Panchayats?",
+   "options": [
+    "243A",
+    "243E",
+    "243K",
+    "243O"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which article of Indian constitution is related with the power of parliament to amend the constitution and procedure therefor?",
+   "options": [
+    "361",
+    "368",
+    "373",
+    "378"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set3-q018",
+  "scores": {
+   "stem": 78.7,
+   "stemTokenSet": 83.3,
+   "cosine": 0.21,
+   "options": 33.3,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which article of Indian constitution is related to duration of Panchayats?",
+   "options": [
+    "243A",
+    "243E",
+    "243K",
+    "243O"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which article of Indian constitution is related to uniform civil code for citizens?",
+   "options": [
+    "49",
+    "44",
+    "46",
+    "52"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set4-q018",
+  "scores": {
+   "stem": 72.3,
+   "stemTokenSet": 80.3,
+   "cosine": 0.217,
+   "options": 46.4,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which article of Indian constitution is related to duration of Panchayats?",
+   "options": [
+    "243A",
+    "243E",
+    "243K",
+    "243O"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which article of Indian constitution is related with the borrowing by the government of India?",
+   "options": [
+    "218",
+    "326",
+    "246",
+    "292"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set5-q018",
+  "scores": {
+   "stem": 84.8,
+   "stemTokenSet": 91.5,
+   "cosine": 0.318,
+   "options": 17.9,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which article of Indian constitution is related to duration of Panchayats?",
+   "options": [
+    "243A",
+    "243E",
+    "243K",
+    "243O"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which article of Indian constitution is related to the duration of state legislatures?",
+   "options": [
+    "168",
+    "172",
+    "179",
+    "187"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q019",
+  "b": "2021-set3-q019",
+  "scores": {
+   "stem": 76.7,
+   "stemTokenSet": 79.4,
+   "cosine": 0.265,
+   "options": 33.9,
+   "answer": 31.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which city hosted the 2018 commonwealth games?",
+   "options": [
+    "Sydney",
+    "Gold Coast",
+    "Melbourne",
+    "Canberra"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which country hosted the 2018 Asian games?",
+   "options": [
+    "Indonesia",
+    "Thailand",
+    "Malaysia",
+    "Qatar"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set1-q022",
+  "scores": {
+   "stem": 90.6,
+   "stemTokenSet": 92.5,
+   "cosine": 0.292,
+   "options": 14.3,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nGRZ, KWV, OBR, SGN, ?",
+   "options": [
+    "WMJ",
+    "WLJ",
+    "XLJ",
+    "XMJ"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONY, WTGP, ZYZG, ?, FILO",
+   "options": [
+    "CESX",
+    "CDSY",
+    "CESY",
+    "CDSX"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set3-q021",
+  "scores": {
+   "stem": 91.0,
+   "stemTokenSet": 92.5,
+   "cosine": 0.292,
+   "options": 18.8,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nGRZ, KWV, OBR, SGN, ?",
+   "options": [
+    "WMJ",
+    "WLJ",
+    "XLJ",
+    "XMJ"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nSJ20, WF42, AB86, ?, IT370",
+   "options": [
+    "EX174",
+    "EX172",
+    "FX174",
+    "FX172"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set3-q022",
+  "scores": {
+   "stem": 92.0,
+   "stemTokenSet": 92.5,
+   "cosine": 0.292,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nGRZ, KWV, OBR, SGN, ?",
+   "options": [
+    "WMJ",
+    "WLJ",
+    "XLJ",
+    "XMJ"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nLXMG, TPUY, ?, JZKI, RRSA",
+   "options": [
+    "BHDR",
+    "BHCQ",
+    "BHDQ",
+    "BHCR"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set5-q022",
+  "scores": {
+   "stem": 91.3,
+   "stemTokenSet": 92.5,
+   "cosine": 0.292,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nGRZ, KWV, OBR, SGN, ?",
+   "options": [
+    "WMJ",
+    "WLJ",
+    "XLJ",
+    "XMJ"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONU, NOVW, HODY, BOLA, ?",
+   "options": [
+    "VOTB",
+    "UOTC",
+    "VOTC",
+    "UOTB"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q022",
+  "b": "2021-set3-q021",
+  "scores": {
+   "stem": 89.7,
+   "stemTokenSet": 90.8,
+   "cosine": 0.292,
+   "options": 27.8,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONY, WTGP, ZYZG, ?, FILO",
+   "options": [
+    "CESX",
+    "CDSY",
+    "CESY",
+    "CDSX"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nSJ20, WF42, AB86, ?, IT370",
+   "options": [
+    "EX174",
+    "EX172",
+    "FX174",
+    "FX172"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q022",
+  "b": "2021-set3-q022",
+  "scores": {
+   "stem": 90.7,
+   "stemTokenSet": 90.8,
+   "cosine": 0.292,
+   "options": 25.0,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONY, WTGP, ZYZG, ?, FILO",
+   "options": [
+    "CESX",
+    "CDSY",
+    "CESY",
+    "CDSX"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nLXMG, TPUY, ?, JZKI, RRSA",
+   "options": [
+    "BHDR",
+    "BHCQ",
+    "BHDQ",
+    "BHCR"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q022",
+  "b": "2021-set5-q022",
+  "scores": {
+   "stem": 92.9,
+   "stemTokenSet": 90.8,
+   "cosine": 0.292,
+   "options": 18.8,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONY, WTGP, ZYZG, ?, FILO",
+   "options": [
+    "CESX",
+    "CDSY",
+    "CESY",
+    "CDSX"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONU, NOVW, HODY, BOLA, ?",
+   "options": [
+    "VOTB",
+    "UOTC",
+    "VOTC",
+    "UOTB"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q023",
+  "b": "2021-set3-q038",
+  "scores": {
+   "stem": 91.5,
+   "stemTokenSet": 96.0,
+   "cosine": 0.367,
+   "options": 0.0,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Shirt",
+    "Trouser",
+    "Jacket",
+    "Male"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, select the odd figure pair from the given alternatives.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q023",
+  "b": "2021-set4-q023",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.291,
+   "options": 39.2,
+   "answer": 44.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Shirt",
+    "Trouser",
+    "Jacket",
+    "Male"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Yellow",
+    "White",
+    "Green",
+    "Alloy"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q023",
+  "b": "2021-set5-q023",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.292,
+   "options": 44.6,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Shirt",
+    "Trouser",
+    "Jacket",
+    "Male"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Friend",
+    "Sister",
+    "Brother",
+    "Mother"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set2-q023",
+  "scores": {
+   "stem": 64.1,
+   "stemTokenSet": 83.9,
+   "cosine": 0.266,
+   "options": 31.0,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TOPX, ZVXG, FCFP)",
+   "options": [
+    "(AJNP, GQVY, MXEH)",
+    "(KQRN, QXZW, WEHF)",
+    "(LPCR, RWKZ, XDSI)",
+    "(TGPA, ZNXJ, EUFS)"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, four pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "CL – LC",
+    "KW – WK",
+    "BY – YB",
+    "NM – MP"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set2-q025",
+  "scores": {
+   "stem": 96.6,
+   "stemTokenSet": 95.1,
+   "cosine": 0.389,
+   "options": 42.0,
+   "answer": 35.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TOPX, ZVXG, FCFP)",
+   "options": [
+    "(AJNP, GQVY, MXEH)",
+    "(KQRN, QXZW, WEHF)",
+    "(LPCR, RWKZ, XDSI)",
+    "(TGPA, ZNXJ, EUFS)"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TRAB, JHZA, IGPQ)",
+   "options": [
+    "(ALPM, UVTH, PADB)",
+    "(KNSQ, YZVR, ZDHF)",
+    "(GBLK, SSJN, VQAZ)",
+    "(ANJH, QQVH, PCYX)"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set3-q023",
+  "scores": {
+   "stem": 65.5,
+   "stemTokenSet": 83.9,
+   "cosine": 0.26,
+   "options": 39.3,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TOPX, ZVXG, FCFP)",
+   "options": [
+    "(AJNP, GQVY, MXEH)",
+    "(KQRN, QXZW, WEHF)",
+    "(LPCR, RWKZ, XDSI)",
+    "(TGPA, ZNXJ, EUFS)"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, four letter pairs are given. The letters on left side of (–) is related to the letters on the right side of (–) with some\nLogic/Rule/Relation. Three are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives.",
+   "options": [
+    "LX – WK",
+    "NO – MN",
+    "CR – QB",
+    "TA – ZS"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set3-q025",
+  "scores": {
+   "stem": 96.2,
+   "stemTokenSet": 95.1,
+   "cosine": 0.39,
+   "options": 41.1,
+   "answer": 21.4
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TOPX, ZVXG, FCFP)",
+   "options": [
+    "(AJNP, GQVY, MXEH)",
+    "(KQRN, QXZW, WEHF)",
+    "(LPCR, RWKZ, XDSI)",
+    "(TGPA, ZNXJ, EUFS)"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(GROB, EKUC, FQNA)",
+   "options": [
+    "(LAPT, WLDH, KZOS)",
+    "(CGND, GJJY, BFMD)",
+    "(RFID, GECV, YYHC)",
+    "(NEFT, WBHJ, MDEA)"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q026",
+  "b": "2021-set2-q026",
+  "scores": {
+   "stem": 70.3,
+   "stemTokenSet": 82.9,
+   "cosine": 0.224,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In a certain code language, ‘I think I can’ is written as ‘6 8 6 4’, ‘We can think about’ is written as ‘5 4 8 9’. What is the code for ‘think, can’ in\nthat code language?",
+   "options": [
+    "8 4",
+    "6 9",
+    "8 5",
+    "6 4"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In a certain code language, ‘VENUE’ is written as ‘LBULC’. What is the code for ‘TEMPO’ in that code language?",
+   "options": [
+    "VWTLA",
+    "VWTAL",
+    "VTWLA",
+    "VTWAL"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q026",
+  "b": "2021-set4-q026",
+  "scores": {
+   "stem": 79.5,
+   "stemTokenSet": 77.3,
+   "cosine": 0.244,
+   "options": 35.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In a certain code language, ‘I think I can’ is written as ‘6 8 6 4’, ‘We can think about’ is written as ‘5 4 8 9’. What is the code for ‘think, can’ in\nthat code language?",
+   "options": [
+    "8 4",
+    "6 9",
+    "8 5",
+    "6 4"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In a certain code language, ‘RACER’ is written as ‘46’, ‘USAGE’ is written as ‘54’. What is the code for ‘ESSAY’ in that code language?",
+   "options": [
+    "69",
+    "70",
+    "72",
+    "75"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set2-q028",
+  "scores": {
+   "stem": 73.9,
+   "stemTokenSet": 92.3,
+   "cosine": 0.84,
+   "options": 5.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Eight friends P, Q, R, S, T U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third\nto the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S\nis not the immediate neighbour of Q.Who is second to the right of P?",
+   "options": [
+    "S",
+    "V",
+    "T",
+    "Q"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Seven girls L, M, N, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). M is second to\nthe right of N. N is third to the right of P. R is third to the right of S. L is third to the left of Q. S is not the immediate neighbour of M.\nWhich of the following statement(s) is/are correct?\nI. Q is to the immediate left of N.\nII. P is third to the left of N.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set3-q029",
+  "scores": {
+   "stem": 71.5,
+   "stemTokenSet": 90.4,
+   "cosine": 0.876,
+   "options": 5.6,
+   "answer": 5.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Eight friends P, Q, R, S, T U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third\nto the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S\nis not the immediate neighbour of Q.Who is second to the right of P?",
+   "options": [
+    "S",
+    "V",
+    "T",
+    "Q"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Seven boys A, B, C, P, Q, R and S are sitting around a circular table facing towards the centre (not necessarily in the same order). S is second to\nthe left of C. P is second to the left of S. Q is not the immediate neighbour of P or S. B is fourth to the right of A.\nWhich of the following statement is correct?",
+   "options": [
+    "B is second to the right of Q.",
+    "P is third to the left of C.",
+    "A is not the immediate neighbour of P or Q.",
+    "B is the immediate neighbour of S and C."
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set4-q027",
+  "scores": {
+   "stem": 80.2,
+   "stemTokenSet": 92.9,
+   "cosine": 0.873,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Eight friends P, Q, R, S, T U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third\nto the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S\nis not the immediate neighbour of Q.Who is second to the right of P?",
+   "options": [
+    "S",
+    "V",
+    "T",
+    "Q"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Eight players A, B, C, D, E, F, G and H are sitting around a circular table facing towards the centre (not necessarily in the same order). G is\nfourth to the right of A. D is second to the left of A. E is second to the right of C. C is not the immediate neighbour of G or D. B is second to the\nright of F. Who is third to the right of H?",
+   "options": [
+    "B",
+    "F",
+    "D",
+    "G"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set5-q029",
+  "scores": {
+   "stem": 71.2,
+   "stemTokenSet": 94.8,
+   "cosine": 0.759,
+   "options": 5.4,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Eight friends P, Q, R, S, T U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third\nto the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S\nis not the immediate neighbour of Q.Who is second to the right of P?",
+   "options": [
+    "S",
+    "V",
+    "T",
+    "Q"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Nine boys P, Q, R, S, T, U, V, W and X are sitting around a circular table facing towards the centre (not necessarily in the same order). U is fourth\nto the right of P. P is third to the right of Q. X is fourth to the left of Q. S is third to the left of X. R is third to the right of W. T is second to the left\nof V.\nWhich of the following statement(s) is/are not correct?\nI. U and V are not the immediate neighbours.\nII. V is the immediate neighbour of Q and U.\nIII. R is second to the right of T.\nIV. W is third to the left of U.",
+   "options": [
+    "Only II",
+    "II and III",
+    "I, II, III and IV",
+    "I, III and IV"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2023-06-24-s2-q001",
+  "scores": {
+   "stem": 65.0,
+   "stemTokenSet": 75.2,
+   "cosine": 0.548,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Eight friends P, Q, R, S, T U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third\nto the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S\nis not the immediate neighbour of Q.Who is second to the right of P?",
+   "options": [
+    "S",
+    "V",
+    "T",
+    "Q"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Six friends, A, B, C, D, E and E, are sitting around a round table facing toward the centre and equidistant from each\nother. A is sitting second to the left of C. D is sitting opposite to B. F is sitting to the immediate right of B. Who is\nsitting second to the right of E?",
+   "options": [
+    "A",
+    "B",
+    "D",
+    "F"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q030",
+  "b": "2021-set1-q031",
+  "scores": {
+   "stem": 88.9,
+   "stemTokenSet": 98.8,
+   "cosine": 0.743,
+   "options": 94.9,
+   "answer": 83.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some M are B.\nII. No L is M.\nConclusions:\nI. No L is B.\nII. No M is L.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q030",
+  "b": "2023-06-24-s2-q003",
+  "scores": {
+   "stem": 63.8,
+   "stemTokenSet": 76.7,
+   "cosine": 0.453,
+   "options": 88.7,
+   "answer": 96.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some M are B.\nII. No L is M.\nConclusions:\nI. No L is B.\nII. No M is L.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+   "options": [
+    "Only conclusions III follows",
+    "Only conclusions II and III follow",
+    "All the conclusions, I, II and III, follow",
+    "Only conclusions I and II follow"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set2-q030",
+  "scores": {
+   "stem": 89.0,
+   "stemTokenSet": 98.8,
+   "cosine": 0.751,
+   "options": 94.9,
+   "answer": 85.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some P are K.\nII. No S is P.\nConclusions:\nI. No P is S.\nII. All S are K.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set2-q031",
+  "scores": {
+   "stem": 89.7,
+   "stemTokenSet": 98.8,
+   "cosine": 0.758,
+   "options": 97.0,
+   "answer": 79.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All L are J.\nII. No V is L.\nConclusions:\nI. All J are L.\nII. All V are J.\nIII. All L are V.",
+   "options": [
+    "Only conclusion I follows",
+    "Neither conclusion follows",
+    "Both conclusions II and III follows",
+    "All conclusion follows"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set3-q030",
+  "scores": {
+   "stem": 90.9,
+   "stemTokenSet": 96.8,
+   "cosine": 0.618,
+   "options": 94.9,
+   "answer": 85.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some land are hard.\nII. No stone is land.\nConclusions:\nI. Some hard are land.\nII. Some stone are hard.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set3-q031",
+  "scores": {
+   "stem": 90.5,
+   "stemTokenSet": 98.8,
+   "cosine": 0.764,
+   "options": 98.7,
+   "answer": 67.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All A are S.\nII. No D is A.\nConclusions:\nI. Some S are A.\nII. All S are D.\nIII. No A is D.",
+   "options": [
+    "Both conclusions I and II follows",
+    "Only conclusion III follows",
+    "Both conclusions I and III follows",
+    "All conclusion follows"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set4-q030",
+  "scores": {
+   "stem": 88.6,
+   "stemTokenSet": 96.2,
+   "cosine": 0.608,
+   "options": 94.9,
+   "answer": 85.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No ground are land.\nII. Some garden are land.\nConclusions:\nI. Some land are garden.\nII. Some land are ground.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set4-q031",
+  "scores": {
+   "stem": 90.2,
+   "stemTokenSet": 98.8,
+   "cosine": 0.762,
+   "options": 94.0,
+   "answer": 83.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All B are S.\nII. No S are K.\nConclusions:\nI. All S are B.\nII. Some S are B.\nIII. All K are B.",
+   "options": [
+    "Both conclusions I and II follows",
+    "Only conclusion III follows",
+    "Only conclusion II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set5-q030",
+  "scores": {
+   "stem": 88.2,
+   "stemTokenSet": 98.8,
+   "cosine": 0.751,
+   "options": 94.9,
+   "answer": 83.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No X are Y.\nII. Some Z are Y.\nConclusions:\nI. All Z are X.\nII. No Y is X.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set5-q031",
+  "scores": {
+   "stem": 90.7,
+   "stemTokenSet": 98.8,
+   "cosine": 0.764,
+   "options": 98.7,
+   "answer": 67.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+   "options": [
+    "Both conclusions II and III follows",
+    "Only conclusion I follows",
+    "Both conclusions I and II follows",
+    "All conclusion follows"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All F are C.\nII. No D is F.\nConclusions:\nI. Some C are F.\nII. All C are D.\nIII. No F is D.",
+   "options": [
+    "Both conclusions I and II follows",
+    "Only conclusion III follows",
+    "Both conclusions I and III follows",
+    "All conclusion follows"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q033",
+  "b": "2021-set3-q050",
+  "scores": {
+   "stem": 42.6,
+   "stemTokenSet": 54.2,
+   "cosine": 0.455,
+   "options": 26.4,
+   "answer": 27.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "By Interchanging the given two numbers which of the following equation will be incorrect?\n5 and 2",
+   "options": [
+    "2 + 8 × 7 ÷ 4 – 5 = 17",
+    "8 + 6 × 2 ÷ 5 – 4 = 19",
+    "6 + 8 × 2 ÷ 4 – 5 = 14",
+    "5 + 2 × 6 ÷ 4 – 1 = 7"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "The sum of two numbers is 66 and their difference is 22. What is the ratio of the two numbers?",
+   "options": [
+    "2 : 1",
+    "6 : 5",
+    "17 : 5",
+    "5 : 1"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q033",
+  "b": "2021-set4-q041",
+  "scores": {
+   "stem": 32.1,
+   "stemTokenSet": 44.4,
+   "cosine": 0.508,
+   "options": 15.2,
+   "answer": 19.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "By Interchanging the given two numbers which of the following equation will be incorrect?\n5 and 2",
+   "options": [
+    "2 + 8 × 7 ÷ 4 – 5 = 17",
+    "8 + 6 × 2 ÷ 5 – 4 = 19",
+    "6 + 8 × 2 ÷ 4 – 5 = 14",
+    "5 + 2 × 6 ÷ 4 – 1 = 7"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "What is the value of 10 ÷ 5(4 – 2) × 6?",
+   "options": [
+    "12",
+    "8",
+    "6",
+    "24"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q033",
+  "b": "2021-set5-q187",
+  "scores": {
+   "stem": 40.0,
+   "stemTokenSet": 51.9,
+   "cosine": 0.543,
+   "options": 27.7,
+   "answer": 26.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "By Interchanging the given two numbers which of the following equation will be incorrect?\n5 and 2",
+   "options": [
+    "2 + 8 × 7 ÷ 4 – 5 = 17",
+    "8 + 6 × 2 ÷ 5 – 4 = 19",
+    "6 + 8 × 2 ÷ 4 – 5 = 14",
+    "5 + 2 × 6 ÷ 4 – 1 = 7"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "What is the mean of the mode and median of the data given below?\n8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+   "options": [
+    "6.5",
+    "5.75",
+    "6.25",
+    "5.5"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set1-q107",
+  "scores": {
+   "stem": 45.2,
+   "stemTokenSet": 100.0,
+   "cosine": 0.429,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which of the following statement is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set2-q035",
+  "scores": {
+   "stem": 78.3,
+   "stemTokenSet": 84.9,
+   "cosine": 0.432,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 3 represents those bottles which are odd and even both.\nII. Number of odd bottles are 7.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set2-q119",
+  "scores": {
+   "stem": 46.7,
+   "stemTokenSet": 100.0,
+   "cosine": 0.429,
+   "options": 100.0,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are correct?",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set3-q035",
+  "scores": {
+   "stem": 72.7,
+   "stemTokenSet": 87.0,
+   "cosine": 0.451,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Number 9 represents those figures which are neither red nor bottle.\nII. Number 2 represents those figures which are not red.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set4-q035",
+  "scores": {
+   "stem": 77.5,
+   "stemTokenSet": 86.4,
+   "cosine": 0.57,
+   "options": 100.0,
+   "answer": 92.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are incorrect?\nI. Total number of odd are 10.\nII. Number of even which are not letters, are 10.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set5-q035",
+  "scores": {
+   "stem": 75.4,
+   "stemTokenSet": 88.0,
+   "cosine": 0.527,
+   "options": 100.0,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Total number of black are 24.\nII. Number 12 represents those cars which are only black.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q036",
+  "b": "2021-set2-q037",
+  "scores": {
+   "stem": 62.1,
+   "stemTokenSet": 81.2,
+   "cosine": 0.482,
+   "options": 75.9,
+   "answer": 75.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Raman walks 25 metres in north. He turns right and walks 72 metres to reach point A. He again turns right and walks 16 metres. He finally turns\nleft and walks 8 metres to reach point B. How far is point B from point A and in which direction is starting point from point B?",
+   "options": [
+    "S340 South-West",
+    "W340 North-East",
+    "V320 North-East",
+    "W320 South-West"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Saroj walks 24 km towards north. She turns right and walks 20 km. She turns left and walks 30 km. She rotates by 90 degrees in clockwise\ndirection and walks 15 km. she turns right and walks 30 km. She finally rotates by 90 degrees in clockwise direction and walks 25 km. How far\nand in which direction is her starting point from the finishing point?",
+   "options": [
+    "26 km, South-west",
+    "49 km, North-east",
+    "26 km, North-east",
+    "49 km, South-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q036",
+  "b": "2021-set4-q037",
+  "scores": {
+   "stem": 65.7,
+   "stemTokenSet": 81.2,
+   "cosine": 0.652,
+   "options": 66.7,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Raman walks 25 metres in north. He turns right and walks 72 metres to reach point A. He again turns right and walks 16 metres. He finally turns\nleft and walks 8 metres to reach point B. How far is point B from point A and in which direction is starting point from point B?",
+   "options": [
+    "S340 South-West",
+    "W340 North-East",
+    "V320 North-East",
+    "W320 South-West"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Prem walks 13 metres towards north. He turns right and walks 11 metres. He rotates by 90 degrees in anti-clockwise direction and walks 11\nmetres. He again rotates by 90 degrees in anti-clockwise direction and walks 4 metres. How far and in which direction is his starting point from\nthe finishing point?",
+   "options": [
+    "25 metres, South-west",
+    "33 metres, North-east",
+    "25 metres, North-east",
+    "33 metres, South-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q036",
+  "b": "2021-set5-q037",
+  "scores": {
+   "stem": 66.4,
+   "stemTokenSet": 79.6,
+   "cosine": 0.436,
+   "options": 69.8,
+   "answer": 75.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Raman walks 25 metres in north. He turns right and walks 72 metres to reach point A. He again turns right and walks 16 metres. He finally turns\nleft and walks 8 metres to reach point B. How far is point B from point A and in which direction is starting point from point B?",
+   "options": [
+    "S340 South-West",
+    "W340 North-East",
+    "V320 North-East",
+    "W320 South-West"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Radha walks 14 km towards north. She turns right and walks 22 km. She turns right and walks 24 km. She turns left and walks 26 km. She finally\nrotates by an angle of 90 degrees in anti-clockwise direction and walks 24 km. How far and in which direction is her starting point from the\nfinishing point?",
+   "options": [
+    "50 km, south-west",
+    "76 km, north-west",
+    "76 km, south-east",
+    "50 km, north-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q037",
+  "b": "2021-set2-q037",
+  "scores": {
+   "stem": 62.4,
+   "stemTokenSet": 73.7,
+   "cosine": 0.452,
+   "options": 66.7,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Ramesh is facing towards west direction. He walks 20 km and then rotates by 90 degrees in clockwise direction. He again rotates by 295 degrees\nin anticlockwise direction. In which direction is he facing now?",
+   "options": [
+    "North-east",
+    "East",
+    "South-east",
+    "North-west"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Saroj walks 24 km towards north. She turns right and walks 20 km. She turns left and walks 30 km. She rotates by 90 degrees in clockwise\ndirection and walks 15 km. she turns right and walks 30 km. She finally rotates by 90 degrees in clockwise direction and walks 25 km. How far\nand in which direction is her starting point from the finishing point?",
+   "options": [
+    "26 km, South-west",
+    "49 km, North-east",
+    "26 km, North-east",
+    "49 km, South-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q037",
+  "b": "2021-set3-q037",
+  "scores": {
+   "stem": 91.5,
+   "stemTokenSet": 93.4,
+   "cosine": 0.848,
+   "options": 94.1,
+   "answer": 88.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Ramesh is facing towards west direction. He walks 20 km and then rotates by 90 degrees in clockwise direction. He again rotates by 295 degrees\nin anticlockwise direction. In which direction is he facing now?",
+   "options": [
+    "North-east",
+    "East",
+    "South-east",
+    "North-west"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Ramesh is facing towards south direction. He rotates by 140 degrees in clockwise direction. He again rotates by 362 degrees in anti-clockwise\ndirection. In which direction is he facing now?",
+   "options": [
+    "North-east",
+    "West",
+    "North-west",
+    "East"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q037",
+  "b": "2021-set4-q037",
+  "scores": {
+   "stem": 66.9,
+   "stemTokenSet": 77.8,
+   "cosine": 0.507,
+   "options": 57.0,
+   "answer": 42.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Ramesh is facing towards west direction. He walks 20 km and then rotates by 90 degrees in clockwise direction. He again rotates by 295 degrees\nin anticlockwise direction. In which direction is he facing now?",
+   "options": [
+    "North-east",
+    "East",
+    "South-east",
+    "North-west"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Prem walks 13 metres towards north. He turns right and walks 11 metres. He rotates by 90 degrees in anti-clockwise direction and walks 11\nmetres. He again rotates by 90 degrees in anti-clockwise direction and walks 4 metres. How far and in which direction is his starting point from\nthe finishing point?",
+   "options": [
+    "25 metres, South-west",
+    "33 metres, North-east",
+    "25 metres, North-east",
+    "33 metres, South-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q038",
+  "b": "2021-set5-q038",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.875,
+   "options": 37.5,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right of (::) from the given\nalternatives based on the same logic/rule/relation.",
+   "options": [
+    "•",
+    "",
+    "=x)",
+    "x="
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right of (::) from the given\nalternatives based on the same logic/rule/relation.",
+   "options": [
+    "M",
+    "",
+    "M",
+    ""
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q039",
+  "b": "2021-set4-q040",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.988,
+   "options": 87.1,
+   "answer": 80.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "By folding the given paper, which of the following cube cannot be made?",
+   "options": [
+    "II and III",
+    "III and IV",
+    "Only IV",
+    "I, II and III"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "By folding the given paper, which of the following cube cannot be made?",
+   "options": [
+    "I, II and III",
+    "I, III and IV",
+    "I, II and IV",
+    "I, II, III and IV"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q045",
+  "b": "2021-set3-q045",
+  "scores": {
+   "stem": 62.3,
+   "stemTokenSet": 91.0,
+   "cosine": 0.519,
+   "options": 35.8,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "The Highest Common Factor of two numbers is (2/5)th of their Least Common Multiple. If the product of two numbers is 1690, then what is\ntheir Highest Common Factor?",
+   "options": [
+    "35",
+    "65",
+    "26",
+    "53"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Highest common factor of three distinct numbers is 7 and their least common multiple is 42. If all numbers are less than the least common\nmultiple, then what is the product of these three numbers?",
+   "options": [
+    "686",
+    "6174",
+    "4116",
+    "2058"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q045",
+  "b": "2021-set5-q043",
+  "scores": {
+   "stem": 58.3,
+   "stemTokenSet": 83.8,
+   "cosine": 0.467,
+   "options": 43.8,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "The Highest Common Factor of two numbers is (2/5)th of their Least Common Multiple. If the product of two numbers is 1690, then what is\ntheir Highest Common Factor?",
+   "options": [
+    "35",
+    "65",
+    "26",
+    "53"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "If product of two numbers is 578 and their Highest Common Factor is 17, then what is the difference between two numbers?",
+   "options": [
+    "17",
+    "34",
+    "51",
+    "68"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q048",
+  "b": "2021-set2-q043",
+  "scores": {
+   "stem": 60.5,
+   "stemTokenSet": 81.7,
+   "cosine": 0.202,
+   "options": 70.0,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If the difference between the two numbers is 75 percent of their sum, then what is the ratio of larger number and smaller number?",
+   "options": [
+    "7 : 2",
+    "5 : 2",
+    "7 : 1",
+    "7 : 3"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the difference between the sum of first five prime numbers and sum of next five prime numbers?",
+   "options": [
+    "71",
+    "72",
+    "73",
+    "74"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set1-q048",
+  "b": "2021-set3-q050",
+  "scores": {
+   "stem": 57.5,
+   "stemTokenSet": 95.0,
+   "cosine": 0.461,
+   "options": 58.9,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If the difference between the two numbers is 75 percent of their sum, then what is the ratio of larger number and smaller number?",
+   "options": [
+    "7 : 2",
+    "5 : 2",
+    "7 : 1",
+    "7 : 3"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "The sum of two numbers is 66 and their difference is 22. What is the ratio of the two numbers?",
+   "options": [
+    "2 : 1",
+    "6 : 5",
+    "17 : 5",
+    "5 : 1"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set1-q049",
+  "b": "2021-set2-q049",
+  "scores": {
+   "stem": 53.4,
+   "stemTokenSet": 72.0,
+   "cosine": 0.492,
+   "options": 19.3,
+   "answer": 8.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Cost price and selling price of an article are in ratio of 11 : 16. If cost price is increased by 20 percent and selling price is increased by 20 percent,\nthen what is the new profit percentage?",
+   "options": [
+    "52.24",
+    "45.45",
+    "37.43",
+    "61.86"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Cost price of 10 articles is equal to the selling price of 12 articles. What is the profit/loss percentage? (Cost price of all articles is same and selling\nprice of all articles is same)",
+   "options": [
+    "Loss 20 percent",
+    "Loss 16.66 percent",
+    "Profit 20 percent",
+    "Profit 16.66 percent"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q049",
+  "b": "2021-set5-q049",
+  "scores": {
+   "stem": 55.5,
+   "stemTokenSet": 79.3,
+   "cosine": 0.455,
+   "options": 52.8,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Cost price and selling price of an article are in ratio of 11 : 16. If cost price is increased by 20 percent and selling price is increased by 20 percent,\nthen what is the new profit percentage?",
+   "options": [
+    "52.24",
+    "45.45",
+    "37.43",
+    "61.86"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Cost price of article A is 2800 and it is sold for a profit of 16 percent. Cost price of article B is Rs. 3200 and it is sold for a loss of 8 percent.\nWhat is the ratio of selling price of A and B?",
+   "options": [
+    "104 : 87",
+    "203 : 184",
+    "179 : 86",
+    "125 : 91"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q050",
+  "b": "2021-set1-q103",
+  "scores": {
+   "stem": 70.0,
+   "stemTokenSet": 84.2,
+   "cosine": 0.25,
+   "options": 9.4,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If x : y = y : z, then what is the value of x^4 : y^4?",
+   "options": [
+    "x^2 : z^2",
+    "y^2 : x^2",
+    "y^6 : x^6",
+    "x^3 : z^3"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "If x + iy = tan (A + iB), then what is the value of x^2 + y^2 + 2x cot 2A – 2?",
+   "options": [
+    "1",
+    "–1",
+    "0",
+    "2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q051",
+  "b": "2021-set1-q103",
+  "scores": {
+   "stem": 71.9,
+   "stemTokenSet": 81.3,
+   "cosine": 0.221,
+   "options": 37.5,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a:b =2:3, then what is the value of (b2 + 2a?) : (62 - 2a2)?",
+   "options": [
+    "17 : 1",
+    "18 : 1",
+    "15 : 2",
+    "20 : 11"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "If x + iy = tan (A + iB), then what is the value of x^2 + y^2 + 2x cot 2A – 2?",
+   "options": [
+    "1",
+    "–1",
+    "0",
+    "2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q051",
+  "b": "2021-set2-q047",
+  "scores": {
+   "stem": 67.9,
+   "stemTokenSet": 82.5,
+   "cosine": 0.235,
+   "options": 54.9,
+   "answer": 44.4
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a:b =2:3, then what is the value of (b2 + 2a?) : (62 - 2a2)?",
+   "options": [
+    "17 : 1",
+    "18 : 1",
+    "15 : 2",
+    "20 : 11"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "If A percent of 434 = 62, then what is the value of A?",
+   "options": [
+    "16.66",
+    "12.5",
+    "15",
+    "14.28"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set1-q051",
+  "b": "2021-set2-q050",
+  "scores": {
+   "stem": 71.4,
+   "stemTokenSet": 84.2,
+   "cosine": 0.343,
+   "options": 69.2,
+   "answer": 66.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If a:b =2:3, then what is the value of (b2 + 2a?) : (62 - 2a2)?",
+   "options": [
+    "17 : 1",
+    "18 : 1",
+    "15 : 2",
+    "20 : 11"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "If a : b = 1 : 2 and b : c = 2 : 1, then what is the value of a : b : c?",
+   "options": [
+    "2 : 1 : 1",
+    "1 : 2 : 1",
+    "2 : 4 : 1",
+    "1 : 1 : 2"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q052",
+  "b": "2021-set3-q052",
+  "scores": {
+   "stem": 54.5,
+   "stemTokenSet": 74.4,
+   "cosine": 0.594,
+   "options": 28.6,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "The simple interest received on a certain sum is Rs. 1280 for 4 years. What will be the simple interest on the same at the same rate of interest for\n10 years?",
+   "options": [
+    "Rs. 3100",
+    "Rs. 3230",
+    "Rs. 3600",
+    "Rs. 3200"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "A sum of Rs. 1200 becomes Rs. 1560 at a rate of simple interest in 3 years. In how many years will the sum of Rs. 800 amounts to Rs. 1120 at\nthe same rate of simple interest?",
+   "options": [
+    "3 years",
+    "4 years",
+    "5 years",
+    "6 years"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set1-q052",
+  "b": "2021-set5-q052",
+  "scores": {
+   "stem": 50.5,
+   "stemTokenSet": 81.0,
+   "cosine": 0.493,
+   "options": 82.1,
+   "answer": 85.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "The simple interest received on a certain sum is Rs. 1280 for 4 years. What will be the simple interest on the same at the same rate of interest for\n10 years?",
+   "options": [
+    "Rs. 3100",
+    "Rs. 3230",
+    "Rs. 3600",
+    "Rs. 3200"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "The difference between simple interest on a certain sum at the annual rate of 11 percent for 8 years and 9 years is Rs. 132. What is the sum?",
+   "options": [
+    "Rs. 1450",
+    "Rs. 1200",
+    "Rs. 1300",
+    "Rs. 1100"
+   ],
+   "key": "B"
+  }
+ }
+]

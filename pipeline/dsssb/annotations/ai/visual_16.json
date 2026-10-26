@@ -1,0 +1,623 @@
+[
+ {
+  "id": "2023-06-24-s2-q168",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) The clock signal is required for sequential circuits.\nii) In the sequential circuit, memory elements play an important role and are required.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, ii-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il) → ii); option 2: 'il-True' → 'ii-True'"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Flip-flops, registers & counters",
+  "concept": "Sequential circuits: clock and memory elements",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "medium",
+  "keyAssessment": "ambiguous",
+  "keyNote": "Statement i is true only for synchronous sequential circuits; asynchronous sequential circuits have no clock. The key (A) follows the common combinational-vs-sequential comparison table that lists the clock as 'required'. Strictly, i is false (option B).",
+  "explanation": "- ii) **True**. A sequential circuit's output depends on present inputs **and past state**, so it must contain memory elements (flip-flops or latches, or feedback loops). This is what separates it from a combinational circuit.\n- i) **Depends on the type.** Sequential circuits are of two kinds:\n- **Synchronous**: state changes only on clock pulses, so a clock is required.\n- **Asynchronous**: state changes as soon as inputs change; no clock is used.\nMany comparison tables simply say 'combinational: no clock; sequential: clock required', and the source key (option A, both true) follows that view. Strictly, because asynchronous sequential circuits exist, statement i is not true for all sequential circuits, which gives i-False, ii-True (option B). The question is therefore ambiguous. In an exam, A is the answer the setter intended."
+ },
+ {
+  "id": "2023-06-24-s2-q169",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the column Well-known ports used by TCP with the column Protocol.\nWell-known ports used by TCP | Protocol\na) 7 | i) Daytime\nb) 9 | ii) Echo\nc) 11 | iii) Discard\nd) 13 | iv) SYSTAT",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "The two columns are printed as a table.",
+   "printedErrors": "",
+   "changes": "ICP → TCP; Davtime → Daytime; rebuilt table rows; option 4: 'a-ii, b-i, c-iv, d-ii' → 'a-iii, b-i, c-iv, d-ii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transport & application protocols",
+  "concept": "Well-known TCP port numbers (Echo, Discard, Systat, Daytime)",
+  "difficulty": "hard",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "These are classic well-known ports listed in TCP/IP textbooks (e.g. Forouzan):\n- Port **7 → Echo**: echoes back whatever it receives (a-ii).\n- Port **9 → Discard**: silently throws away the data (b-iii).\n- Port **11 → Systat**: returns a list of active users (c-iv).\n- Port **13 → Daytime**: returns the date and time as text (d-i).\nSo the matching is a-ii, b-iii, c-iv, d-i, which is option C.\nA handy memory aid: the ports rise in the order Echo (7), Discard (9), Systat (11), Daytime (13). Other common ones are 20/21 FTP, 23 TELNET, 25 SMTP, 53 DNS and 80 HTTP."
+ },
+ {
+  "id": "2023-06-24-s2-q170",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following is an accounting application software?",
+   "options": [
+    "Tally",
+    "MS-Word",
+    "OpenOffice",
+    "MS-Access"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Software types & utilities",
+  "concept": "Tally as accounting software",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Tally** (Tally.ERP 9, now TallyPrime) is a widely used accounting application in India. It records vouchers, maintains ledgers, prepares trial balance, profit & loss account and balance sheet, and handles inventory, payroll and GST.\nWhy not the others:\n- **MS-Word** is a word processor.\n- **OpenOffice** is an office suite (word processor, spreadsheet, presentation and so on), not a dedicated accounting package.\n- **MS-Access** is a database management system; it can store accounting data but is not accounting software in itself.\nSo the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q171",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is/are feature(s) of inheritance in OOPs?\nFeatures:\ni) Sub Class\nii) Super Class\niii) Reusability\niv) Operator Overloading",
+   "options": [
+    "iii only",
+    "i and ii only",
+    "ii and iii only",
+    "i, ii and iii only"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Options: 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "subtopic": "Inheritance & polymorphism",
+  "concept": "Features of inheritance (subclass, superclass, reusability)",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Inheritance** lets one class acquire the properties and methods of another.\n- **Sub class** (derived/child class): the class that inherits. ✔\n- **Super class** (base/parent class): the class whose members are inherited. ✔\n- **Reusability**: the main benefit of inheritance, since existing code in the superclass is reused rather than rewritten. ✔\n- **Operator overloading** is a form of compile-time **polymorphism** (giving operators like + a new meaning for user-defined types). It is not a feature of inheritance.\nSo i, ii and iii are the features: option D."
+ },
+ {
+  "id": "2023-06-24-s2-q172",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following statements is/are true for the Waterfall Model?\nStatements:\ni) This model does not work smoothly if there are some issues left at the previous step.\nii) It projects the process of development in a cyclic manner, repeating every step after every cycle of software development life cycle process.\niii) This model considers risk, which often goes unnoticed by most other models.\niv) This model provides means of testing of software at each stage in a reverse manner.",
+   "options": [
+    "i only",
+    "i and ii only",
+    "ii and iii only",
+    "i, iii and iv only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il) → ii); ii]) → iii); meaus → means; options: 'ionly' → 'i only', 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "subtopic": "SDLC & process models",
+  "concept": "Waterfall model characteristics vs Spiral and V-model",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. Waterfall is linear and sequential: each phase starts only after the previous one is finished, and going back is costly. Issues left unresolved in an earlier phase disrupt everything that follows.\n- ii) **False**. Developing in repeated cycles describes the **Spiral** or **iterative** models, not Waterfall.\n- iii) **False**. Explicit risk analysis in every cycle is the hallmark of the **Spiral** model; Waterfall has no risk-handling phase.\n- iv) **False**. A testing phase for each development stage, drawn in a V shape, describes the **V-model** (verification and validation model).\nSo only statement i is true: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q173",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following projects deals with developing a well understood application program, the size of the development team is reasonably small, and the team members are experienced in developing similar types of projects?",
+   "options": [
+    "Flexible",
+    "Semidetached",
+    "Organic",
+    "Embedded"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "subtopic": "Project management & estimation",
+  "concept": "COCOMO organic project",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Boehm's **COCOMO** model sorts projects into three classes:\n- **Organic**: a well-understood application, a small team and experienced members who have built similar systems. This is exactly the description in the question.\n- **Semidetached**: a mix of experienced and inexperienced staff; the team may have limited experience with related systems.\n- **Embedded**: software strongly coupled to complex hardware or strict regulations and operational constraints (e.g. air-traffic control).\n'Flexible' is not a COCOMO project class. So the answer is option C (Organic)."
+ },
+ {
+  "id": "2023-06-24-s2-q174",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following commands is/are used to create files in Linux?\nCommands:\ni) touch\nii) cat\niii) head\niv) finger",
+   "options": [
+    "i, ii and iii only",
+    "ii, iii and iv only",
+    "i and ii only",
+    "i only"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Options: 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "Linux commands & shell",
+  "concept": "Linux commands to create files (touch, cat)",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- **touch**: `touch file.txt` creates an empty file if it does not exist (otherwise it updates the timestamps). ✔\n- **cat**: `cat > file.txt` creates a file and stores what you type until Ctrl+D. ✔\n- **head**: displays the first lines (10 by default) of a file; it does not create files.\n- **finger**: displays information about system users.\nSo the commands used to create files are touch and cat: option C.\n(Strictly, any command's output can be redirected into a new file, e.g. `head a.txt > b.txt`, but then it is the shell redirection that creates the file, not head itself.)"
+ },
+ {
+  "id": "2023-06-24-s2-q175",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following are managerial functions?\nFunctions:\ni) Planning\nii) Organising\niii) Staffing\niv) Directing\nv) Controlling\nvi) Coding\nvii) Testing",
+   "options": [
+    "i, ii, iii, iv and v only",
+    "ii, iii and iv only",
+    "v and vii only",
+    "i, ii, iii and iv only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il) → ii); V) → v); vil) → vii); options: 'ili' → 'iii', 'il' → 'ii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business communication & organisation",
+  "concept": "Functions of management (POSDC)",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The classical **functions of management** (Koontz and O'Donnell) are often remembered as **POSDC**:\n- **P**lanning: deciding objectives and how to achieve them.\n- **O**rganising: arranging tasks, resources and authority.\n- **S**taffing: recruiting, training and placing people.\n- **D**irecting: guiding, motivating, leading and communicating.\n- **C**ontrolling: comparing performance with plans and correcting deviations.\n**Coding** and **testing** are technical activities in software development, not managerial functions.\nSo i, ii, iii, iv and v are managerial functions: option A. Option D wrongly leaves out controlling, and B and C are incomplete or include testing."
+ },
+ {
+  "id": "2023-06-24-s2-q176",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following are limitations of mobile computing?\nLimitations:\ni) Device mobility\nii) Power consumption\niii) Human interface with device\niv) Range and Bandwidth\nv) Transmission interferences\nvi) Wireless connectivity",
+   "options": [
+    "ii, iii, iv and v only",
+    "i, ii and v only",
+    "i, ii and iv only",
+    "i, iii and vi only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Mobile Computing & Emerging Tech",
+  "subtopic": "Mobile & wireless computing",
+  "concept": "Limitations of mobile computing",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Standard lists of the **limitations of mobile computing** include:\n- **Power consumption**: devices depend on batteries with limited life.\n- **Human interface with device**: small screens and keyboards are hard to use.\n- **Range and bandwidth**: wireless links are slower and have limited coverage compared with wired ones.\n- **Transmission interferences**: weather, terrain and buildings degrade the signal.\n(Lists also include security standards and potential health hazards.)\n**Device mobility** and **wireless connectivity** are the *features* and advantages that define mobile computing, not its limitations.\nSo the limitations here are ii, iii, iv and v: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q177",
+  "transcription": {
+   "verdict": "match",
+   "text": "What is/are the purpose(s) of JavaScript events?\ni) Provide a dynamic interface to a webpage.\nii) Provide a static interface to a webpage.",
+   "options": [
+    "Only (i)",
+    "Only (ii)",
+    "Both (i) and (ii)",
+    "Neither (i) nor (ii)"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "JavaScript & event model",
+  "concept": "Purpose of JavaScript events",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**JavaScript events** are actions or occurrences in the browser, such as `click`, `mouseover`, `keydown`, `load`, `submit` and `change`. Event handlers attached to them (e.g. `onclick`, or `addEventListener`) run code in response, so the page can react to the user: show or hide content, validate forms, update text, play animations and so on. Their purpose is to give a webpage a **dynamic, interactive interface**.\nA static interface is what plain HTML and CSS already provide without any event handling; events exist precisely to go beyond that.\nSo only statement (i) is correct: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q178",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "The term ______ in ASP.NET means that data that is collected from a source is bound to the controls that provide the read and write connection to the data.",
+   "options": [
+    "data binding",
+    "data controlling",
+    "binding hierarchy",
+    "control variable"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored word order and the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": "ASP.NET data binding",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Data binding** in ASP.NET connects a data source (database, XML, collection and so on) to UI controls, so the controls display the data and, for two-way binding, can write changes back. Examples are binding a `GridView`, `DropDownList` or `Repeater` to a `SqlDataSource` and calling `DataBind()`, or using `<%# Eval(\"Field\") %>` and `<%# Bind(\"Field\") %>` expressions (Bind gives read-write access).\nWhy not the others: 'data controlling', 'binding hierarchy' and 'control variable' are not the ASP.NET term for linking data sources to controls.\nSo the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q179",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following commands is used to comment out multiple lines in an XML file?",
+   "options": [
+    "<!-- This is a\nmulti-line\nXML comment -->",
+    "/*\nThis XML file\ncontains a list\nof custom information\n*/",
+    "//\nThis is a\nmulti-line\nXML comment\n//",
+    "<--\nThis XML file\ncontains a list\nof custom information\n-->"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Options 2-4: restored the comment delimiters '/*', '//', '<--' and '-->' missing from the OCR text"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "XML, DTD & parsers",
+  "concept": "XML comment syntax",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "XML uses the same comment syntax as HTML: a comment starts with `<!--` and ends with `-->`, and it may span several lines:\n`<!-- This is a`\n`multi-line`\n`XML comment -->`\nRules: the string `--` must not appear inside a comment, and comments cannot be nested or placed inside a tag.\nWhy not the others:\n- `/* ... */` is the block comment of C, Java, CSS and JavaScript, not XML.\n- `//` is a single-line comment in C++, Java and JavaScript.\n- `<-- ... -->` lacks the `!`, so an XML parser does not treat it as a comment.\nSo the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q180",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "______ is a method of constructing new data points within a range of discrete set of known data points.",
+   "options": [
+    "Interpolation",
+    "Isolation",
+    "Integration",
+    "Limit"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the leading blank '______'"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Interpolation & numerical methods",
+  "concept": "Definition of interpolation",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Interpolation** estimates new values that lie **within the range** of a discrete set of known data points. For example, if f(1) = 2 and f(3) = 6, linear interpolation gives f(2) ≈ 4. Common methods are linear, Lagrange, Newton's forward/backward difference and spline interpolation.\nEstimating values **outside** the known range is called **extrapolation**.\nWhy not the others:\n- **Integration** finds the area under a curve (accumulation).\n- **Limit** is the value a function approaches as its input approaches some point.\n- **Isolation** is not a method for constructing data points.\nSo the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q181",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following is NOT a system call category?",
+   "options": [
+    "Process Control",
+    "Device Manipulation",
+    "File Manipulation",
+    "Data Compilation"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "OS types & functions",
+  "concept": "Categories of system calls",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "System calls are the interface through which programs request OS services. The standard categories (Silberschatz) are:\n- **Process control**: fork/create, exit, wait, load, execute.\n- **File manipulation (management)**: create, open, read, write, close, delete.\n- **Device manipulation (management)**: request, release, read and write devices.\n- **Information maintenance**: get or set time, date and system data.\n- **Communication**: create connections, send and receive messages, shared memory.\n- **Protection**: get or set permissions.\n**Data compilation** is not a system call category. Compiling is done by a user-level program (the compiler), not by the OS kernel. So the answer is option D."
+ },
+ {
+  "id": "2023-06-24-s2-q182",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) In connectionless services of transport layer protocol, the packets are sent from one party to another with no need for connection establishment or connection release.\nii) In connection-oriented service of transport layer protocol, a connection is first established between the sender and the receiver.\niii) The User Datagram Protocol (UDP) is called a connectionless, unreliable transport protocol.",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-False, iii-True",
+    "i-False, ii-False, iii-False"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "tramsport → transport; pauty → party; 11) → ii); second ii) → iii); option numerals 1/il/ill/ili → i/ii/iii; option 4: 'i-False, i-False' → 'i-False, ii-False'"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transport & application protocols",
+  "concept": "Connectionless vs connection-oriented transport; UDP",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. In a connectionless service (e.g. UDP), each packet is sent independently; there is no connection setup or teardown phase.\n- ii) **True**. In a connection-oriented service (e.g. TCP), a connection is first established (TCP's three-way handshake), then data is transferred, and finally the connection is released.\n- iii) **True**. UDP is described as a **connectionless, unreliable** transport protocol: no handshake, no acknowledgements, no retransmission and no flow control. Its only error check is an optional checksum.\nAll three are true: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q183",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "______ is a study of economics based on facts, is verifiable, and you can prove or disprove it.",
+   "options": [
+    "Positive economics",
+    "Negative economics",
+    "Regular economics",
+    "Basic economics"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the leading blank; added missing final 'it.'; option 2: 'economies' → 'economics'"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business economics",
+  "concept": "Positive vs normative economics",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Positive economics** describes and explains economic phenomena **as they are**. Its statements are factual and can be tested against data, i.e. verified or disproved. Example: 'An increase in the minimum wage reduces employment among teenagers' can be checked with evidence.\nIts counterpart is **normative economics**, which deals with what **ought to be**. It involves value judgements that cannot be proved, e.g. 'The government should raise the minimum wage.'\n'Negative', 'regular' and 'basic' economics are not standard branches here; the usual contrast is positive vs normative. So the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q184",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the column Mobility with the column Descriptions.\nMobility | Descriptions\na) Macro-mobility | i) This is mobility within a MANET, caused by device mobility constantly changing the network topology.\nb) Micro-mobility | ii) This is mobility through a global network.\nc) Ad hoc mobility | iii) This is mobility of a device in one single administrative domain of the global network.",
+   "options": [
+    "a-ii, b-iii, c-i",
+    "a-iii, b-ii, c-i",
+    "a-i, b-ii, c-iii",
+    "a-i, b-iii, c-ii"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "The two columns are printed as a table.",
+   "printedErrors": "",
+   "changes": "Macго (mixed script) → Macro; il) → ii); rebuilt table rows that OCR had split"
+  },
+  "subject": "Computer Science",
+  "topic": "Mobile Computing & Emerging Tech",
+  "subtopic": "Mobile & wireless computing",
+  "concept": "Macro-, micro- and ad hoc mobility",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Mobility in mobile networking is described at three levels:\n- **Macro-mobility**: movement across the **global network**, between different administrative domains or networks (handled by protocols such as Mobile IP) → a-ii.\n- **Micro-mobility**: movement **within one administrative domain**, e.g. between access points or cells of the same provider (handled by schemes such as Cellular IP or HAWAII) → b-iii.\n- **Ad hoc mobility**: movement of nodes **inside a MANET** (mobile ad hoc network), which keeps changing the network topology → c-i.\nSo the matching is a-ii, b-iii, c-i: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q185",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "When a plane is perpendicular to a reference plane, its projection on that plane is a/an ______.",
+   "options": [
+    "point",
+    "straight line",
+    "apparent line",
+    "curve"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the final blank '______.'"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "subtopic": "Transformations",
+  "concept": "Projection of a plane perpendicular to the projection plane",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In orthographic projection, the projectors are perpendicular to the reference (projection) plane. When a flat surface (plane figure) is **perpendicular** to that reference plane, the observer looks at it edge-on, so all its points project onto a single **straight line** (its edge view).\nFor comparison:\n- A plane **parallel** to the reference plane projects in its true shape and size.\n- A plane **inclined** to it projects as a smaller, distorted shape.\n- A **line** perpendicular to a reference plane projects as a **point**, which is the trap in option A.\nSo the answer is option B."
+ },
+ {
+  "id": "2023-06-24-s2-q186",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following does the actual display in a computer?",
+   "options": [
+    "CRT",
+    "VRAM",
+    "DPU",
+    "GPU"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "CRI → CRT"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "subtopic": "Graphics hardware & displays",
+  "concept": "CRT as the display device",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The device that **actually displays** the image is the monitor. Among the options, that is the **CRT** (cathode ray tube): an electron beam strikes the phosphor-coated screen to produce visible pixels.\nWhy not the others:\n- **VRAM** (video RAM) is the memory that holds the frame buffer (the image to be shown), but it does not display anything itself.\n- **GPU** computes and renders the image into the frame buffer.\n- **DPU** (display processing unit) prepares or processes the display data.\nEach of these produces or stores the picture; the CRT is what shows it. So the answer is option A."
+ },
+ {
+  "id": "2023-06-24-s2-q187",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the column Types of knowledge with the column Descriptions.\nTypes of knowledge | Descriptions\na) Tacit knowledge | i) This type of knowledge is captured within various document types such as manuals, reports, and guides, allowing organisations to easily share knowledge across teams.\nb) Implicit knowledge | ii) This type of knowledge is typically acquired through experience, and it is intuitively understood.\nc) Explicit knowledge | iii) This type is also referred to as ‘know-how’ knowledge.",
+   "options": [
+    "a-ii, b-iii, c-i",
+    "a-iii, b-ii, c-i",
+    "a-i, b-ii, c-iii",
+    "a-i, b-iii, c-ii"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "The two columns are printed as a table.",
+   "printedErrors": "",
+   "changes": "Rebuilt table rows that OCR had split; removed stray '['; il) → ii); 'know-how°' → ‘know-how’; option 1: 'ili' → 'iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "Knowledge management",
+  "concept": "Tacit vs implicit vs explicit knowledge",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Knowledge-management literature commonly separates three types:\n- **Explicit knowledge**: codified and documented in manuals, reports, guides and databases, so it is easy to share → c-i.\n- **Tacit knowledge**: personal knowledge gained through experience and understood intuitively; it is hard to put into words → a-ii.\n- **Implicit knowledge**: the practical application of knowledge, i.e. skills and **know-how** that can be transferred between tasks → b-iii.\nThis gives a-ii, b-iii, c-i: option A.\nNote: 'tacit' and 'implicit' overlap, and some authors also call tacit knowledge 'know-how'. That would give option B. The key follows the common three-way KM classification in which 'know-how' is attached to implicit knowledge. C and D are clearly wrong because they do not match explicit knowledge with documents."
+ },
+ {
+  "id": "2023-06-24-s2-q188",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) A tuple is a sequence of immutable Python objects, in the given tuple course = \"l\", \"m\", \"n\", \"o\", has four elements.\nii) To explicitly remove an entire tuple, use the drop statement.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, ii-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "truthfulmess → truthfulness; \"I\" → \"l\"; Io → To; option 2: 'il-True' → 'ii-True'"
+  },
+  "subject": "Computer Science",
+  "topic": "Python Programming",
+  "subtopic": "Strings, lists, tuples & dictionaries",
+  "concept": "Python tuples: packing and deletion with del",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. A tuple is an ordered, **immutable** sequence. Writing `course = \"l\", \"m\", \"n\", \"o\"` (without brackets) still creates a tuple by **tuple packing**: `('l', 'm', 'n', 'o')`, and `len(course)` is 4.\n- ii) **False**. Python has no `drop` statement. Since a tuple is immutable you cannot delete individual elements, but you can remove the whole tuple with the **`del`** statement: `del course`. Using `course` afterwards raises a `NameError`. (`DROP` is an SQL command for removing tables.)\nSo i-True, ii-False: option C."
+ },
+ {
+  "id": "2023-06-24-s2-q189",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Interpolation is a statistical method by which related known values are used to estimate an unknown value or set of values.\nii) In the Inverse Distance Weighted (IDW) interpolation method, estimation of cell values is done by averaging values of sample data points in the neighbourhood of each processing cell.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, ii-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "valles → values; il) → ii); option 2: 'il-True' → 'ii-True'"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Interpolation & numerical methods",
+  "concept": "Interpolation and IDW method",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. Interpolation uses related known values (sample points) to estimate unknown values. In spatial analysis, it estimates values at unsampled locations from measured points.\n- ii) **True**. **Inverse Distance Weighted (IDW)** interpolation estimates each cell's value as a **weighted average** of the sample points in its neighbourhood. Each weight is proportional to 1/dᵖ (d = distance, p = power, usually 2), so nearer points have more influence. This matches the standard description, e.g. in ArcGIS documentation: cell values are found by averaging the values of sample points near each processing cell.\nBoth are true: option A."
+ },
+ {
+  "id": "2023-06-24-s2-q190",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is/are Interpolation Methods in Computer Graphics?\ni) Inverse Distance Weighted\nii) Kriging\niii) Natural Neighbor\niv) Spline\nv) Topo to raster\nvi) Compiler",
+   "options": [
+    "i, ii, iii, iv and v only",
+    "i, ii, iii, iv, v and vi",
+    "i, ii, and iv only",
+    "i only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option 3: 'i, in, and iv only' → 'i, ii, and iv only'; option 4: 'ionly' → 'i only'"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Interpolation & numerical methods",
+  "concept": "Spatial interpolation methods (IDW, Kriging, Spline)",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "These are the surface interpolation methods used to build raster surfaces from sample points (they come from GIS tools such as ArcGIS Spatial Analyst, although the question calls them computer graphics):\n- **Inverse Distance Weighted (IDW)**: weighted average with weights that fall off with distance.\n- **Kriging**: geostatistical method based on spatial autocorrelation (semivariogram).\n- **Natural Neighbor**: uses Voronoi (Thiessen) polygon areas as weights.\n- **Spline**: fits a smooth, minimum-curvature surface through the points.\n- **Topo to Raster**: builds hydrologically correct elevation models from contours and points.\nA **compiler** translates source code into machine code and has nothing to do with interpolation.\nSo i to v are interpolation methods: option A."
+ }
+]

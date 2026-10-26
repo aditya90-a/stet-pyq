@@ -1,0 +1,307 @@
+{
+ "slug": "geography",
+ "subject": "General Awareness",
+ "topic": "Geography",
+ "titleHi": "भूगोल",
+ "summary": "India's location, physiographic divisions, mountain ranges, rivers and lakes, monsoon climate and natural phenomena (earthquake waves, winds, atmosphere, rocks), key world geography facts, and soils, forests, crops and minerals. DSSSB asks direct facts (origin of a river, tributary pairs, hill ranges) and 'which statement is correct' items, plus small calculations such as time difference from longitude.",
+ "sections": [
+  {
+   "heading": "India: location and physiographic divisions",
+   "level": "basic",
+   "subtopic": "Physical geography of India",
+   "body": "India lies entirely in the Northern and Eastern Hemispheres, roughly between **8°4'N and 37°6'N** latitude and **68°7'E and 97°25'E** longitude. Its area is about **3.28 million km²**, making it the **7th largest** country. The **Tropic of Cancer (23°30'N)** passes through **8 states**: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. The **Standard Meridian 82°30'E** passes near Mirzapur (Uttar Pradesh); **IST = GMT + 5 h 30 min**.\n\nBy the 2011 Census, **Uttar Pradesh** was the most populous state; **Rajasthan** is the largest state by area and **Goa** the smallest. India shares its longest land border with **Bangladesh**.\n\nThe six physiographic divisions are: the **Himalayas**, the **Northern Plains**, the **Peninsular Plateau**, the **Indian (Thar) Desert**, the **Coastal Plains** and the **Islands**.\n- **Western coastal plain**: narrow; Konkan (Maharashtra-Goa), Kannad, Malabar (Kerala, with backwaters/kayals). Rivers form estuaries, not deltas.\n- **Eastern coastal plain**: wide; Northern Circars and Coromandel; large deltas of the Mahanadi, Godavari, Krishna and Kaveri.\n- **Islands**: Andaman and Nicobar (Bay of Bengal), separated by the **Ten Degree Channel**; **Barren Island** has India's only active volcano; **Indira Point** (Great Nicobar) is India's southernmost point. **Lakshadweep** (Arabian Sea) is made of coral; capital Kavaratti."
+  },
+  {
+   "heading": "Mountains, hills and passes",
+   "level": "intermediate",
+   "subtopic": "Rivers, lakes & mountains",
+   "body": "**Himalayas** (young fold mountains) have three parallel ranges: **Himadri** (Greater, highest peaks), **Himachal** (Lesser; hill stations like Shimla, Mussoorie) and **Shiwaliks** (Outer). Longitudinal valleys between the Lesser Himalaya and Shiwaliks are called **duns** (Dehradun).\n- **K2 (Godwin-Austen, 8,611 m)** is the highest peak in territory claimed by India (under Pakistan's occupation); **Kangchenjunga (8,586 m, Sikkim)** is the highest under Indian administration.\n- **Purvanchal** (eastern hills): Patkai Bum, Naga hills, Manipur hills, Mizo (Lushai) hills. The **Shevaroy hills** are in Tamil Nadu (Eastern Ghats), not Purvanchal.\n- **Aravalli**: among the oldest fold mountains in the world; highest point **Guru Shikhar** (Mount Abu).\n- **Western Ghats (Sahyadri)**: continuous; highest peak **Anamudi** (Kerala). **Eastern Ghats**: discontinuous, cut by east-flowing rivers. Both meet in the **Nilgiris** (Doddabetta peak).\n- **Vindhya and Satpura**: the Narmada flows west through a rift valley between them.\n\nPasses: **Zoji La** (Srinagar-Leh), **Shipki La** (Himachal, Sutlej enters India), **Nathu La** (Sikkim), **Bomdi La** (Arunachal), **Palakkad gap** (Kerala-Tamil Nadu)."
+  },
+  {
+   "heading": "Rivers and lakes",
+   "level": "intermediate",
+   "subtopic": "Rivers, lakes & mountains",
+   "body": "**Himalayan rivers** are perennial (snow-fed). The **Indus** rises in Tibet near Lake Mansarovar; its Punjab tributaries are Jhelum, Chenab, Ravi, Beas and Sutlej (Indus Waters Treaty, 1960). The **Ganga** forms at **Devprayag** where the **Bhagirathi** (from Gangotri glacier) meets the **Alaknanda**; it is joined by the **Yamuna** at Prayagraj. Left-bank tributaries include Ramganga, Gomti, Ghaghara, Gandak and **Kosi ('sorrow of Bihar')**; the Son is a major right-bank tributary. The **Brahmaputra** is the Tsangpo in Tibet and the Siang/Dihang in Arunachal; **Majuli** in Assam is a large river island. The Ganga-Brahmaputra delta (Sundarbans) is the world's largest delta.\n\n**Peninsular rivers** are mostly rain-fed. East-flowing rivers form deltas; west-flowing ones (Narmada, Tapi) form estuaries because they flow through rift valleys and hard rock.",
+   "table": {
+    "columns": [
+     "River",
+     "Origin",
+     "Direction / notes"
+    ],
+    "rows": [
+     [
+      "Narmada",
+      "Amarkantak plateau (MP)",
+      "West, rift valley; Dhuandhar falls"
+     ],
+     [
+      "Tapi",
+      "Multai, Betul (MP)",
+      "West, rift valley"
+     ],
+     [
+      "Mahanadi",
+      "Highlands of Chhattisgarh (near Sihawa)",
+      "East; Hirakud dam"
+     ],
+     [
+      "Godavari",
+      "Trimbakeshwar, Nashik",
+      "East; longest peninsular river"
+     ],
+     [
+      "Krishna",
+      "Near Mahabaleshwar",
+      "East; tributaries Bhima, Tungabhadra, Koyna"
+     ],
+     [
+      "Kaveri",
+      "Brahmagiri hills (Kodagu)",
+      "East; tributaries Kabini, Bhavani, Amaravati"
+     ],
+     [
+      "Sabarmati / Mahi",
+      "Aravalli / Vindhya region",
+      "West into the Gulf of Khambhat"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Lakes of India",
+   "level": "basic",
+   "subtopic": "Rivers, lakes & mountains",
+   "body": "Lake facts appear as one-liners or 'located in which state/UT'.\n- **Wular** (J&K, on the Jhelum): largest freshwater lake.\n- **Chilika** (Odisha): largest brackish-water lagoon.\n- **Sambhar** (Rajasthan): largest inland salt lake.\n- **Loktak** (Manipur): floating vegetation called phumdis; **Keibul Lamjao**, the floating national park, is on it.\n- **Vembanad** (Kerala): longest lake in India.\n- **Pulicat** (Andhra Pradesh-Tamil Nadu): lagoon.\n- **Lonar** (Maharashtra): crater lake formed by a meteorite impact.\n- **Kolleru** (Andhra Pradesh): freshwater lake between the Godavari and Krishna deltas.\n- **Sukhna** (Chandigarh): artificial lake at the foot of the Shiwaliks.\n- **Dal** (Srinagar)."
+  },
+  {
+   "heading": "Climate, winds and natural phenomena",
+   "level": "intermediate",
+   "subtopic": "Climate & natural phenomena",
+   "body": "India has a **monsoon** climate with four seasons: cold weather (Dec-Feb), hot weather (Mar-May), south-west monsoon (Jun-Sep) and retreating monsoon (Oct-Nov). The monsoon normally reaches Kerala around the start of June. **Western disturbances** bring winter rain to north-west India; the **retreating (north-east) monsoon** brings most of Tamil Nadu's rain. Local storms: **loo** (hot dry wind of the northern plains), **mango showers** (Kerala, Karnataka), **Kal Baisakhi** (Nor'westers of West Bengal and Assam). **Mawsynram** (Meghalaya) receives very high rainfall.\n\n**Winds**: permanent (planetary) winds are the trade winds, **westerlies** and polar easterlies. Local winds: chinook (Rockies), foehn (Alps), sirocco (Sahara to southern Europe), harmattan (West Africa), mistral (France). Cyclones rotate **anticlockwise in the Northern Hemisphere**; they are called hurricanes in the Atlantic and typhoons in the western Pacific.\n\n**Insolation** controls the distribution of temperature; it is highest near the tropics and **decreases from the equator towards the poles**.\n\n**Earthquake waves**: **P (primary) waves** are longitudinal and fastest, travelling through solids, liquids and gases; **S (secondary) waves** are transverse and travel only through solids; surface waves cause most damage. Magnitude is measured on the Richter scale, intensity on the Mercalli scale.\n\n**Atmosphere**: troposphere (weather), stratosphere (ozone layer), mesosphere (meteors burn up), thermosphere/ionosphere (reflects radio waves), exosphere. Temperature falls by about **6.5°C per km** in the troposphere.\n\n**Rocks**: igneous (granite, basalt), sedimentary (may contain **fossils**; limestone, sandstone) and metamorphic (limestone to marble, shale to slate, sandstone to quartzite, granite to gneiss). Any rock, including igneous rock, can turn metamorphic under heat and pressure."
+  },
+  {
+   "heading": "World geography essentials",
+   "level": "basic",
+   "subtopic": "World geography",
+   "body": "- Continents by area: **Asia > Africa > North America > South America > Antarctica > Europe > Australia**.\n- Oceans by area: **Pacific > Atlantic > Indian > Southern > Arctic**.\n- Highest peak **Mount Everest** (Nepal-China border); deepest point **Challenger Deep** in the Mariana Trench (Pacific).\n- Longest river **Nile**; the **Amazon** carries the most water.\n- Largest hot desert **Sahara**; largest island **Greenland**; largest lake **Caspian Sea**; deepest lake **Baikal**; highest waterfall **Angel Falls** (Venezuela).\n- **Africa** is the leading diamond-producing continent (Botswana, DR Congo, South Africa and others).\n- **Prime Meridian** (0°) passes through Greenwich; the **International Date Line** roughly follows 180°.\n- Straits: **Palk** (India-Sri Lanka), **Gibraltar** (Atlantic-Mediterranean), **Malacca** (Malaysia-Sumatra), **Hormuz** (Persian Gulf), **Bering** (Asia-North America).\n- Canals: **Suez** (Mediterranean-Red Sea, Egypt), **Panama** (Atlantic-Pacific).\n- Asia has major deposits of manganese, bauxite and nickel."
+  },
+  {
+   "heading": "Soils, forests, crops and minerals",
+   "level": "advanced",
+   "subtopic": "Resources & agriculture",
+   "body": "**Soils**: **alluvial** is the most widespread; in the plains, **Bhangar** is the older alluvium and **Khadar** the newer, more fertile alluvium. **Black (regur)** soil, formed from Deccan basalt, holds moisture and suits cotton. **Red** soil gets its colour from iron oxide. **Laterite** forms under heavy rain and leaching. Arid soils are found in Rajasthan.\n\n**Forests**: tropical evergreen (Western Ghats, North-East; ebony, mahogany, rosewood); tropical deciduous or monsoon forests, the most widespread (teak, sal, sandalwood); thorn forests (acacia, khejri); **montane** forests (oak, deodar, **chir pine**, fir, spruce; silver fir, birch near the tree line); **mangrove** forests (Sundarbans; **sundari** tree). Coniferous trees include pine, chir, deodar, fir and spruce.\n\n**Crop seasons**: **Kharif** (sown with the monsoon: rice, maize, jowar, bajra, cotton, groundnut, jute), **Rabi** (sown in winter: wheat, barley, gram, mustard), **Zaid** (short summer season: watermelon, cucumber, fodder). **Rice** needs **high temperature and high humidity** with heavy rainfall; **wheat** needs a cool growing season and bright sunshine at ripening.\n\n**Revolutions**: Green (foodgrains; M.S. Swaminathan in India), White (milk; Verghese Kurien, Operation Flood), Blue (fisheries), Yellow (oilseeds).\n\n**Minerals**: coal - Jharkhand (Jharia), Odisha, Chhattisgarh; iron ore - Odisha, Chhattisgarh (Bailadila), Karnataka; **mica** - the Koderma-Gaya-Hazaribagh belt (Jharkhand-Bihar), Ajmer (Rajasthan) and Nellore (Andhra Pradesh); bauxite - Odisha; copper - Khetri (Rajasthan), Malanjkhand (MP); gold - Kolar and Hutti (Karnataka); petroleum - Mumbai High, Assam (Digboi), Gujarat (Ankleshwar); uranium - Jaduguda (Jharkhand).",
+   "table": {
+    "columns": [
+     "National park",
+     "State / UT",
+     "Known for"
+    ],
+    "rows": [
+     [
+      "Jim Corbett",
+      "Uttarakhand",
+      "India's first national park; tigers"
+     ],
+     [
+      "Kaziranga",
+      "Assam",
+      "One-horned rhinoceros"
+     ],
+     [
+      "Gir",
+      "Gujarat",
+      "Asiatic lion"
+     ],
+     [
+      "Singalila",
+      "West Bengal (Darjeeling)",
+      "Red panda"
+     ],
+     [
+      "Keibul Lamjao",
+      "Manipur",
+      "Sangai deer; floats on Loktak"
+     ],
+     [
+      "Sundarbans",
+      "West Bengal",
+      "Royal Bengal tiger, mangroves"
+     ],
+     [
+      "Hemis",
+      "Ladakh",
+      "Snow leopard"
+     ]
+    ]
+   }
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Local time from longitude",
+   "formula": "Time difference = (difference in longitude in degrees) × 4 minutes",
+   "note": "Earth turns 360° in 24 h, so 1° = 4 min and 15° = 1 hour. East is ahead."
+  },
+  {
+   "name": "IST offset",
+   "formula": "82.5° × 4 min = 330 min = 5 h 30 min",
+   "note": "IST = GMT + 5:30."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Practice: India stretches from about 68°7'E to 97°25'E. Roughly what is the difference in local time between western Gujarat and eastern Arunachal Pradesh?",
+   "solution": "Step 1: Longitude difference = 97°25' − 68°7' = 29°18', i.e. about 30°.\nStep 2: Each degree = 4 minutes of time.\nStep 3: 30 × 4 = 120 minutes = **about 2 hours**.\nThis is why the sun rises about two hours earlier in Arunachal Pradesh than in Gujarat, though both use IST."
+  },
+  {
+   "problem": "Practice: When it is 12:00 noon at Greenwich (0°), what is the time at the Indian Standard Meridian (82°30'E)?",
+   "solution": "Step 1: Longitude difference = 82.5°.\nStep 2: 82.5 × 4 = 330 minutes = 5 h 30 min.\nStep 3: Places to the east are ahead, so add: 12:00 + 5:30 = **5:30 p.m.**"
+  },
+  {
+   "problem": "Practice: Which pair of river and tributary is correct? I. Krishna - Bhima II. Kaveri - Bhavani III. Godavari - Tungabhadra",
+   "solution": "Step 1: Bhima and Tungabhadra are both Krishna tributaries. So I is correct and III is wrong.\nStep 2: Bhavani joins the Kaveri in Tamil Nadu. II is correct.\nAnswer: **I and II only**."
+  },
+  {
+   "problem": "Practice: Which statement is correct? I. Bhangar is newer alluvium. II. Rice needs high temperature and high humidity.",
+   "solution": "Step 1: Bhangar is the older alluvium on higher ground (contains kankar nodules); Khadar is the newer, flood-renewed alluvium. I is wrong.\nStep 2: Rice is a kharif crop needing temperature above about 25°C, high humidity and heavy rain (or irrigation). II is correct.\nAnswer: **Only II**."
+  }
+ ],
+ "pitfalls": [
+  "Saying the Narmada and Tapi flow east; both flow west into the Arabian Sea through rift valleys.",
+  "Swapping Bhangar (old alluvium) and Khadar (new alluvium).",
+  "Listing the Shevaroy hills under Purvanchal; they are in Tamil Nadu.",
+  "Thinking insolation increases towards the poles; it decreases from the equator to the poles.",
+  "Calling S waves longitudinal; P waves are longitudinal, S waves transverse.",
+  "Forgetting that East is ahead in time: add when moving east, subtract when moving west.",
+  "Placing palms in montane forests or birch in mangroves; birch grows near the Himalayan tree line.",
+  "Calling the Kosi 'the sorrow of Bengal'; it is the sorrow of Bihar (the Damodar was called the sorrow of Bengal)."
+ ],
+ "quickRevision": [
+  "Tropic of Cancer crosses 8 Indian states; Standard Meridian 82°30'E.",
+  "Uttar Pradesh most populous (Census 2011); Rajasthan largest by area.",
+  "Himalayan ranges: Himadri, Himachal, Shiwaliks; duns lie between Himachal and Shiwaliks.",
+  "Purvanchal: Patkai, Naga, Manipur and Mizo hills.",
+  "Narmada rises at Amarkantak; Godavari at Trimbakeshwar; Kaveri at Brahmagiri; Krishna near Mahabaleshwar.",
+  "Ganga forms at Devprayag (Bhagirathi + Alaknanda).",
+  "Wular largest freshwater lake; Chilika largest lagoon; Sambhar largest inland salt lake.",
+  "Sukhna Lake is in Chandigarh; Loktak in Manipur.",
+  "P waves longitudinal, S waves transverse (only through solids).",
+  "Loo is a local wind; westerlies are permanent winds.",
+  "Sedimentary rocks may contain fossils; igneous rocks can be metamorphosed.",
+  "Rice: high temperature, high humidity; black soil: cotton.",
+  "Singalila National Park is known for the red panda.",
+  "1° longitude = 4 minutes of time."
+ ],
+ "flashcards": [
+  {
+   "front": "Where does the Narmada originate?",
+   "back": "Amarkantak plateau (Madhya Pradesh)"
+  },
+  {
+   "front": "Where does the Kaveri originate?",
+   "back": "Brahmagiri hills, Kodagu (Karnataka)"
+  },
+  {
+   "front": "Longest peninsular river?",
+   "back": "Godavari"
+  },
+  {
+   "front": "Largest freshwater lake in India?",
+   "back": "Wular (Jammu and Kashmir)"
+  },
+  {
+   "front": "Largest brackish-water lagoon in India?",
+   "back": "Chilika (Odisha)"
+  },
+  {
+   "front": "Highest peak of the Western Ghats?",
+   "back": "Anamudi (Kerala)"
+  },
+  {
+   "front": "Highest point of the Aravallis?",
+   "back": "Guru Shikhar (Mount Abu)"
+  },
+  {
+   "front": "India's only active volcano?",
+   "back": "Barren Island (Andaman Sea)"
+  },
+  {
+   "front": "Which earthquake waves cannot pass through liquids?",
+   "back": "S (secondary) waves"
+  },
+  {
+   "front": "In which layer is the ozone layer?",
+   "back": "Stratosphere"
+  },
+  {
+   "front": "Black soil is best suited to which crop?",
+   "back": "Cotton"
+  },
+  {
+   "front": "Two kharif crops?",
+   "back": "Rice and cotton (also maize, jowar, bajra, groundnut, jute)"
+  },
+  {
+   "front": "Largest continent? Largest ocean?",
+   "back": "Asia; Pacific"
+  },
+  {
+   "front": "Strait between India and Sri Lanka?",
+   "back": "Palk Strait"
+  },
+  {
+   "front": "Kaziranga is famous for?",
+   "back": "One-horned rhinoceros (Assam)"
+  },
+  {
+   "front": "Time difference for 15° of longitude?",
+   "back": "1 hour"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Latitude / Longitude",
+   "hi": "अक्षांश / देशांतर"
+  },
+  {
+   "en": "Tributary",
+   "hi": "सहायक नदी"
+  },
+  {
+   "en": "Delta / Estuary",
+   "hi": "डेल्टा / ज्वारनदमुख"
+  },
+  {
+   "en": "Plateau",
+   "hi": "पठार"
+  },
+  {
+   "en": "Lagoon",
+   "hi": "लैगून / अनूप"
+  },
+  {
+   "en": "Monsoon",
+   "hi": "मानसून"
+  },
+  {
+   "en": "Insolation",
+   "hi": "सूर्यातप"
+  },
+  {
+   "en": "Earthquake",
+   "hi": "भूकंप"
+  },
+  {
+   "en": "Alluvial soil",
+   "hi": "जलोढ़ मृदा"
+  },
+  {
+   "en": "Mineral",
+   "hi": "खनिज"
+  },
+  {
+   "en": "Mangrove forest",
+   "hi": "मैंग्रोव वन"
+  }
+ ]
+}

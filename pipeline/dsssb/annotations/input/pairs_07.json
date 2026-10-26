@@ -1,0 +1,3842 @@
+[
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set4-q074",
+  "scores": {
+   "stem": 93.0,
+   "stemTokenSet": 94.3,
+   "cosine": 0.532,
+   "options": 49.5,
+   "answer": 46.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nअधर में लटकना",
+   "options": [
+    "दुःख होना",
+    "घबराना",
+    "दुविधा में पड़ा रह जाना",
+    "बाधक होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्चकरना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set4-q075",
+  "scores": {
+   "stem": 92.0,
+   "stemTokenSet": 94.3,
+   "cosine": 0.512,
+   "options": 46.1,
+   "answer": 45.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nअधर में लटकना",
+   "options": [
+    "दुःख होना",
+    "घबराना",
+    "दुविधा में पड़ा रह जाना",
+    "बाधक होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set5-q074",
+  "scores": {
+   "stem": 91.6,
+   "stemTokenSet": 94.3,
+   "cosine": 0.519,
+   "options": 51.8,
+   "answer": 46.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nअधर में लटकना",
+   "options": [
+    "दुःख होना",
+    "घबराना",
+    "दुविधा में पड़ा रह जाना",
+    "बाधक होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया के पंख गिनना",
+   "options": [
+    "अज्ञान का पर्दादूर करना",
+    "अनुभवी होना",
+    "व्यर्थसमय गंवाना",
+    "छुपी हुई प्रतिभा"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set5-q075",
+  "scores": {
+   "stem": 94.2,
+   "stemTokenSet": 94.9,
+   "cosine": 0.508,
+   "options": 57.7,
+   "answer": 37.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nअधर में लटकना",
+   "options": [
+    "दुःख होना",
+    "घबराना",
+    "दुविधा में पड़ा रह जाना",
+    "बाधक होना"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइधर का न उधर का होना",
+   "options": [
+    "बे-आबरू होना",
+    "खुद पर थोड़ा खर्चकरना",
+    "जीवन की परवाह न करना",
+    "कलंक लगना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set4-q074",
+  "scores": {
+   "stem": 94.6,
+   "stemTokenSet": 95.5,
+   "cosine": 0.495,
+   "options": 52.9,
+   "answer": 45.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nघड़ों पानी पड़ना",
+   "options": [
+    "ईर्ष्यासे जलना",
+    "बात को और बढ़ाना",
+    "संकट में पड़ना",
+    "अत्यन्त लज्जित होना"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्चकरना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set4-q075",
+  "scores": {
+   "stem": 92.0,
+   "stemTokenSet": 95.5,
+   "cosine": 0.425,
+   "options": 47.6,
+   "answer": 55.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nघड़ों पानी पड़ना",
+   "options": [
+    "ईर्ष्यासे जलना",
+    "बात को और बढ़ाना",
+    "संकट में पड़ना",
+    "अत्यन्त लज्जित होना"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set5-q074",
+  "scores": {
+   "stem": 93.1,
+   "stemTokenSet": 95.5,
+   "cosine": 0.436,
+   "options": 47.1,
+   "answer": 51.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nघड़ों पानी पड़ना",
+   "options": [
+    "ईर्ष्यासे जलना",
+    "बात को और बढ़ाना",
+    "संकट में पड़ना",
+    "अत्यन्त लज्जित होना"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया के पंख गिनना",
+   "options": [
+    "अज्ञान का पर्दादूर करना",
+    "अनुभवी होना",
+    "व्यर्थसमय गंवाना",
+    "छुपी हुई प्रतिभा"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set5-q075",
+  "scores": {
+   "stem": 93.4,
+   "stemTokenSet": 95.5,
+   "cosine": 0.426,
+   "options": 46.2,
+   "answer": 35.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nघड़ों पानी पड़ना",
+   "options": [
+    "ईर्ष्यासे जलना",
+    "बात को और बढ़ाना",
+    "संकट में पड़ना",
+    "अत्यन्त लज्जित होना"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइधर का न उधर का होना",
+   "options": [
+    "बे-आबरू होना",
+    "खुद पर थोड़ा खर्चकरना",
+    "जीवन की परवाह न करना",
+    "कलंक लगना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q080",
+  "b": "2021-set4-q080",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.371,
+   "options": 52.6,
+   "answer": 2.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "स्वतंत्रता दिवस",
+    "भारत का नागरिक",
+    "जोड़ने का काय",
+    "गणतंत्र दिवस\nQuestion Id : 54062617591 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension\nQuestions : No\nQuestion Numbers : (76 to 80)\nदिए गए गद्यांश को ध्यानपूर्वक पढ़ें और दिए गए प्रश्न के उत्तर दें।\nहर वर्ष 26 जनवरी को हमारे देश में गणतंत्र दिवस के रूप में मनाया जाता है। हम सभी देशवासियों को भारत का नागरिक होने का गर्वहै। 26 जनवरी 1950 को\nहमारा देश एक प्रजातान्त्रिक गणतंत्र देश बना था। इस दिन हमारे देश में संविधान लागू हुआ था। हमारी मातृभूमि भारत लंबे समय तक ब्रिटिश शासन की गुलाम\nरही तथा ब्रिटिश शासन द्वारा बनाये गये कानूनों का भारतीय लोगों को पालन करना पड़ता था व कानूनों को मानने के लिये मजबूर थे, भारतीय स्वतंत्रता सेनानियों\nद्वारा लंबे संघर्षके बाद भारतीय स्वतंत्रता सेनानियों ने अंतत: 15 अगस्त, 1947 को भारत को आजादी दिलाई। लगभग 2 साल 11 महीने 18 दिन बाद 26 जनवरी\n1950 को हमारी संसद द्वारा भारतीय संविधान पारित किया गया। भारत ने अपना संविधान लागू किया और खुद को संप्रभु, लोकतांत्रिक, गणराज्य के रूप म\nघोषित किया। भारत में आज़ादी के बाद 'विविधता में एकता' के अस्तित्व को दिखाने के लिए देश के अलग-अलग राज्य खूबसूरत झांकियों के ज़रिए अपनी\nसंस्कृति, परंपरा और प्रगति को दिखाते हैं। अतः यह और भी आवश्यक हो जाता है कि इस विशेष दिन को हम उचित सम्मान दें और इसे साथ मिलकर मनाये,\nजिससे हमारे देश की एकता और अखंडता जिसके लिए कई वीरों ने अपने प्राणों की आहुति दी है, इसी प्रकार से बनी रहे। गणतंत्र दिवस का यह राष्ट्रीय पव\nहमारे लिए बहुत ही महत्वपूर्णहै क्योंकि हमारे देश का संविधान तथा इसका गणतांत्रिक स्वरुप ही हमारे देश को कश्मीर से कन्याकुमारी तक जोड़ने का काय\nकरता है।\nSub questions"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "आधुनिक संचार क्रांति",
+    "कनेक्शनों और प्रयोगकर्ता",
+    "कम्प्यूटरों की नेटवर्किंग",
+    "वायरस समस्या\nQuestion Id : 2752284597 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension Questions\n: No\nQuestion Numbers : (76 to 80)\nएक गद्यांश दिया गया है। गद्यांश को ध्यानपूर्वक पढ़ें तथा प्रश्नों के सही विकल्प चुने।\nप्रगति के पथ पर मानव बहुत दूर चला आया है। जीवन के हर क्षेत्र में कई ऐसे मुकाम प्राप्त हो गये हैं जो हमें जीवन की सभी सुविधाएँ, सभी आराम प्रदान करते\nहैं। आज संसार मानव की मुट्ठी में समाया हुआ है। जीवन के क्षेत्रों में सबसे अधिक क्रांतिकारी कदम संचार क्षेत्र में उठाए गए हैं। अनेक नए स्रोत, नए साधन और\nनई सुविधाएँ प्राप्त कर ली गई हैं जो हमें आधुनिकता के दौर में काफी ऊपर ले जाकर खड़ा करता है। इसकी शुरूआत 1969 में एडवान्स्ड रिसर्चप्रोजेक्टस\nएजेंसिज द्वारा संयुक्त राज्य अमेरिका के चार विश्वविद्यालयों के कम्प्यूटरों की नेटवर्किंग करके की गई थी। इसका विकास मुख्य रूप से शिक्षा, शोध एवं सरकारी\nसंस्थाओं के लिए किया गया था। इसके पीछे मुख्य उदेश्य था संचार माध्यमों को वैसी आपात स्थिति में भी बनाए रखना जब सारे माध्यम निष्फल हो जाएँ। 1971\nतक इस कम्पनी ने लगभग दो दर्जन कम्प्यूटरों को इस नेट से जोड़ दिया था। 1972 में शुरूआत हुई ई-मेल की जिसने संचार जगत में क्रांति ला दी। 1996 तक\nइंटरनेट की लोकप्रियता काफी बढ़ गयी थीI मोन्ट्रीयल के पीटर ड्यूस ने पहली बार 1989 में मैक्-गिल यूनिवर्सिटी में इंटरनेट इंडेक्स बनाने का प्रयोग किया। वष\n2000 में इंटरनेट इतनी बढ़ गई कि इसमें वायरस जैसी कई तरह की समस्याएँ भी आने लगीं। भारत भी अपनी भागीदारी इन उपलब्धियों में जोडता रहा। आज\nभारत में इंटरनेट कनेक्शनों और प्रयोगकर्ताओं की संख्या लाखों में है। ऐसे ही संचार साधनों में आज एक बड़ा ही सहज नाम इंटरनेट है।\nSub questions"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q080",
+  "b": "2021-set5-q080",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.368,
+   "options": 54.6,
+   "answer": 1.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "स्वतंत्रता दिवस",
+    "भारत का नागरिक",
+    "जोड़ने का काय",
+    "गणतंत्र दिवस\nQuestion Id : 54062617591 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension\nQuestions : No\nQuestion Numbers : (76 to 80)\nदिए गए गद्यांश को ध्यानपूर्वक पढ़ें और दिए गए प्रश्न के उत्तर दें।\nहर वर्ष 26 जनवरी को हमारे देश में गणतंत्र दिवस के रूप में मनाया जाता है। हम सभी देशवासियों को भारत का नागरिक होने का गर्वहै। 26 जनवरी 1950 को\nहमारा देश एक प्रजातान्त्रिक गणतंत्र देश बना था। इस दिन हमारे देश में संविधान लागू हुआ था। हमारी मातृभूमि भारत लंबे समय तक ब्रिटिश शासन की गुलाम\nरही तथा ब्रिटिश शासन द्वारा बनाये गये कानूनों का भारतीय लोगों को पालन करना पड़ता था व कानूनों को मानने के लिये मजबूर थे, भारतीय स्वतंत्रता सेनानियों\nद्वारा लंबे संघर्षके बाद भारतीय स्वतंत्रता सेनानियों ने अंतत: 15 अगस्त, 1947 को भारत को आजादी दिलाई। लगभग 2 साल 11 महीने 18 दिन बाद 26 जनवरी\n1950 को हमारी संसद द्वारा भारतीय संविधान पारित किया गया। भारत ने अपना संविधान लागू किया और खुद को संप्रभु, लोकतांत्रिक, गणराज्य के रूप म\nघोषित किया। भारत में आज़ादी के बाद 'विविधता में एकता' के अस्तित्व को दिखाने के लिए देश के अलग-अलग राज्य खूबसूरत झांकियों के ज़रिए अपनी\nसंस्कृति, परंपरा और प्रगति को दिखाते हैं। अतः यह और भी आवश्यक हो जाता है कि इस विशेष दिन को हम उचित सम्मान दें और इसे साथ मिलकर मनाये,\nजिससे हमारे देश की एकता और अखंडता जिसके लिए कई वीरों ने अपने प्राणों की आहुति दी है, इसी प्रकार से बनी रहे। गणतंत्र दिवस का यह राष्ट्रीय पव\nहमारे लिए बहुत ही महत्वपूर्णहै क्योंकि हमारे देश का संविधान तथा इसका गणतांत्रिक स्वरुप ही हमारे देश को कश्मीर से कन्याकुमारी तक जोड़ने का काय\nकरता है।\nSub questions"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "हरित क्रांति",
+    "सामाजिक-आर्थिक स्थिति",
+    "शिक्षा तथा राजनैतिक चेतना का विकास",
+    "गेहूँ का उत्पादन\nQuestion Id : 54062618701 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension\nQuestions : No\nQuestion Numbers : (76 to 80)\nदिए गए गद्यांश को ध्यानपूर्वक पढ़िए और दिए गए प्रश्नों के उत्तर दीजिए।\nहरित क्रांति ने स्वतंत्रता के बाद ज़मींदारी उन्मूलन, भूमि सुधार जैसे कदमों के चलते भारत में समतामूलक समाज के निर्माण को गति प्रदान की। इससे छोटे व\nमध्यम स्तर के किसानों की सामाजिक-आर्थिक स्थिति में सुधार हुआ और इससे उनमें शिक्षा तथा राजनैतिक चेतना का विकास हुआ। हरित क्रांति के अंतर्गत\nआधुनिक तकनीकि और खादों का अधिकाधिक प्रयोग करके भूमि पर अधिक से अधिक फसलें उगाने का प्रयास किया गया। इसके लिए जब बड़ी मात्रा म\nरासायनिक खादों का प्रयोग किया गया तो भूमि की उर्वरक क्षमता कम हो गयी। सिंचाई के अधिक प्रयोग के कारण भूमि में नमक की मात्रा भी बढ़ गयी। हरित\nक्रांति देश के कतिपय हिस्सों जैसे-पंजाब, हरियाणा, पश्चिमी उत्तर प्रदेश आदि में ही केन्द्रित थी। अत: इन क्षेत्रों का तेजी से विकास हुआ लेकिन देश के अन्य क्षेत्र\nहरित क्रांति से वंचित रह गये। हमें हरित क्रांति की प्रेरणा तब मिली थी, जब साठ के दशक के मध्य में अच्छी फसल नहीं हुई थी और अकाल के हालात पैदा हो\nगए थे, लेकिन इसका असली उद्देश्य था, भारत में राष्ट्रीय खाद्य सुरक्षा को सुनिश्चित करना और अगर सटीक रूप में कहा जाए तो इसका मुख्य उद्देश्य भारत को\nखाद्यान्न के उत्पादन में आत्मनिर्भर बनाना थाI हरित क्रांति में मुख्यत: गेहूँ के उत्पादन पर विशेष जोर दिया गया थाI आज भारत खाद्यान्न के उत्पादन के मामले म\nराष्ट्रीय स्तर पर आत्मनिर्भर हो गया है व साथ ही गेहूँ और चावल के मामले में विश्व का दूसरा सबसे बड़ा उत्पादक और चावल का सबसे बड़ा निर्यातक बन गया\nहै।\nSub questions"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set3-q082",
+  "scores": {
+   "stem": 73.7,
+   "stemTokenSet": 80.4,
+   "cosine": 0.24,
+   "options": 52.4,
+   "answer": 32.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nMy son is the most /bravest of all /other men in the city. / No error",
+   "options": [
+    "My son is the most",
+    "bravest of all",
+    "other men in the city.",
+    "No error"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nIndia’s forest and tree cover has/increased by nearly 4,000 sq km/for the last assessment report in 2017. /No error",
+   "options": [
+    "India’s forest and tree cover has",
+    "increased by nearly 4,000 sq km",
+    "for the last assessment report in 2017.",
+    "No error"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set4-q081",
+  "scores": {
+   "stem": 79.7,
+   "stemTokenSet": 81.4,
+   "cosine": 0.278,
+   "options": 58.4,
+   "answer": 48.5
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nMy son is the most /bravest of all /other men in the city. / No error",
+   "options": [
+    "My son is the most",
+    "bravest of all",
+    "other men in the city.",
+    "No error"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nRam always respected (1)/ his boss as he was (2)/ senior than him. (3)/ No error (4)",
+   "options": [
+    "Ram always respected",
+    "his boss as he was",
+    "senior than him.",
+    "No error"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set4-q082",
+  "scores": {
+   "stem": 73.6,
+   "stemTokenSet": 81.4,
+   "cosine": 0.284,
+   "options": 55.5,
+   "answer": 26.7
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nMy son is the most /bravest of all /other men in the city. / No error",
+   "options": [
+    "My son is the most",
+    "bravest of all",
+    "other men in the city.",
+    "No error"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nThere needs to be a better (1)/ approach for conserving and (2)/ improving original forest areas. (3)/ No error (4)",
+   "options": [
+    "There needs to be a better",
+    "approach for conserving and",
+    "improving original forest areas.",
+    "No error"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set5-q081",
+  "scores": {
+   "stem": 76.9,
+   "stemTokenSet": 80.4,
+   "cosine": 0.286,
+   "options": 55.8,
+   "answer": 25.8
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nMy son is the most /bravest of all /other men in the city. / No error",
+   "options": [
+    "My son is the most",
+    "bravest of all",
+    "other men in the city.",
+    "No error"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nHe have never (1)/and will never take your (2)/suggestion on this project. (3)/No error (4)",
+   "options": [
+    "He have never",
+    "and will never take your",
+    "suggestion on this project.",
+    "No error"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set5-q082",
+  "scores": {
+   "stem": 71.9,
+   "stemTokenSet": 81.4,
+   "cosine": 0.248,
+   "options": 55.9,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nMy son is the most /bravest of all /other men in the city. / No error",
+   "options": [
+    "My son is the most",
+    "bravest of all",
+    "other men in the city.",
+    "No error"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nHigher education policy must seek (1)/ a higher transition rate between(2)/ first university to doctoral degrees. (3)/ No error (4)",
+   "options": [
+    "Higher education policy must seek",
+    "a higher transition rate between",
+    "first university to doctoral degrees.",
+    "No error"
+   ],
+   "key": ""
+  }
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set3-q084",
+  "scores": {
+   "stem": 84.1,
+   "stemTokenSet": 84.8,
+   "cosine": 0.42,
+   "options": 59.2,
+   "answer": 35.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAlthough, he comes to the event but he was as usual late.",
+   "options": [
+    "comes to",
+    "came to",
+    "will come to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThe meeting had evoked curiosity in regards to the recent panchayat.",
+   "options": [
+    "with regards to",
+    "in view of",
+    "in regarding to",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set4-q083",
+  "scores": {
+   "stem": 82.4,
+   "stemTokenSet": 84.8,
+   "cosine": 0.424,
+   "options": 69.3,
+   "answer": 61.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAlthough, he comes to the event but he was as usual late.",
+   "options": [
+    "comes to",
+    "came to",
+    "will come to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nSumit have to take a bus or sometimes walk to reach the coaching centre.",
+   "options": [
+    "had to",
+    "have had to",
+    "must to",
+    "No Improvement"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set4-q084",
+  "scores": {
+   "stem": 83.5,
+   "stemTokenSet": 85.8,
+   "cosine": 0.435,
+   "options": 59.4,
+   "answer": 45.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAlthough, he comes to the event but he was as usual late.",
+   "options": [
+    "comes to",
+    "came to",
+    "will come to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThis is not fair to us who are planned to go abroad.",
+   "options": [
+    "are plans to",
+    "had planning to",
+    "are planning to",
+    "No Improvement"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set5-q083",
+  "scores": {
+   "stem": 83.3,
+   "stemTokenSet": 84.8,
+   "cosine": 0.418,
+   "options": 52.5,
+   "answer": 30.8
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAlthough, he comes to the event but he was as usual late.",
+   "options": [
+    "comes to",
+    "came to",
+    "will come to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAt the age of 83, she published her first book. What an inspiring!",
+   "options": [
+    "What a inspiration",
+    "What an inspiration",
+    "What a inspiring",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set5-q084",
+  "scores": {
+   "stem": 84.8,
+   "stemTokenSet": 87.1,
+   "cosine": 0.445,
+   "options": 50.4,
+   "answer": 23.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAlthough, he comes to the event but he was as usual late.",
+   "options": [
+    "comes to",
+    "came to",
+    "will come to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set4-q083",
+  "scores": {
+   "stem": 81.9,
+   "stemTokenSet": 82.6,
+   "cosine": 0.48,
+   "options": 61.3,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThe meeting had evoked curiosity in regards to the recent panchayat.",
+   "options": [
+    "with regards to",
+    "in view of",
+    "in regarding to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nSumit have to take a bus or sometimes walk to reach the coaching centre.",
+   "options": [
+    "had to",
+    "have had to",
+    "must to",
+    "No Improvement"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set4-q084",
+  "scores": {
+   "stem": 83.5,
+   "stemTokenSet": 85.6,
+   "cosine": 0.467,
+   "options": 63.8,
+   "answer": 32.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThe meeting had evoked curiosity in regards to the recent panchayat.",
+   "options": [
+    "with regards to",
+    "in view of",
+    "in regarding to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThis is not fair to us who are planned to go abroad.",
+   "options": [
+    "are plans to",
+    "had planning to",
+    "are planning to",
+    "No Improvement"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set5-q083",
+  "scores": {
+   "stem": 80.9,
+   "stemTokenSet": 82.6,
+   "cosine": 0.414,
+   "options": 55.1,
+   "answer": 27.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThe meeting had evoked curiosity in regards to the recent panchayat.",
+   "options": [
+    "with regards to",
+    "in view of",
+    "in regarding to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAt the age of 83, she published her first book. What an inspiring!",
+   "options": [
+    "What a inspiration",
+    "What an inspiration",
+    "What a inspiring",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set5-q084",
+  "scores": {
+   "stem": 83.8,
+   "stemTokenSet": 87.1,
+   "cosine": 0.441,
+   "options": 55.3,
+   "answer": 20.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThe meeting had evoked curiosity in regards to the recent panchayat.",
+   "options": [
+    "with regards to",
+    "in view of",
+    "in regarding to",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set3-q086",
+  "scores": {
+   "stem": 78.7,
+   "stemTokenSet": 81.5,
+   "cosine": 0.288,
+   "options": 27.2,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nMental stress can make a person ______ in many ways.",
+   "options": [
+    "lunatic",
+    "hail",
+    "rally",
+    "inspirit"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nThey ______ it difficult to read that book.",
+   "options": [
+    "founded",
+    "find",
+    "found",
+    "founds"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set4-q085",
+  "scores": {
+   "stem": 79.9,
+   "stemTokenSet": 83.7,
+   "cosine": 0.3,
+   "options": 37.0,
+   "answer": 23.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nMental stress can make a person ______ in many ways.",
+   "options": [
+    "lunatic",
+    "hail",
+    "rally",
+    "inspirit"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nWaste management is one of the biggest ______ for the country.",
+   "options": [
+    "compromise",
+    "challenges",
+    "sacrifices",
+    "leads"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set4-q086",
+  "scores": {
+   "stem": 82.1,
+   "stemTokenSet": 82.5,
+   "cosine": 0.249,
+   "options": 33.7,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nMental stress can make a person ______ in many ways.",
+   "options": [
+    "lunatic",
+    "hail",
+    "rally",
+    "inspirit"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nWhen she ______ at her place, Mahima had left.",
+   "options": [
+    "has arrived",
+    "arrived",
+    "arrives",
+    "had arrived"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set5-q085",
+  "scores": {
+   "stem": 78.5,
+   "stemTokenSet": 84.5,
+   "cosine": 0.262,
+   "options": 24.9,
+   "answer": 13.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nMental stress can make a person ______ in many ways.",
+   "options": [
+    "lunatic",
+    "hail",
+    "rally",
+    "inspirit"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nNo matter how tough a situation gets, you can always ______ it with your will power.",
+   "options": [
+    "covert",
+    "overwhelm",
+    "come",
+    "overcome"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set5-q086",
+  "scores": {
+   "stem": 81.5,
+   "stemTokenSet": 83.0,
+   "cosine": 0.309,
+   "options": 34.2,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nMental stress can make a person ______ in many ways.",
+   "options": [
+    "lunatic",
+    "hail",
+    "rally",
+    "inspirit"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nShe is the girl ______ stole my handbag.",
+   "options": [
+    "that",
+    "whom",
+    "which",
+    "who"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set4-q085",
+  "scores": {
+   "stem": 79.4,
+   "stemTokenSet": 81.5,
+   "cosine": 0.307,
+   "options": 29.2,
+   "answer": 13.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nThey ______ it difficult to read that book.",
+   "options": [
+    "founded",
+    "find",
+    "found",
+    "founds"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nWaste management is one of the biggest ______ for the country.",
+   "options": [
+    "compromise",
+    "challenges",
+    "sacrifices",
+    "leads"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set4-q086",
+  "scores": {
+   "stem": 84.2,
+   "stemTokenSet": 86.7,
+   "cosine": 0.346,
+   "options": 27.0,
+   "answer": 16.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nThey ______ it difficult to read that book.",
+   "options": [
+    "founded",
+    "find",
+    "found",
+    "founds"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nWhen she ______ at her place, Mahima had left.",
+   "options": [
+    "has arrived",
+    "arrived",
+    "arrives",
+    "had arrived"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set5-q085",
+  "scores": {
+   "stem": 76.2,
+   "stemTokenSet": 83.0,
+   "cosine": 0.268,
+   "options": 24.7,
+   "answer": 15.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nThey ______ it difficult to read that book.",
+   "options": [
+    "founded",
+    "find",
+    "found",
+    "founds"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nNo matter how tough a situation gets, you can always ______ it with your will power.",
+   "options": [
+    "covert",
+    "overwhelm",
+    "come",
+    "overcome"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set5-q086",
+  "scores": {
+   "stem": 87.0,
+   "stemTokenSet": 88.2,
+   "cosine": 0.434,
+   "options": 19.9,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nThey ______ it difficult to read that book.",
+   "options": [
+    "founded",
+    "find",
+    "found",
+    "founds"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nShe is the girl ______ stole my handbag.",
+   "options": [
+    "that",
+    "whom",
+    "which",
+    "who"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q089",
+  "b": "2021-set4-q089",
+  "scores": {
+   "stem": 90.3,
+   "stemTokenSet": 90.9,
+   "cosine": 0.267,
+   "options": 45.0,
+   "answer": 42.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Choose the word that means the same as the given word.\nWarning",
+   "options": [
+    "Caution",
+    "Attention",
+    "Accuse",
+    "Victim"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Choose the word that means the same as the given word.\nEncounter",
+   "options": [
+    "Avoiding",
+    "Meeting",
+    "Sale",
+    "Announcing"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q089",
+  "b": "2021-set5-q089",
+  "scores": {
+   "stem": 91.2,
+   "stemTokenSet": 90.9,
+   "cosine": 0.281,
+   "options": 42.5,
+   "answer": 15.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Choose the word that means the same as the given word.\nWarning",
+   "options": [
+    "Caution",
+    "Attention",
+    "Accuse",
+    "Victim"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Choose the word that means the same as the given word.\nConsistent",
+   "options": [
+    "Slow",
+    "Steady",
+    "Often",
+    "Certain"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q090",
+  "b": "2021-set4-q090",
+  "scores": {
+   "stem": 93.7,
+   "stemTokenSet": 92.8,
+   "cosine": 0.275,
+   "options": 36.0,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Choose the word that is opposite in meaning to the given word.\nAltercate",
+   "options": [
+    "Concurrent",
+    "Coexist",
+    "Nitpick",
+    "Contend"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Choose the word that is opposite in meaning to the given word.\nAllegiance",
+   "options": [
+    "Piety",
+    "Clarity",
+    "Paucity",
+    "Falsity"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q090",
+  "b": "2021-set5-q090",
+  "scores": {
+   "stem": 93.0,
+   "stemTokenSet": 91.9,
+   "cosine": 0.275,
+   "options": 39.4,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Choose the word that is opposite in meaning to the given word.\nAltercate",
+   "options": [
+    "Concurrent",
+    "Coexist",
+    "Nitpick",
+    "Contend"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Choose the word that is opposite in meaning to the given word.\nAppellant",
+   "options": [
+    "Litigant",
+    "Accuser",
+    "Defendant",
+    "Plaintiff"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set3-q092",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.403,
+   "options": 55.4,
+   "answer": 60.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Tranmission",
+    "Transmession",
+    "Trensmission",
+    "Transmission"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Assumption",
+    "Brightness",
+    "Comisson",
+    "Gathering"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set4-q091",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.597,
+   "options": 23.7,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Tranmission",
+    "Transmession",
+    "Trensmission",
+    "Transmission"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Honourable",
+    "Honorable",
+    "Hounorable",
+    "Honourble"
+   ],
+   "key": ""
+  }
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set4-q092",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.403,
+   "options": 49.8,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Tranmission",
+    "Transmession",
+    "Trensmission",
+    "Transmission"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Stimulus",
+    "Nostelgic",
+    "Precision",
+    "Quarrel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set5-q091",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.609,
+   "options": 49.2,
+   "answer": 48.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Tranmission",
+    "Transmession",
+    "Trensmission",
+    "Transmission"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Intirnational",
+    "International",
+    "Intirnationel",
+    "Internationel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set5-q092",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.401,
+   "options": 42.1,
+   "answer": 36.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Tranmission",
+    "Transmession",
+    "Trensmission",
+    "Transmission"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Clinical",
+    "Dictionery",
+    "Bilingual",
+    "Redemption"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set4-q091",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.392,
+   "options": 27.7,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Assumption",
+    "Brightness",
+    "Comisson",
+    "Gathering"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Honourable",
+    "Honorable",
+    "Hounorable",
+    "Honourble"
+   ],
+   "key": ""
+  }
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set4-q092",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.597,
+   "options": 39.5,
+   "answer": 23.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Assumption",
+    "Brightness",
+    "Comisson",
+    "Gathering"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Stimulus",
+    "Nostelgic",
+    "Precision",
+    "Quarrel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set5-q091",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.4,
+   "options": 41.3,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Assumption",
+    "Brightness",
+    "Comisson",
+    "Gathering"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Intirnational",
+    "International",
+    "Intirnationel",
+    "Internationel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set5-q092",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.593,
+   "options": 44.1,
+   "answer": 44.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Assumption",
+    "Brightness",
+    "Comisson",
+    "Gathering"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Clinical",
+    "Dictionery",
+    "Bilingual",
+    "Redemption"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set3-q094",
+  "scores": {
+   "stem": 93.2,
+   "stemTokenSet": 94.0,
+   "cosine": 0.293,
+   "options": 41.1,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set4-q093",
+  "scores": {
+   "stem": 93.3,
+   "stemTokenSet": 94.0,
+   "cosine": 0.223,
+   "options": 37.5,
+   "answer": 32.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set4-q094",
+  "scores": {
+   "stem": 92.4,
+   "stemTokenSet": 94.0,
+   "cosine": 0.259,
+   "options": 37.6,
+   "answer": 23.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set5-q093",
+  "scores": {
+   "stem": 93.8,
+   "stemTokenSet": 95.1,
+   "cosine": 0.269,
+   "options": 37.8,
+   "answer": 35.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 90.9,
+   "stemTokenSet": 94.0,
+   "cosine": 0.232,
+   "options": 38.3,
+   "answer": 43.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nBolt from the blue",
+   "options": [
+    "A violent thunderstorm",
+    "A catastrophic happening",
+    "An apparition",
+    "A sudden and entirely unforeseen event"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set4-q093",
+  "scores": {
+   "stem": 93.5,
+   "stemTokenSet": 94.9,
+   "cosine": 0.214,
+   "options": 40.7,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set4-q094",
+  "scores": {
+   "stem": 92.6,
+   "stemTokenSet": 94.9,
+   "cosine": 0.3,
+   "options": 46.4,
+   "answer": 38.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set5-q093",
+  "scores": {
+   "stem": 94.7,
+   "stemTokenSet": 96.4,
+   "cosine": 0.258,
+   "options": 45.8,
+   "answer": 45.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 91.7,
+   "stemTokenSet": 94.9,
+   "cosine": 0.224,
+   "options": 47.6,
+   "answer": 40.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo raise a dust",
+   "options": [
+    "To spend extravagantly",
+    "To cause commotion",
+    "To bring lots of energy in an event",
+    "To treat someone indifferently"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q101",
+  "b": "2021-set3-q102",
+  "scores": {
+   "stem": 46.8,
+   "stemTokenSet": 46.8,
+   "cosine": 0.423,
+   "options": 24.3,
+   "answer": 9.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is a shortcut key to justify paragraph alignment in MS-Word?",
+   "options": [
+    "Ctrl + J",
+    "Ctrl + I",
+    "Ctrl + S",
+    "Ctrl + Y"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "What is the function of Ctrl + T in MS Word?",
+   "options": [
+    "Undo last action",
+    "Hanging indent",
+    "Redo the last action",
+    "Justify paragraph alignment"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q111",
+  "b": "2021-set4-q111",
+  "scores": {
+   "stem": 89.3,
+   "stemTokenSet": 92.5,
+   "cosine": 0.616,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, val=1;\nk= ++val*++val;\nprintf(\"%d\",k);\n}",
+   "options": [
+    "1",
+    "4",
+    "9",
+    "16"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, v;\nk=(v=20,v+2);\nprintf(\"%d\",k);\n}",
+   "options": [
+    "2",
+    "20",
+    "22",
+    "Error"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q111",
+  "b": "2021-set5-q114",
+  "scores": {
+   "stem": 86.2,
+   "stemTokenSet": 86.4,
+   "cosine": 0.512,
+   "options": 33.3,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, val=1;\nk= ++val*++val;\nprintf(\"%d\",k);\n}",
+   "options": [
+    "1",
+    "4",
+    "9",
+    "16"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k=8, v=8,i;\ni=k/++v;\nprintf(\"%d\\n\",i);\n}",
+   "options": [
+    "0",
+    "1",
+    "0.8",
+    "Error"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q114",
+  "b": "2021-set5-q121",
+  "scores": {
+   "stem": 88.4,
+   "stemTokenSet": 88.4,
+   "cosine": 0.756,
+   "options": 98.9,
+   "answer": 70.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "______ mode allows transmission in both directions simultaneously.",
+   "options": [
+    "Duplex",
+    "Half duplex",
+    "Simplex",
+    "Half simplex"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "______ mode allows transmission in either direction but not simultaneously.",
+   "options": [
+    "Duplex",
+    "Half duplex",
+    "Simplex",
+    "Half-simplex"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q115",
+  "b": "2021-set4-q116",
+  "scores": {
+   "stem": 62.8,
+   "stemTokenSet": 82.4,
+   "cosine": 0.369,
+   "options": 18.1,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "How many bits are required to represent (1000)_10 in BCD code?",
+   "options": [
+    "16 bits",
+    "10 bits",
+    "32 bits",
+    "4 bits"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "How many bits are required to represent any decimal number in the range from 0 to 2^n–1 in base 2?",
+   "options": [
+    "n",
+    "n – 1",
+    "2^n – 1",
+    "n + 1"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q122",
+  "b": "2021-set4-q118",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.779,
+   "options": 85.5,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which gate is represented by the following truth table?",
+   "options": [
+    "OR",
+    "AND",
+    "XOR",
+    "NOT"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which gate is represented by the following truth table?",
+   "options": [
+    "NOR",
+    "NAND",
+    "XOR",
+    "XNOR"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q134",
+  "b": "2021-set5-q138",
+  "scores": {
+   "stem": 89.5,
+   "stemTokenSet": 90.6,
+   "cosine": 0.439,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is a Comparison operator in Structured Query Language?",
+   "options": [
+    "+",
+    "*",
+    "/",
+    ">="
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Which of the following is an Aggregate operator in Structured Query Language?",
+   "options": [
+    "Minus",
+    "Intersect",
+    "Union",
+    "Count"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q135",
+  "b": "2021-set4-q133",
+  "scores": {
+   "stem": 50.6,
+   "stemTokenSet": 57.9,
+   "cosine": 0.42,
+   "options": 92.8,
+   "answer": 70.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which logical gate is used to represent product of sum expression?",
+   "options": [
+    "EX-OR gate",
+    "AND gate",
+    "OR gate",
+    "NOR gate"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "By including which logical gate binary adder circuit is used for both binary addition and subtraction?",
+   "options": [
+    "Ex - AND gate",
+    "AND gate",
+    "Ex - OR gate",
+    "OR gate"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q135",
+  "b": "2021-set5-q141",
+  "scores": {
+   "stem": 40.6,
+   "stemTokenSet": 60.8,
+   "cosine": 0.555,
+   "options": 97.7,
+   "answer": 75.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which logical gate is used to represent product of sum expression?",
+   "options": [
+    "EX-OR gate",
+    "AND gate",
+    "OR gate",
+    "NOR gate"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "The mask logical micro operation is equivalent to which logical gate?",
+   "options": [
+    "OR gate",
+    "NOR gate",
+    "AND gate",
+    "NAND gate"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q141",
+  "b": "2021-set4-q141",
+  "scores": {
+   "stem": 93.5,
+   "stemTokenSet": 95.0,
+   "cosine": 0.392,
+   "options": 50.1,
+   "answer": 53.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is the full form of MTTF in software reliability?",
+   "options": [
+    "Minimum time to failure",
+    "Maximum time to failure",
+    "Mean time to failure",
+    "Median time to failure"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the full form of ROCOF in Software Reliability?",
+   "options": [
+    "Ratio of occurrence of fault",
+    "Rate of occurrence of fault",
+    "Rate of occurrence of failure",
+    "Ratio of occurrence of failure"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q142",
+  "b": "2021-set3-q143",
+  "scores": {
+   "stem": 75.0,
+   "stemTokenSet": 87.7,
+   "cosine": 0.727,
+   "options": 90.0,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is the other name of Linear Sequential model in software engineering?",
+   "options": [
+    "Spiral model",
+    "Waterfall model",
+    "Prototype model",
+    "RAD model"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "______ model is a “high speed” adaption of the linear sequential model in software engineering.",
+   "options": [
+    "Prototype model",
+    "Rapid Application development model",
+    "Spiral model",
+    "Waterfall model"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q142",
+  "b": "2021-set5-q153",
+  "scores": {
+   "stem": 42.2,
+   "stemTokenSet": 53.3,
+   "cosine": 0.536,
+   "options": 75.7,
+   "answer": 64.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is the other name of Linear Sequential model in software engineering?",
+   "options": [
+    "Spiral model",
+    "Waterfall model",
+    "Prototype model",
+    "RAD model"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Spiral model of software development is also known as ______.",
+   "options": [
+    "successive model",
+    "meta model",
+    "prototype model",
+    "risk model"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q143",
+  "b": "2021-set5-q153",
+  "scores": {
+   "stem": 40.8,
+   "stemTokenSet": 57.4,
+   "cosine": 0.548,
+   "options": 69.6,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "______ model is a “high speed” adaption of the linear sequential model in software engineering.",
+   "options": [
+    "Prototype model",
+    "Rapid Application development model",
+    "Spiral model",
+    "Waterfall model"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Spiral model of software development is also known as ______.",
+   "options": [
+    "successive model",
+    "meta model",
+    "prototype model",
+    "risk model"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q146",
+  "b": "2021-set3-q172",
+  "scores": {
+   "stem": 38.8,
+   "stemTokenSet": 100.0,
+   "cosine": 0.513,
+   "options": 82.7,
+   "answer": 69.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the following operators with their definition in data definition language.",
+   "options": [
+    "1-iii, 2-i, 3-ii",
+    "1-i, 2-ii, 3-iii",
+    "1-ii, 2-iii, 3-i",
+    "1-iii, 2-ii, 3-i"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Match the following.",
+   "options": [
+    "1-iv, 2-i, 3-ii, 4-iii",
+    "1-iii, 2-ii, 3-iv, 4-i",
+    "1-iv, 2-iii, 3-i, 4-ii",
+    "1-iii, 2-iv, 3-ii, 4-i"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q146",
+  "b": "2021-set4-q142",
+  "scores": {
+   "stem": 52.0,
+   "stemTokenSet": 65.5,
+   "cosine": 0.431,
+   "options": 81.7,
+   "answer": 69.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the following operators with their definition in data definition language.",
+   "options": [
+    "1-iii, 2-i, 3-ii",
+    "1-i, 2-ii, 3-iii",
+    "1-ii, 2-iii, 3-i",
+    "1-iii, 2-ii, 3-i"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Match the symbol used in DFD with their function.",
+   "options": [
+    "1-iv, 2-iii, 3-i, 4-ii",
+    "1-ii, 2-iii, 3-i, 4-ii",
+    "1-iv, 2-i, 3-iii, 4-ii",
+    "1-i, 2-iii, 3-iv, 4-ii"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q147",
+  "b": "2021-set4-q145",
+  "scores": {
+   "stem": 88.6,
+   "stemTokenSet": 88.6,
+   "cosine": 0.444,
+   "options": 70.1,
+   "answer": 60.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "What is COHESION in software design?",
+   "options": [
+    "Cohesion is a measure of complexity of module of a software",
+    "Cohesion is a measure of functional strength of a module of a software",
+    "Cohesion is a measure of functional weakness of a module of a software",
+    "Cohesion is a measure of efficiency of a module of a software"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "What is COUPLING in software design?",
+   "options": [
+    "Coupling is measure of degree of functional interdependence between the two modules",
+    "Coupling is measure of degree of functional non-dependence between the two modules",
+    "Coupling is measure of degree of functional connected dependence between the two modules",
+    "Coupling is the measure of the functional strength of the module of the software"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q149",
+  "b": "2021-set4-q150",
+  "scores": {
+   "stem": 78.6,
+   "stemTokenSet": 88.9,
+   "cosine": 0.222,
+   "options": 13.3,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the following java code?\nint m = 1000;\nint k = 3000;\nwhile (+ + m < – – k);\nSystem.out.println(m);",
+   "options": [
+    "Error",
+    "1000",
+    "2000",
+    "4000"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the following JAVA code?\nString s = “exam:” + 9 + 9 + 9;\nSystem.out.println(s);",
+   "options": [
+    "exam 27",
+    "exam:27",
+    "exam:9",
+    "exam:999"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q149",
+  "b": "2023-06-24-s2-q152",
+  "scores": {
+   "stem": 61.2,
+   "stemTokenSet": 85.0,
+   "cosine": 0.293,
+   "options": 4.5,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the following java code?\nint m = 1000;\nint k = 3000;\nwhile (+ + m < – – k);\nSystem.out.println(m);",
+   "options": [
+    "Error",
+    "1000",
+    "2000",
+    "4000"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the expected output of the following Java code?\npublic class operators\npublic static void main(String[] args)\n{\nint a = 5;\nint b = 7;\nSystem.out.println(\"a&b =\" + (a & b)):",
+   "options": [
+    "a&b =5",
+    "a&b = 7",
+    "a&b = 35",
+    "a&b = 2"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q157",
+  "b": "2021-set4-q162",
+  "scores": {
+   "stem": 38.5,
+   "stemTokenSet": 41.0,
+   "cosine": 0.887,
+   "options": 100.0,
+   "answer": 43.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "ARQ (Automatic Repeat Request) is:",
+   "options": [
+    "asking question and getting the reply",
+    "protocol in which the sends for positive acknowledgement before advancing to the next data item",
+    "protocol allows a newly booted workstation to broadcast its Ethernet address",
+    "protocol allows both manual IP address assign infant and automatic assignment"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "DHCP (Dynamic Host Configuration Protocol) is a ______.",
+   "options": [
+    "asking question and getting the reply",
+    "protocol in which the sends for positive acknowledgement before advancing to the next data item",
+    "protocol allows a newly booted workstation to broadcast its Ethernet address",
+    "protocol allows both manual IP address assign infant and automatic assignment"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q158",
+  "b": "2021-set4-q161",
+  "scores": {
+   "stem": 98.6,
+   "stemTokenSet": 98.5,
+   "cosine": 0.451,
+   "options": 50.2,
+   "answer": 38.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is not an example of unguided transmission media?",
+   "options": [
+    "Radio transmission",
+    "Microwave transmission",
+    "Coaxial cable",
+    "Light transmission"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following is not an example of Guided transmission media?",
+   "options": [
+    "Fiber optic",
+    "Infrared wave",
+    "Twisted pair",
+    "Coaxial cable"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q160",
+  "b": "2021-set4-q160",
+  "scores": {
+   "stem": 55.1,
+   "stemTokenSet": 100.0,
+   "cosine": 0.659,
+   "options": 87.5,
+   "answer": 80.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the following.",
+   "options": [
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Match the following TCP/IP protocol with their use.",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-i, b-ii, c-iii, d-iv",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q160",
+  "b": "2021-set4-q168",
+  "scores": {
+   "stem": 24.0,
+   "stemTokenSet": 64.3,
+   "cosine": 0.751,
+   "options": 89.2,
+   "answer": 86.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the following.",
+   "options": [
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Match List – I of firewalls with List – II of their usage. Select the correct answer from the given options.",
+   "options": [
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-iv, c-ii, d-iii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q160",
+  "b": "2023-06-24-s2-q169",
+  "scores": {
+   "stem": 18.6,
+   "stemTokenSet": 64.3,
+   "cosine": 0.451,
+   "options": 89.4,
+   "answer": 73.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Match the following.",
+   "options": [
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Match the column Well-known ports used by ICP with the column Protocol.\nWell-known ports used by TCP Protocol\ni) Davtime\na) 7\nb) 9\nii) Echo\niii) Discard\nc) 11\niv) SYSTAT\nd) 13",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-ii, b-i, c-iv, d-ii"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set3-q168",
+  "b": "2021-set4-q173",
+  "scores": {
+   "stem": 35.9,
+   "stemTokenSet": 78.7,
+   "cosine": 0.44,
+   "options": 25.3,
+   "answer": 17.4
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following is stable sort?",
+   "options": [
+    "Selection sort",
+    "Quick sort",
+    "Heap sort",
+    "Merge sort"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Sort the following list using selection sort algorithm.\nH, V, A, T, L, N, K\nWhat is the output of the algorithm after 3rd pass?",
+   "options": [
+    "A, V, H, T, L, N, K",
+    "A, H, K, T, L, N, V",
+    "A, V, T, H, L, N, K",
+    "A, T, H, K, L, N, V"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set3-q169",
+  "b": "2021-set5-q115",
+  "scores": {
+   "stem": 22.6,
+   "stemTokenSet": 64.2,
+   "cosine": 0.42,
+   "options": 22.2,
+   "answer": 16.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Post-order Binary tree traversal is ______.",
+   "options": [
+    "Left, Node, Right",
+    "Left, Right, Node",
+    "Node, Left, Right",
+    "Right, Left, Node"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Consider the following new-order strategy for traversing a given tree.\nI. Visit the right subtree of a Node using new-order\nII. Visit the Node\nIII. Visit the left subtree of a Node using new-order\nWhat is the new-order traversal of the given tree?",
+   "options": [
+    "Z, V, Y, X, W, P, S, U, T, Q, R",
+    "R, Q, T, U, S, P, W, X, Y, V, Z",
+    "P, W, X, Y, V, Z, R, Q, T, U, S",
+    "S, U, T, Q, R, Z, V, Y, X, W, P"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q172",
+  "b": "2021-set4-q142",
+  "scores": {
+   "stem": 44.8,
+   "stemTokenSet": 64.3,
+   "cosine": 0.518,
+   "options": 92.5,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "Match the following.",
+   "options": [
+    "1-iv, 2-i, 3-ii, 4-iii",
+    "1-iii, 2-ii, 3-iv, 4-i",
+    "1-iv, 2-iii, 3-i, 4-ii",
+    "1-iii, 2-iv, 3-ii, 4-i"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Match the symbol used in DFD with their function.",
+   "options": [
+    "1-iv, 2-iii, 3-i, 4-ii",
+    "1-ii, 2-iii, 3-i, 4-ii",
+    "1-iv, 2-i, 3-iii, 4-ii",
+    "1-i, 2-iii, 3-iv, 4-ii"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set3-q190",
+  "b": "2021-set5-q148",
+  "scores": {
+   "stem": 70.9,
+   "stemTokenSet": 89.7,
+   "cosine": 0.51,
+   "options": 65.4,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "If x = 5, then what is the value of y from the following table of values?",
+   "options": [
+    "10",
+    "15",
+    "11",
+    "9.5"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the value of f'(x) at x = 4 from the following table of values?\n4\nf(x) 20 22 27\n35",
+   "options": [
+    "9.2",
+    "9",
+    "10.8",
+    "9.5"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set3-q198",
+  "b": "2021-set4-q198",
+  "scores": {
+   "stem": 50.9,
+   "stemTokenSet": 63.3,
+   "cosine": 0.433,
+   "options": 93.5,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "The basics of all performing arts is ______.\nI. Exploring\nII. Expressing\nIII. Listening",
+   "options": [
+    "I, II and III",
+    "II and III",
+    "Only II",
+    "I and II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following are the types of performing arts?\nI. Theatre\nII. Music\nIII. Puppetry",
+   "options": [
+    "I, II and III",
+    "II and III",
+    "I and II",
+    "I and III"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q023",
+  "b": "2021-set5-q023",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.302,
+   "options": 40.3,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Yellow",
+    "White",
+    "Green",
+    "Alloy"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, select the odd word from the given alternatives.",
+   "options": [
+    "Friend",
+    "Sister",
+    "Brother",
+    "Mother"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q027",
+  "b": "2021-set5-q029",
+  "scores": {
+   "stem": 68.1,
+   "stemTokenSet": 89.9,
+   "cosine": 0.758,
+   "options": 8.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Eight players A, B, C, D, E, F, G and H are sitting around a circular table facing towards the centre (not necessarily in the same order). G is\nfourth to the right of A. D is second to the left of A. E is second to the right of C. C is not the immediate neighbour of G or D. B is second to the\nright of F. Who is third to the right of H?",
+   "options": [
+    "B",
+    "F",
+    "D",
+    "G"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Nine boys P, Q, R, S, T, U, V, W and X are sitting around a circular table facing towards the centre (not necessarily in the same order). U is fourth\nto the right of P. P is third to the right of Q. X is fourth to the left of Q. S is third to the left of X. R is third to the right of W. T is second to the left\nof V.\nWhich of the following statement(s) is/are not correct?\nI. U and V are not the immediate neighbours.\nII. V is the immediate neighbour of Q and U.\nIII. R is second to the right of T.\nIV. W is third to the left of U.",
+   "options": [
+    "Only II",
+    "II and III",
+    "I, II, III and IV",
+    "I, III and IV"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q027",
+  "b": "2023-06-24-s2-q001",
+  "scores": {
+   "stem": 67.1,
+   "stemTokenSet": 76.2,
+   "cosine": 0.523,
+   "options": 75.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Eight players A, B, C, D, E, F, G and H are sitting around a circular table facing towards the centre (not necessarily in the same order). G is\nfourth to the right of A. D is second to the left of A. E is second to the right of C. C is not the immediate neighbour of G or D. B is second to the\nright of F. Who is third to the right of H?",
+   "options": [
+    "B",
+    "F",
+    "D",
+    "G"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Six friends, A, B, C, D, E and E, are sitting around a round table facing toward the centre and equidistant from each\nother. A is sitting second to the left of C. D is sitting opposite to B. F is sitting to the immediate right of B. Who is\nsitting second to the right of E?",
+   "options": [
+    "A",
+    "B",
+    "D",
+    "F"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q030",
+  "b": "2021-set5-q031",
+  "scores": {
+   "stem": 91.0,
+   "stemTokenSet": 97.4,
+   "cosine": 0.778,
+   "options": 94.4,
+   "answer": 74.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No ground are land.\nII. Some garden are land.\nConclusions:\nI. Some land are garden.\nII. Some land are ground.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All F are C.\nII. No D is F.\nConclusions:\nI. Some C are F.\nII. All C are D.\nIII. No F is D.",
+   "options": [
+    "Both conclusions I and II follows",
+    "Only conclusion III follows",
+    "Both conclusions I and III follows",
+    "All conclusion follows"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q031",
+  "b": "2023-06-24-s2-q003",
+  "scores": {
+   "stem": 66.5,
+   "stemTokenSet": 77.3,
+   "cosine": 0.482,
+   "options": 89.4,
+   "answer": 96.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All B are S.\nII. No S are K.\nConclusions:\nI. All S are B.\nII. Some S are B.\nIII. All K are B.",
+   "options": [
+    "Both conclusions I and II follows",
+    "Only conclusion III follows",
+    "Only conclusion II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+   "options": [
+    "Only conclusions III follows",
+    "Only conclusions II and III follow",
+    "All the conclusions, I, II and III, follow",
+    "Only conclusions I and II follow"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q035",
+  "b": "2021-set5-q035",
+  "scores": {
+   "stem": 82.6,
+   "stemTokenSet": 84.4,
+   "cosine": 0.533,
+   "options": 100.0,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are incorrect?\nI. Total number of odd are 10.\nII. Number of even which are not letters, are 10.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Total number of black are 24.\nII. Number 12 represents those cars which are only black.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q036",
+  "b": "2021-set5-q036",
+  "scores": {
+   "stem": 81.2,
+   "stemTokenSet": 95.3,
+   "cosine": 0.915,
+   "options": 88.7,
+   "answer": 77.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "If South-east becomes North-west and West becomes East, then what South-west will become?",
+   "options": [
+    "North",
+    "East",
+    "North-east",
+    "South"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "If north becomes south-west and south-east becomes north, then what west will become?",
+   "options": [
+    "South-east",
+    "East",
+    "North-east",
+    "North-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q037",
+  "b": "2021-set5-q037",
+  "scores": {
+   "stem": 78.4,
+   "stemTokenSet": 89.1,
+   "cosine": 0.476,
+   "options": 69.9,
+   "answer": 76.5
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Prem walks 13 metres towards north. He turns right and walks 11 metres. He rotates by 90 degrees in anti-clockwise direction and walks 11\nmetres. He again rotates by 90 degrees in anti-clockwise direction and walks 4 metres. How far and in which direction is his starting point from\nthe finishing point?",
+   "options": [
+    "25 metres, South-west",
+    "33 metres, North-east",
+    "25 metres, North-east",
+    "33 metres, South-west"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Radha walks 14 km towards north. She turns right and walks 22 km. She turns right and walks 24 km. She turns left and walks 26 km. She finally\nrotates by an angle of 90 degrees in anti-clockwise direction and walks 24 km. How far and in which direction is her starting point from the\nfinishing point?",
+   "options": [
+    "50 km, south-west",
+    "76 km, north-west",
+    "76 km, south-east",
+    "50 km, north-west"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q038",
+  "b": "2023-06-24-s2-q014",
+  "scores": {
+   "stem": 50.0,
+   "stemTokenSet": 61.9,
+   "cosine": 0.426,
+   "options": 87.5,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ)",
+  "qa": {
+   "text": "In the following question, select the wrong figure from the given series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the alternative figure in which the given figure (X) is embedded.",
+   "options": [
+    "",
+    "",
+    "",
+    "4"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q041",
+  "b": "2021-set5-q041",
+  "scores": {
+   "stem": 76.2,
+   "stemTokenSet": 88.0,
+   "cosine": 0.212,
+   "options": 56.2,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the value of 10 ÷ 5(4 – 2) × 6?",
+   "options": [
+    "12",
+    "8",
+    "6",
+    "24"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "1\nWhat is the value of\n-\n512",
+   "options": [
+    "4",
+    "–8",
+    "8",
+    "–4"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q041",
+  "b": "2021-set5-q187",
+  "scores": {
+   "stem": 41.8,
+   "stemTokenSet": 77.2,
+   "cosine": 0.464,
+   "options": 25.8,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the value of 10 ÷ 5(4 – 2) × 6?",
+   "options": [
+    "12",
+    "8",
+    "6",
+    "24"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "What is the mean of the mode and median of the data given below?\n8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+   "options": [
+    "6.5",
+    "5.75",
+    "6.25",
+    "5.5"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q055",
+  "b": "2021-set5-q055",
+  "scores": {
+   "stem": 66.9,
+   "stemTokenSet": 90.8,
+   "cosine": 0.601,
+   "options": 58.3,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "P and Q alone can do a work in 18 and 45 days respectively. They started the work together and P left after 3 days of start of work. Q completed\nthe remaining work. In how many days was the work completed?",
+   "options": [
+    "37.5",
+    "39.5",
+    "34",
+    "36"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "A and B alone can do a work in 12 and 18 days respectively. A, B and C together can do the same work in 6 days. In how many days can C do\nthe work alone?",
+   "options": [
+    "48",
+    "24",
+    "36",
+    "30"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q056",
+  "b": "2021-set5-q056",
+  "scores": {
+   "stem": 58.0,
+   "stemTokenSet": 86.7,
+   "cosine": 0.426,
+   "options": 69.0,
+   "answer": 70.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Diagonal of a square is 40 cm. What will be the area of square?",
+   "options": [
+    "400~2 cm?",
+    "400 cm^2",
+    "1600 cm^2",
+    "800 cm^2"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Circumference of a circle is equal to the perimeter of a square whose side is 88 cm. What will be the area of circle?",
+   "options": [
+    "9524 cm^2",
+    "7186 cm^2",
+    "9856 cm^2",
+    "12824 cm^2"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q057",
+  "b": "2021-set5-q057",
+  "scores": {
+   "stem": 55.9,
+   "stemTokenSet": 89.6,
+   "cosine": 0.684,
+   "options": 25.9,
+   "answer": 25.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Radius of a solid hemisphere is 12 cm. If hemisphere is melted to form a cone whose base radius is equal to the radius of hemisphere, then what\nwill be the height of cone?",
+   "options": [
+    "18 cm",
+    "24 cm",
+    "8 cm",
+    "16 cm"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Area of the base of a cone is 1386 cm^2. Height of the cone is 54 cm. If cone is melted to form solid hemisphere of radius 3 cm, then how many\nhemisphere will be formed?",
+   "options": [
+    "664",
+    "332",
+    "882",
+    "441"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q062",
+  "b": "2021-set5-q062",
+  "scores": {
+   "stem": 78.4,
+   "stemTokenSet": 87.0,
+   "cosine": 0.46,
+   "options": 19.8,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए शब्द का उपसर्गज्ञात कीजिए।\nऔगुन",
+   "options": [
+    "अव",
+    "आ",
+    "गुन",
+    "ओ"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "दिए गए शब्द की संधि ज्ञात कीजिए।\nदिक् + गज",
+   "options": [
+    "दिक्कज",
+    "दिग्गज",
+    "दिक्गज",
+    "दिकगज़"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q063",
+  "b": "2021-set5-q063",
+  "scores": {
+   "stem": 60.2,
+   "stemTokenSet": 86.4,
+   "cosine": 0.727,
+   "options": 95.5,
+   "answer": 81.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में रेखांकित शब्द की संज्ञा ज्ञात कीजिए।\nबुढापा भी एक प्रकार का अभिशाप हैं।",
+   "options": [
+    "व्यक्तिवाचक संज्ञा",
+    "भाववाचक संज्ञा",
+    "जातिवाचक संज्ञा",
+    "द्रव्यवाचक संज्ञा"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "दिए गए शब्द की संज्ञा ज्ञात कीजिए।\nगुच्छा",
+   "options": [
+    "जातिवाचक संज्ञा",
+    "द्रव्यवाचक संज्ञा",
+    "समूहवाचक संज्ञा",
+    "व्यक्तिवाचक संज्ञा"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q065",
+  "b": "2021-set5-q067",
+  "scores": {
+   "stem": 91.1,
+   "stemTokenSet": 88.5,
+   "cosine": 0.209,
+   "options": 42.8,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअग्रगामी",
+   "options": [
+    "निगामी",
+    "संगामी",
+    "पश्चगामी",
+    "विगामी"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअल्पप्राण",
+   "options": [
+    "प्राण",
+    "महाप्राण",
+    "निप्राण",
+    "आदृ त"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q073",
+  "b": "2021-set5-q072",
+  "scores": {
+   "stem": 82.4,
+   "stemTokenSet": 88.3,
+   "cosine": 0.524,
+   "options": 67.6,
+   "answer": 34.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nक्या आप दिल्ली के रहनेवाले ह",
+   "options": [
+    "योजक",
+    "लोप",
+    "विस्मयादिबोधक",
+    "प्रश्नवाचक"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nछिः यहाँ तो बहुत गंदगी है।",
+   "options": [
+    "अर्द्धविराम",
+    "उपविराम",
+    "विस्मयादिबोधक",
+    "प्रश्नवाचक"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q073",
+  "b": "2021-set5-q073",
+  "scores": {
+   "stem": 79.7,
+   "stemTokenSet": 90.7,
+   "cosine": 0.349,
+   "options": 54.4,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nक्या आप दिल्ली के रहनेवाले ह",
+   "options": [
+    "योजक",
+    "लोप",
+    "विस्मयादिबोधक",
+    "प्रश्नवाचक"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nतुम कब आओगे",
+   "options": [
+    "कोष्ठक",
+    "पूर्णविराम",
+    "प्रश्नवाचक",
+    "अर्द्धविराम"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q074",
+  "b": "2021-set4-q075",
+  "scores": {
+   "stem": 93.6,
+   "stemTokenSet": 92.0,
+   "cosine": 0.454,
+   "options": 47.8,
+   "answer": 51.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्चकरना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q074",
+  "b": "2021-set5-q074",
+  "scores": {
+   "stem": 93.3,
+   "stemTokenSet": 93.3,
+   "cosine": 0.562,
+   "options": 53.5,
+   "answer": 36.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्चकरना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया के पंख गिनना",
+   "options": [
+    "अज्ञान का पर्दादूर करना",
+    "अनुभवी होना",
+    "व्यर्थसमय गंवाना",
+    "छुपी हुई प्रतिभा"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q074",
+  "b": "2021-set5-q075",
+  "scores": {
+   "stem": 93.6,
+   "stemTokenSet": 94.9,
+   "cosine": 0.675,
+   "options": 55.0,
+   "answer": 43.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्चकरना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइधर का न उधर का होना",
+   "options": [
+    "बे-आबरू होना",
+    "खुद पर थोड़ा खर्चकरना",
+    "जीवन की परवाह न करना",
+    "कलंक लगना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q075",
+  "b": "2021-set5-q074",
+  "scores": {
+   "stem": 91.5,
+   "stemTokenSet": 94.6,
+   "cosine": 0.443,
+   "options": 47.7,
+   "answer": 44.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया के पंख गिनना",
+   "options": [
+    "अज्ञान का पर्दादूर करना",
+    "अनुभवी होना",
+    "व्यर्थसमय गंवाना",
+    "छुपी हुई प्रतिभा"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q075",
+  "b": "2021-set5-q075",
+  "scores": {
+   "stem": 94.0,
+   "stemTokenSet": 94.9,
+   "cosine": 0.433,
+   "options": 46.7,
+   "answer": 35.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइधर का न उधर का होना",
+   "options": [
+    "बे-आबरू होना",
+    "खुद पर थोड़ा खर्चकरना",
+    "जीवन की परवाह न करना",
+    "कलंक लगना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q080",
+  "b": "2021-set5-q080",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.414,
+   "options": 52.6,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "आधुनिक संचार क्रांति",
+    "कनेक्शनों और प्रयोगकर्ता",
+    "कम्प्यूटरों की नेटवर्किंग",
+    "वायरस समस्या\nQuestion Id : 2752284597 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension Questions\n: No\nQuestion Numbers : (76 to 80)\nएक गद्यांश दिया गया है। गद्यांश को ध्यानपूर्वक पढ़ें तथा प्रश्नों के सही विकल्प चुने।\nप्रगति के पथ पर मानव बहुत दूर चला आया है। जीवन के हर क्षेत्र में कई ऐसे मुकाम प्राप्त हो गये हैं जो हमें जीवन की सभी सुविधाएँ, सभी आराम प्रदान करते\nहैं। आज संसार मानव की मुट्ठी में समाया हुआ है। जीवन के क्षेत्रों में सबसे अधिक क्रांतिकारी कदम संचार क्षेत्र में उठाए गए हैं। अनेक नए स्रोत, नए साधन और\nनई सुविधाएँ प्राप्त कर ली गई हैं जो हमें आधुनिकता के दौर में काफी ऊपर ले जाकर खड़ा करता है। इसकी शुरूआत 1969 में एडवान्स्ड रिसर्चप्रोजेक्टस\nएजेंसिज द्वारा संयुक्त राज्य अमेरिका के चार विश्वविद्यालयों के कम्प्यूटरों की नेटवर्किंग करके की गई थी। इसका विकास मुख्य रूप से शिक्षा, शोध एवं सरकारी\nसंस्थाओं के लिए किया गया था। इसके पीछे मुख्य उदेश्य था संचार माध्यमों को वैसी आपात स्थिति में भी बनाए रखना जब सारे माध्यम निष्फल हो जाएँ। 1971\nतक इस कम्पनी ने लगभग दो दर्जन कम्प्यूटरों को इस नेट से जोड़ दिया था। 1972 में शुरूआत हुई ई-मेल की जिसने संचार जगत में क्रांति ला दी। 1996 तक\nइंटरनेट की लोकप्रियता काफी बढ़ गयी थीI मोन्ट्रीयल के पीटर ड्यूस ने पहली बार 1989 में मैक्-गिल यूनिवर्सिटी में इंटरनेट इंडेक्स बनाने का प्रयोग किया। वष\n2000 में इंटरनेट इतनी बढ़ गई कि इसमें वायरस जैसी कई तरह की समस्याएँ भी आने लगीं। भारत भी अपनी भागीदारी इन उपलब्धियों में जोडता रहा। आज\nभारत में इंटरनेट कनेक्शनों और प्रयोगकर्ताओं की संख्या लाखों में है। ऐसे ही संचार साधनों में आज एक बड़ा ही सहज नाम इंटरनेट है।\nSub questions"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "हरित क्रांति",
+    "सामाजिक-आर्थिक स्थिति",
+    "शिक्षा तथा राजनैतिक चेतना का विकास",
+    "गेहूँ का उत्पादन\nQuestion Id : 54062618701 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension\nQuestions : No\nQuestion Numbers : (76 to 80)\nदिए गए गद्यांश को ध्यानपूर्वक पढ़िए और दिए गए प्रश्नों के उत्तर दीजिए।\nहरित क्रांति ने स्वतंत्रता के बाद ज़मींदारी उन्मूलन, भूमि सुधार जैसे कदमों के चलते भारत में समतामूलक समाज के निर्माण को गति प्रदान की। इससे छोटे व\nमध्यम स्तर के किसानों की सामाजिक-आर्थिक स्थिति में सुधार हुआ और इससे उनमें शिक्षा तथा राजनैतिक चेतना का विकास हुआ। हरित क्रांति के अंतर्गत\nआधुनिक तकनीकि और खादों का अधिकाधिक प्रयोग करके भूमि पर अधिक से अधिक फसलें उगाने का प्रयास किया गया। इसके लिए जब बड़ी मात्रा म\nरासायनिक खादों का प्रयोग किया गया तो भूमि की उर्वरक क्षमता कम हो गयी। सिंचाई के अधिक प्रयोग के कारण भूमि में नमक की मात्रा भी बढ़ गयी। हरित\nक्रांति देश के कतिपय हिस्सों जैसे-पंजाब, हरियाणा, पश्चिमी उत्तर प्रदेश आदि में ही केन्द्रित थी। अत: इन क्षेत्रों का तेजी से विकास हुआ लेकिन देश के अन्य क्षेत्र\nहरित क्रांति से वंचित रह गये। हमें हरित क्रांति की प्रेरणा तब मिली थी, जब साठ के दशक के मध्य में अच्छी फसल नहीं हुई थी और अकाल के हालात पैदा हो\nगए थे, लेकिन इसका असली उद्देश्य था, भारत में राष्ट्रीय खाद्य सुरक्षा को सुनिश्चित करना और अगर सटीक रूप में कहा जाए तो इसका मुख्य उद्देश्य भारत को\nखाद्यान्न के उत्पादन में आत्मनिर्भर बनाना थाI हरित क्रांति में मुख्यत: गेहूँ के उत्पादन पर विशेष जोर दिया गया थाI आज भारत खाद्यान्न के उत्पादन के मामले म\nराष्ट्रीय स्तर पर आत्मनिर्भर हो गया है व साथ ही गेहूँ और चावल के मामले में विश्व का दूसरा सबसे बड़ा उत्पादक और चावल का सबसे बड़ा निर्यातक बन गया\nहै।\nSub questions"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q081",
+  "b": "2021-set4-q082",
+  "scores": {
+   "stem": 75.8,
+   "stemTokenSet": 77.8,
+   "cosine": 0.276,
+   "options": 52.0,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nRam always respected (1)/ his boss as he was (2)/ senior than him. (3)/ No error (4)",
+   "options": [
+    "Ram always respected",
+    "his boss as he was",
+    "senior than him.",
+    "No error"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nThere needs to be a better (1)/ approach for conserving and (2)/ improving original forest areas. (3)/ No error (4)",
+   "options": [
+    "There needs to be a better",
+    "approach for conserving and",
+    "improving original forest areas.",
+    "No error"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q081",
+  "b": "2021-set5-q081",
+  "scores": {
+   "stem": 78.7,
+   "stemTokenSet": 78.3,
+   "cosine": 0.34,
+   "options": 53.7,
+   "answer": 35.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nRam always respected (1)/ his boss as he was (2)/ senior than him. (3)/ No error (4)",
+   "options": [
+    "Ram always respected",
+    "his boss as he was",
+    "senior than him.",
+    "No error"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nHe have never (1)/and will never take your (2)/suggestion on this project. (3)/No error (4)",
+   "options": [
+    "He have never",
+    "and will never take your",
+    "suggestion on this project.",
+    "No error"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q081",
+  "b": "2021-set5-q082",
+  "scores": {
+   "stem": 75.1,
+   "stemTokenSet": 77.8,
+   "cosine": 0.242,
+   "options": 52.3,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nRam always respected (1)/ his boss as he was (2)/ senior than him. (3)/ No error (4)",
+   "options": [
+    "Ram always respected",
+    "his boss as he was",
+    "senior than him.",
+    "No error"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nHigher education policy must seek (1)/ a higher transition rate between(2)/ first university to doctoral degrees. (3)/ No error (4)",
+   "options": [
+    "Higher education policy must seek",
+    "a higher transition rate between",
+    "first university to doctoral degrees.",
+    "No error"
+   ],
+   "key": ""
+  }
+ },
+ {
+  "a": "2021-set4-q082",
+  "b": "2021-set5-q081",
+  "scores": {
+   "stem": 75.5,
+   "stemTokenSet": 75.7,
+   "cosine": 0.285,
+   "options": 53.5,
+   "answer": 30.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nThere needs to be a better (1)/ approach for conserving and (2)/ improving original forest areas. (3)/ No error (4)",
+   "options": [
+    "There needs to be a better",
+    "approach for conserving and",
+    "improving original forest areas.",
+    "No error"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Find the part of the given sentence that has an error in it. If there is no error, choose ‘No error’.\nHe have never (1)/and will never take your (2)/suggestion on this project. (3)/No error (4)",
+   "options": [
+    "He have never",
+    "and will never take your",
+    "suggestion on this project.",
+    "No error"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q083",
+  "b": "2021-set4-q084",
+  "scores": {
+   "stem": 82.2,
+   "stemTokenSet": 85.6,
+   "cosine": 0.496,
+   "options": 66.5,
+   "answer": 38.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nSumit have to take a bus or sometimes walk to reach the coaching centre.",
+   "options": [
+    "had to",
+    "have had to",
+    "must to",
+    "No Improvement"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThis is not fair to us who are planned to go abroad.",
+   "options": [
+    "are plans to",
+    "had planning to",
+    "are planning to",
+    "No Improvement"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q083",
+  "b": "2021-set5-q083",
+  "scores": {
+   "stem": 81.6,
+   "stemTokenSet": 80.8,
+   "cosine": 0.418,
+   "options": 56.7,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nSumit have to take a bus or sometimes walk to reach the coaching centre.",
+   "options": [
+    "had to",
+    "have had to",
+    "must to",
+    "No Improvement"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAt the age of 83, she published her first book. What an inspiring!",
+   "options": [
+    "What a inspiration",
+    "What an inspiration",
+    "What a inspiring",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q083",
+  "b": "2021-set5-q084",
+  "scores": {
+   "stem": 83.0,
+   "stemTokenSet": 87.1,
+   "cosine": 0.445,
+   "options": 49.5,
+   "answer": 37.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nSumit have to take a bus or sometimes walk to reach the coaching centre.",
+   "options": [
+    "had to",
+    "have had to",
+    "must to",
+    "No Improvement"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q084",
+  "b": "2021-set5-q083",
+  "scores": {
+   "stem": 83.1,
+   "stemTokenSet": 85.6,
+   "cosine": 0.428,
+   "options": 62.5,
+   "answer": 47.1
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThis is not fair to us who are planned to go abroad.",
+   "options": [
+    "are plans to",
+    "had planning to",
+    "are planning to",
+    "No Improvement"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAt the age of 83, she published her first book. What an inspiring!",
+   "options": [
+    "What a inspiration",
+    "What an inspiration",
+    "What a inspiring",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q084",
+  "b": "2021-set5-q084",
+  "scores": {
+   "stem": 87.3,
+   "stemTokenSet": 88.6,
+   "cosine": 0.485,
+   "options": 51.5,
+   "answer": 24.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nThis is not fair to us who are planned to go abroad.",
+   "options": [
+    "are plans to",
+    "had planning to",
+    "are planning to",
+    "No Improvement"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q085",
+  "b": "2021-set4-q086",
+  "scores": {
+   "stem": 79.5,
+   "stemTokenSet": 80.7,
+   "cosine": 0.264,
+   "options": 44.3,
+   "answer": 23.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nWaste management is one of the biggest ______ for the country.",
+   "options": [
+    "compromise",
+    "challenges",
+    "sacrifices",
+    "leads"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nWhen she ______ at her place, Mahima had left.",
+   "options": [
+    "has arrived",
+    "arrived",
+    "arrives",
+    "had arrived"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q085",
+  "b": "2021-set5-q085",
+  "scores": {
+   "stem": 76.8,
+   "stemTokenSet": 81.3,
+   "cosine": 0.278,
+   "options": 40.4,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nWaste management is one of the biggest ______ for the country.",
+   "options": [
+    "compromise",
+    "challenges",
+    "sacrifices",
+    "leads"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nNo matter how tough a situation gets, you can always ______ it with your will power.",
+   "options": [
+    "covert",
+    "overwhelm",
+    "come",
+    "overcome"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q085",
+  "b": "2021-set5-q086",
+  "scores": {
+   "stem": 80.8,
+   "stemTokenSet": 84.4,
+   "cosine": 0.328,
+   "options": 25.7,
+   "answer": 15.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nWaste management is one of the biggest ______ for the country.",
+   "options": [
+    "compromise",
+    "challenges",
+    "sacrifices",
+    "leads"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nShe is the girl ______ stole my handbag.",
+   "options": [
+    "that",
+    "whom",
+    "which",
+    "who"
+   ],
+   "key": "D"
+  }
+ }
+]

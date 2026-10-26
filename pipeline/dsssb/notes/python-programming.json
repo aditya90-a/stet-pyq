@@ -1,0 +1,540 @@
+{
+  "slug": "python-programming",
+  "subject": "Computer Science",
+  "topic": "Python Programming",
+  "titleHi": "पायथन प्रोग्रामिंग",
+  "summary": "Python syntax, data types, operators, control flow, strings, lists, tuples, sets, dictionaries, functions, modules and file handling, with exact outputs of typical code. DSSSB asks direct questions on built-in functions, methods and file modes, and output-prediction questions, so the precise behaviour of each feature matters.",
+  "sections": [
+    {
+      "heading": "Python basics: features, syntax and identifiers",
+      "level": "basic",
+      "subtopic": "Syntax, data types & operators",
+      "body": "**Python** is a high-level, **interpreted**, **dynamically typed** (a variable's type is decided at run time) and **object-oriented** language created by **Guido van Rossum**. Everything in Python, including numbers and functions, is an object.\nSyntax rules:\n- Blocks are marked by **indentation** (not braces); wrong indentation raises `IndentationError`. A colon `:` ends the header of `if`, `for`, `while`, `def` and `class`.\n- `#` starts a single-line comment. A triple-quoted string (`'''...'''` or `\"\"\"...\"\"\"`) is used for multi-line text and **docstrings**.\n- Python is **case-sensitive**: `Total` and `total` are different names.\n**Identifier rules**: letters, digits and underscore only; cannot start with a digit; no keywords; no special symbols such as `@`, `$`, `-`; **no length limit**. Examples: `_count`, `marks2` are valid; `2marks`, `my-name`, `for` are not.\n`True`, `False` and `None` are the only keywords that begin with a capital letter.\nTwo modes: **interactive mode** (the `>>>` prompt, one statement at a time) and **script mode** (a `.py` file). `input()` always returns a **string**; `print(*values, sep=' ', end='\\n')` prints values separated by a space and ends with a newline."
+    },
+    {
+      "heading": "Data types and type conversion",
+      "level": "basic",
+      "subtopic": "Syntax, data types & operators",
+      "body": "Python's built-in types (check with `type(x)`; `id(x)` gives the object's identity):\n- **Numbers**: `int` (unlimited precision), `float`, `complex` (`3+4j`), and `bool` (a subclass of int: `True == 1`).\n- **Sequences**: `str`, `list`, `tuple`, `range`.\n- **Set types**: `set`, `frozenset`. **Mapping**: `dict`. **None type**: `None`.\n**Mutable** objects can be changed in place (list, dict, set). **Immutable** ones cannot (int, float, bool, str, tuple, frozenset); \"changing\" them creates a new object.\n**Type conversion**: implicit (e.g. `3 + 2.0` gives `5.0`) or explicit with `int()`, `float()`, `str()`, `list()`, `tuple()`, `set()`, `dict()`. `int(3.9)` is `3` (truncation), `int(\"25\")` is `25`, `int(\"2.5\")` raises `ValueError`.\n`ord('A')` gives the Unicode code **65**; `chr(97)` gives `'a'`.\n**Falsy values**: `0`, `0.0`, `''`, `[]`, `()`, `{}`, `set()`, `None`, `False`; everything else is truthy.",
+      "table": {
+        "columns": [
+          "Type",
+          "Example",
+          "Ordered",
+          "Mutable",
+          "Duplicates"
+        ],
+        "rows": [
+          [
+            "str",
+            "'abc'",
+            "Yes",
+            "No",
+            "Yes"
+          ],
+          [
+            "list",
+            "[1, 'a', 2.5]",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "tuple",
+            "(1, 2, 3)",
+            "Yes",
+            "No",
+            "Yes"
+          ],
+          [
+            "set",
+            "{1, 2, 3}",
+            "No",
+            "Yes",
+            "No"
+          ],
+          [
+            "dict",
+            "{'a': 1}",
+            "Insertion order kept (3.7+)",
+            "Yes",
+            "Keys: no; values: yes"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Operators and precedence",
+      "level": "intermediate",
+      "subtopic": "Syntax, data types & operators",
+      "body": "- **Arithmetic**: `+ - * / // % **`. `/` always gives a float (`6/2 = 3.0`). `//` is **floor** division (rounds toward minus infinity: `-7//2 = -4`). `%` takes the sign of the **divisor** (`-7 % 3 = 2`). `**` is **right-associative**: `2**3**2 = 2**9 = 512`.\n- **Relational**: `< <= > >= == !=`. Comparisons can be chained: `1 < x < 5`.\n- **Logical**: `and`, `or`, `not`. They short-circuit and return one of the operands: `0 or 'x'` gives `'x'`, `3 and 5` gives `5`.\n- **Identity**: `is`, `is not` (same object?). **Membership**: `in`, `not in`.\n- **Bitwise**: `& | ^ ~ << >>`. **Assignment**: `= += -= *= //= **=` etc. Python has **no `++` or `--`**.\nPrecedence (high to low): `()` → `**` → unary `+x -x ~x` → `* / // %` → `+ -` → `<< >>` → `&` → `^` → `|` → comparisons, `in`, `is` → `not` → `and` → `or`.\nFloats are binary approximations, so `0.1 + 0.2 == 0.3` is `False`.",
+      "code": {
+        "lang": "python",
+        "source": "print(7 / 2, 7 // 2, -7 // 2)\nprint(7 % 3, -7 % 3, 2 ** 3 ** 2)\nprint(0 or \"x\", 3 and 5, not [])\nprint(1 < 2 < 3, 10 == 10.0, 0.1 + 0.2 == 0.3)",
+        "output": "3.5 3 -4\n1 2 512\nx 5 True\nTrue True False"
+      }
+    },
+    {
+      "heading": "Control flow: if, while, for, break, continue, pass",
+      "level": "basic",
+      "subtopic": "Control flow",
+      "body": "- **Selection**: `if`, `if-else`, `if-elif-else` (Python 3.10+ also has `match-case`; there is no `switch`).\n- **while loop**: repeats while the condition is true (Python has no do-while).\n- **for loop**: iterates over any iterable (string, list, tuple, dict, range, file).\n- `range(stop)`, `range(start, stop)`, `range(start, stop, step)`: the **stop value is excluded**. `range(5)` gives 0 to 4; `range(10, 0, -3)` gives 10, 7, 4, 1.\n- `break` exits the innermost loop; `continue` skips to the next iteration; `pass` is a null statement used where syntax needs a statement.\n- A loop may have an **`else` clause**, which runs only when the loop ends normally (**not** through `break`). This is handy for searching, e.g. prime testing below.",
+      "code": {
+        "lang": "python",
+        "source": "for i in range(1, 10, 3):\n    print(i, end=\" \")\nprint()\nfor n in range(2, 10):\n    for d in range(2, n):\n        if n % d == 0:\n            break\n    else:                      # runs only if no break\n        print(n, end=\" \")\nprint()\ni = 0\nwhile i < 5:\n    i += 1\n    if i == 3:\n        continue\n    print(i, end=\" \")",
+        "output": "1 4 7\n2 3 5 7\n1 2 4 5"
+      }
+    },
+    {
+      "heading": "Exception handling",
+      "level": "intermediate",
+      "subtopic": "Control flow",
+      "body": "Errors detected while running are **exceptions**. Syntax errors are found before the program runs.\n- `try`: code that may fail. `except ExceptionType [as e]`: handler (a bare `except:` catches everything).\n- `else`: runs only if the try block raised **no** exception.\n- `finally`: **always** runs (cleanup), even when the try or except block returns.\n- `raise ValueError(\"msg\")` raises an exception yourself; `assert cond, msg` raises `AssertionError` when `cond` is false.",
+      "table": {
+        "columns": [
+          "Exception",
+          "Typical cause"
+        ],
+        "rows": [
+          [
+            "ZeroDivisionError",
+            "10 / 0 or 10 % 0"
+          ],
+          [
+            "ValueError",
+            "int('abc'): right type, wrong value"
+          ],
+          [
+            "TypeError",
+            "'2' + 3: wrong type for operation"
+          ],
+          [
+            "IndexError",
+            "Index outside a list/string/tuple"
+          ],
+          [
+            "KeyError",
+            "Missing key in d[key]"
+          ],
+          [
+            "NameError",
+            "Using an undefined variable"
+          ],
+          [
+            "ImportError / ModuleNotFoundError",
+            "Python cannot find or load the module"
+          ],
+          [
+            "FileNotFoundError",
+            "Opening a missing file in 'r' mode"
+          ],
+          [
+            "IndentationError",
+            "Wrong indentation (a kind of SyntaxError)"
+          ]
+        ]
+      },
+      "code": {
+        "lang": "python",
+        "source": "def safe_div(a, b):\n    try:\n        result = a / b\n    except ZeroDivisionError:\n        print(\"cannot divide by zero\")\n        return None\n    else:\n        return result\n    finally:\n        print(\"done\", a, b)\n\nprint(safe_div(8, 2))\nprint(safe_div(1, 0))\ntry:\n    int(\"12a\")\nexcept ValueError as e:\n    print(\"ValueError:\", e)",
+        "output": "done 8 2\n4.0\ncannot divide by zero\ndone 1 0\nNone\nValueError: invalid literal for int() with base 10: '12a'"
+      }
+    },
+    {
+      "heading": "Strings",
+      "level": "intermediate",
+      "subtopic": "Strings, lists, tuples & dictionaries",
+      "body": "A string is an **immutable** sequence of Unicode characters; `s[0] = 'x'` raises `TypeError`.\n- **Indexing**: `0` to `n-1` from the left, `-1` to `-n` from the right.\n- **Slicing** `s[start:stop:step]`: stop is excluded; omitted start/stop mean the ends; `s[::-1]` reverses. Slices never raise IndexError.\n- **Operators**: `+` (concatenate), `*` (repeat), `in` (substring test), comparison by Unicode code points.\n- `len(s)`, `max(s)`, `min(s)` (highest/lowest code point character), `ord()`, `chr()`.\n- `find()` returns **-1** if not found, but `index()` raises **ValueError**.\n- `split()` returns a **list**; `'sep'.join(list)` builds a string from a list of strings.",
+      "table": {
+        "columns": [
+          "Method",
+          "Result for s = '  Hello World  '"
+        ],
+        "rows": [
+          [
+            "s.strip() / lstrip() / rstrip()",
+            "'Hello World' (removes leading and trailing whitespace) / left only / right only"
+          ],
+          [
+            "s.upper(), s.lower()",
+            "'  HELLO WORLD  ', '  hello world  '"
+          ],
+          [
+            "s.strip().title(), capitalize()",
+            "'Hello World', '  hello world  ' (first char is a space)"
+          ],
+          [
+            "s.count('l')",
+            "3"
+          ],
+          [
+            "s.replace('l', 'L')",
+            "'  HeLLo WorLd  '"
+          ],
+          [
+            "s.strip().startswith('He')",
+            "True"
+          ],
+          [
+            "'abc12'.isalnum(), 'abc'.isalpha(), '123'.isdigit()",
+            "True, True, True"
+          ]
+        ]
+      },
+      "code": {
+        "lang": "python",
+        "source": "s = \"Hello World\"\nprint(s[0], s[-1], s[2:7], s[::-1])\nprint(s[::2], s[-5:], len(s))\nprint(s.upper(), s.lower(), s.swapcase())\nprint(s.find(\"o\"), s.find(\"z\"), s.count(\"l\"))\nprint(s.split(), \"-\".join([\"a\", \"b\", \"c\"]))\nprint(\"  hi  \".strip() + \"|\", max(\"python\"), \"ab\" * 3)",
+        "output": "H d llo W dlroW olleH\nHloWrd World 11\nHELLO WORLD hello world hELLO wORLD\n4 -1 3\n['Hello', 'World'] a-b-c\nhi| y ababab"
+      }
+    },
+    {
+      "heading": "Lists",
+      "level": "intermediate",
+      "subtopic": "Strings, lists, tuples & dictionaries",
+      "body": "A list is an **ordered, mutable** sequence that can hold mixed types: `[10, 'a', 2.5, [1, 2]]`. Indexing and slicing work as for strings, and slices can also be assigned.\n- `append(x)` adds **one** element (even a list) at the end; `extend(iterable)` adds each element.\n- `insert(i, x)` inserts before index i; `remove(x)` deletes the **first occurrence by value** (ValueError if absent).\n- `pop()` removes and returns the last element; `pop(i)` the element at index i. `del a[i]` or `del a[i:j]` delete without returning.\n- `index(x)`, `count(x)`, `reverse()`, `clear()`, `copy()`.\n- `a.sort()` sorts **in place and returns None**; `sorted(a)` returns a **new** list. Both accept `reverse=True` and `key=`.\n**Aliasing**: `b = a` makes both names refer to the same list; use `a[:]`, `list(a)` or `a.copy()` for a (shallow) copy.\n**List comprehension**: `[expr for x in iterable if condition]`.",
+      "code": {
+        "lang": "python",
+        "source": "a = [3, 1, 4, 1, 5]\na.append([9, 2])\nprint(a, len(a))\na.pop()\na.extend([9, 2])\na.insert(0, 7)\na.remove(1)\nprint(a)\nprint(a.pop(2), a.index(5), a.count(1))\nb = a\nb.sort()\nprint(a, sorted(a, reverse=True)[:3])\nprint([x * x for x in range(6) if x % 2 == 0])",
+        "output": "[3, 1, 4, 1, 5, [9, 2]] 6\n[7, 3, 4, 1, 5, 9, 2]\n4 3 1\n[1, 2, 3, 5, 7, 9] [9, 7, 5]\n[0, 4, 16]"
+      }
+    },
+    {
+      "heading": "Tuples and sets",
+      "level": "intermediate",
+      "subtopic": "Strings, lists, tuples & dictionaries",
+      "body": "A **tuple** is an ordered, **immutable** sequence: `(1, 2, 3)`. Parentheses are optional: `t = 1, 2, 3` (**packing**), and `a, b, c = t` (**unpacking**); `a, b = b, a` swaps two variables. A one-element tuple needs a comma: `(5,)`, because `(5)` is just the int 5. Tuples have only `count()` and `index()`. Being immutable, a tuple of immutable items can be a **dictionary key**.\nA **set** is an **unordered** collection of **unique**, hashable elements; it is mutable (`frozenset` is the immutable version). `{}` creates an empty **dict**, so use `set()` for an empty set. Sets do not support indexing.\n- `add(x)`, `update(iterable)`, `remove(x)` (KeyError if absent), `discard(x)` (no error), `pop()` (removes an arbitrary element).\n- Union `|`, intersection `&`, difference `-`, symmetric difference `^`.",
+      "code": {
+        "lang": "python",
+        "source": "t = 10, 20, 30          # packing\na, b, c = t             # unpacking\nprint(type(t).__name__, a + c, t[1:], (5,) * 2)\ns1 = {1, 2, 3, 4}\ns2 = {3, 4, 5}\nprint(s1 & s2, s1 | s2, s1 - s2, s1 ^ s2)\nprint(type({}).__name__, len(set(\"banana\")))",
+        "output": "tuple 40 (20, 30) (5, 5)\n{3, 4} {1, 2, 3, 4, 5} {1, 2} {1, 2, 5}\ndict 3"
+      }
+    },
+    {
+      "heading": "Dictionaries",
+      "level": "intermediate",
+      "subtopic": "Strings, lists, tuples & dictionaries",
+      "body": "A dictionary stores **key: value** pairs: `{'roll': 7, 'name': 'Asha'}`. It is mutable and, since Python 3.7, keeps **insertion order**.\n- **Keys must be unique and immutable (hashable)**: str, int, float, tuple of immutables. A list cannot be a key. **Values** can be of any type and may repeat.\n- Assigning to an existing key **replaces** its value; to a new key **adds** a pair.\n- `d[k]` raises **KeyError** for a missing key; `d.get(k)` returns `None` (or a given default).\n- `keys()`, `values()`, `items()` return view objects; `k in d` tests **keys only**.\n- `update(other)`, `pop(k)` (returns the value), `popitem()` (removes the last inserted pair), `del d[k]`, `clear()`, `len(d)`, `dict.fromkeys(keys, value)`.\n- Dict comprehension: `{x: x * x for x in range(4)}` gives `{0: 0, 1: 1, 2: 4, 3: 9}`.",
+      "code": {
+        "lang": "python",
+        "source": "d = {\"apple\": 3, \"mango\": 5}\nd[\"kiwi\"] = 2\nd[\"apple\"] = 10           # existing key: value replaced\nprint(d)\nprint(d.get(\"pear\"), d.get(\"pear\", 0), \"mango\" in d, 5 in d)\nfor k, v in d.items():\n    print(k, v)\nprint(d.pop(\"mango\"), list(d.keys()), sum(d.values()))",
+        "output": "{'apple': 10, 'mango': 5, 'kiwi': 2}\nNone 0 True False\napple 10\nmango 5\nkiwi 2\n5 ['apple', 'kiwi'] 12"
+      }
+    },
+    {
+      "heading": "Functions, arguments and scope",
+      "level": "intermediate",
+      "subtopic": "Functions & modules",
+      "body": "A function is defined with `def name(parameters):`. Without a `return` statement it returns **None**; `return a, b` returns a **tuple**.\nKinds of arguments:\n- **Positional** (matched by order) and **keyword** (`f(b=2, a=1)`).\n- **Default** parameters (`def f(a, b=5)`); non-default parameters must come before default ones.\n- `*args` collects extra positional arguments into a **tuple**; `**kwargs` collects extra keyword arguments into a **dict**.\nDefault values are evaluated **once**, when the function is defined, so a mutable default (like `[]`) is shared between calls.\n**Scope (LEGB rule)**: names are searched in Local → Enclosing → Global → Built-in order. To assign a global variable inside a function, declare it `global`; for an enclosing function's variable use `nonlocal`.\nArguments are passed by **object reference**: changes made inside a function to a mutable object (list, dict) are visible outside, but rebinding the parameter is not.\n**lambda** creates a small anonymous function with a single expression: `square = lambda x: x * x`. A function that calls itself is **recursive** (the default recursion limit is about 1000).",
+      "code": {
+        "lang": "python",
+        "source": "def stats(*nums, scale=1):\n    return min(nums) * scale, max(nums) * scale\n\ndef add_item(x, bucket=[]):     # default list is created only once\n    bucket.append(x)\n    return bucket\n\ncount = 0\ndef bump():\n    global count\n    count += 1\n\nlo, hi = stats(4, 9, 2, scale=10)\nprint(lo, hi)\nprint(add_item(1), add_item(2))\nbump(); bump()\nprint(count, (lambda a, b=2: a ** b)(5))",
+        "output": "20 90\n[1, 2] [1, 2]\n2 25"
+      }
+    },
+    {
+      "heading": "Modules, packages and the standard library",
+      "level": "intermediate",
+      "subtopic": "Functions & modules",
+      "body": "A **module** is a `.py` file of definitions; a **package** is a directory of modules (traditionally containing `__init__.py`). Ways to import:\n- `import math` → use `math.sqrt(16)`\n- `from math import sqrt, pi` → use `sqrt(16)` directly\n- `import numpy as np` → alias; `from math import *` imports all public names (not recommended).\nWhen a file is run directly its `__name__` is `'__main__'`; when imported, `__name__` is the module's name. `dir(module)` lists names and `help()` shows documentation. If Python cannot find a module you get **ImportError** (`ModuleNotFoundError`); third-party packages are installed with `pip`.\nUseful modules: **math** (`sqrt` returns float, `ceil`, `floor`, `pow` returns float, `factorial`, `gcd`, `pi`, `e`), **random** (`random()` in [0.0, 1.0), `randint(a, b)` includes **both** a and b, `randrange(start, stop)` excludes stop, `choice`, `shuffle`), **statistics** (`mean`, `median`, `mode`), `os`, `sys`, `datetime`, `csv`, `pickle`.\nBuilt-in `round()` uses **round-half-to-even**: `round(2.5)` is 2, `round(3.5)` is 4.",
+      "code": {
+        "lang": "python",
+        "source": "import math\nfrom math import floor as fl\nimport statistics as st\nprint(math.sqrt(16), math.ceil(4.1), fl(-4.1), math.pow(2, 3))\nprint(math.factorial(5), math.gcd(12, 18), round(2.5), round(3.5))\nprint(st.mean([2, 4, 9]), st.median([3, 1, 4, 2]), st.mode([1, 2, 2, 3]))\nprint(__name__)",
+        "output": "4.0 5 -5 8.0\n120 6 2 4\n5 2.5 2\n__main__"
+      }
+    },
+    {
+      "heading": "Data-handling libraries: NumPy, pandas, Matplotlib",
+      "level": "advanced",
+      "subtopic": "Functions & modules",
+      "body": "These third-party libraries appear in the school (CBSE) syllabus and in DSSSB questions.\n- **NumPy** (`import numpy as np`): `ndarray`, a fast **homogeneous** n-dimensional array with vectorised operations.\n- **pandas** (`import pandas as pd`): a **Series** is a one-dimensional **labelled** array that can hold any data type; a **DataFrame** is a two-dimensional labelled table (rows and columns), like a spreadsheet. Common calls: `pd.read_csv()`, `df.head()`, `df.tail()`, `df.describe()`, `df.loc[]` (label-based), `df.iloc[]` (position-based), `df.set_index('col')` (makes a column the index), `df.sort_values()`.\n- **Matplotlib** (`import matplotlib.pyplot as plt`): `plot()` (line), `bar()`, `hist()`, `scatter()`, `pie()`, `xlabel()`, `title()`, `show()`."
+    },
+    {
+      "heading": "File handling",
+      "level": "intermediate",
+      "subtopic": "File handling",
+      "body": "**Text files** store characters (`.txt`, `.py`, `.csv`) with an end-of-line marker; **binary files** store raw bytes (images, `.dat` files written with `pickle`).\n`f = open(filename, mode)` returns a file object; always `close()` it, or use `with open(...) as f:` which closes the file automatically, even after an error.\nReading: `read()` (whole file as one string), `read(n)` (n characters), `readline()` (one line, including `\\n`), `readlines()` (list of all lines). Writing: `write(s)` (returns the number of characters written; does not add `\\n`), `writelines(list_of_strings)`.\n`tell()` returns the current position of the file pointer; `seek(offset)` moves it (offsets other than 0 from the start are reliable only in binary mode or with values returned by `tell()`).\n**pickle**: `pickle.dump(obj, f)` and `pickle.load(f)` on a file opened in `'wb'` / `'rb'` (serialisation / deserialisation). **csv**: `csv.writer(f).writerow(list)` and `csv.reader(f)`; open with `newline=''`.",
+      "table": {
+        "columns": [
+          "Mode",
+          "Meaning",
+          "File missing",
+          "Pointer at"
+        ],
+        "rows": [
+          [
+            "r",
+            "Read only (default)",
+            "FileNotFoundError",
+            "Start"
+          ],
+          [
+            "w",
+            "Write only; truncates existing content",
+            "Created",
+            "Start"
+          ],
+          [
+            "a",
+            "Append; writes go to the end",
+            "Created",
+            "End"
+          ],
+          [
+            "x",
+            "Exclusive create",
+            "Created (error if it exists)",
+            "Start"
+          ],
+          [
+            "r+",
+            "Read and write, no truncation",
+            "FileNotFoundError",
+            "Start"
+          ],
+          [
+            "w+",
+            "Write and read; truncates",
+            "Created",
+            "Start"
+          ],
+          [
+            "a+",
+            "Append and read",
+            "Created",
+            "End"
+          ],
+          [
+            "rb, wb, ab, rb+ ...",
+            "Same modes for binary files",
+            "As above",
+            "As above"
+          ]
+        ]
+      },
+      "code": {
+        "lang": "python",
+        "source": "with open(\"demo.txt\", \"w\") as f:\n    n = f.write(\"line one\\nline two\\n\")\n    f.writelines([\"line three\\n\"])\nprint(n)\nwith open(\"demo.txt\", \"a\") as f:\n    f.write(\"line four\\n\")\nwith open(\"demo.txt\") as f:        # default mode is \"r\"\n    print(f.readline().strip())\n    rest = f.readlines()\nprint(len(rest), rest[-1].strip())\nwith open(\"demo.txt\", \"rb\") as f:\n    f.seek(5)\n    print(f.read(3), f.tell())",
+        "output": "18\nline one\n3 line four\nb'one' 8"
+      }
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Number of values in range(start, stop, step)",
+      "formula": "max(0, ⌈(stop - start) ÷ step⌉)",
+      "note": "range(1, 10, 3) → ⌈9 ÷ 3⌉ = 3 values (1, 4, 7); range(10, 0, -3) → ⌈-10 ÷ -3⌉ = 4 values."
+    },
+    {
+      "name": "Negative index",
+      "formula": "s[-k] = s[len(s) - k]",
+      "note": "s[-1] is the last element."
+    },
+    {
+      "name": "Floor division and modulus",
+      "formula": "a = (a // b) × b + (a % b)",
+      "note": "a % b has the sign of b: -7 // 2 = -4 and -7 % 2 = 1."
+    },
+    {
+      "name": "Slice length (positive step)",
+      "formula": "len(s[i:j]) = max(0, j - i) for 0 ≤ i, j ≤ len(s)",
+      "note": "Indices beyond the length are clipped, never an error."
+    },
+    {
+      "name": "Exponent associativity",
+      "formula": "a ** b ** c = a ** (b ** c)",
+      "note": "2 ** 3 ** 2 = 2 ** 9 = 512; also -2 ** 2 = -(2 ** 2) = -4."
+    }
+  ],
+  "workedExamples": [
+    {
+      "problem": "s = \"COMPUTER\". Find s[1:5], s[-3:], s[::3], s[5:1:-1] and s[:-4].",
+      "solution": "Index the string: C0 O1 M2 P3 U4 T5 E6 R7 (negative: R is -1, E -2, T -3).\n- s[1:5] → indices 1, 2, 3, 4 → **OMPU**\n- s[-3:] → from T to the end → **TER**\n- s[::3] → indices 0, 3, 6 → **CPE**\n- s[5:1:-1] → indices 5, 4, 3, 2 (1 excluded) → **TUPM**\n- s[:-4] → indices 0 to 3 → **COMP**"
+    },
+    {
+      "problem": "Evaluate in Python: 2 + 3 * 4 ** 2 // 5 % 3 - -7 // 2",
+      "solution": "Precedence: ** first, then unary minus, then * / // % (left to right), then + -.\n- 4 ** 2 = 16\n- -7 is a unary minus applied to 7, so the last term is (-7) // 2 = -4 (floor of -3.5)\n- 3 * 16 = 48 → 48 // 5 = 9 → 9 % 3 = 0\n- 2 + 0 - (-4) = **6**"
+    },
+    {
+      "problem": "a = [1, 2, 3]; b = a; c = a[:]; b.append(4); c.append(5)\nprint(a, b, c, a is b, a == c)",
+      "solution": "- b = a makes b another name for the **same** list.\n- c = a[:] creates a **new** list with the same elements.\n- b.append(4) changes the shared list: a and b are both [1, 2, 3, 4].\n- c.append(5) changes only c: [1, 2, 3, 5].\n- a is b → True (same object); a == c → False (contents differ).\nOutput: **[1, 2, 3, 4] [1, 2, 3, 4] [1, 2, 3, 5] True False**"
+    },
+    {
+      "problem": "What is the value of total?\ntotal = 0\nfor i in range(1, 6):\n    if i % 2 == 0:\n        continue\n    total += i\nelse:\n    total *= 10",
+      "solution": "range(1, 6) gives 1, 2, 3, 4, 5.\n- Even values 2 and 4 are skipped by continue.\n- total = 1 + 3 + 5 = 9.\n- continue is not break, so the loop ends normally and the else block runs: total = 9 × 10 = **90**."
+    },
+    {
+      "problem": "Write code to count the frequency of each character in \"mississippi\" using a dictionary, and give the output.",
+      "solution": "freq = {}\nfor ch in \"mississippi\":\n    freq[ch] = freq.get(ch, 0) + 1\nprint(freq)\nget(ch, 0) returns 0 the first time a character is seen. Keys appear in the order first inserted (m, i, s, p).\nCounts: m = 1, i = 4, s = 4, p = 2.\nOutput: **{'m': 1, 'i': 4, 's': 4, 'p': 2}**"
+    },
+    {
+      "problem": "A program runs: open('x.txt', 'w').write('Hi'); then open('x.txt', 'a').write('There'); then open('x.txt', 'w').write('Bye') (each file is closed after its write). What does x.txt contain? What happens if the program then opens 'y.txt' (which does not exist) in 'r' mode and in 'a' mode?",
+      "solution": "- 'w' creates x.txt and writes 'Hi'.\n- 'a' appends: 'HiThere'.\n- 'w' again **truncates** the file and writes 'Bye'. Final content: **Bye**\n- open('y.txt', 'r') raises **FileNotFoundError**.\n- open('y.txt', 'a') **creates** an empty y.txt, with the pointer at the end."
+    }
+  ],
+  "pitfalls": [
+    "/ always returns a float in Python 3 (6 / 2 = 3.0); use // for floor division, which rounds toward minus infinity.",
+    "list.sort() returns None; writing a = a.sort() loses the list. Use sorted() for a new list.",
+    "append() adds its argument as a single element; extend() adds each item of the iterable.",
+    "{} is an empty dictionary, not an empty set; use set().",
+    "(5) is an int; a one-element tuple needs a trailing comma: (5,).",
+    "Strings and tuples are immutable: item assignment raises TypeError.",
+    "find() returns -1 when the substring is missing, but index() raises ValueError.",
+    "Mutable default arguments (def f(x, lst=[])) are shared across calls.",
+    "Opening an existing file in 'w' mode erases its contents; use 'a' to add data.",
+    "random.randint(a, b) includes b, but range() and random.randrange() exclude the stop value.",
+    "round() uses banker's rounding: round(2.5) = 2, round(0.5) = 0."
+  ],
+  "quickRevision": [
+    "Comments start with #; blocks are defined by indentation.",
+    "Identifiers: letters, digits, underscore; cannot start with a digit; no length limit; case-sensitive.",
+    "Immutable: int, float, bool, str, tuple, frozenset. Mutable: list, dict, set.",
+    "ord('A') = 65, chr(97) = 'a'; input() always returns a string.",
+    "** is right-associative; and/or return an operand, not necessarily True/False.",
+    "range(start, stop, step) excludes stop.",
+    "A loop's else block runs only if the loop was not ended by break.",
+    "s[::-1] reverses a sequence; slicing never raises IndexError.",
+    "strip() removes leading and trailing whitespace; split() returns a list.",
+    "max() on a string returns the character with the highest Unicode (ASCII) value.",
+    "Dictionary keys are unique and immutable; values can repeat.",
+    "pop() removes the last list item; remove(x) removes the first occurrence of x.",
+    "A function without return returns None; *args is a tuple, **kwargs a dict.",
+    "'r+' opens for read and write with the pointer at the start; 'a' places it at the end.",
+    "pandas Series = 1-D labelled array; DataFrame = 2-D labelled table."
+  ],
+  "flashcards": [
+    {
+      "front": "Symbol for a single-line comment in Python?",
+      "back": "#"
+    },
+    {
+      "front": "Output of 2 ** 3 ** 2?",
+      "back": "512 (** is right-associative: 2 ** 9)."
+    },
+    {
+      "front": "Output of -7 // 2 and -7 % 2?",
+      "back": "-4 and 1"
+    },
+    {
+      "front": "Is a tuple mutable?",
+      "back": "No. Lists, dicts and sets are mutable; tuples and strings are immutable."
+    },
+    {
+      "front": "Which function converts a character to its integer code?",
+      "back": "ord(); chr() does the reverse."
+    },
+    {
+      "front": "List method that adds one element at the end?",
+      "back": "append()"
+    },
+    {
+      "front": "Difference between remove() and pop() on a list?",
+      "back": "remove(x) deletes the first occurrence of value x; pop(i) deletes by index (default last) and returns it."
+    },
+    {
+      "front": "What does strip() do?",
+      "back": "Returns a copy of the string with leading and trailing whitespace removed."
+    },
+    {
+      "front": "What can be a dictionary key?",
+      "back": "Any immutable (hashable) object: str, int, float, tuple of immutables; not a list or dict."
+    },
+    {
+      "front": "d[k] vs d.get(k) for a missing key?",
+      "back": "d[k] raises KeyError; d.get(k) returns None (or the given default)."
+    },
+    {
+      "front": "How to create an empty set?",
+      "back": "set() — {} creates an empty dictionary."
+    },
+    {
+      "front": "When does a loop's else clause run?",
+      "back": "When the loop finishes normally without a break."
+    },
+    {
+      "front": "What does a function return without a return statement?",
+      "back": "None"
+    },
+    {
+      "front": "What are *args and **kwargs?",
+      "back": "*args: extra positional arguments as a tuple; **kwargs: extra keyword arguments as a dict."
+    },
+    {
+      "front": "Value of __name__ when a script is run directly?",
+      "back": "'__main__'"
+    },
+    {
+      "front": "File mode for read and write without truncating, pointer at start?",
+      "back": "'r+'"
+    },
+    {
+      "front": "What does 'with open(...) as f' guarantee?",
+      "back": "The file is closed automatically when the block ends, even after an exception."
+    },
+    {
+      "front": "Which pickle functions write and read objects?",
+      "back": "pickle.dump(obj, file) and pickle.load(file), with the file opened in binary mode."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Interpreter",
+      "hi": "इंटरप्रेटर / दुभाषिया"
+    },
+    {
+      "en": "Identifier",
+      "hi": "पहचानकर्ता / आइडेंटिफ़ायर"
+    },
+    {
+      "en": "Keyword",
+      "hi": "कीवर्ड / आरक्षित शब्द"
+    },
+    {
+      "en": "Indentation",
+      "hi": "इंडेंटेशन / खाँचा"
+    },
+    {
+      "en": "Mutable",
+      "hi": "परिवर्तनीय"
+    },
+    {
+      "en": "Immutable",
+      "hi": "अपरिवर्तनीय"
+    },
+    {
+      "en": "List",
+      "hi": "सूची"
+    },
+    {
+      "en": "Dictionary",
+      "hi": "शब्दकोश / डिक्शनरी"
+    },
+    {
+      "en": "Slicing",
+      "hi": "स्लाइसिंग / खंडन"
+    },
+    {
+      "en": "Function",
+      "hi": "फ़ंक्शन / फलन"
+    },
+    {
+      "en": "Argument",
+      "hi": "तर्क / आर्ग्युमेंट"
+    },
+    {
+      "en": "Module",
+      "hi": "मॉड्यूल"
+    },
+    {
+      "en": "Exception",
+      "hi": "अपवाद"
+    },
+    {
+      "en": "File pointer",
+      "hi": "फ़ाइल पॉइंटर"
+    },
+    {
+      "en": "Loop",
+      "hi": "लूप / पुनरावृत्ति"
+    }
+  ]
+}

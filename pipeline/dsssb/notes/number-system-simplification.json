@@ -1,0 +1,339 @@
+{
+ "slug": "number-system-simplification",
+ "subject": "Arithmetical & Numerical Ability",
+ "topic": "Number System & Simplification",
+ "titleHi": "संख्या पद्धति एवं सरलीकरण",
+ "summary": "Covers the types of numbers, divisibility rules, factors, unit digits and remainders, HCF and LCM (including word problems), BODMAS simplification, indices and surds, and fractions and recurring decimals. DSSSB asks several quick numerical questions in this area in every paper (simplify an expression, find HCF/LCM, compare surds, convert a decimal), so speed with rules and shortcuts matters more than long working.",
+ "sections": [
+  {
+   "heading": "Types of numbers",
+   "level": "basic",
+   "subtopic": "Divisibility, HCF & LCM",
+   "body": "- **Natural numbers** (N): 1, 2, 3, … (0 is not natural in the usual school convention).\n- **Whole numbers** (W): 0, 1, 2, 3, …\n- **Integers** (Z): …, −2, −1, 0, 1, 2, …\n- **Rational numbers**: can be written as p/q with integers p, q and q ≠ 0. Their decimals either **terminate** (0.25) or **repeat** (0.333…).\n- **Irrational numbers**: non-terminating, non-repeating decimals, e.g. √2, √3, π. Note that 22/7 is only an approximation of π; 22/7 itself is rational.\n- **Real numbers** = rationals + irrationals.\n\n- **Prime**: exactly two factors (1 and itself). 2 is the only even prime; **1 is neither prime nor composite**. There are **25 primes up to 100**.\n- **Composite**: more than two factors (4, 6, 8, 9, …).\n- **Co-prime**: HCF = 1, e.g. 8 and 15 (neither need be prime).\n\nTo test whether n is prime, divide only by primes up to √n. For 221: √221 ≈ 14.9; 221 = 13 × 17, so it is composite."
+  },
+  {
+   "heading": "Divisibility rules",
+   "level": "basic",
+   "subtopic": "Divisibility, HCF & LCM",
+   "body": "Divisibility rules let you factorise numbers and check options without long division. For composite divisors, test **co-prime factors**: divisible by 12 means divisible by both 3 and 4 (not 2 and 6, which are not co-prime).\n\nWorked checks:\n- 3718 by 11: (8 + 7) − (1 + 3) = 15 − 4 = 11, a multiple of 11, so 3718 = 11 × 338.\n- 343 by 7: 34 − 2 × 3 = 28, divisible by 7, so 343 is divisible by 7 (343 = 7³).\n- 93,456 by 8: last three digits 456 = 8 × 57, so yes.",
+   "table": {
+    "columns": [
+     "Divisor",
+     "Rule"
+    ],
+    "rows": [
+     [
+      "2",
+      "Last digit even (0, 2, 4, 6, 8)"
+     ],
+     [
+      "3",
+      "Sum of digits divisible by 3"
+     ],
+     [
+      "4",
+      "Number formed by last two digits divisible by 4"
+     ],
+     [
+      "5",
+      "Last digit 0 or 5"
+     ],
+     [
+      "6",
+      "Divisible by both 2 and 3"
+     ],
+     [
+      "7",
+      "Double the last digit and subtract it from the rest; repeat; result divisible by 7"
+     ],
+     [
+      "8",
+      "Number formed by last three digits divisible by 8"
+     ],
+     [
+      "9",
+      "Sum of digits divisible by 9"
+     ],
+     [
+      "10",
+      "Last digit 0"
+     ],
+     [
+      "11",
+      "(Sum of digits in odd places) − (sum in even places) is 0 or a multiple of 11"
+     ],
+     [
+      "12",
+      "Divisible by both 3 and 4"
+     ],
+     [
+      "15 / 18 / 24",
+      "3 and 5 / 2 and 9 / 3 and 8"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Factors, unit digits and remainders",
+   "level": "intermediate",
+   "subtopic": "Divisibility, HCF & LCM",
+   "body": "**Number of factors**: write N = aˣ × bʸ × cᶻ (prime factorisation); number of factors = (x + 1)(y + 1)(z + 1).\nExample: 360 = 2³ × 3² × 5¹ → (3 + 1)(2 + 1)(1 + 1) = 24 factors.\n\n**Unit digit of a power**: unit digits repeat in cycles of at most 4.\n- 2: 2, 4, 8, 6 · 3: 3, 9, 7, 1 · 7: 7, 9, 3, 1 · 8: 8, 4, 2, 6\n- 4: 4, 6 (odd power → 4, even → 6) · 9: 9, 1 (odd → 9, even → 1)\n- 0, 1, 5, 6 always end in themselves.\nDivide the power by 4 and use the remainder (remainder 0 means the 4th term of the cycle).\n\n**Remainders**: the remainder of a product (or sum) equals the remainder of the product (or sum) of the individual remainders.\nExample: 1234 × 567 divided by 9. Digit sums: 1234 → 10 → remainder 1; 567 → 18 → remainder 0. Product of remainders = 0, so the remainder is 0 (1234 × 567 = 699,678, digit sum 45).\n\n**Trailing zeros of n!**: ⌊n/5⌋ + ⌊n/25⌋ + ⌊n/125⌋ + … For 100!: 20 + 4 = 24 zeros."
+  },
+  {
+   "heading": "HCF and LCM: methods and key properties",
+   "level": "basic",
+   "subtopic": "Divisibility, HCF & LCM",
+   "body": "**HCF** (Highest Common Factor, also GCD) is the largest number dividing all the given numbers. **LCM** (Least Common Multiple) is the smallest number divisible by all of them.\n\n**Prime factorisation method**: HCF = product of common primes with the **lowest** powers; LCM = product of all primes with the **highest** powers.\nExample: 72 = 2³ × 3², 120 = 2³ × 3 × 5 → HCF = 2³ × 3 = 24; LCM = 2³ × 3² × 5 = 360.\n\n**Division (Euclid) method** for HCF: divide the larger by the smaller, then the divisor by the remainder, until the remainder is 0; the last divisor is the HCF. HCF(391, 667): 667 = 391 × 1 + 276; 391 = 276 × 1 + 115; 276 = 115 × 2 + 46; 115 = 46 × 2 + 23; 46 = 23 × 2 + 0 → HCF = 23.\n\n**Properties**\n- For **two** numbers only: HCF × LCM = product of the numbers (24 × 360 = 8640 = 72 × 120).\n- HCF always divides the LCM.\n- HCF of co-prime numbers is 1 and their LCM is their product.\n- If HCF is h, the numbers are ha and hb with a, b co-prime.\n\n**Fractions**: HCF = HCF of numerators ÷ LCM of denominators; LCM = LCM of numerators ÷ HCF of denominators.\nExample: for 2/3, 4/9, 8/15: HCF = 2/45, LCM = 8/3."
+  },
+  {
+   "heading": "HCF and LCM word problems",
+   "level": "intermediate",
+   "subtopic": "Divisibility, HCF & LCM",
+   "body": "Recognise the pattern from the wording:\n- **Largest** number / longest length / greatest size that divides or measures exactly → **HCF**.\n- **Smallest** number / first time together / bells tolling together / least length divisible → **LCM**.\n\nStandard forms:\n- Largest number dividing a, b, c leaving remainders r₁, r₂, r₃ → HCF(a − r₁, b − r₂, c − r₃).\n- Largest number dividing a, b, c leaving the **same** remainder → HCF of the differences |a − b|, |b − c|, |c − a|.\n- Smallest number which when divided by x, y, z leaves the **same remainder r** → LCM(x, y, z) + r.\n- Smallest number which when divided by x, y, z leaves remainders that are each **k less than the divisor** → LCM(x, y, z) − k.\n- Bells ringing at intervals of a, b, c seconds ring together again after LCM(a, b, c) seconds.\n\nExample: bells toll at intervals of 6, 8 and 12 minutes and toll together at 9:00 am. LCM(6, 8, 12) = 24, so they next toll together at 9:24 am."
+  },
+  {
+   "heading": "BODMAS and simplification",
+   "level": "basic",
+   "subtopic": "Simplification & surds",
+   "body": "Order of operations (**VBODMAS**): **V**inculum (bar) → **B**rackets ( ), { }, [ ] from inside out → **O**f → **D**ivision → **M**ultiplication → **A**ddition → **S**ubtraction.\nDivision and multiplication are worked left to right when both appear (and so are addition and subtraction). In competitive-exam convention **\"of\" is done before division**: 48 ÷ 4 of 3 = 48 ÷ 12 = 4, whereas 48 ÷ 4 × 3 = 12 × 3 = 36.\n\nSpeed tips:\n- Convert mixed fractions to improper fractions first.\n- Cancel common factors before multiplying.\n- For decimals, line up the decimal points: 6.6 + 66 + 0.66 + 666 = 739.26.\n- **Approximation questions**: round each number to a convenient value (29.97 ≈ 30, 401.2 ≈ 400) and pick the nearest option.\n\n**Square and cube shortcuts**\n- Numbers ending in 5: 85² → 8 × 9 = 72, append 25 → 7225.\n- (a + b)² = a² + 2ab + b²: 103² = 10000 + 600 + 9 = 10609.\n- Learn squares to 30 and cubes to 15; square roots and cube roots of perfect powers become one-step questions (∛2744 = 14)."
+  },
+  {
+   "heading": "Indices and surds",
+   "level": "intermediate",
+   "subtopic": "Simplification & surds",
+   "body": "**Laws of indices** (a, b > 0):\n- aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ\n- (ab)ⁿ = aⁿbⁿ; a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(p/q) = q-th root of aᵖ\nExample: 8^(2/3) = (∛8)² = 2² = 4; 16^(−3/4) = 1/(⁴√16)³ = 1/8.\n\nA **surd** is an irrational root of a rational number, such as √3 or ∛5 (√4 = 2 is not a surd).\n- √a × √b = √(ab); √a ÷ √b = √(a/b); but √a + √b ≠ √(a + b).\n- Like surds add: 3√2 + 5√2 = 8√2. Simplify first: √50 + √18 = 5√2 + 3√2 = 8√2.\n\n**Rationalising**: multiply by the conjugate. 1/(√5 − √3) = (√5 + √3)/(5 − 3) = (√5 + √3)/2.\n\n**Comparing surds of different orders**: raise all to the LCM of the root orders. Compare ∛4 and √3: raise to the 6th power → 4² = 16 and 3³ = 27, so √3 > ∛4.\n\n**Square root of a + 2√b**: find x, y with x + y = a and xy = b; then √(a + 2√b) = √x + √y. Example: √(7 + 2√10) = √5 + √2."
+  },
+  {
+   "heading": "Fractions and decimals",
+   "level": "basic",
+   "subtopic": "Fractions & decimals",
+   "body": "- **Proper** fraction: numerator < denominator (3/7). **Improper**: numerator ≥ denominator (9/4). **Mixed**: 2¼ = 9/4.\n- **Comparing**: cross-multiply. For 5/7 and 7/10: 5 × 10 = 50 and 7 × 7 = 49, so 5/7 > 7/10. Or convert to decimals (0.714 vs 0.7).\n- When numerators are equal, the smaller denominator gives the larger fraction.\n- A fraction in lowest terms gives a **terminating decimal** only if its denominator has no prime factors other than 2 and 5 (3/40 = 0.075; 1/6 = 0.1666… repeats).\n\n**Recurring decimal to fraction**\n- Pure recurring: 0.4545… = 45/99 = 5/11; 0.777… = 7/9.\n- Mixed recurring: (all digits − non-repeating digits) ÷ (one 9 per repeating digit followed by one 0 per non-repeating digit). 0.2333… = (23 − 2)/90 = 21/90 = 7/30.\n- With a whole part, keep it separate: 2.333… = 2 + 3/9 = 7/3.\n\n**Useful facts**: 1/7 = 0.142857 142857… (six-digit cycle); 1/11 = 0.0909…; 1/8 = 0.125; 1/16 = 0.0625.\n\n**Decimal arithmetic**: multiplying, count total decimal places (0.03 × 0.4 = 0.012); dividing, shift both decimal points equally (0.144 ÷ 0.12 = 14.4 ÷ 12 = 1.2)."
+  }
+ ],
+ "formulas": [
+  {
+   "name": "HCF × LCM",
+   "formula": "HCF(a, b) × LCM(a, b) = a × b",
+   "note": "Valid for two numbers only"
+  },
+  {
+   "name": "HCF and LCM of fractions",
+   "formula": "HCF = HCF(numerators)/LCM(denominators); LCM = LCM(numerators)/HCF(denominators)",
+   "note": "Reduce each fraction to lowest terms first"
+  },
+  {
+   "name": "Number of factors",
+   "formula": "N = aˣ·bʸ·cᶻ → (x+1)(y+1)(z+1)",
+   "note": "a, b, c are distinct primes"
+  },
+  {
+   "name": "Sum of first n natural numbers",
+   "formula": "n(n + 1)/2",
+   "note": "Sum of first n odd numbers = n²; first n even numbers = n(n + 1)"
+  },
+  {
+   "name": "Sum of squares / cubes",
+   "formula": "Σn² = n(n + 1)(2n + 1)/6; Σn³ = [n(n + 1)/2]²",
+   "note": "For 1 to n"
+  },
+  {
+   "name": "Pure recurring decimal",
+   "formula": "0.ababab… = ab/99",
+   "note": "One 9 per repeating digit"
+  },
+  {
+   "name": "Mixed recurring decimal",
+   "formula": "0.abbb… = (ab − a)/90",
+   "note": "9s for repeating digits, 0s for non-repeating digits"
+  },
+  {
+   "name": "Same remainder (largest divisor)",
+   "formula": "HCF(|a − b|, |b − c|, |c − a|)",
+   "note": "Largest number giving equal remainders"
+  },
+  {
+   "name": "Smallest number with remainder r",
+   "formula": "LCM(x, y, z) + r",
+   "note": "Same remainder r for every divisor"
+  },
+  {
+   "name": "Trailing zeros in n!",
+   "formula": "⌊n/5⌋ + ⌊n/25⌋ + ⌊n/125⌋ + …",
+   "note": "Counts factors of 5"
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "The product of two numbers is 2028 and their HCF is 13. How many such pairs of numbers are possible?",
+   "solution": "Let the numbers be 13a and 13b with a, b co-prime.\n13a × 13b = 2028 → 169ab = 2028 → ab = 12.\nCo-prime pairs with product 12: (1, 12) and (3, 4). ((2, 6) is rejected because HCF(2, 6) = 2.)\nSo the numbers are (13, 156) or (39, 52): **2 pairs**."
+  },
+  {
+   "problem": "Find the largest number that divides 77, 147 and 252 leaving the same remainder in each case.",
+   "solution": "Differences: 147 − 77 = 70, 252 − 147 = 105, 252 − 77 = 175.\nHCF(70, 105, 175) = 35.\nCheck: 77 = 35 × 2 + 7, 147 = 35 × 4 + 7, 252 = 35 × 7 + 7, remainder 7 each time.\n**Answer: 35**."
+  },
+  {
+   "problem": "Find the smallest number which, when divided by 12, 15 and 20, leaves remainder 5 in each case.",
+   "solution": "LCM(12, 15, 20): 12 = 2² × 3, 15 = 3 × 5, 20 = 2² × 5 → LCM = 2² × 3 × 5 = 60.\nRequired number = 60 + 5 = **65**.\nCheck: 65 = 12 × 5 + 5 = 15 × 4 + 5 = 20 × 3 + 5."
+  },
+  {
+   "problem": "Simplify: 1/(√4 + √3) + 1/(√3 + √2) + 1/(√2 + 1).",
+   "solution": "Rationalise each term: 1/(√(n+1) + √n) = √(n+1) − √n.\nSum = (√4 − √3) + (√3 − √2) + (√2 − 1).\nMiddle terms cancel (telescoping): = √4 − 1 = 2 − 1 = **1**."
+  },
+  {
+   "problem": "Find the unit digit of 7⁹⁵ × 3⁵⁸.",
+   "solution": "Cycle of 7: 7, 9, 3, 1. 95 ÷ 4 leaves remainder 3 → unit digit of 7⁹⁵ is 3.\nCycle of 3: 3, 9, 7, 1. 58 ÷ 4 leaves remainder 2 → unit digit of 3⁵⁸ is 9.\nUnit digit of the product = unit digit of 3 × 9 = 27 → **7**."
+  },
+  {
+   "problem": "Simplify: 0.2333… + 0.4545… (as a fraction).",
+   "solution": "0.2333… = (23 − 2)/90 = 21/90 = 7/30.\n0.4545… = 45/99 = 5/11.\n7/30 + 5/11 = (77 + 150)/330 = **227/330**.\nCheck: 227/330 = 0.68787…, and 0.23333 + 0.45454 = 0.68787."
+  }
+ ],
+ "pitfalls": [
+  "Treating 1 as a prime number; 1 is neither prime nor composite.",
+  "Using HCF × LCM = product for three numbers; it holds only for two numbers.",
+  "Testing divisibility by 12 with 2 and 6; the factors used must be co-prime (3 and 4).",
+  "Doing ÷ before 'of': 48 ÷ 4 of 3 is 4, not 36.",
+  "Writing √a + √b = √(a + b); √9 + √16 = 7, but √25 = 5.",
+  "Converting 0.2333… as 23/99; only the 3 repeats, so it is (23 − 2)/90.",
+  "In remainder questions, forgetting to subtract the remainder before taking the HCF.",
+  "Counting trailing zeros of 100! as 20; multiples of 25 give an extra 5, so the answer is 24."
+ ],
+ "quickRevision": [
+  "2 is the only even prime; there are 25 primes up to 100.",
+  "1 is neither prime nor composite; co-prime numbers have HCF 1.",
+  "Divisibility by 11: alternate digit sums differ by 0 or a multiple of 11.",
+  "Divisibility by 8: last three digits; by 4: last two digits.",
+  "HCF × LCM = product of the two numbers.",
+  "Largest → HCF; smallest / together again → LCM.",
+  "Order: V-B-O-D-M-A-S; 'of' before ÷.",
+  "Unit digits cycle with period 4 (2, 3, 7, 8); 4 and 9 have period 2.",
+  "Number of factors of 2³·3²·5 = 4 × 3 × 2 = 24.",
+  "Terminating decimal ⇔ denominator (lowest terms) has only 2s and 5s.",
+  "0.ab ab… = ab/99; 0.a bbb… = (ab − a)/90.",
+  "Compare surds of different orders by raising to the LCM of their orders."
+ ],
+ "flashcards": [
+  {
+   "front": "Is 1 a prime number?",
+   "back": "No. 1 is neither prime nor composite."
+  },
+  {
+   "front": "How many primes are there from 1 to 100?",
+   "back": "25"
+  },
+  {
+   "front": "Divisibility rule for 11?",
+   "back": "Difference between sums of digits at odd and even places is 0 or a multiple of 11."
+  },
+  {
+   "front": "HCF of two numbers is 12 and LCM is 180. One number is 36. The other?",
+   "back": "12 × 180 ÷ 36 = 60"
+  },
+  {
+   "front": "Formula for HCF of fractions?",
+   "back": "HCF of numerators ÷ LCM of denominators"
+  },
+  {
+   "front": "Number of factors of 72?",
+   "back": "72 = 2³ × 3² → 4 × 3 = 12"
+  },
+  {
+   "front": "Unit digit of 2⁵⁰?",
+   "back": "50 ÷ 4 leaves 2 → second term of 2, 4, 8, 6 → 4"
+  },
+  {
+   "front": "0.777… as a fraction?",
+   "back": "7/9"
+  },
+  {
+   "front": "0.1666… as a fraction?",
+   "back": "(16 − 1)/90 = 15/90 = 1/6"
+  },
+  {
+   "front": "Which is larger, √3 or ∛4?",
+   "back": "√3 (6th powers: 27 vs 16)"
+  },
+  {
+   "front": "Rationalise 1/(√3 + √2).",
+   "back": "√3 − √2"
+  },
+  {
+   "front": "Value of 27^(2/3)?",
+   "back": "(∛27)² = 9"
+  },
+  {
+   "front": "Trailing zeros in 50!?",
+   "back": "10 + 2 = 12"
+  },
+  {
+   "front": "Is 22/7 rational or irrational?",
+   "back": "Rational (it only approximates π, which is irrational)."
+  },
+  {
+   "front": "85² by shortcut?",
+   "back": "8 × 9 = 72, append 25 → 7225"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Natural number",
+   "hi": "प्राकृत संख्या"
+  },
+  {
+   "en": "Whole number",
+   "hi": "पूर्ण संख्या"
+  },
+  {
+   "en": "Integer",
+   "hi": "पूर्णांक"
+  },
+  {
+   "en": "Rational number",
+   "hi": "परिमेय संख्या"
+  },
+  {
+   "en": "Irrational number",
+   "hi": "अपरिमेय संख्या"
+  },
+  {
+   "en": "Prime number",
+   "hi": "अभाज्य संख्या"
+  },
+  {
+   "en": "Composite number",
+   "hi": "भाज्य संख्या"
+  },
+  {
+   "en": "Co-prime",
+   "hi": "सह-अभाज्य"
+  },
+  {
+   "en": "HCF",
+   "hi": "महत्तम समापवर्तक (म.स.)"
+  },
+  {
+   "en": "LCM",
+   "hi": "लघुत्तम समापवर्त्य (ल.स.)"
+  },
+  {
+   "en": "Divisibility",
+   "hi": "विभाज्यता"
+  },
+  {
+   "en": "Remainder",
+   "hi": "शेषफल"
+  },
+  {
+   "en": "Surd",
+   "hi": "करणी"
+  },
+  {
+   "en": "Recurring decimal",
+   "hi": "आवर्ती दशमलव"
+  },
+  {
+   "en": "Simplification",
+   "hi": "सरलीकरण"
+  }
+ ]
+}

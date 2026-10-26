@@ -1,0 +1,376 @@
+{
+ "General Awareness": {
+  "Current Affairs & Sports": [
+   "National events & schemes",
+   "International events & organisations",
+   "Sports events & awards",
+   "Science & technology news",
+   "Reports, indices & days"
+  ],
+  "History": [
+   "Ancient India",
+   "Medieval India",
+   "Modern India & freedom struggle",
+   "Literature, authors & epics"
+  ],
+  "Polity & Constitution": [
+   "Articles & schedules",
+   "Fundamental rights & duties",
+   "Parliament, President & executive",
+   "Judiciary & constitutional bodies",
+   "Local government"
+  ],
+  "Geography": [
+   "Physical geography of India",
+   "Rivers, lakes & mountains",
+   "Climate & natural phenomena",
+   "World geography",
+   "Resources & agriculture"
+  ],
+  "Economy": [
+   "Money & banking",
+   "Budget, taxation & fiscal policy",
+   "Economic concepts",
+   "Organisations (RBI, NITI Aayog, etc.)"
+  ],
+  "Everyday Science": [
+   "Physics in daily life",
+   "Chemistry in daily life",
+   "Biology & health",
+   "Environment & ecology"
+  ],
+  "Art, Culture & Awards": [
+   "Music & musical instruments",
+   "Dance & theatre",
+   "Festivals, monuments & heritage",
+   "Awards & honours",
+   "Books & personalities"
+  ]
+ },
+ "General Intelligence & Reasoning": {
+  "Analogy & Classification": [
+   "Word / letter analogy",
+   "Number analogy",
+   "Odd one out"
+  ],
+  "Series": [
+   "Number series",
+   "Letter / alphanumeric series",
+   "Missing term"
+  ],
+  "Coding-Decoding": [
+   "Letter coding",
+   "Number coding",
+   "Symbol / mathematical operations"
+  ],
+  "Blood Relations & Directions": [
+   "Blood relations",
+   "Direction & distance"
+  ],
+  "Arrangement & Puzzles": [
+   "Linear / circular seating",
+   "Ranking & order",
+   "Comparison puzzles",
+   "Calendar & clock"
+  ],
+  "Logical & Verbal Reasoning": [
+   "Syllogism",
+   "Statement & arguments",
+   "Statement & assumptions / conclusions",
+   "Cause & effect / course of action",
+   "Assertion & reason"
+  ],
+  "Venn Diagrams & Non-verbal": [
+   "Venn diagrams",
+   "Figures & mirror images",
+   "Counting figures"
+  ]
+ },
+ "Arithmetical & Numerical Ability": {
+  "Number System & Simplification": [
+   "Divisibility, HCF & LCM",
+   "Simplification & surds",
+   "Fractions & decimals"
+  ],
+  "Percentage, Profit & Loss": [
+   "Percentage",
+   "Profit, loss & discount",
+   "Simple & compound interest"
+  ],
+  "Ratio, Average & Ages": [
+   "Ratio & proportion",
+   "Average",
+   "Problems on ages",
+   "Mixture & partnership"
+  ],
+  "Time, Work & Distance": [
+   "Time & work / pipes",
+   "Speed, time & distance",
+   "Trains, boats & streams"
+  ],
+  "Mensuration & Geometry": [
+   "2-D figures (area, perimeter)",
+   "3-D solids (volume, surface area)",
+   "Lines, triangles & circles"
+  ],
+  "Algebra, Trigonometry & Data": [
+   "Algebraic identities & equations",
+   "Trigonometry",
+   "Data interpretation & statistics"
+  ]
+ },
+ "Hindi Language": {
+  "शब्द ज्ञान (Vocabulary)": [
+   "पर्यायवाची",
+   "विलोम",
+   "अनेक शब्दों के लिए एक शब्द",
+   "तत्सम-तद्भव-देशज-विदेशज",
+   "युग्म शब्द"
+  ],
+  "व्याकरण (Grammar)": [
+   "संधि",
+   "समास",
+   "संज्ञा, सर्वनाम, विशेषण",
+   "क्रिया, काल एवं वाच्य",
+   "कारक एवं अव्यय",
+   "उपसर्ग-प्रत्यय",
+   "लिंग-वचन",
+   "अलंकार एवं रस"
+  ],
+  "शुद्धि (Correction)": [
+   "वर्तनी शुद्धि",
+   "वाक्य शुद्धि",
+   "विराम चिह्न"
+  ],
+  "मुहावरे एवं लोकोक्तियाँ": [
+   "मुहावरे",
+   "लोकोक्तियाँ"
+  ],
+  "गद्यांश एवं वाक्य संरचना": [
+   "अपठित गद्यांश",
+   "वाक्य क्रम",
+   "रिक्त स्थान"
+  ]
+ },
+ "English Language": {
+  "Vocabulary": [
+   "Synonyms",
+   "Antonyms",
+   "One-word substitution",
+   "Spelling",
+   "Idioms & phrases"
+  ],
+  "Grammar": [
+   "Error spotting",
+   "Sentence improvement",
+   "Fill in the blanks",
+   "Voice & narration",
+   "Tenses, articles & prepositions"
+  ],
+  "Comprehension & Para Jumbles": [
+   "Reading comprehension",
+   "Para jumbles / sentence order",
+   "Cloze test"
+  ]
+ },
+ "Computer Science": {
+  "Computer Fundamentals & PC Software": [
+   "Generations, types & history",
+   "Hardware, input/output devices",
+   "Memory & storage units",
+   "Software types & utilities",
+   "Office tools & shortcuts",
+   "Internet & e-mail basics"
+  ],
+  "Number Systems & Digital Electronics": [
+   "Number systems & conversions",
+   "Complements & binary arithmetic",
+   "Codes (BCD, Gray, ASCII)",
+   "Boolean algebra & logic gates",
+   "K-map minimisation",
+   "Combinational circuits",
+   "Flip-flops, registers & counters"
+  ],
+  "Computer Architecture": [
+   "CPU, registers & instruction cycle",
+   "Instruction formats & addressing modes",
+   "Memory hierarchy & cache",
+   "Pipelining & parallelism",
+   "I/O, interrupts & DMA",
+   "Assembly language basics"
+  ],
+  "Programming in C": [
+   "Data types, operators & expressions",
+   "Control statements & loops",
+   "Functions & recursion",
+   "Arrays & strings",
+   "Pointers & dynamic memory",
+   "Structures, unions & files",
+   "Preprocessor & compilation"
+  ],
+  "OOP, C++ & Java": [
+   "OOP concepts",
+   "Classes, objects & constructors",
+   "Inheritance & polymorphism",
+   "Overloading & virtual functions",
+   "Templates & exceptions",
+   "Java basics & JVM",
+   "Java packages, interfaces & threads"
+  ],
+  "Python Programming": [
+   "Syntax, data types & operators",
+   "Control flow",
+   "Strings, lists, tuples & dictionaries",
+   "Functions & modules",
+   "File handling"
+  ],
+  "Data Structures": [
+   "Arrays & complexity basics",
+   "Stacks & queues",
+   "Linked lists",
+   "Trees & binary search trees",
+   "Graphs",
+   "Hashing",
+   "Searching & sorting"
+  ],
+  "Algorithms": [
+   "Asymptotic analysis",
+   "Divide & conquer",
+   "Greedy",
+   "Dynamic programming",
+   "Graph algorithms",
+   "Flowcharts & pseudocode"
+  ],
+  "Operating Systems & Linux": [
+   "OS types & functions",
+   "Processes, threads & scheduling",
+   "Synchronisation & deadlock",
+   "Memory management & paging",
+   "File systems & disk scheduling",
+   "Linux commands & shell"
+  ],
+  "DBMS & SQL": [
+   "DBMS concepts & architecture",
+   "ER model & keys",
+   "Relational model & algebra",
+   "SQL",
+   "Normalisation",
+   "Transactions & concurrency"
+  ],
+  "Computer Networks & Protocols": [
+   "Network types & topologies",
+   "OSI & TCP/IP models",
+   "Transmission media & devices",
+   "Data link & error control",
+   "IP addressing & routing",
+   "Transport & application protocols"
+  ],
+  "Network Security & Cyber Law": [
+   "Threats & malware",
+   "Cryptography",
+   "Firewalls & authentication",
+   "Cyber law & IT Act"
+  ],
+  "Web Technologies": [
+   "HTML",
+   "CSS",
+   "JavaScript & event model",
+   "XML, DTD & parsers",
+   "Web servers & hosting",
+   "Front-end tools & .NET"
+  ],
+  "Software Engineering": [
+   "SDLC & process models",
+   "Requirements & design",
+   "Testing",
+   "Project management & estimation",
+   "Maintenance & quality"
+  ],
+  "Computer Graphics & Multimedia": [
+   "Graphics hardware & displays",
+   "Line & circle drawing",
+   "Transformations",
+   "Clipping",
+   "Curves, surfaces & hidden surfaces",
+   "Multimedia & file formats"
+  ],
+  "E-Commerce, MIS & IT in Business": [
+   "E-commerce models & payments",
+   "MIS & decision support",
+   "Knowledge management",
+   "ERP & business systems"
+  ],
+  "Mobile Computing & Emerging Tech": [
+   "Mobile & wireless computing",
+   "Cloud computing",
+   "AI & machine learning",
+   "IoT & other emerging tech"
+  ],
+  "Society, Ethics & E-waste": [
+   "Cyber ethics & AI ethics",
+   "Intellectual property",
+   "E-waste management",
+   "Digital footprint & privacy"
+  ],
+  "Mathematics, Statistics & Numerical Methods": [
+   "Sets, relations & logic",
+   "Matrices & calculus",
+   "Probability",
+   "Descriptive statistics & distributions",
+   "Interpolation & numerical methods"
+  ],
+  "Business, Accounting & Economics": [
+   "Business communication & organisation",
+   "Financial accounting",
+   "Business economics"
+  ],
+  "Physics Basics": [
+   "Units & electricity basics",
+   "Semiconductors"
+  ]
+ },
+ "Teaching Methodology": {
+  "Learning & Teaching": [
+   "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "Teaching methods & strategies",
+   "Motivation",
+   "Bloom's taxonomy & objectives"
+  ],
+  "Childhood & Growing Up": [
+   "Stages of development",
+   "Intelligence & individual differences",
+   "Adolescence"
+  ],
+  "Pedagogy of a School Subject": [
+   "Pedagogy of Computer Science",
+   "Learning resources & ICT in teaching",
+   "Lesson planning"
+  ],
+  "Assessment for Learning": [
+   "Formative & summative assessment",
+   "CCE & test items",
+   "Evaluation tools"
+  ],
+  "Inclusive Education": [
+   "Children with special needs",
+   "Disabilities & support",
+   "Inclusive practices"
+  ],
+  "Knowledge, Curriculum & Policy": [
+   "Curriculum & NCF",
+   "Education policy (NEP, RTE, SSA)",
+   "Education commissions"
+  ],
+  "Gender, School & Society": [
+   "Gender & equity",
+   "School and society"
+  ],
+  "Language Across the Curriculum": [
+   "Language in learning"
+  ],
+  "Drama & Art in Education": [
+   "Art integration",
+   "Drama in education"
+  ]
+ }
+}

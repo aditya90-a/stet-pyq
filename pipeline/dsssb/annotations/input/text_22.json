@@ -1,0 +1,1003 @@
+[
+ {
+  "id": "2021-set1-q121",
+  "copies": [
+   "2021-set1-q121"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a device that combines a large number of low speed transmission lines into a high speed line.",
+  "options": [
+   "A) Multiplexer",
+   "B) Demultiplexer",
+   "C) Repeater",
+   "D) Switch"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q122",
+  "copies": [
+   "2021-set1-q122"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a type of network topology?\nI. Star topology\nII. Bus topology\nIII. Car topology",
+  "options": [
+   "A) I and II",
+   "B) I and III",
+   "C) II and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q123",
+  "copies": [
+   "2021-set1-q123"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a type of transmission mode?\nI. Simplex mode\nII. Half simplex mode\nIII. Duplex mode",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q124",
+  "copies": [
+   "2021-set1-q124",
+   "2021-set5-q123"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which one of the following is an impact printer?",
+  "options": [
+   "A) Inkjet printer",
+   "B) Dot-matrix printer",
+   "C) Laser printer",
+   "D) Thermal printer"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q125",
+  "copies": [
+   "2021-set1-q125"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In ______ computer network, there is no host computer for controlling other computers and all stations are equal.",
+  "options": [
+   "A) Ring",
+   "B) Tree",
+   "C) Bus",
+   "D) Star"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q126",
+  "copies": [
+   "2021-set1-q126"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The ability to input data directly into a computer system by speaking to it is known as ______.",
+  "options": [
+   "A) speech recognition",
+   "B) speaker recognition",
+   "C) speaker identification",
+   "D) speech enhancement"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q127",
+  "copies": [
+   "2021-set1-q127"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "According to ______ law, the force between two charges is directly proportional to the product of theirs charges.",
+  "options": [
+   "A) Coulomb’s",
+   "B) Gauss’s",
+   "C) Kirchoff’s",
+   "D) Ohm’s"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q129",
+  "copies": [
+   "2021-set1-q129"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many NOR gates are used to get AND gate form them?",
+  "options": [
+   "A) 1",
+   "B) 3",
+   "C) 2",
+   "D) 4"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q130",
+  "copies": [
+   "2021-set1-q130"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A railway crossing has 4 railway tracks. If a train comes on atleast 1 of the tracks, the crossing has to be closed. Which gate can be used to\nimplement this?",
+  "options": [
+   "A) NAND",
+   "B) NOR",
+   "C) OR",
+   "D) AND"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q132",
+  "copies": [
+   "2021-set1-q132"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair is/are correct?\nI. Astable multivibrator – Flip Flop\nII. Bistable multivibrator – Free running",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q133",
+  "copies": [
+   "2021-set1-q133"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is an advantage of use of multiplexers?\nI. Logic design is simplified\nII. Minimizes IC package count\nIII. Simplification of logic expression is not required",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q135",
+  "copies": [
+   "2021-set1-q135"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not a key attribute of information?",
+  "options": [
+   "A) Accuracy",
+   "B) Timeliness",
+   "C) Relevancy",
+   "D) Isolation"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q136",
+  "copies": [
+   "2021-set1-q136"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of DASD in database management system?",
+  "options": [
+   "A) Direct Access Storage Device",
+   "B) Dynamic Access Storage Device",
+   "C) Digital Access Storage Device",
+   "D) Disk Access Storage Device"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q137",
+  "copies": [
+   "2021-set1-q137"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is/are correct regarding sequential file organization?\nI. Entire file must be read for new record insertion and record deletion\nII. On an average, half of the records in the file must be processed to find the location of a record",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q138",
+  "copies": [
+   "2021-set1-q138"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When data is frequently added to or deleted from a file, the volatility of the file is ______.",
+  "options": [
+   "A) low",
+   "B) moderate",
+   "C) high",
+   "D) zero"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q139",
+  "copies": [
+   "2021-set1-q139"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The values of the attributes in a database describe a particular ______.",
+  "options": [
+   "A) Entity",
+   "B) Tuple",
+   "C) Field",
+   "D) View"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q140",
+  "copies": [
+   "2021-set1-q140"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT a Structured Query Language Data type?",
+  "options": [
+   "A) REAL",
+   "B) INTERVAL",
+   "C) TIME STAMP",
+   "D) BASE"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q141",
+  "copies": [
+   "2021-set1-q141"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The input-output relationship of the binary variable for each gate can be represented in tabular form by a ______.",
+  "options": [
+   "A) symbol table",
+   "B) decision table",
+   "C) truth table",
+   "D) characteristic table"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q142",
+  "copies": [
+   "2021-set1-q142"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statement(s) is/are correct regarding the Boolean algebra?\nI. It facilitate the analysis and design of digital circuits.\nII. Expresses in algebraic form the input-output relationship of logic diagram.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q145",
+  "copies": [
+   "2021-set1-q145"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In java script a ______ function can be defined as a function passed into another function as a parameter.",
+  "options": [
+   "A) call front",
+   "B) call back",
+   "C) roll back",
+   "D) roll front"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q146",
+  "copies": [
+   "2021-set1-q146"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is AJAX in ASP.NET?",
+  "options": [
+   "A) Asynchronous java script and XML",
+   "B) Associated java script and XML",
+   "C) Asynchronous java script and HTML",
+   "D) Associated java script and HTML"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q147",
+  "copies": [
+   "2021-set1-q147"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are correct regarding accounting process?\nI. A provision is a charge against profit\nII. Reserve is an appropriation of profit",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q148",
+  "copies": [
+   "2021-set1-q148"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are correct?\nI. All permanent accounts are balanced and carried forward to the next accounting period.\nII. The temporary accounts are closed at the end of the accounting period.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q149",
+  "copies": [
+   "2021-set1-q149"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the other name of White-box testing?",
+  "options": [
+   "A) Red-box testing",
+   "B) Glass-box testing",
+   "C) Open-box testing",
+   "D) Close-box testing"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q150",
+  "copies": [
+   "2021-set1-q150"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of SQA in software engineering?",
+  "options": [
+   "A) Software Quality Activity",
+   "B) System Quality Assurance",
+   "C) Service Quality Activity",
+   "D) Software Quality Assurance"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q151",
+  "copies": [
+   "2021-set1-q151"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In ______ model, software is developed in a series of incremental releases.\nI. Spiral\nII. Sequential",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q152",
+  "copies": [
+   "2021-set1-q152"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A module of a software is said to be logically cohesive if ______.",
+  "options": [
+   "A) all the elements of the module perform similar operations like error handling, data input etc",
+   "B) different elements of the module cooperate to achieve a single function for example managing an employee’s pay roll",
+   "C) if the set of functions of the module are all part of a procedure",
+   "D) all the elements of the module performs different operations alternatively"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q153",
+  "copies": [
+   "2021-set1-q153"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Two modules are said to be common coupled in software design if ______.",
+  "options": [
+   "A) they share their code",
+   "B) they share same global data areas",
+   "C) they communicate via a composite data",
+   "D) they communicate through an elementary data item"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q154",
+  "copies": [
+   "2021-set1-q154"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding software project management?\nI. PERT charts can be derived automatically form Gantt charts.\nII. Gantt charts cannot be automatically derived from PERT charts.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q155",
+  "copies": [
+   "2021-set1-q155"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "JAVA compiler translates source code into ______.",
+  "options": [
+   "A) symbolic code",
+   "B) assembly code",
+   "C) byte code",
+   "D) high language code"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q156",
+  "copies": [
+   "2021-set1-q156"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding java programming?\nI. Place a semicolon immediately after a method header\nII. Define a method outside the braces of a class definition",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q158",
+  "copies": [
+   "2021-set1-q158"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which page replacement algorithm has Belady’s anomaly?",
+  "options": [
+   "A) Optimal page replacement",
+   "B) FIFO page replacement",
+   "C) Least recent used page replacement",
+   "D) Not recently used page replacement"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q159",
+  "copies": [
+   "2021-set1-q159"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When there is a memory wastage within the memory partition itself then it known as ______.",
+  "options": [
+   "A) External fragmentation",
+   "B) Belady’s Anomaly",
+   "C) Internal fragmentation",
+   "D) Compaction"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q160",
+  "copies": [
+   "2021-set1-q160"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If a memory partition of size 80k is allocated to a process of size 60k then the 20k of the partition is wasted and cannot be allocated to any\nprocess. It is called ______.",
+  "options": [
+   "A) external fragmentation",
+   "B) best fit",
+   "C) worst fit",
+   "D) internal fragmentation"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q161",
+  "copies": [
+   "2021-set1-q161"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If two non-continuous free partition of size ‘a’ and ‘b’ are available. A process of size ‘c’ cannot be allocated even when a + b > c, a < c and b <\nc. This problem is known as ______.",
+  "options": [
+   "A) external fragmentation",
+   "B) internal fragmentation",
+   "C) quick fit",
+   "D) worst fit"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q162",
+  "copies": [
+   "2021-set1-q162"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The rate at which page fault occurs is known as ______.",
+  "options": [
+   "A) swapping",
+   "B) paging",
+   "C) thrashing",
+   "D) compaction"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q163",
+  "copies": [
+   "2021-set1-q163"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a process of lifting the process from memory and placing it on disk.",
+  "options": [
+   "A) Paging",
+   "B) Swapping out",
+   "C) Swapping in",
+   "D) Thrashing"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q164",
+  "copies": [
+   "2021-set1-q164"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider a main memory with the capacity of 4 page frames which are initially empty. If the page reference string is 1, 3, 4, 4, 3, 2, 1, 7, 5, 6 then\nwhat is the number of page fault using FIFO page replacement algorithm?",
+  "options": [
+   "A) 6",
+   "B) 7",
+   "C) 8",
+   "D) 9"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q165",
+  "copies": [
+   "2021-set1-q165"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A certain percentage of deposits which a bank must keep in the form of cash with the RBI is called ______.",
+  "options": [
+   "A) Statutory Liquidity Ratio",
+   "B) Cash Reserve Ratio",
+   "C) Open Market Operations",
+   "D) Liquidity Adjustment Facility"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q166",
+  "copies": [
+   "2021-set1-q166"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following method(s) is/are used to measure the aggregate value of goods and services produced in an economy?\nI. Expenditure method\nII. Income method\nIII. Product method",
+  "options": [
+   "A) I and II",
+   "B) Only III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q167",
+  "copies": [
+   "2021-set1-q167"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following effects of the price change can influence the consumer’s optimal choice?\nI. The change in the relative price of a good.\nII. The change in the purchasing power of a consumer.\nIII. Sudden reduction in the minimum support price of a commodity.",
+  "options": [
+   "A) Only I",
+   "B) Only III",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q168",
+  "copies": [
+   "2021-set1-q168"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which layer in OSI model is responsible for the dialogue control and token management?",
+  "options": [
+   "A) Transport layer",
+   "B) Session layer",
+   "C) Physical layer",
+   "D) Network layer"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q169",
+  "copies": [
+   "2021-set1-q169"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In OSI model network layer is responsible for ______.",
+  "options": [
+   "A) Dialog control",
+   "B) Token management",
+   "C) Routing",
+   "D) Physical transmission"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q170",
+  "copies": [
+   "2021-set1-q170"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statement is/are true about the OSI model?\nI. Layer 1 through 3 are end-to-end\nII. Layer 4 through 7 are chained",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q171",
+  "copies": [
+   "2021-set1-q171"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Layer five of OSI model is ______.",
+  "options": [
+   "A) Network layer",
+   "B) Transport layer",
+   "C) Session layer",
+   "D) Presentation layer"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q172",
+  "copies": [
+   "2021-set1-q172"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following business models fall into the category of ‘Native Internet Business Models’?\nI. Library Model\nII. Subscription Model",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q173",
+  "copies": [
+   "2021-set1-q173"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding the strategies required to increase the visibility of e-commerce website?\nI. The website name should be sensible that it can be guessed.\nII. Uploading contents like special offers or eye catching information for the regular followers can increase traffic on the website.\nIII. Icons of social networks on the website have no major influence on e-visibility.",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) Only II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q174",
+  "copies": [
+   "2021-set1-q174"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statement is correct regarding binary search tree?\nI. The value at node N is less than every value in the left subtree of node.\nII. The value at node N is greater than or equal to every value in the right subtree of N.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q175",
+  "copies": [
+   "2021-set1-q175"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding about the undirected graph?\nI. Number of odd degree vertices is even.\nII. Sum of degrees of all vertices is even.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q176",
+  "copies": [
+   "2021-set1-q176"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not used to calculate Hash functions?",
+  "options": [
+   "A) Folding method",
+   "B) Modular method",
+   "C) Division method",
+   "D) Rehashing"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ }
+]

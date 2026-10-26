@@ -1,0 +1,168 @@
+"""Subject -> topic -> subtopics used to classify every DSSSB TGT Computer Science question.
+
+Section A follows the official I-T-T (One Tier Technical/Teaching) Section A syllabus.  Section B follows the
+official 41/26 'SYLLABUS: TGT Computer Science in DOE' (32 numbered units + 10 'Teaching Education and
+Methodology' topics).  The official list only names units; the subtopics below are this project's study
+breakdown and are labelled as such in the app.  `units` links each topic to the official unit numbers.
+Topics marked `outside41_26` hold questions asked in past papers that the 41/26 list does not name.
+"""
+from __future__ import annotations
+
+SYLLABUS_41_26_CS = [
+    "Mathematics – I, II, III, IV.",
+    "Business Communication, Business Organization and Management, Writing.",
+    "Computer Basics and P.C. Software.",
+    "Programming with C, Data Structures using C, C++ Programming.",
+    "Fundamentals of Information Technology.",
+    "Basis of Physics.",
+    "Digital Electronics.",
+    "Database Management System.",
+    "Computer Architecture.",
+    "Front End Designed Tools.",
+    "Financial Accounting.",
+    "Object/Computer Oriented Programming/Numerical Techniques.",
+    "Software Engineering.",
+    "Java Programming and website design.",
+    "Operating Systems.",
+    "Business Economics.",
+    "Computer Networks.",
+    ".net programming.",
+    "Linux Environment.",
+    "E-Commerce.",
+    "Design and analysis of algorithms.",
+    "Computer Network Security.",
+    "Management Information System.",
+    "Mobile Computing.",
+    "Computer Graphics & Multimedia Applications – Graphics, Graphics Hardware, Clipping, Curve & Surfaces, Solid Modeling.",
+    "Internet Programming – Web Server, CSS, Event Model, Filter & Transitions, Data Binding with Tabular Data Control, PWS Setup, Publishing Information/Internet Information Server, DTD's using XML with XTML and CSS, XML parsers.",
+    "Knowledge Management & New Economy.",
+    "Foundation Course in English.",
+    "Problem Solving & Programming.",
+    "Statistical Techniques – Descriptive Statistics, Probability concepts, Probability Distributions, Inference.",
+    "TCP/Protocols.",
+    "Interpolation.",
+]
+
+SYLLABUS_41_26_PEDAGOGY = [
+    "Learning & Teaching",
+    "Language across the curriculum",
+    "Understanding discipline and subject",
+    "Gender school and Society",
+    "Pedagogy of a school subject",
+    "Knowledge and curriculum",
+    "Assessment for learning",
+    "Creating an inclusive school",
+    "Childhood and growing up",
+    "Drama and Art in Education",
+]
+
+# subject -> {"part", "hi", "topics": {topic: {"hi", "units", "subtopics", "outside41_26"?}}}
+TAXONOMY: dict[str, dict] = {
+    "General Awareness": {
+        "part": "A",
+        "hi": "सामान्य जागरूकता",
+        "topics": {
+            "Current Affairs & Sports": {"hi": "समसामयिकी एवं खेल", "subtopics": ["National events & schemes", "International events & organisations", "Sports events & awards", "Science & technology news", "Reports, indices & days"]},
+            "History": {"hi": "इतिहास", "subtopics": ["Ancient India", "Medieval India", "Modern India & freedom struggle", "Literature, authors & epics"]},
+            "Polity & Constitution": {"hi": "राजव्यवस्था एवं संविधान", "subtopics": ["Articles & schedules", "Fundamental rights & duties", "Parliament, President & executive", "Judiciary & constitutional bodies", "Local government"]},
+            "Geography": {"hi": "भूगोल", "subtopics": ["Physical geography of India", "Rivers, lakes & mountains", "Climate & natural phenomena", "World geography", "Resources & agriculture"]},
+            "Economy": {"hi": "अर्थव्यवस्था", "subtopics": ["Money & banking", "Budget, taxation & fiscal policy", "Economic concepts", "Organisations (RBI, NITI Aayog, etc.)"]},
+            "Everyday Science": {"hi": "दैनिक विज्ञान", "subtopics": ["Physics in daily life", "Chemistry in daily life", "Biology & health", "Environment & ecology"]},
+            "Art, Culture & Awards": {"hi": "कला, संस्कृति एवं पुरस्कार", "subtopics": ["Music & musical instruments", "Dance & theatre", "Festivals, monuments & heritage", "Awards & honours", "Books & personalities"]},
+        },
+    },
+    "General Intelligence & Reasoning": {
+        "part": "A",
+        "hi": "सामान्य बुद्धिमत्ता एवं तर्कशक्ति",
+        "topics": {
+            "Analogy & Classification": {"hi": "सादृश्यता एवं वर्गीकरण", "subtopics": ["Word / letter analogy", "Number analogy", "Odd one out"]},
+            "Series": {"hi": "श्रृंखला", "subtopics": ["Number series", "Letter / alphanumeric series", "Missing term"]},
+            "Coding-Decoding": {"hi": "कूटलेखन-कूटवाचन", "subtopics": ["Letter coding", "Number coding", "Symbol / mathematical operations"]},
+            "Blood Relations & Directions": {"hi": "रक्त संबंध एवं दिशा", "subtopics": ["Blood relations", "Direction & distance"]},
+            "Arrangement & Puzzles": {"hi": "व्यवस्था एवं पहेली", "subtopics": ["Linear / circular seating", "Ranking & order", "Comparison puzzles", "Calendar & clock"]},
+            "Logical & Verbal Reasoning": {"hi": "तार्किक एवं शाब्दिक तर्क", "subtopics": ["Syllogism", "Statement & arguments", "Statement & assumptions / conclusions", "Cause & effect / course of action", "Assertion & reason"]},
+            "Venn Diagrams & Non-verbal": {"hi": "वेन आरेख एवं अशाब्दिक", "subtopics": ["Venn diagrams", "Figures & mirror images", "Counting figures"]},
+        },
+    },
+    "Arithmetical & Numerical Ability": {
+        "part": "A",
+        "hi": "अंकगणितीय एवं संख्यात्मक क्षमता",
+        "topics": {
+            "Number System & Simplification": {"hi": "संख्या पद्धति एवं सरलीकरण", "subtopics": ["Divisibility, HCF & LCM", "Simplification & surds", "Fractions & decimals"]},
+            "Percentage, Profit & Loss": {"hi": "प्रतिशत, लाभ एवं हानि", "subtopics": ["Percentage", "Profit, loss & discount", "Simple & compound interest"]},
+            "Ratio, Average & Ages": {"hi": "अनुपात, औसत एवं आयु", "subtopics": ["Ratio & proportion", "Average", "Problems on ages", "Mixture & partnership"]},
+            "Time, Work & Distance": {"hi": "समय, कार्य एवं दूरी", "subtopics": ["Time & work / pipes", "Speed, time & distance", "Trains, boats & streams"]},
+            "Mensuration & Geometry": {"hi": "क्षेत्रमिति एवं ज्यामिति", "subtopics": ["2-D figures (area, perimeter)", "3-D solids (volume, surface area)", "Lines, triangles & circles"]},
+            "Algebra, Trigonometry & Data": {"hi": "बीजगणित, त्रिकोणमिति एवं आँकड़े", "subtopics": ["Algebraic identities & equations", "Trigonometry", "Data interpretation & statistics"]},
+        },
+    },
+    "Hindi Language": {
+        "part": "A",
+        "hi": "हिन्दी भाषा",
+        "topics": {
+            "शब्द ज्ञान (Vocabulary)": {"hi": "शब्द ज्ञान", "subtopics": ["पर्यायवाची", "विलोम", "अनेक शब्दों के लिए एक शब्द", "तत्सम-तद्भव-देशज-विदेशज", "युग्म शब्द"]},
+            "व्याकरण (Grammar)": {"hi": "व्याकरण", "subtopics": ["संधि", "समास", "संज्ञा, सर्वनाम, विशेषण", "क्रिया, काल एवं वाच्य", "कारक एवं अव्यय", "उपसर्ग-प्रत्यय", "लिंग-वचन", "अलंकार एवं रस"]},
+            "शुद्धि (Correction)": {"hi": "शुद्धि", "subtopics": ["वर्तनी शुद्धि", "वाक्य शुद्धि", "विराम चिह्न"]},
+            "मुहावरे एवं लोकोक्तियाँ": {"hi": "मुहावरे एवं लोकोक्तियाँ", "subtopics": ["मुहावरे", "लोकोक्तियाँ"]},
+            "गद्यांश एवं वाक्य संरचना": {"hi": "गद्यांश एवं वाक्य संरचना", "subtopics": ["अपठित गद्यांश", "वाक्य क्रम", "रिक्त स्थान"]},
+        },
+    },
+    "English Language": {
+        "part": "A",
+        "hi": "अंग्रेज़ी भाषा",
+        "topics": {
+            "Vocabulary": {"hi": "शब्दावली", "subtopics": ["Synonyms", "Antonyms", "One-word substitution", "Spelling", "Idioms & phrases"]},
+            "Grammar": {"hi": "व्याकरण", "subtopics": ["Error spotting", "Sentence improvement", "Fill in the blanks", "Voice & narration", "Tenses, articles & prepositions"]},
+            "Comprehension & Para Jumbles": {"hi": "बोधगम्यता एवं वाक्य क्रम", "subtopics": ["Reading comprehension", "Para jumbles / sentence order", "Cloze test"]},
+        },
+    },
+    "Computer Science": {
+        "part": "B",
+        "hi": "कंप्यूटर विज्ञान",
+        "topics": {
+            "Computer Fundamentals & PC Software": {"hi": "कंप्यूटर मूल सिद्धांत एवं पीसी सॉफ्टवेयर", "units": [3, 5], "subtopics": ["Generations, types & history", "Hardware, input/output devices", "Memory & storage units", "Software types & utilities", "Office tools & shortcuts", "Internet & e-mail basics"]},
+            "Number Systems & Digital Electronics": {"hi": "संख्या पद्धति एवं डिजिटल इलेक्ट्रॉनिक्स", "units": [7], "subtopics": ["Number systems & conversions", "Complements & binary arithmetic", "Codes (BCD, Gray, ASCII)", "Boolean algebra & logic gates", "K-map minimisation", "Combinational circuits", "Flip-flops, registers & counters"]},
+            "Computer Architecture": {"hi": "कंप्यूटर आर्किटेक्चर", "units": [9], "subtopics": ["CPU, registers & instruction cycle", "Instruction formats & addressing modes", "Memory hierarchy & cache", "Pipelining & parallelism", "I/O, interrupts & DMA", "Assembly language basics"]},
+            "Programming in C": {"hi": "C प्रोग्रामिंग", "units": [4, 29], "subtopics": ["Data types, operators & expressions", "Control statements & loops", "Functions & recursion", "Arrays & strings", "Pointers & dynamic memory", "Structures, unions & files", "Preprocessor & compilation"]},
+            "OOP, C++ & Java": {"hi": "OOP, C++ एवं जावा", "units": [4, 12, 14], "subtopics": ["OOP concepts", "Classes, objects & constructors", "Inheritance & polymorphism", "Overloading & virtual functions", "Templates & exceptions", "Java basics & JVM", "Java packages, interfaces & threads"]},
+            "Python Programming": {"hi": "पायथन प्रोग्रामिंग", "units": [29], "outside41_26": True, "subtopics": ["Syntax, data types & operators", "Control flow", "Strings, lists, tuples & dictionaries", "Functions & modules", "File handling"]},
+            "Data Structures": {"hi": "डेटा संरचना", "units": [4], "subtopics": ["Arrays & complexity basics", "Stacks & queues", "Linked lists", "Trees & binary search trees", "Graphs", "Hashing", "Searching & sorting"]},
+            "Algorithms": {"hi": "एल्गोरिदम", "units": [21, 29], "subtopics": ["Asymptotic analysis", "Divide & conquer", "Greedy", "Dynamic programming", "Graph algorithms", "Flowcharts & pseudocode"]},
+            "Operating Systems & Linux": {"hi": "ऑपरेटिंग सिस्टम एवं लिनक्स", "units": [15, 19], "subtopics": ["OS types & functions", "Processes, threads & scheduling", "Synchronisation & deadlock", "Memory management & paging", "File systems & disk scheduling", "Linux commands & shell"]},
+            "DBMS & SQL": {"hi": "DBMS एवं SQL", "units": [8], "subtopics": ["DBMS concepts & architecture", "ER model & keys", "Relational model & algebra", "SQL", "Normalisation", "Transactions & concurrency"]},
+            "Computer Networks & Protocols": {"hi": "कंप्यूटर नेटवर्क एवं प्रोटोकॉल", "units": [17, 31], "subtopics": ["Network types & topologies", "OSI & TCP/IP models", "Transmission media & devices", "Data link & error control", "IP addressing & routing", "Transport & application protocols"]},
+            "Network Security & Cyber Law": {"hi": "नेटवर्क सुरक्षा एवं साइबर कानून", "units": [22], "subtopics": ["Threats & malware", "Cryptography", "Firewalls & authentication", "Cyber law & IT Act"]},
+            "Web Technologies": {"hi": "वेब तकनीक", "units": [14, 26, 10, 18], "subtopics": ["HTML", "CSS", "JavaScript & event model", "XML, DTD & parsers", "Web servers & hosting", "Front-end tools & .NET"]},
+            "Software Engineering": {"hi": "सॉफ्टवेयर इंजीनियरिंग", "units": [13], "subtopics": ["SDLC & process models", "Requirements & design", "Testing", "Project management & estimation", "Maintenance & quality"]},
+            "Computer Graphics & Multimedia": {"hi": "कंप्यूटर ग्राफिक्स एवं मल्टीमीडिया", "units": [25], "subtopics": ["Graphics hardware & displays", "Line & circle drawing", "Transformations", "Clipping", "Curves, surfaces & hidden surfaces", "Multimedia & file formats"]},
+            "E-Commerce, MIS & IT in Business": {"hi": "ई-कॉमर्स, MIS एवं व्यवसाय में IT", "units": [20, 23, 27], "subtopics": ["E-commerce models & payments", "MIS & decision support", "Knowledge management", "ERP & business systems"]},
+            "Mobile Computing & Emerging Tech": {"hi": "मोबाइल कंप्यूटिंग एवं उभरती तकनीक", "units": [24], "subtopics": ["Mobile & wireless computing", "Cloud computing", "AI & machine learning", "IoT & other emerging tech"]},
+            "Society, Ethics & E-waste": {"hi": "समाज, नैतिकता एवं ई-अपशिष्ट", "units": [], "outside41_26": True, "subtopics": ["Cyber ethics & AI ethics", "Intellectual property", "E-waste management", "Digital footprint & privacy"]},
+            "Mathematics, Statistics & Numerical Methods": {"hi": "गणित, सांख्यिकी एवं संख्यात्मक विधियाँ", "units": [1, 12, 30, 32], "subtopics": ["Sets, relations & logic", "Matrices & calculus", "Probability", "Descriptive statistics & distributions", "Interpolation & numerical methods"]},
+            "Business, Accounting & Economics": {"hi": "व्यवसाय, लेखांकन एवं अर्थशास्त्र", "units": [2, 11, 16], "subtopics": ["Business communication & organisation", "Financial accounting", "Business economics"]},
+            "Physics Basics": {"hi": "भौतिकी के मूल तत्व", "units": [6], "subtopics": ["Units & electricity basics", "Semiconductors"]},
+        },
+    },
+    "Teaching Methodology": {
+        "part": "B",
+        "hi": "शिक्षण पद्धति",
+        "topics": {
+            "Learning & Teaching": {"hi": "अधिगम एवं शिक्षण", "units": ["P1"], "subtopics": ["Learning theories (Piaget, Vygotsky, Skinner, Bruner)", "Teaching methods & strategies", "Motivation", "Bloom's taxonomy & objectives"]},
+            "Childhood & Growing Up": {"hi": "बाल्यावस्था एवं विकास", "units": ["P9"], "subtopics": ["Stages of development", "Intelligence & individual differences", "Adolescence"]},
+            "Pedagogy of a School Subject": {"hi": "विद्यालयी विषय का शिक्षणशास्त्र", "units": ["P5", "P3"], "subtopics": ["Pedagogy of Computer Science", "Learning resources & ICT in teaching", "Lesson planning"]},
+            "Assessment for Learning": {"hi": "अधिगम हेतु आकलन", "units": ["P7"], "subtopics": ["Formative & summative assessment", "CCE & test items", "Evaluation tools"]},
+            "Inclusive Education": {"hi": "समावेशी शिक्षा", "units": ["P8"], "subtopics": ["Children with special needs", "Disabilities & support", "Inclusive practices"]},
+            "Knowledge, Curriculum & Policy": {"hi": "ज्ञान, पाठ्यचर्या एवं नीति", "units": ["P6"], "subtopics": ["Curriculum & NCF", "Education policy (NEP, RTE, SSA)", "Education commissions"]},
+            "Gender, School & Society": {"hi": "जेंडर, विद्यालय एवं समाज", "units": ["P4"], "subtopics": ["Gender & equity", "School and society"]},
+            "Language Across the Curriculum": {"hi": "पाठ्यचर्या में भाषा", "units": ["P2"], "subtopics": ["Language in learning"]},
+            "Drama & Art in Education": {"hi": "शिक्षा में नाटक एवं कला", "units": ["P10"], "subtopics": ["Art integration", "Drama in education"]},
+        },
+    },
+}
+
+
+def validate_label(subject: str, topic: str, subtopic: str) -> bool:
+    s = TAXONOMY.get(subject)
+    if not s or topic not in s["topics"]:
+        return False
+    return subtopic in s["topics"][topic]["subtopics"]

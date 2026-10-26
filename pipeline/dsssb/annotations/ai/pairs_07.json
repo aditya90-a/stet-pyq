@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q075",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q080",
+  "b": "2021-set4-q080",
+  "verdict": "different",
+  "reason": "Title questions on different passages (Republic Day vs internet)."
+ },
+ {
+  "a": "2021-set3-q080",
+  "b": "2021-set5-q080",
+  "verdict": "different",
+  "reason": "Title questions on different passages (Republic Day vs green revolution)."
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set3-q082",
+  "verdict": "different",
+  "reason": "Different sentences; double superlative vs wrong preposition 'for' with assessment."
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set4-q081",
+  "verdict": "different",
+  "reason": "Different sentences; double superlative vs 'senior than' instead of 'senior to'."
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set4-q082",
+  "verdict": "different",
+  "reason": "Different sentences and errors in error-spotting."
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set5-q081",
+  "verdict": "different",
+  "reason": "Different sentences; double superlative vs subject-verb agreement 'He have'."
+ },
+ {
+  "a": "2021-set3-q081",
+  "b": "2021-set5-q082",
+  "verdict": "different",
+  "reason": "Different sentences and errors in error-spotting."
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set3-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set4-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q083",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set4-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q084",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q085",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q086",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set3-q089",
+  "b": "2021-set4-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different words (warning vs encounter)."
+ },
+ {
+  "a": "2021-set3-q089",
+  "b": "2021-set5-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different words (warning vs consistent)."
+ },
+ {
+  "a": "2021-set3-q090",
+  "b": "2021-set4-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different words (altercate vs allegiance)."
+ },
+ {
+  "a": "2021-set3-q090",
+  "b": "2021-set5-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different words (altercate vs appellant)."
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set3-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set4-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q091",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set4-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q092",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set3-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set4-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q093",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set4-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q094",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set3-q101",
+  "b": "2021-set3-q102",
+  "verdict": "different",
+  "reason": "Shortcut for justify (Ctrl+J) vs function of Ctrl+T (hanging indent); different facts."
+ },
+ {
+  "a": "2021-set3-q111",
+  "b": "2021-set4-q111",
+  "verdict": "different",
+  "reason": "C pre-increment expression vs comma operator; different concepts."
+ },
+ {
+  "a": "2021-set3-q111",
+  "b": "2021-set5-q114",
+  "verdict": "different",
+  "reason": "C pre-increment expression vs integer division; different concepts."
+ },
+ {
+  "a": "2021-set3-q114",
+  "b": "2021-set5-q121",
+  "verdict": "different",
+  "reason": "Full duplex definition vs half duplex definition; different answers."
+ },
+ {
+  "a": "2021-set3-q115",
+  "b": "2021-set4-q116",
+  "verdict": "different",
+  "reason": "BCD bits for 1000 vs binary bits for range 0 to 2^n-1; different facts."
+ },
+ {
+  "a": "2021-set3-q122",
+  "b": "2021-set4-q118",
+  "verdict": "different",
+  "reason": "Truth tables of different gates (OR vs NAND)."
+ },
+ {
+  "a": "2021-set3-q134",
+  "b": "2021-set5-q138",
+  "verdict": "different",
+  "reason": "SQL comparison operator vs aggregate operator; different facts."
+ },
+ {
+  "a": "2021-set3-q135",
+  "b": "2021-set4-q133",
+  "verdict": "different",
+  "reason": "Gate for POS expression vs XOR in adder-subtractor; different facts."
+ },
+ {
+  "a": "2021-set3-q135",
+  "b": "2021-set5-q141",
+  "verdict": "different",
+  "reason": "Gate for POS expression vs mask micro-operation (AND); different facts."
+ },
+ {
+  "a": "2021-set3-q141",
+  "b": "2021-set4-q141",
+  "verdict": "different",
+  "reason": "Full forms of different reliability metrics (MTTF vs ROCOF)."
+ },
+ {
+  "a": "2021-set3-q142",
+  "b": "2021-set3-q143",
+  "verdict": "different",
+  "reason": "Other name of linear sequential model vs high-speed adaptation (RAD); different answers."
+ },
+ {
+  "a": "2021-set3-q142",
+  "b": "2021-set5-q153",
+  "verdict": "different",
+  "reason": "Other names of different SDLC models (waterfall vs spiral/meta)."
+ },
+ {
+  "a": "2021-set3-q143",
+  "b": "2021-set5-q153",
+  "verdict": "different",
+  "reason": "RAD as high-speed linear model vs spiral as meta model; different facts."
+ },
+ {
+  "a": "2021-set3-q146",
+  "b": "2021-set3-q172",
+  "verdict": "different",
+  "reason": "Different match-the-following content."
+ },
+ {
+  "a": "2021-set3-q146",
+  "b": "2021-set4-q142",
+  "verdict": "different",
+  "reason": "DDL operators matching vs DFD symbols matching."
+ },
+ {
+  "a": "2021-set3-q147",
+  "b": "2021-set4-q145",
+  "verdict": "different",
+  "reason": "Cohesion definition vs coupling definition; different concepts."
+ },
+ {
+  "a": "2021-set3-q149",
+  "b": "2021-set4-q150",
+  "verdict": "different",
+  "reason": "Java while-loop with increments vs string concatenation; different concepts."
+ },
+ {
+  "a": "2021-set3-q149",
+  "b": "2023-06-24-s2-q152",
+  "verdict": "different",
+  "reason": "Java loop increments vs bitwise AND; different concepts."
+ },
+ {
+  "a": "2021-set3-q157",
+  "b": "2021-set4-q162",
+  "verdict": "different",
+  "reason": "ARQ definition vs DHCP definition; different answers."
+ },
+ {
+  "a": "2021-set3-q158",
+  "b": "2021-set4-q161",
+  "verdict": "concept",
+  "reason": "Both test classification of guided (wired) vs unguided (wireless) transmission media."
+ },
+ {
+  "a": "2021-set3-q160",
+  "b": "2021-set4-q160",
+  "verdict": "different",
+  "reason": "Different match-the-following content."
+ },
+ {
+  "a": "2021-set3-q160",
+  "b": "2021-set4-q168",
+  "verdict": "different",
+  "reason": "Different match-the-following content (firewalls)."
+ },
+ {
+  "a": "2021-set3-q160",
+  "b": "2023-06-24-s2-q169",
+  "verdict": "different",
+  "reason": "Different match-the-following content (TCP ports)."
+ },
+ {
+  "a": "2021-set3-q168",
+  "b": "2021-set4-q173",
+  "verdict": "different",
+  "reason": "Stable sort identification vs selection sort pass trace."
+ },
+ {
+  "a": "2021-set3-q169",
+  "b": "2021-set5-q115",
+  "verdict": "different",
+  "reason": "Postorder definition vs custom traversal on a tree; different tasks."
+ },
+ {
+  "a": "2021-set3-q172",
+  "b": "2021-set4-q142",
+  "verdict": "different",
+  "reason": "Different match-the-following content (DFD symbols)."
+ },
+ {
+  "a": "2021-set3-q190",
+  "b": "2021-set5-q148",
+  "verdict": "different",
+  "reason": "Reading y from a table vs numerical derivative from table; different methods."
+ },
+ {
+  "a": "2021-set3-q198",
+  "b": "2021-set4-q198",
+  "verdict": "different",
+  "reason": "Basics of performing arts vs types of performing arts."
+ },
+ {
+  "a": "2021-set4-q023",
+  "b": "2021-set5-q023",
+  "verdict": "different",
+  "reason": "Odd word from different word sets."
+ },
+ {
+  "a": "2021-set4-q027",
+  "b": "2021-set5-q029",
+  "verdict": "different",
+  "reason": "Different circular seating arrangements."
+ },
+ {
+  "a": "2021-set4-q027",
+  "b": "2023-06-24-s2-q001",
+  "verdict": "different",
+  "reason": "Different circular seating arrangements."
+ },
+ {
+  "a": "2021-set4-q030",
+  "b": "2021-set5-q031",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set4-q031",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set4-q035",
+  "b": "2021-set5-q035",
+  "verdict": "different",
+  "reason": "Different Venn diagrams and statements."
+ },
+ {
+  "a": "2021-set4-q036",
+  "b": "2021-set5-q036",
+  "verdict": "different",
+  "reason": "Direction renaming puzzles with different rotations and answers."
+ },
+ {
+  "a": "2021-set4-q037",
+  "b": "2021-set5-q037",
+  "verdict": "different",
+  "reason": "Different walking-direction distance problems."
+ },
+ {
+  "a": "2021-set4-q038",
+  "b": "2023-06-24-s2-q014",
+  "verdict": "different",
+  "reason": "Wrong figure in series vs embedded figure."
+ },
+ {
+  "a": "2021-set4-q041",
+  "b": "2021-set5-q041",
+  "verdict": "different",
+  "reason": "BODMAS simplification vs cube root evaluation."
+ },
+ {
+  "a": "2021-set4-q041",
+  "b": "2021-set5-q187",
+  "verdict": "different",
+  "reason": "BODMAS simplification vs mean of mode and median."
+ },
+ {
+  "a": "2021-set4-q055",
+  "b": "2021-set5-q055",
+  "verdict": "different",
+  "reason": "Partner leaving midway vs finding third worker's time."
+ },
+ {
+  "a": "2021-set4-q056",
+  "b": "2021-set5-q056",
+  "verdict": "different",
+  "reason": "Square area from diagonal vs circle area from equal perimeter."
+ },
+ {
+  "a": "2021-set4-q057",
+  "b": "2021-set5-q057",
+  "verdict": "concept",
+  "reason": "Both use volume conservation when melting/recasting hemisphere and cone."
+ },
+ {
+  "a": "2021-set4-q062",
+  "b": "2021-set5-q062",
+  "verdict": "different",
+  "reason": "Upsarg identification vs sandhi formation."
+ },
+ {
+  "a": "2021-set4-q063",
+  "b": "2021-set5-q063",
+  "verdict": "different",
+  "reason": "Abstract noun (bhavvachak) vs collective noun (samoohvachak); different facts."
+ },
+ {
+  "a": "2021-set4-q065",
+  "b": "2021-set5-q067",
+  "verdict": "different",
+  "reason": "Antonyms of different words."
+ },
+ {
+  "a": "2021-set4-q073",
+  "b": "2021-set5-q072",
+  "verdict": "different",
+  "reason": "Question mark vs exclamation mark; different rules."
+ },
+ {
+  "a": "2021-set4-q073",
+  "b": "2021-set5-q073",
+  "verdict": "concept",
+  "reason": "Both test question mark (prashnavachak) for interrogative sentences."
+ },
+ {
+  "a": "2021-set4-q074",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q074",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q074",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q075",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q075",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set4-q080",
+  "b": "2021-set5-q080",
+  "verdict": "different",
+  "reason": "Title questions on different passages."
+ },
+ {
+  "a": "2021-set4-q081",
+  "b": "2021-set4-q082",
+  "verdict": "different",
+  "reason": "Error spotting in different sentences with different errors."
+ },
+ {
+  "a": "2021-set4-q081",
+  "b": "2021-set5-q081",
+  "verdict": "different",
+  "reason": "Different sentences; 'senior than' vs subject-verb agreement."
+ },
+ {
+  "a": "2021-set4-q081",
+  "b": "2021-set5-q082",
+  "verdict": "different",
+  "reason": "Error spotting in different sentences with different errors."
+ },
+ {
+  "a": "2021-set4-q082",
+  "b": "2021-set5-q081",
+  "verdict": "different",
+  "reason": "Error spotting in different sentences with different errors."
+ },
+ {
+  "a": "2021-set4-q083",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set4-q083",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set4-q083",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set4-q084",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set4-q084",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different sentences and errors."
+ },
+ {
+  "a": "2021-set4-q085",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set4-q085",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set4-q085",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ }
+]

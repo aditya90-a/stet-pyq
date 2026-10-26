@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set5-q160",
+  "copies": [
+   "2021-set5-q160"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not a CPU scheduling Algorithm?",
+  "options": [
+   "A) FCFS",
+   "B) C-SCAN",
+   "C) SJF",
+   "D) SJN"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q161",
+  "copies": [
+   "2021-set5-q161"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true about CPU scheduling algorithm?\nI. Shortest remaining time first scheduling may cause starvation\nII. Round Robin is better than First Come First Serve in terms of response time",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q162",
+  "copies": [
+   "2021-set5-q162"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Short run marginal cost curve is ______.",
+  "options": [
+   "A) S-shaped",
+   "B) U-shaped",
+   "C) V-shaped",
+   "D) Inverse U-shaped"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q163",
+  "copies": [
+   "2021-set5-q163"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the tool(s) of monetary policy of the RBI?\nI. Reverse Repo Rate\nII. Repo Rate\nIII. Bank Rate",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) Only III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q164",
+  "copies": [
+   "2021-set5-q164"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is NOT correct regarding monopolistic competition?",
+  "options": [
+   "A) The marginal revenue is slightly less than the average revenue",
+   "B) The goods produced by them are not homogeneous",
+   "C) The demand curve faced by the firm is horizontal",
+   "D) The market structure of the firm allows for new firms to enter the market"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q165",
+  "copies": [
+   "2021-set5-q165"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statements are true about local area network?\nI. Communication takes place by way of satellites, microwave\nII. Faster than wide area network\nIII. Covers limited area",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q166",
+  "copies": [
+   "2021-set5-q166"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statements are true about wide area network?\nI. Covers wide geographical area\nII. Communication take place by way of satellites, microwaves\nIII. Relatively faster than local area network",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q167",
+  "copies": [
+   "2021-set5-q167"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What does the acronym of ICMP Protocol?",
+  "options": [
+   "A) Internet Contention Message Protocol",
+   "B) Internet Communication Message Protocol",
+   "C) Internet Control Message Protocol",
+   "D) Internet Carrier Message Protocol"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q168",
+  "copies": [
+   "2021-set5-q168"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are not true about star topology?\nI. Failure of the Central Computer shut down the entire network\nII. Connection of additional computers increase the communication time",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q169",
+  "copies": [
+   "2021-set5-q169"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In Ethernet, when Manchester encoding is used, then the pulse width are ______ of the straight binary encoding.",
+  "options": [
+   "A) same",
+   "B) half",
+   "C) twice",
+   "D) one third"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q170",
+  "copies": [
+   "2021-set5-q170"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which data transmission technique in a computer network required dedicated communication channel?",
+  "options": [
+   "A) Circuit switching",
+   "B) Packet switching",
+   "C) Message switching",
+   "D) Frame switching"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q171",
+  "copies": [
+   "2021-set5-q171"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the description of append keyword of Visual Basic .NET keyword?",
+  "options": [
+   "A) Boolean operation",
+   "B) Used in the declare statement",
+   "C) Used as a symbolic constant in the file open function",
+   "D) Assembly – level attribute specifier"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q172",
+  "copies": [
+   "2021-set5-q172"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following business models falls into the category of ‘Transplanted Real-World Business Models’?",
+  "options": [
+   "A) Free trial model",
+   "B) Freeware model",
+   "C) Access provision model",
+   "D) Digital products model"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q173",
+  "copies": [
+   "2021-set5-q173"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Procedure for online trading involve(s) which of the following step(s)?\nI. Make an application to open a Demat Account and Online Trading Account.\nII. Allocate funds from the bank account to the trading account.\nIII. Once the order is confirmed, it is placed in the stock exchange through the online trading system.",
+  "options": [
+   "A) I and II",
+   "B) Only III",
+   "C) I, II and III",
+   "D) II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q174",
+  "copies": [
+   "2021-set5-q174"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following can be the valid balance factor of any node in an AVL tree?",
+  "options": [
+   "A) 1",
+   "B) 2",
+   "C) 3",
+   "D) 4"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q175",
+  "copies": [
+   "2021-set5-q175"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The vertex in a graph with degree one is known as ______.",
+  "options": [
+   "A) isolated vertex",
+   "B) loop vertex",
+   "C) pendant vertex",
+   "D) external vertex"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q176",
+  "copies": [
+   "2021-set5-q176"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the time complexity of Dijkstra’s algorithm for the single source shortest path problem?",
+  "options": [
+   "A) O(n)",
+   "B) O(log_2n)",
+   "C) O(n^2)",
+   "D) O(n log_2n)"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q179",
+  "copies": [
+   "2021-set5-q179"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a component of Decision Support System (DSS)?\nI. User interface\nII. Knowledge engine",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q180",
+  "copies": [
+   "2021-set5-q180"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "CDMA is an example of which generation of cellular networks?",
+  "options": [
+   "A) 2G",
+   "B) 5G",
+   "C) 3.5G",
+   "D) 4G"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q181",
+  "copies": [
+   "2021-set5-q181"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Arrange the following mobile data speed in ascending order.\nGSM, LTE, GPRS, EDGE",
+  "options": [
+   "A) GSM, GPRS, EDGE, LTE",
+   "B) GSM, EDGE, GPRS, LTE",
+   "C) GPRS, GSM, LTE, EDGE",
+   "D) GSM, GPRS, LTE, EDGE"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q182",
+  "copies": [
+   "2021-set5-q182"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Circle have ______ way symmetry.",
+  "options": [
+   "A) two",
+   "B) four",
+   "C) eight",
+   "D) one"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q184",
+  "copies": [
+   "2021-set5-q184"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which colour specification in CSS use three numbers representing the hue (from 0 to 360 degree), saturation percentage and lightness\npercentage?",
+  "options": [
+   "A) Hexadecimal",
+   "B) RGB",
+   "C) HSL",
+   "D) Alpha"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q185",
+  "copies": [
+   "2021-set5-q185"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of JPEG image forms?",
+  "options": [
+   "A) Joint Photographic Experts Group",
+   "B) Joint Photographic Experts Graphics",
+   "C) Joint Photo Experts Group",
+   "D) Joint Photo Experts Graphics"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q186",
+  "copies": [
+   "2021-set5-q186"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which statements are true about sequence structure during program execution?\nI. Each statement is executed once\nII. No statement is repeated\nIII. The statements are executed in any order",
+  "options": [
+   "A) II and III",
+   "B) I and III",
+   "C) I and II",
+   "D) I, II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q187",
+  "copies": [
+   "2021-set5-q187"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the mean of the mode and median of the data given below?\n8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+  "options": [
+   "A) 6.5",
+   "B) 5.75",
+   "C) 6.25",
+   "D) 5.5"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q188",
+  "copies": [
+   "2021-set5-q188"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Let P be the median of the data: 34, 28, 20, 32, 15, 9, 23, 26, 35, 16, 33, 43. If 16 and 23 are replaced by 30 and 32 respectively in the data, then\nlet Q be the median of the resulting data. What is the value of (3P – 2Q)?",
+  "options": [
+   "A) 18",
+   "B) 19",
+   "C) 21",
+   "D) 15"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q191",
+  "copies": [
+   "2021-set5-q191"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the characteristic(s) of an effective method of teaching and learning?\nI. Provides a scope for peer learning\nII. Encourages students to think independently and construct knowledge of their own",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q192",
+  "copies": [
+   "2021-set5-q192"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct?\nI. Materials for activity learning need to be relevant, contextual and related to real life experiences\nII. Textbook is an essential material for teaching and learning",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q193",
+  "copies": [
+   "2021-set5-q193"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not a feature of formative assessment?",
+  "options": [
+   "A) It is diagnostic and remedial",
+   "B) It provides a platform for the active involvement of students in their own learning",
+   "C) It is not conducted at regular intervals on informal basis",
+   "D) It ensure provision for effective feedback"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q194",
+  "copies": [
+   "2021-set5-q194"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct?\nI. After completion of teaching a topic, we always desire to known the extent of acquisition of knowledge and understanding of the topic and\ncompare the achievement of each individual against the desired level of achievement. This process is called assessment of learning.\nII. Mr. Rohan was assessing the performance of students while teaching – learning process was going on. He used the results of assessment for\nimprovement of learning and his own teaching process. This process is called Assessment for learning.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q195",
+  "copies": [
+   "2021-set5-q195"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In humans which of the following body part(s) has been adapted for speech?\nI. Lungs\nII. Nose\nIII. Tongue",
+  "options": [
+   "A) I, II and III",
+   "B) II and III",
+   "C) Only III",
+   "D) Only II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q196",
+  "copies": [
+   "2021-set5-q196"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct?\nI. Language acquisition refers to developing competence in a language by using it in natural, communicative situations (as available while\nlearning languages we hear in our homes and the neighbourhood).\nII. Language learning refers to developing competence in a language by learning it rules and vocabulary through explicit teaching in a classroom\nsetting.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q197",
+  "copies": [
+   "2021-set5-q197"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Art education is the area of learning that is based upon ______.\nI. visual, tangible art\nII. performing arts",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q198",
+  "copies": [
+   "2021-set5-q198"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct about Regional art and craft?\nI. Art originating among the people of region reflecting their traditional culture.\nII. It does not have its own aesthetics but they are not governed by the principles of proportions and rhythms.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q199",
+  "copies": [
+   "2021-set5-q199"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following thing(s) a teacher should do consciously to avoid gender bias and to promote gender equality?\nI. They must use gender-neutral language and encourage children also to do so.\nII. Teacher may avoid assigning gendered jobs.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q200",
+  "copies": [
+   "2021-set5-q200"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the source(s) of gender discrimination?\nI. Educational opportunities\nII. Government policies\nIII. Family and parents",
+  "options": [
+   "A) I and III",
+   "B) I, II and III",
+   "C) Only III",
+   "D) I and II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q021",
+  "copies": [
+   "2023-06-24-s2-q021"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In which city was the Indian Mobile Congress - 2022 held?",
+  "options": [
+   "A) New Delhi",
+   "B) Bengaluru",
+   "C) Mysuru",
+   "D) Mumbai"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q022",
+  "copies": [
+   "2023-06-24-s2-q022"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In October 2022, the Department of Telecommunications (DoT) initially announced that 5G\nservices would be launched in how many cities?",
+  "options": [
+   "A) 12",
+   "B) 13",
+   "C) 14",
+   "D) 15"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q023",
+  "copies": [
+   "2023-06-24-s2-q023"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "As per the Sample Registration System (SRS) Statistical Report 2020, released on 22 September\n2022 by the Registrar General of India (RGI), what was the Infant Mortality Rate (IMR) of India in\nthe year 2020?",
+  "options": [
+   "A) 24",
+   "B) 26",
+   "C) 28",
+   "D) 30"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q024",
+  "copies": [
+   "2023-06-24-s2-q024"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The report of which of the following committees was challenged in the Supreme Court in 2021?\nThe committee was set up to enquire into the social, economic and educational status of the\nMuslim community.",
+  "options": [
+   "A) Shah Committee",
+   "B) Sachar Committee",
+   "C) Mahajan Committee",
+   "D) Khusro Committee"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q025",
+  "copies": [
+   "2023-06-24-s2-q025"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The 2023 ICC Women's T20 World Cup is scheduled to be held in which of the following countries?",
+  "options": [
+   "A) India",
+   "B) Australia",
+   "C) South Africa",
+   "D) New Zealand"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q026",
+  "copies": [
+   "2023-06-24-s2-q026"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The first Lodi ruler Bahlul Lodi reigned between ______.",
+  "options": [
+   "A) 1454 AD and 1501 AD",
+   "B) 1453 AD and 1500 AD",
+   "C) 1452 AD and 1499 AD",
+   "D) 1451 AD and 1489 AD"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q027",
+  "copies": [
+   "2023-06-24-s2-q027"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT correctly paired?",
+  "options": [
+   "A) Battle of Chausa - Year 1539",
+   "B) Battle of Qannauj - Year 1540",
+   "C) Battle of Khanwa - Year 1527",
+   "D) Battle of Chanderi - Year 1544"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q028",
+  "copies": [
+   "2023-06-24-s2-q028"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Alfred High School, from which Mahatma Gandhi completed his schooling, is located in which of\nthe following cities of Gujarat?",
+  "options": [
+   "A) Rajkot",
+   "B) Porbandar",
+   "C) Bhavnagar",
+   "D) Ahmedabad"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q029",
+  "copies": [
+   "2023-06-24-s2-q029"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Sultan Ghari, which is known to be India’s first Islamic Mausoleum built in 1231 for Prince\nNasiruddin, is located in which of the following cities of India?",
+  "options": [
+   "A) Agra",
+   "B) Delhi",
+   "C) Lucknow",
+   "D) Panipat"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q030",
+  "copies": [
+   "2023-06-24-s2-q030"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In which of the following Gurudwaras did Guru Gobind Singh found the Khalsa Panth in 1699?",
+  "options": [
+   "A) Gurudwara Hari Mandir Sahib",
+   "B) Gurudwara Baba Atal Sahib",
+   "C) Gurudwara Takht Sri Patna Sahib",
+   "D) Gurudwara Anandpur Sahib"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q031",
+  "copies": [
+   "2023-06-24-s2-q031"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Garadi dance is one of the popular folk dances in which of the following parts of India?",
+  "options": [
+   "A) Western India",
+   "B) Northeastern India",
+   "C) Northern India",
+   "D) Southern India"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q032",
+  "copies": [
+   "2023-06-24-s2-q032"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "As per the RBI Guidelines for Licensing of Small Finance Banks in the Private Sector, the\npromoter’s minimum initial contribution to the paid-up equity capital shall be at least ______.",
+  "options": [
+   "A) 40 percent",
+   "B) 45 percent",
+   "C) 50 percent",
+   "D) 60 percent"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q033",
+  "copies": [
+   "2023-06-24-s2-q033"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The Deposit Insurance Corporation commenced functioning in which of the following years?",
+  "options": [
+   "A) 1962",
+   "B) 1963",
+   "C) 1964",
+   "D) 1965"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2023-06-24-s2-q034",
+  "copies": [
+   "2023-06-24-s2-q034"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following national parks is known for Lesser Panda or the Red Panda?",
+  "options": [
+   "A) Singalila National Park",
+   "B) Nagarhole National Park",
+   "C) Bandipur National Park",
+   "D) Jim Corbett National Park"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

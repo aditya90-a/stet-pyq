@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set3-q169",
+  "copies": [
+   "2021-set3-q169"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Post-order Binary tree traversal is ______.",
+  "options": [
+   "A) Left, Node, Right",
+   "B) Left, Right, Node",
+   "C) Node, Left, Right",
+   "D) Right, Left, Node"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q171",
+  "copies": [
+   "2021-set3-q171"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Consider a max heap, represented by the array 400, 300, 200, 100, 150, 160, 170, 80, 40. What will be the new heap after insertion of 350?",
+  "options": [
+   "A) 400, 300, 200, 100, 150, 160, 170, 80, 40, 350",
+   "B) 400, 350, 200, 100, 300, 160, 170, 80, 40, 150",
+   "C) 400, 300, 200, 100, 350, 160, 170, 80, 40, 150",
+   "D) 400, 350, 200, 100, 150, 160, 170, 80, 40, 300"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q173",
+  "copies": [
+   "2021-set3-q173"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a component of Management Information System (MIS)?",
+  "options": [
+   "A) External database",
+   "B) Knowledge engine",
+   "C) Data entry",
+   "D) Inquiry processing"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q174",
+  "copies": [
+   "2021-set3-q174"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding On-Line Transaction Processing (OLTP)?\nI. Responses to the user inquiry are immediate.\nII. The associated cost is economical with efficient utilization of resources.\nIII. The database is always up-to-date.",
+  "options": [
+   "A) Only II",
+   "B) I and III",
+   "C) Only III",
+   "D) I and II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q175",
+  "copies": [
+   "2021-set3-q175"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of GSM is mobile computing?",
+  "options": [
+   "A) Global Systems for mobile communication",
+   "B) Global Scientific mobile computing",
+   "C) Global Services for mobile computing",
+   "D) Global Signalling for mobile computing"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q176",
+  "copies": [
+   "2021-set3-q176"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Extension of bootstrap protocol is known as ______.",
+  "options": [
+   "A) Dynamic Host Configuration Protocol",
+   "B) Direct Host Configuration Protocol",
+   "C) Dynamic Source Routing Protocol",
+   "D) Direct Source Routing Protocol"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q177",
+  "copies": [
+   "2021-set3-q177"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which component of CRT regulate the intensity of electron beam?",
+  "options": [
+   "A) Heating Filament",
+   "B) Accelerating Anode",
+   "C) Focusing Anode",
+   "D) Control Grid"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q178",
+  "copies": [
+   "2021-set3-q178"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If an image has a width of 4 inch and an aspect ratio of 3 : 2, then what is its height?",
+  "options": [
+   "A) 4/3 inch",
+   "B) 8/3 inch",
+   "C) 2/3 inch",
+   "D) 16/3 inch"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q179",
+  "copies": [
+   "2021-set3-q179"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Rearrange steps involved in two dimensional viewing transformation.\nI. Map normalized viewport to device Co-ordinates\nII. Convert world co-ordinate to viewing co-ordinates\nIII. Construct world – co-ordinate scene using modeling coordinate transformation\nIV. Map viewing co-ordinates to normalized viewing co-ordinates using window-viewport specification",
+  "options": [
+   "A) III → II → IV → I",
+   "B) II → III → IV → I",
+   "C) I → II → IV → III",
+   "D) III → II → I → IV"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q180",
+  "copies": [
+   "2021-set3-q180"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ lets users to show their location with websites they trust.",
+  "options": [
+   "A) Geolocation",
+   "B) Geotrust",
+   "C) Loctrust",
+   "D) OLTrust"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q181",
+  "copies": [
+   "2021-set3-q181"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ URL is used to send electronic mail.",
+  "options": [
+   "A) Mailto",
+   "B) Eto",
+   "C) Email UR",
+   "D) EURL"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q182",
+  "copies": [
+   "2021-set3-q182"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The two-dimensional perspective of knowledge management includes which of the following element(s)?\nI. Strategy\nII. Content",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q183",
+  "copies": [
+   "2021-set3-q183"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When contacting a large number of people for some information, which of the following methods of data collection is considered to be\nconvenient?",
+  "options": [
+   "A) Personal Observation",
+   "B) Questionnaires",
+   "C) Interview",
+   "D) Official Records"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q184",
+  "copies": [
+   "2021-set3-q184"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Efficiency of an algorithm is measured in terms of ______.",
+  "options": [
+   "A) Memory and processor speed",
+   "B) Time and space",
+   "C) Response time and completion time",
+   "D) Data and space"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q185",
+  "copies": [
+   "2021-set3-q185"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If loop does not terminate at all and keeps on executing endlessly, then it is known as ______.",
+  "options": [
+   "A) for loop",
+   "B) finite loop",
+   "C) white loop",
+   "D) infinite loop"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q186",
+  "copies": [
+   "2021-set3-q186"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are true about Algorithm?\nI. It is step by step solution of problem\nII. It is difficult to debug\nIII. It is not dependent on the programming language",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q187",
+  "copies": [
+   "2021-set3-q187"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If the probability of winning a match is 0.7, then what is the value of variance?",
+  "options": [
+   "A) 0.7",
+   "B) 0.3",
+   "C) 0.21",
+   "D) 0.31"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q188",
+  "copies": [
+   "2021-set3-q188"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "20 percent of the pens produced in a factory are of red colour and 4 percent are red and defective. If one pen is picked up at random, then what is\nthe probability of its being defective if it is red?",
+  "options": [
+   "A) 0.2",
+   "B) 0.4",
+   "C) 0.6",
+   "D) 0.8"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q191",
+  "copies": [
+   "2021-set3-q191"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "As per National Curriculum Framework (2005), which of the following statement(s) is/are NOT correct about subject – centered approach?\nI. Text book is the only source and main source for the teacher.\nII. Insistence on the students to memorise the facts by repeated reading.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q192",
+  "copies": [
+   "2021-set3-q192"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are those teaching learning materials that are prepared by teachers and students in most of the schools?\nI. Graphs\nII. Number and alphabet cards\nIII. Flash cards on different themes",
+  "options": [
+   "A) II and III",
+   "B) I and II",
+   "C) I and IV",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q193",
+  "copies": [
+   "2021-set3-q193"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When we gather new experiences while assessing our own performance or performance of others, then the processes of learning and assessment\nlose the line of demarcation between them. In such instances assessment becomes a ______ process.",
+  "options": [
+   "A) learning",
+   "B) reading",
+   "C) speaking",
+   "D) teaching"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q194",
+  "copies": [
+   "2021-set3-q194"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In contrast to other approaches to assessment of learning, assessment as learning is entirely ______ controlled.\nI. student\nII. Teacher",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q195",
+  "copies": [
+   "2021-set3-q195"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are the component(s) of Lesson Plan?\nI. What to teach\nII. Who to teach\nIII. How to teach",
+  "options": [
+   "A) I, II and III",
+   "B) II and III",
+   "C) Only III",
+   "D) I and II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q196",
+  "copies": [
+   "2021-set3-q196"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct?\nI. Multilinguality is an integral part of the Indian linguistic heritage.\nII. The culture and attitude towards language has a prominent role to play in a country being monolingual or multilingual.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q197",
+  "copies": [
+   "2021-set3-q197"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "While working with clay, which of the following precaution(s) needs to be taken?\nI. Using too much water will make the clay weak and later cracks will develop in the slabs.\nII. Children should maintain cleanliness and hygiene while working with clay.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q198",
+  "copies": [
+   "2021-set3-q198"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The basics of all performing arts is ______.\nI. Exploring\nII. Expressing\nIII. Listening",
+  "options": [
+   "A) I, II and III",
+   "B) II and III",
+   "C) Only II",
+   "D) I and II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q199",
+  "copies": [
+   "2021-set3-q199"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct?\nI. Discrimination disregards individual need, merit and potential.\nII. Providing separate toilets for boys and girls does not tantamount to discrimination.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q200",
+  "copies": [
+   "2021-set3-q200"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which article of Indian Constitution empowered the state to make special provisions for the welfare of the women and children?",
+  "options": [
+   "A) Article 15(3)",
+   "B) Article 45",
+   "C) Article 2",
+   "D) Article 11(2)"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q001",
+  "copies": [
+   "2021-set4-q001"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Humanyun’s Tomb is located in ______.",
+  "options": [
+   "A) Patna",
+   "B) Hyderabad",
+   "C) Delhi",
+   "D) Mumbai"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q002",
+  "copies": [
+   "2021-set4-q002"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of dance – state is correct?\nI. Chhau – West Bengal\nII. Sattriya – Rajasthan",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q003",
+  "copies": [
+   "2021-set4-q003"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "What is the size of Rs. 50 note of the Mahatma Gandhi (New) series?",
+  "options": [
+   "A) 69 mm × 137 mm",
+   "B) 66 mm × 137 mm",
+   "C) 66 mm × 135 mm",
+   "D) 69 mm × 135 mm"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q004",
+  "copies": [
+   "2021-set4-q004"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The total stock of money in circulation among the public at a particular point of time is called ______.",
+  "options": [
+   "A) Money multiplier",
+   "B) Reserve money",
+   "C) Money supply",
+   "D) Narrow money"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q005",
+  "copies": [
+   "2021-set4-q005"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Earthworms breathe through their ______.",
+  "options": [
+   "A) skin",
+   "B) lungs",
+   "C) gills",
+   "D) eyes"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q006",
+  "copies": [
+   "2021-set4-q006"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In a concave mirror, when object is at C then size of image is ______.",
+  "options": [
+   "A) of same size",
+   "B) highly diminished",
+   "C) enlarged",
+   "D) highly enlarged"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q007",
+  "copies": [
+   "2021-set4-q007"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair is correct?\nI. Prokaryotic cells – single chromosome\nII. Eukaryotic cells – more than one chromosome",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q008",
+  "copies": [
+   "2021-set4-q008"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair is correct?\nI. Permanent wind – westerlies\nII. Local wind – loo",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q009",
+  "copies": [
+   "2021-set4-q009"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of forest – tree is correct?\nI. Montane – Palm\nII. Mangrove – Birches",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q010",
+  "copies": [
+   "2021-set4-q010"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of alluvial soil is correct?\nI. Bangar – New alluvial\nII. Khadan – Old alluvial",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q011",
+  "copies": [
+   "2021-set4-q011"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In which year Satyagraha Movement was started?",
+  "options": [
+   "A) 1921",
+   "B) 1906",
+   "C) 1919",
+   "D) 1915"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q012",
+  "copies": [
+   "2021-set4-q012"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following river(s) was/were flowed through Magadha?\nI. Yamuna\nII. Ganga\nIII. Satluj",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q013",
+  "copies": [
+   "2021-set4-q013"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair(s) of movement and their year is/are correct?\nI. Civil Disobedience Movement – 1930\nII. Non-Cooperation and Khilafat Movement – 1921",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q014",
+  "copies": [
+   "2021-set4-q014"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The E2025 initiative launched by WHO is against which disease?",
+  "options": [
+   "A) Malaria",
+   "B) TB",
+   "C) Smallpox",
+   "D) Polio"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q015",
+  "copies": [
+   "2021-set4-q015"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which movie won the Oscar 2021 for best picture?",
+  "options": [
+   "A) The Father",
+   "B) Nomadland",
+   "C) Mank",
+   "D) Minari"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q016",
+  "copies": [
+   "2021-set4-q016"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "How many people were awarded Padma Vibhushan in 2021?",
+  "options": [
+   "A) 5",
+   "B) 7",
+   "C) 9",
+   "D) 11"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q017",
+  "copies": [
+   "2021-set4-q017"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of schedule – contents of Indian constitution is correct?\nI. Third – Validation of certain acts and regulations\nII. Eleventh – Powers, authority and responsibilities of Panchayats",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q018",
+  "copies": [
+   "2021-set4-q018"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which article of Indian constitution is related with the borrowing by the government of India?",
+  "options": [
+   "A) 218",
+   "B) 326",
+   "C) 246",
+   "D) 292"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q019",
+  "copies": [
+   "2021-set4-q019"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In 2016 Olympics, India won a medal in ______.\nI. Badminton\nII. Wrestling",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q020",
+  "copies": [
+   "2021-set4-q020"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of sportsperson – sports is correct?\nI. Bhaichung Bhutia – Football\nII. Rupinder Pal Singh – Hockey",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q021",
+  "copies": [
+   "2021-set4-q021"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Aaerstd\n2. Aaersted\n3. Amquarine\n4. Acgledhi\n5. Acgledih",
+  "options": [
+   "A) 12453",
+   "B) 12435",
+   "C) 12354",
+   "D) 12345"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q022",
+  "copies": [
+   "2021-set4-q022"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term wrong. Select that wrong term from the given alternatives.\nVACTUS, AUHNZM, FOMHEH, KIRBJA, PCWVOU",
+  "options": [
+   "A) AUHNZM",
+   "B) KIRBJA",
+   "C) PCWVOU",
+   "D) FOMHEH"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

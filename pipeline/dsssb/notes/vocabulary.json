@@ -1,0 +1,543 @@
+{
+ "slug": "vocabulary",
+ "subject": "English Language",
+ "topic": "Vocabulary",
+ "titleHi": "शब्दावली",
+ "summary": "Covers synonyms, antonyms, one-word substitutions, spelling rules and commonly misspelt words, and idioms, phrases and phrasal verbs, with word roots to decode unfamiliar words. DSSSB English sections ask several direct vocabulary questions per paper; they are answered in seconds if you know the word, so regular revision of high-frequency lists and elimination tricks is the best preparation.",
+ "sections": [
+  {
+   "heading": "How vocabulary is tested and how to attack it",
+   "level": "basic",
+   "subtopic": "Synonyms",
+   "body": "Typical formats: \"choose the word that means the same as\", \"opposite in meaning\", \"one word for the group of words\", \"select the correctly spelt word\" and \"meaning of the idiom\". Each is a one-step recall question, so time spent here should be very small.\n\nStrategy when you are not sure:\n- **Check the part of speech**: a synonym of an adjective is an adjective (diligent → industrious, not industry).\n- **Use the word in a sentence** you know (\"a frugal lifestyle\") and test each option in its place.\n- **Look at the tone**: positive or negative. \"Malicious\" has a negative tone, so a positive option cannot be its synonym.\n- **Use roots and prefixes** (see the last section): bene- = good, mal- = bad, omni- = all.\n- **Eliminate near-misses**: options are often look-alikes (eminent / imminent, complement / compliment).\n- For antonyms, first think of the synonym, then its opposite.\n\nRevise in small daily lists, and write each new word in a short sentence; DSSSB repeatedly uses common exam words rather than rare ones."
+  },
+  {
+   "heading": "High-frequency synonyms",
+   "level": "intermediate",
+   "subtopic": "Synonyms",
+   "body": "Learn words in clusters of the same meaning; one cluster often answers several questions. The table lists common exam words with their meaning and a standard synonym.\n\n**Confusable pairs** that appear as wrong options:\n- **Eminent** (distinguished) vs **imminent** (about to happen).\n- **Complement** (completes) vs **compliment** (praise).\n- **Affect** (verb: to influence) vs **effect** (usually noun: result).\n- **Elicit** (draw out) vs **illicit** (illegal).\n- **Principal** (main; head of a school) vs **principle** (rule, belief).\n- **Stationary** (not moving) vs **stationery** (writing materials).\n- **Credible** (believable) vs **creditable** (deserving praise) vs **credulous** (too ready to believe).",
+   "table": {
+    "columns": [
+     "Word",
+     "Meaning",
+     "Synonym"
+    ],
+    "rows": [
+     [
+      "Abandon",
+      "leave, give up completely",
+      "Forsake"
+     ],
+     [
+      "Ambiguous",
+      "having more than one meaning",
+      "Equivocal"
+     ],
+     [
+      "Benevolent",
+      "kind and generous",
+      "Charitable"
+     ],
+     [
+      "Candid",
+      "frank and honest",
+      "Outspoken"
+     ],
+     [
+      "Diligent",
+      "hard-working, careful",
+      "Industrious"
+     ],
+     [
+      "Ephemeral",
+      "lasting a very short time",
+      "Transient"
+     ],
+     [
+      "Frugal",
+      "careful with money",
+      "Thrifty"
+     ],
+     [
+      "Gregarious",
+      "fond of company",
+      "Sociable"
+     ],
+     [
+      "Impeccable",
+      "without fault",
+      "Flawless"
+     ],
+     [
+      "Lethargic",
+      "sluggish, lacking energy",
+      "Listless"
+     ],
+     [
+      "Lucid",
+      "clearly expressed",
+      "Intelligible"
+     ],
+     [
+      "Meticulous",
+      "very careful about detail",
+      "Scrupulous"
+     ],
+     [
+      "Obsolete",
+      "no longer in use",
+      "Outmoded"
+     ],
+     [
+      "Prudent",
+      "wise and careful",
+      "Judicious"
+     ],
+     [
+      "Tranquil",
+      "calm, peaceful",
+      "Serene"
+     ],
+     [
+      "Vindicate",
+      "clear of blame",
+      "Exonerate"
+     ],
+     [
+      "Zeal",
+      "great energy for a cause",
+      "Fervour"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Antonyms and prefix traps",
+   "level": "intermediate",
+   "subtopic": "Antonyms",
+   "body": "Many antonyms are formed with negative prefixes: **un-** (unable), **in-** (inactive), **im-** before b, m, p (impossible, immature), **il-** before l (illegal), **ir-** before r (irregular), **dis-** (dishonest), **mis-** (misfortune), **non-** (non-violent).\n\n**Prefix traps** (frequently tested):\n- **Inflammable** means easily set on fire, the same as flammable; its opposite is **non-flammable**.\n- **Invaluable** means extremely valuable (priceless), not \"without value\"; the opposite is **worthless**.\n- **Infamous** means well known for something bad (notorious), not \"unknown\".\n- **Unloosen** and **loosen** both mean to make loose.\n\nIn antonym questions, an option that is a **synonym** of the given word is always a trap. Also watch for the strongest opposite: for \"abundance\" the best antonym is \"scarcity\" or \"dearth\", not merely \"less\".",
+   "table": {
+    "columns": [
+     "Word",
+     "Antonym",
+     "Word",
+     "Antonym"
+    ],
+    "rows": [
+     [
+      "Affluent",
+      "Impoverished",
+      "Genuine",
+      "Spurious"
+     ],
+     [
+      "Arrogant",
+      "Humble",
+      "Lethargic",
+      "Energetic"
+     ],
+     [
+      "Augment",
+      "Diminish",
+      "Optimist",
+      "Pessimist"
+     ],
+     [
+      "Benevolent",
+      "Malevolent",
+      "Transparent",
+      "Opaque"
+     ],
+     [
+      "Concise",
+      "Verbose",
+      "Vague",
+      "Explicit"
+     ],
+     [
+      "Dearth",
+      "Abundance",
+      "Zenith",
+      "Nadir"
+     ],
+     [
+      "Frugal",
+      "Extravagant",
+      "Ascend",
+      "Descend"
+     ],
+     [
+      "Gratitude",
+      "Ingratitude",
+      "Temporary",
+      "Permanent"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "One-word substitution",
+   "level": "intermediate",
+   "subtopic": "One-word substitution",
+   "body": "Most one-word substitutions follow root patterns: **-cide** = killing, **-logy** = study of, **-phile** = lover of, **miso-/mis-** = hatred, **omni-** = all, **poly-** = many, **-archy/-cracy** = rule.\n\nKilling words: homicide (a human being), fratricide (a brother), patricide (a father), matricide (a mother), regicide (a king), infanticide (an infant), genocide (a whole race or group), suicide (oneself).\n\nStudy words: ornithology (birds), entomology (insects), etymology (origin of words), anthropology (human beings and their cultures), seismology (earthquakes), numismatics (coins), philately (collecting stamps), cartography (map-making), calligraphy (the art of beautiful handwriting).\n\nDisease spread: **endemic** (regularly found in a particular area), **epidemic** (spreading widely in a community at one time), **pandemic** (spreading over a whole country or the world).\n\nBelief: **atheist** (does not believe in God), **theist** (believes in God), **agnostic** (believes nothing can be known about God's existence).",
+   "table": {
+    "columns": [
+     "Group of words",
+     "One word"
+    ],
+    "rows": [
+     [
+      "Life story written by the person himself/herself",
+      "Autobiography"
+     ],
+     [
+      "One who loves books",
+      "Bibliophile"
+     ],
+     [
+      "One who loves mankind and works for its welfare",
+      "Philanthropist"
+     ],
+     [
+      "One who hates mankind",
+      "Misanthrope"
+     ],
+     [
+      "One who hates women",
+      "Misogynist"
+     ],
+     [
+      "One who speaks many languages",
+      "Polyglot"
+     ],
+     [
+      "Unable to pay one's debts",
+      "Insolvent"
+     ],
+     [
+      "All-powerful / all-knowing / present everywhere",
+      "Omnipotent / Omniscient / Omnipresent"
+     ],
+     [
+      "Animal that lives both on land and in water",
+      "Amphibian"
+     ],
+     [
+      "A collection of poems or other writings",
+      "Anthology"
+     ],
+     [
+      "Words inscribed on a tomb",
+      "Epitaph"
+     ],
+     [
+      "A remedy for all diseases or problems",
+      "Panacea"
+     ],
+     [
+      "Occurring or published after death",
+      "Posthumous"
+     ],
+     [
+      "One who flatters to gain favour",
+      "Sycophant"
+     ],
+     [
+      "One who never takes alcoholic drinks",
+      "Teetotaller"
+     ],
+     [
+      "That cannot be read (handwriting)",
+      "Illegible"
+     ],
+     [
+      "That cannot be avoided",
+      "Inevitable"
+     ],
+     [
+      "Incapable of making mistakes",
+      "Infallible"
+     ],
+     [
+      "A place where government records are kept",
+      "Archives"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Spelling rules",
+   "level": "basic",
+   "subtopic": "Spelling",
+   "body": "English spelling has exceptions, but these rules cover most exam words.\n\n- **i before e except after c** (when the sound is \"ee\"): believe, achieve, receive, ceiling. Exceptions: seize, weird, either, neither, protein.\n- **Doubling the final consonant** before a vowel suffix: one-syllable words ending consonant-vowel-consonant double it (run → running, stop → stopped). Longer words double it only if the **last syllable is stressed**: begin → beginning, refer → referred, occur → occurrence; but visit → visited, offer → offered (stress on the first syllable). British English also doubles final l: travel → travelled (American: traveled).\n- **Silent e** is dropped before a vowel suffix (hope → hoping, write → writing) and kept before a consonant suffix (hope → hopeful, care → careful). Exceptions: argue → argument, true → truly; e is kept to keep c/g soft: noticeable, manageable.\n- **y to i**: consonant + y changes to i (happy → happiness, carry → carried) but stays before -ing (carrying) and after a vowel (play → played).\n- **Plurals**: add -es after s, x, z, ch, sh (boxes, churches); consonant + y → -ies (city → cities); many f/fe words → -ves (knife → knives, leaf → leaves), but roof → roofs, chief → chiefs.\n\nIn \"choose the correct spelling\" questions, compare the options letter by letter: they usually differ in a doubled letter or a vowel."
+  },
+  {
+   "heading": "Commonly misspelt words",
+   "level": "intermediate",
+   "subtopic": "Spelling",
+   "body": "These words are regularly offered with one letter missing or doubled. Learn the tricky part (in brackets).\n- a**cc**o**mm**odate (double c, double m) · a**cqu**aint · a**ch**ieve\n- co**mm**i**tt**ee (double m, t, e) · consc**ie**nce · conscious\n- defin**i**tely · e**mb**a**rr**a**ss** (double r, double s) · ha**r**a**ss** (single r)\n- envi**ron**ment · e**x**a**gg**erate · for**ei**gn · gover**n**ment\n- guar**an**tee · independ**e**nt · li**ai**son · mainten**a**nce\n- mi**ll**e**nn**ium · mini**a**ture · mischiev**ous** (not \"mischievious\")\n- nece**ss**ary (one c, double s) · occa**s**ion · o**cc**u**rr**ence\n- privi**l**ege · pron**u**nciation (not \"pronounciation\") · questio**nn**aire\n- rec**ei**ve · reco**mm**end (one c, double m) · rh**y**thm · sep**a**rate\n- su**r**prise · thre**sh**old (single h) · wit**hh**old (double h)\n- bur**eau**cracy · colle**a**gue · conven**ie**nce · hier**ar**chy · perse**ver**ance · entrepren**eur**\n\nBritish vs American spellings (colour/color, centre/center, organise/organize) are both correct in their own system; exam options normally do not test this difference, but be consistent."
+  },
+  {
+   "heading": "Idioms, phrases and phrasal verbs",
+   "level": "intermediate",
+   "subtopic": "Idioms & phrases",
+   "body": "An idiom's meaning cannot be worked out from its words, so learn them as fixed units. In \"meaning of the idiom\" questions, beware of options that take the words literally.\n\n**Phrasal verbs** (verb + particle) are also tested in fill-in-the-blank questions:\n- put off = postpone · call off = cancel · give up = quit\n- look after = take care of · look into = investigate · look up to = respect\n- bring up = raise (a child) or mention · turn down = reject\n- run out of = use up the supply of · put up with = tolerate\n- make up for = compensate for · break down = stop working or lose control of emotions",
+   "table": {
+    "columns": [
+     "Idiom / phrase",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "A blessing in disguise",
+      "something good that first seemed bad"
+     ],
+     [
+      "At the eleventh hour",
+      "at the last possible moment"
+     ],
+     [
+      "Bite the bullet",
+      "face something unpleasant with courage"
+     ],
+     [
+      "Break the ice",
+      "start a conversation in an awkward situation"
+     ],
+     [
+      "Burn the midnight oil",
+      "work or study late into the night"
+     ],
+     [
+      "Cry over spilt milk",
+      "regret something that cannot be undone"
+     ],
+     [
+      "Hit the nail on the head",
+      "say exactly the right thing"
+     ],
+     [
+      "Let the cat out of the bag / spill the beans",
+      "reveal a secret"
+     ],
+     [
+      "Once in a blue moon",
+      "very rarely"
+     ],
+     [
+      "A white elephant",
+      "a costly possession that is of little use"
+     ],
+     [
+      "Hand in glove",
+      "in close (usually dishonest) association"
+     ],
+     [
+      "Bury the hatchet",
+      "end a quarrel, make peace"
+     ],
+     [
+      "Beat about the bush",
+      "avoid coming to the main point"
+     ],
+     [
+      "Add fuel to the fire",
+      "make a bad situation worse"
+     ],
+     [
+      "At one's wit's end",
+      "not knowing what to do"
+     ],
+     [
+      "Smell a rat",
+      "suspect that something is wrong"
+     ],
+     [
+      "Achilles' heel",
+      "a weak point"
+     ],
+     [
+      "A dark horse",
+      "a little-known competitor who unexpectedly succeeds"
+     ],
+     [
+      "Cock and bull story",
+      "an absurd, unbelievable story"
+     ],
+     [
+      "Red-letter day",
+      "a memorable or important day"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Word roots and affixes",
+   "level": "advanced",
+   "subtopic": "Synonyms",
+   "body": "Roots let you guess unfamiliar words in synonym, antonym and one-word questions.\n\n- **bene** (good): benefit, benevolent, benefactor · **mal** (bad): malice, malnutrition, malevolent\n- **chron** (time): chronic, chronology, synchronise · **graph/gram** (write): autograph, telegram\n- **phil** (love): philosophy, philanthropy · **mis/miso** (hate): misogynist, misanthrope\n- **poly** (many): polygon, polyglot · **omni** (all): omnipresent, omnivorous\n- **path** (feeling, suffering): sympathy, apathy, pathetic · **phobia** (fear): hydrophobia\n- **bio** (life): biology, biography · **geo** (earth): geology, geography\n- **tele** (far): telescope, telepathy · **auto** (self): autonomy, automatic\n- **anthrop** (human): anthropology, misanthrope · **theo** (god): theology, atheist\n- **vid/vis** (see): video, visible · **aud** (hear): audible, audience · **dict** (say): predict, contradict\n- **-cide** (killing), **-logy** (study), **-cracy** (rule): democracy (rule by the people), autocracy (rule by one person), bureaucracy (rule by officials)\n\nPrefixes also give direction or degree: **pre-** (before), **post-** (after), **sub-** (under), **super-** (above), **inter-** (between), **intra-** (within), **anti-** (against), **ante-** (before: antedate)."
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "Choose the synonym of FRUGAL: (a) wasteful (b) thrifty (c) generous (d) careless",
+   "solution": "Frugal means careful and economical with money or food.\n(a) and (c) are near-opposites; (d) does not match.\n**Answer: (b) thrifty**."
+  },
+  {
+   "problem": "Choose the antonym of VERBOSE: (a) wordy (b) talkative (c) concise (d) fluent",
+   "solution": "Verbose means using more words than needed.\n(a) and (b) are synonyms (traps). (d) fluent is unrelated.\n**Answer: (c) concise**."
+  },
+  {
+   "problem": "One word for: 'A place where government records and historical documents are kept'. (a) Museum (b) Archives (c) Library (d) Gallery",
+   "solution": "A museum keeps objects, a library keeps books for reading and lending, and a gallery displays art.\n**Answer: (b) Archives**."
+  },
+  {
+   "problem": "Select the correctly spelt word: (a) Accomodation (b) Acommodation (c) Accommodation (d) Accommodasion",
+   "solution": "The word has double c and double m, and ends in -tion.\n**Answer: (c) Accommodation**."
+  },
+  {
+   "problem": "Meaning of the idiom in: 'After months of not speaking, the two neighbours decided to bury the hatchet.' (a) dig a hole (b) make peace (c) hide a weapon (d) start a fight",
+   "solution": "\"Bury the hatchet\" means to end a quarrel; (a) and (c) are literal traps.\n**Answer: (b) make peace**."
+  },
+  {
+   "problem": "What is the meaning of INFLAMMABLE, and which word is its antonym: flammable, combustible, non-flammable, burning?",
+   "solution": "Inflammable means easily set on fire; the prefix in- here does not mean \"not\".\nFlammable and combustible are synonyms.\n**Antonym: non-flammable**."
+  }
+ ],
+ "pitfalls": [
+  "Reading 'in-' as negative in inflammable, invaluable and infamous.",
+  "Choosing a synonym in an antonym question (and vice versa) under time pressure.",
+  "Confusing look-alike words: eminent/imminent, complement/compliment, principal/principle, stationary/stationery.",
+  "Picking a literal meaning for an idiom (bury the hatchet ≠ dig a hole).",
+  "Choosing an option of the wrong part of speech (diligence for diligent).",
+  "Misspelling 'pronunciation' as 'pronounciation' and 'mischievous' as 'mischievious'.",
+  "Mixing epidemic (one community, one period) with endemic (always present in an area) and pandemic (very wide area).",
+  "Doubling consonants after an unstressed syllable (visitted, offerred)."
+ ],
+ "quickRevision": [
+  "Ephemeral = short-lived; obsolete = out of use; lucid = clear.",
+  "Zenith ↔ nadir; verbose ↔ concise; affluent ↔ impoverished.",
+  "Inflammable = flammable; invaluable = priceless; infamous = notorious.",
+  "Philanthropist loves mankind; misanthrope hates mankind; misogynist hates women.",
+  "Polyglot speaks many languages; bibliophile loves books.",
+  "Fratricide (brother), regicide (king), genocide (race), infanticide (infant).",
+  "Numismatics = coins; philately = stamps; etymology = origin of words.",
+  "i before e except after c (receive); exceptions: seize, weird.",
+  "Accommodate, committee, embarrass: double letters.",
+  "Once in a blue moon = rarely; white elephant = costly but useless.",
+  "Put off = postpone; call off = cancel; turn down = reject."
+ ],
+ "flashcards": [
+  {
+   "front": "Synonym of 'Meticulous'?",
+   "back": "Scrupulous / very careful"
+  },
+  {
+   "front": "Antonym of 'Augment'?",
+   "back": "Diminish"
+  },
+  {
+   "front": "Antonym of 'Zenith'?",
+   "back": "Nadir"
+  },
+  {
+   "front": "Meaning of 'Invaluable'?",
+   "back": "Extremely valuable, priceless"
+  },
+  {
+   "front": "One word: one who believes nothing can be known about God's existence",
+   "back": "Agnostic"
+  },
+  {
+   "front": "One word: killing of a king",
+   "back": "Regicide"
+  },
+  {
+   "front": "One word: words inscribed on a tomb",
+   "back": "Epitaph"
+  },
+  {
+   "front": "One word: remedy for all ills",
+   "back": "Panacea"
+  },
+  {
+   "front": "Study of insects?",
+   "back": "Entomology"
+  },
+  {
+   "front": "Correct spelling: seperate / separate?",
+   "back": "Separate"
+  },
+  {
+   "front": "Correct spelling: harrass / harass?",
+   "back": "Harass (one r, double s)"
+  },
+  {
+   "front": "Meaning of 'Hand in glove'?",
+   "back": "In close (usually secret or dishonest) association"
+  },
+  {
+   "front": "Meaning of 'Achilles' heel'?",
+   "back": "A weak point"
+  },
+  {
+   "front": "Phrasal verb for 'tolerate'?",
+   "back": "Put up with"
+  },
+  {
+   "front": "Difference between stationary and stationery?",
+   "back": "Stationary = not moving; stationery = writing materials"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Synonym",
+   "hi": "पर्यायवाची शब्द"
+  },
+  {
+   "en": "Antonym",
+   "hi": "विलोम शब्द"
+  },
+  {
+   "en": "One-word substitution",
+   "hi": "वाक्यांश के लिए एक शब्द"
+  },
+  {
+   "en": "Spelling",
+   "hi": "वर्तनी"
+  },
+  {
+   "en": "Idiom",
+   "hi": "मुहावरा"
+  },
+  {
+   "en": "Phrase",
+   "hi": "पदबंध / वाक्यांश"
+  },
+  {
+   "en": "Phrasal verb",
+   "hi": "पदबंधीय क्रिया"
+  },
+  {
+   "en": "Prefix",
+   "hi": "उपसर्ग"
+  },
+  {
+   "en": "Suffix",
+   "hi": "प्रत्यय"
+  },
+  {
+   "en": "Root word",
+   "hi": "मूल शब्द"
+  },
+  {
+   "en": "Proverb",
+   "hi": "लोकोक्ति / कहावत"
+  },
+  {
+   "en": "Homophone",
+   "hi": "समोच्चारित शब्द"
+  }
+ ]
+}

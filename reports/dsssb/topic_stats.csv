@@ -1,0 +1,59 @@
+subject,topic,questions,papersAsked,perPaper,perDoePaper,repeatedQuestions,conceptRepeats
+Computer Science,Number Systems & Digital Electronics,67,7,9.57,10.0,0,2
+Computer Science,Operating Systems & Linux,52,7,7.43,7.0,0,2
+Computer Science,Computer Networks & Protocols,49,7,7.0,7.0,2,6
+English Language,Vocabulary,49,7,7.0,7.0,0,0
+Computer Science,DBMS & SQL,48,7,6.86,5.5,0,4
+English Language,Comprehension & Para Jumbles,48,7,6.86,6.83,0,2
+Computer Science,Data Structures,44,6,6.29,7.33,0,2
+English Language,Grammar,43,7,6.14,6.17,0,0
+Hindi Language,गद्यांश एवं वाक्य संरचना,40,7,5.71,5.83,0,5
+Computer Science,Software Engineering,39,6,5.57,6.5,2,2
+Computer Science,"Mathematics, Statistics & Numerical Methods",37,6,5.29,6.17,0,2
+Computer Science,"Business, Accounting & Economics",35,5,5.0,5.83,0,0
+Hindi Language,व्याकरण (Grammar),35,7,5.0,4.83,0,2
+Computer Science,Computer Fundamentals & PC Software,34,7,4.86,5.17,3,3
+Computer Science,Web Technologies,34,7,4.86,4.67,0,0
+Arithmetical & Numerical Ability,"Percentage, Profit & Loss",33,7,4.71,4.33,0,6
+General Awareness,Current Affairs & Sports,31,7,4.43,4.5,0,0
+Computer Science,"E-Commerce, MIS & IT in Business",30,6,4.29,5.0,0,0
+Hindi Language,शब्द ज्ञान (Vocabulary),30,7,4.29,4.0,0,0
+General Intelligence & Reasoning,Venn Diagrams & Non-verbal,28,7,4.0,4.5,0,6
+Arithmetical & Numerical Ability,Number System & Simplification,27,7,3.86,4.0,0,0
+General Intelligence & Reasoning,Analogy & Classification,25,7,3.57,3.33,0,0
+Computer Science,Computer Architecture,23,6,3.29,2.67,0,2
+General Awareness,History,23,7,3.29,3.17,0,0
+Arithmetical & Numerical Ability,"Ratio, Average & Ages",22,7,3.14,3.17,0,0
+Arithmetical & Numerical Ability,"Algebra, Trigonometry & Data",21,7,3.0,3.17,0,0
+Arithmetical & Numerical Ability,"Time, Work & Distance",21,7,3.0,3.0,0,4
+Computer Science,Computer Graphics & Multimedia,21,6,3.0,3.5,0,2
+Computer Science,Python Programming,21,2,3.0,0.33,0,0
+General Awareness,Everyday Science,21,7,3.0,3.17,0,0
+General Intelligence & Reasoning,Series,20,7,2.86,3.0,0,0
+Hindi Language,शुद्धि (Correction),20,6,2.86,3.33,0,10
+General Awareness,Geography,19,7,2.71,2.67,0,0
+Computer Science,Programming in C,18,7,2.57,2.83,0,0
+General Awareness,"Art, Culture & Awards",18,7,2.57,2.83,0,3
+General Intelligence & Reasoning,Arrangement & Puzzles,18,7,2.57,2.67,0,6
+Computer Science,"OOP, C++ & Java",17,6,2.43,2.83,0,0
+General Intelligence & Reasoning,Blood Relations & Directions,17,7,2.43,2.67,0,0
+Arithmetical & Numerical Ability,Mensuration & Geometry,16,7,2.29,2.33,0,3
+General Intelligence & Reasoning,Coding-Decoding,16,7,2.29,2.0,0,0
+General Intelligence & Reasoning,Logical & Verbal Reasoning,16,7,2.29,1.83,0,7
+Computer Science,Algorithms,15,5,2.14,2.5,0,0
+Computer Science,Mobile Computing & Emerging Tech,15,7,2.14,2.0,0,0
+Hindi Language,मुहावरे एवं लोकोक्तियाँ,15,7,2.14,2.0,0,0
+General Awareness,Economy,14,7,2.0,2.0,0,0
+General Awareness,Polity & Constitution,14,6,2.0,1.67,0,0
+Teaching Methodology,Assessment for Learning,13,7,1.86,2.0,0,2
+Teaching Methodology,"Gender, School & Society",12,7,1.71,1.83,0,0
+Teaching Methodology,Language Across the Curriculum,12,6,1.71,1.83,0,0
+Computer Science,Physics Basics,11,5,1.57,1.83,0,2
+Computer Science,Network Security & Cyber Law,10,5,1.43,1.33,0,0
+Computer Science,"Society, Ethics & E-waste",10,1,1.43,0.0,0,0
+Teaching Methodology,Drama & Art in Education,10,7,1.43,1.5,0,0
+Teaching Methodology,Learning & Teaching,9,6,1.29,0.83,0,0
+Teaching Methodology,Pedagogy of a School Subject,8,7,1.14,1.17,0,0
+Teaching Methodology,"Knowledge, Curriculum & Policy",4,3,0.57,0.67,0,0
+Teaching Methodology,Childhood & Growing Up,1,1,0.14,0.17,0,0
+Teaching Methodology,Inclusive Education,1,1,0.14,0.0,0,0

@@ -1,0 +1,329 @@
+{
+ "slug": "analogy-classification",
+ "subject": "General Intelligence & Reasoning",
+ "topic": "Analogy & Classification",
+ "titleHi": "सादृश्यता एवं वर्गीकरण",
+ "summary": "Analogy (A : B :: C : ?) and classification (odd one out) with words, letters, letter clusters, numbers and number pairs. These are the quickest marks in the reasoning section if you know the common word relationships, the alphabet position values and the standard number patterns (squares, cubes, primes, n² ± n).",
+ "sections": [
+  {
+   "heading": "How analogy and classification questions work",
+   "level": "basic",
+   "subtopic": "Word / letter analogy",
+   "body": "An **analogy** gives a pair with a hidden relationship and asks you to complete a second pair with the **same** relationship: A : B :: C : ?. A **classification** (odd one out) gives four items, three of which share a property; you pick the one that does not.\n\nA reliable 3-step method:\n- **Step 1 - Frame the rule as a sentence** using the first pair: 'A chisel is the tool of a sculptor'.\n- **Step 2 - Apply the same sentence** to the third term: 'A saw is the tool of a ...'.\n- **Step 3 - Check every option** against the sentence. If two options fit, make the sentence more specific (tool *used to shape wood* → carpenter).\n\nThe relationship must hold in the **same direction**. 'Doctor : Hospital' (worker : workplace) does not match 'School : Teacher' (workplace : worker), even though both pairs are related.\n\nIn classification, first look for the obvious group (fruits, planets, instruments). If all four belong to it, look for a finer property: living/non-living, type of fruit, number of letters, vowels, or a mathematical property."
+  },
+  {
+   "heading": "Common word relationships",
+   "level": "basic",
+   "subtopic": "Word / letter analogy",
+   "body": "Most word analogies use one of a small set of relationships. Learn these types and a few standard pairs (young ones, sounds, dwellings, instruments, units), because those are asked directly.\n\nUseful standard pairs:\n- Young ones: cat - kitten, dog - puppy, cow - calf, horse - foal, sheep - lamb, lion - cub, frog - tadpole, duck - duckling.\n- Sounds: lion - roar, horse - neigh, elephant - trumpet, dog - bark, snake - hiss, owl - hoot, frog - croak, donkey - bray.\n- Dwellings: bee - hive, horse - stable, dog - kennel, lion - den, spider - web, bird - nest, pig - sty, king - palace.\n- Instruments and quantities: barometer - atmospheric pressure, hygrometer - humidity, seismograph - earthquakes, ammeter - current, odometer - distance covered by a vehicle.\n- Units: force - newton, energy - joule, power - watt, resistance - ohm, pressure - pascal.",
+   "table": {
+    "columns": [
+     "Relationship",
+     "Example pair"
+    ],
+    "rows": [
+     [
+      "Tool : worker",
+      "Scalpel : Surgeon, Trowel : Mason"
+     ],
+     [
+      "Worker : product",
+      "Poet : Poem, Cobbler : Shoes"
+     ],
+     [
+      "Worker : workplace",
+      "Teacher : School, Chef : Kitchen"
+     ],
+     [
+      "Part : whole",
+      "Page : Book, Petal : Flower"
+     ],
+     [
+      "Synonym",
+      "Brave : Courageous"
+     ],
+     [
+      "Antonym",
+      "Ancient : Modern"
+     ],
+     [
+      "Cause : effect",
+      "Virus : Disease, Fire : Smoke"
+     ],
+     [
+      "Male : female",
+      "Horse : Mare, Lion : Lioness"
+     ],
+     [
+      "Country : capital / currency",
+      "Japan : Tokyo, Japan : Yen"
+     ],
+     [
+      "Degree / intensity",
+      "Warm : Hot, Drizzle : Downpour"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Alphabet positions and letter analogies",
+   "level": "intermediate",
+   "subtopic": "Word / letter analogy",
+   "body": "Letter questions are solved with position values A = 1 to Z = 26. Memorise the anchor word **EJOTY** (E = 5, J = 10, O = 15, T = 20, Y = 25), and the **opposite letters** whose positions add up to 27 (A-Z, B-Y, C-X ... M-N).\n\nPatterns to test, in this order:\n- **Constant shift**: every letter moves by the same number (+1, +2, −3).\n- **Different shifts per position**: first letter +1, second +2, third +3.\n- **Opposite letters**: each letter replaced by its opposite.\n- **Reversal**: the cluster is written backwards, sometimes with a shift.\n- **Gap pattern inside a cluster**: e.g. BDG has gaps +2, +3; check that the answer cluster has the same gaps.\n\nWork with numbers, not by counting on fingers: write the position values above the letters, find the rule, then convert back. When the shift crosses Z, continue from A (Y + 3 = B) - this is called wrapping around.",
+   "diagram": {
+    "title": "Alphabet positions and opposite pairs",
+    "ascii": " A  B  C  D  E  F  G  H  I  J  K  L  M\n 1  2  3  4  5  6  7  8  9 10 11 12 13\n Z  Y  X  W  V  U  T  S  R  Q  P  O  N\n26 25 24 23 22 21 20 19 18 17 16 15 14\n\nLetters in the same column are opposites:\nposition + opposite position = 27"
+   }
+  },
+  {
+   "heading": "Number analogies",
+   "level": "intermediate",
+   "subtopic": "Number analogy",
+   "body": "In number analogies (a : b :: c : ?) the second number is usually produced from the first by a short formula. Try these in order:\n- **Squares and cubes**: b = a², a³, a² ± 1, a³ ± 1, a² + a, a³ + a, (a + 1)².\n- **Multiplication or division**: b = 3a, b = a ÷ 3 (e.g. 198 : 66 means divide by 3).\n- **Digit operations**: sum or product of digits, reversed digits, digits squared.\n- **Same-family numbers**: both primes, consecutive primes, both multiples of the same number.\n\nFor a **number cluster** analogy (e.g. (3, 9, 27) : (4, 16, 64)), find the rule that links the numbers **inside** one cluster and apply it to the other.\n\nKeep these tables at your fingertips: squares up to 30² (900), cubes up to 15³ (3375), primes up to 100 (25 primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97).\n\nAlways verify the rule on the first pair exactly, then compute. Several options often fit a loose rule (both even, both > 50); only one fits the exact rule.",
+   "table": {
+    "columns": [
+     "n",
+     "n²",
+     "n³",
+     "n² + 1",
+     "n³ + n"
+    ],
+    "rows": [
+     [
+      "2",
+      "4",
+      "8",
+      "5",
+      "10"
+     ],
+     [
+      "3",
+      "9",
+      "27",
+      "10",
+      "30"
+     ],
+     [
+      "4",
+      "16",
+      "64",
+      "17",
+      "68"
+     ],
+     [
+      "5",
+      "25",
+      "125",
+      "26",
+      "130"
+     ],
+     [
+      "6",
+      "36",
+      "216",
+      "37",
+      "222"
+     ],
+     [
+      "7",
+      "49",
+      "343",
+      "50",
+      "350"
+     ],
+     [
+      "8",
+      "64",
+      "512",
+      "65",
+      "520"
+     ],
+     [
+      "9",
+      "81",
+      "729",
+      "82",
+      "738"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Odd one out: words, letters and numbers",
+   "level": "intermediate",
+   "subtopic": "Odd one out",
+   "body": "**Word classification**: decide the category first (birds, metals, units, instruments, rivers), then look for a sub-property: flightless birds (ostrich, emu, kiwi, penguin), liquid metal (mercury), non-metal among metals, a satellite among planets (Moon), a river flowing west among east-flowing rivers.\n\n**Letter classification**: convert to numbers and compare the gaps. Typical rules: same gap pattern (+2, +3), opposite pairs, a vowel in a fixed place, letters symmetrical about the middle, or the sum of positions. When three pairs are like 'CF : HK' (gap +3 inside each pair), the odd one breaks the gap.\n\n**Number classification**: test, in this order -\n- even/odd and prime/composite,\n- perfect squares and cubes,\n- divisibility (by 3, 7, 11),\n- sum of digits (all have digit sum 9, except one),\n- for number pairs, the same relation inside each pair (second = first² − 1, etc.).\n\nIf two different rules each single out a different option, prefer the rule that is **simpler and covers all three remaining options exactly**."
+  },
+  {
+   "heading": "Speed tips and traps",
+   "level": "advanced",
+   "subtopic": "Odd one out",
+   "body": "- **Direction matters**: in 'Book : Author :: Painting : ?' the answer is Painter, not Canvas.\n- **Do not stop at the first fit**: check all four options; DSSSB distractors often satisfy half of the rule.\n- **Use reverse checks**: once you get an answer, apply the rule backwards to the first pair.\n- **Wrap-around**: after Z comes A again (Z + 1 = A); before A comes Z.\n- **Opposite letter vs reversed order**: the opposite of C is X (3 + 24 = 27); reversing the order of a cluster (CAT → TAC) is a different operation. Read the options to see which one is being tested.\n- **Position-wise rules**: in three-letter clusters, work each position separately; the first letters may move by +5 while the second move by +2 and the third by −1."
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Opposite letter",
+   "formula": "Opposite position = 27 − position",
+   "note": "A↔Z, B↔Y, M↔N."
+  },
+  {
+   "name": "Anchor letters",
+   "formula": "EJOTY = 5, 10, 15, 20, 25",
+   "note": "Count from the nearest anchor."
+  },
+  {
+   "name": "Backward position",
+   "formula": "Position from Z = 27 − position from A",
+   "note": "e.g. G is 7th from A and 20th from Z."
+  },
+  {
+   "name": "Common number rules",
+   "formula": "a², a³, a² ± 1, a³ ± 1, a² + a, a³ + a",
+   "note": "Check these first in number analogies."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Practice: Scalpel : Surgeon :: Anvil : ? (A) Carpenter (B) Blacksmith (C) Potter (D) Tailor",
+   "solution": "Step 1: Rule sentence: 'A scalpel is a tool used by a surgeon in his work.'\nStep 2: An anvil is the heavy iron block on which metal is hammered into shape.\nStep 3: Carpenter - saw/chisel; potter - wheel; tailor - needle/scissors. Only the blacksmith works on an anvil.\nAnswer: **(B) Blacksmith**."
+  },
+  {
+   "problem": "Practice: BDF : YWU :: CEG : ?",
+   "solution": "Step 1: Positions B = 2, D = 4, F = 6; Y = 25, W = 23, U = 21.\nStep 2: 2 + 25 = 27, 4 + 23 = 27, 6 + 21 = 27, so each letter is replaced by its opposite.\nStep 3: C = 3 → 24 = X; E = 5 → 22 = V; G = 7 → 20 = T.\nAnswer: **XVT**."
+  },
+  {
+   "problem": "Practice: ACE : FHJ :: KMO : ?",
+   "solution": "Step 1: A(1) → F(6), C(3) → H(8), E(5) → J(10): each letter +5.\nStep 2: K(11) + 5 = 16 = P; M(13) + 5 = 18 = R; O(15) + 5 = 20 = T.\nAnswer: **PRT**."
+  },
+  {
+   "problem": "Practice: 4 : 68 :: 6 : ?",
+   "solution": "Step 1: 4³ = 64 and 64 + 4 = 68, so the rule is n³ + n.\nStep 2: 6³ + 6 = 216 + 6 = **222**.\nCheck: 4² = 16 does not lead to 68 by a simple step, so n³ + n is the exact rule."
+  },
+  {
+   "problem": "Practice: Find the odd one out: (A) BDG (B) FHK (C) MOR (D) PRV",
+   "solution": "Step 1: Write gaps. B(2) → D(4) → G(7): +2, +3.\nStep 2: F(6) → H(8) → K(11): +2, +3. M(13) → O(15) → R(18): +2, +3.\nStep 3: P(16) → R(18) → V(22): +2, +4.\nAnswer: **(D) PRV** breaks the +2, +3 pattern."
+  },
+  {
+   "problem": "Practice: Find the odd number: 121, 169, 225, 289, 324",
+   "solution": "Step 1: All are perfect squares: 11², 13², 15², 17², 18².\nStep 2: The first four are squares of odd numbers (11, 13, 15, 17), so they are odd.\nStep 3: 324 = 18² is the square of an even number and is itself even.\nAnswer: **324**."
+  }
+ ],
+ "pitfalls": [
+  "Reversing the order of the relationship (worker : workplace vs workplace : worker).",
+  "Accepting the first option that loosely fits instead of checking all four.",
+  "Forgetting to wrap around after Z when shifting letters.",
+  "Confusing the opposite letter (sum 27) with simply reversing the cluster order.",
+  "Counting letter positions on fingers and making off-by-one errors; use EJOTY anchors.",
+  "In number analogies, using an approximate rule (both even) when an exact rule (n³ + n) exists.",
+  "In odd-one-out, picking a property that excludes two options; the correct rule excludes exactly one."
+ ],
+ "quickRevision": [
+  "Frame the first pair as a sentence; apply it to the second pair.",
+  "Relationship direction must be the same in both pairs.",
+  "EJOTY: E5, J10, O15, T20, Y25.",
+  "Opposite letters add up to 27 (A-Z, M-N).",
+  "Letter clusters: test constant shift, position-wise shift, opposite, reversal, gap pattern.",
+  "Number analogies: try n², n³, n² ± 1, n³ ± n, ×k, ÷k, digit sum.",
+  "Know squares to 30, cubes to 15 and the 25 primes below 100.",
+  "Odd one out: category first, then a finer property.",
+  "For number pairs, the same rule must hold inside each pair.",
+  "Young ones, sounds, dwellings, instruments and units are standard word pairs."
+ ],
+ "flashcards": [
+  {
+   "front": "Opposite letter of G?",
+   "back": "T (7 + 20 = 27)"
+  },
+  {
+   "front": "Position of R in the alphabet?",
+   "back": "18 (T is 20, so R is 18)"
+  },
+  {
+   "front": "What does EJOTY stand for?",
+   "back": "Anchor letters at positions 5, 10, 15, 20, 25"
+  },
+  {
+   "front": "Young one of a horse?",
+   "back": "Foal"
+  },
+  {
+   "front": "Sound of an elephant?",
+   "back": "Trumpet"
+  },
+  {
+   "front": "Dwelling of a horse?",
+   "back": "Stable"
+  },
+  {
+   "front": "Instrument that measures humidity?",
+   "back": "Hygrometer"
+  },
+  {
+   "front": "Instrument that measures atmospheric pressure?",
+   "back": "Barometer"
+  },
+  {
+   "front": "7 : 50 :: 9 : ?",
+   "back": "82 (n² + 1)"
+  },
+  {
+   "front": "Number of primes below 100?",
+   "back": "25"
+  },
+  {
+   "front": "Odd one: Mercury, Venus, Moon, Mars?",
+   "back": "Moon (a satellite, the rest are planets)"
+  },
+  {
+   "front": "Gap pattern of BDG?",
+   "back": "+2, +3"
+  },
+  {
+   "front": "Letter 5 places after X (wrap-around)?",
+   "back": "C"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Analogy",
+   "hi": "सादृश्यता"
+  },
+  {
+   "en": "Classification",
+   "hi": "वर्गीकरण"
+  },
+  {
+   "en": "Odd one out",
+   "hi": "विषम को चुनें"
+  },
+  {
+   "en": "Relationship",
+   "hi": "संबंध"
+  },
+  {
+   "en": "Letter cluster",
+   "hi": "अक्षर समूह"
+  },
+  {
+   "en": "Position (in alphabet)",
+   "hi": "स्थान / क्रमांक"
+  },
+  {
+   "en": "Prime number",
+   "hi": "अभाज्य संख्या"
+  },
+  {
+   "en": "Perfect square",
+   "hi": "पूर्ण वर्ग"
+  },
+  {
+   "en": "Cube",
+   "hi": "घन"
+  },
+  {
+   "en": "Synonym / Antonym",
+   "hi": "पर्यायवाची / विलोम"
+  }
+ ]
+}

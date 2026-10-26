@@ -1,0 +1,527 @@
+[
+ {
+  "id": "2021-set4-q151",
+  "copies": [
+   "2021-set4-q151"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Assume that the following jobs are to be executed on a single processor system. All jobs have arrived at 0 msec.\nIf scheduling is round robin with time slice 1 msec, then what is the completion time for job ‘a’?",
+  "options": [
+   "A) 4",
+   "B) 10",
+   "C) 7",
+   "D) 11"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q151.png"
+ },
+ {
+  "id": "2021-set4-q160",
+  "copies": [
+   "2021-set4-q160"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the following TCP/IP protocol with their use.",
+  "options": [
+   "A) a-ii, b-iv, c-i, d-iii",
+   "B) a-i, b-ii, c-iii, d-iv",
+   "C) a-iii, b-iv, c-ii, d-i",
+   "D) a-iii, b-iv, c-i, d-ii"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q160.png"
+ },
+ {
+  "id": "2021-set4-q168",
+  "copies": [
+   "2021-set4-q168"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match List – I of firewalls with List – II of their usage. Select the correct answer from the given options.",
+  "options": [
+   "A) a-iv, b-ii, c-iii, d-i",
+   "B) a-ii, b-i, c-iv, d-iii",
+   "C) a-i, b-iv, c-ii, d-iii",
+   "D) a-iii, b-i, c-iv, d-ii"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q168.png"
+ },
+ {
+  "id": "2021-set4-q186",
+  "copies": [
+   "2021-set4-q186"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Flowchart given in below figure represents which programming construct?",
+  "options": [
+   "A) Sequence structure",
+   "B) Decision structure",
+   "C) Loop structure",
+   "D) Case structure"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q186.png"
+ },
+ {
+  "id": "2021-set4-q188",
+  "copies": [
+   "2021-set4-q188"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A discrete random variable X has the following probability distribution.\nWhat is the value of K?",
+  "options": [
+   "A) 1\n30",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q188.png"
+ },
+ {
+  "id": "2021-set4-q189",
+  "copies": [
+   "2021-set4-q189"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Two balls are drawn at random with replacement from a box containing 10 blue and 8 pink balls. What is the probability that both the balls are\npink?",
+  "options": [
+   "A) 4",
+   "B) 16\n81",
+   "C) 64\n81",
+   "D) 8\n81"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q189.png"
+ },
+ {
+  "id": "2021-set4-q190",
+  "copies": [
+   "2021-set4-q190"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the value of f(5) by newton’s backward difference form of interpolating polynomial for the data?",
+  "options": [
+   "A) 13.125",
+   "B) 8.0625",
+   "C) 10.0625",
+   "D) 11.125"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q190.png"
+ },
+ {
+  "id": "2021-set5-q032",
+  "copies": [
+   "2021-set5-q032"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.",
+  "options": [
+   "A) 36",
+   "B) 48",
+   "C) 24",
+   "D) 30"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q032.png"
+ },
+ {
+  "id": "2021-set5-q034",
+  "copies": [
+   "2021-set5-q034"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "How many mugs are not plate?",
+  "options": [
+   "A) 3",
+   "B) 15",
+   "C) 9",
+   "D) 13"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q034.png"
+ },
+ {
+  "id": "2021-set5-q035",
+  "copies": [
+   "2021-set5-q035"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Based on the given venn diagram, which of the following statement(s) is/are correct?\nI. Total number of black are 24.\nII. Number 12 represents those cars which are only black.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q035.png"
+ },
+ {
+  "id": "2021-set5-q038",
+  "copies": [
+   "2021-set5-q038"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right of (::) from the given\nalternatives based on the same logic/rule/relation.",
+  "options": [
+   "A) M",
+   "B) ",
+   "C) M",
+   "D) "
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q038.png"
+ },
+ {
+  "id": "2021-set5-q041",
+  "copies": [
+   "2021-set5-q041"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "1\nWhat is the value of\n-\n512",
+  "options": [
+   "A) 4",
+   "B) –8",
+   "C) 8",
+   "D) –4"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q041.png"
+ },
+ {
+  "id": "2021-set5-q045",
+  "copies": [
+   "2021-set5-q045"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "What is the value of (425)2 x 425-3 × (425)2 × (25) + 3 × (35)2 × 425 - (25)2 × 25?",
+  "options": [
+   "A) 20",
+   "B) 8000",
+   "C) 200",
+   "D) 400"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q045.png"
+ },
+ {
+  "id": "2021-set5-q058",
+  "copies": [
+   "2021-set5-q058"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Pie chart given below shows the salary given by a company to its seven employees. Total salary given by the company to all its employees is Rs.\n720000 salary spent on a particular employee is shown in terms of degree with respect to the total salary spent on all these seven employees.\nJ1 = Values of total salary given to Q, R and S\nJ2 = Value of total salary given to T, U and V\nJ3 = Value of difference of salary of Q and R\nWhat is the value of (J2 – J1 – J3)?",
+  "options": [
+   "A) Rs. 420000",
+   "B) Rs. 320000",
+   "C) Rs. 220000",
+   "D) Rs. 230000"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q058.png"
+ },
+ {
+  "id": "2021-set5-q059",
+  "copies": [
+   "2021-set5-q059"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The line chart given below shows the pocket money of six boys B1, B2, B3, B4, B5 and B6 in a month.\nWhich of the following statement(s) is/are correct?\nI. Pocket money of B2 is 5.25 percent less than the pocket money of B5.\nII. Pocket money of B4 is 6.25 percent less than the pocket money of B5.\nIII. Average pocket money of all the six boys is Rs. 2262.5",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Only III",
+   "D) II and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q059.png"
+ },
+ {
+  "id": "2021-set5-q060",
+  "copies": [
+   "2021-set5-q060"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The bar graph given below shows the production of soaps (in thousands) by two companies P and Q from June to October.\nWhich of the following statement(s) is/are correct?\nI. Total number of soaps produced by P in July is 28.5 percent more than Q in that month.\nII. Total number of soaps produced by P in August is 18.5 percent more than Q in that month.\nIII. Total number of soaps produces by P and Q in September is 144000.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Only III",
+   "D) II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q060.png"
+ },
+ {
+  "id": "2021-set5-q061",
+  "copies": [
+   "2021-set5-q061"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द का समास ज्ञात कीजिए।\nगरुड़ध्वज",
+  "options": [
+   "A) अव्ययीभाव समास",
+   "B) कर्मधारय समास",
+   "C) द्विगु समास",
+   "D) बहुव्रीहि समास"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q061.png"
+ },
+ {
+  "id": "2021-set5-q062",
+  "copies": [
+   "2021-set5-q062"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द की संधि ज्ञात कीजिए।\nदिक् + गज",
+  "options": [
+   "A) दिक्कज",
+   "B) दिग्गज",
+   "C) दिक्गज",
+   "D) दिकगज़"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q062.png"
+ },
+ {
+  "id": "2021-set5-q063",
+  "copies": [
+   "2021-set5-q063"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द की संज्ञा ज्ञात कीजिए।\nगुच्छा",
+  "options": [
+   "A) जातिवाचक संज्ञा",
+   "B) द्रव्यवाचक संज्ञा",
+   "C) समूहवाचक संज्ञा",
+   "D) व्यक्तिवाचक संज्ञा"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q063.png"
+ },
+ {
+  "id": "2021-set5-q064",
+  "copies": [
+   "2021-set5-q064"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nप्रणय : परिणय",
+  "options": [
+   "A) विवाह : प्रेम",
+   "B) विवाह : विच्छेद",
+   "C) विच्छेद : शत्रुता",
+   "D) प्रेम : विवाह"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q064.png"
+ },
+ {
+  "id": "2021-set5-q065",
+  "copies": [
+   "2021-set5-q065"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए वाक्य में उपयुक्त शब्द का चयन करके रिक्त स्थान की पूर्तिकीजिए।\nप्रदूषण की समस्या आज सारे विश्व के सामने ______ समस्या बन गयी है।",
+  "options": [
+   "A) साधारण",
+   "B) असाधारण",
+   "C) निकट",
+   "D) विकराल"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q065.png"
+ },
+ {
+  "id": "2021-set5-q066",
+  "copies": [
+   "2021-set5-q066"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nअगद : अंगद",
+  "options": [
+   "A) इत्र : पुत्र",
+   "B) नीरोग : इत्र",
+   "C) पुत्र : भेद",
+   "D) नीरोग : बालि का पुत्र"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q066.png"
+ },
+ {
+  "id": "2021-set5-q067",
+  "copies": [
+   "2021-set5-q067"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअल्पप्राण",
+  "options": [
+   "A) प्राण",
+   "B) महाप्राण",
+   "C) निप्राण",
+   "D) आदृ त"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q067.png"
+ },
+ {
+  "id": "2021-set5-q068",
+  "copies": [
+   "2021-set5-q068"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "निम्नलिखित में से कौन सा शब्द नित्य एकवचन में ही प्रयुक्त होता है?",
+  "options": [
+   "A) पेड़",
+   "B) मोर",
+   "C) जनता",
+   "D) लड़का"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q068.png"
+ },
+ {
+  "id": "2021-set5-q069",
+  "copies": [
+   "2021-set5-q069"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिया गया वाक्य किस पक्ष का उदाहरण है, ज्ञात कीजिए।\nफल मेज पर है।",
+  "options": [
+   "A) पूण",
+   "B) अपूण",
+   "C) नित्य",
+   "D) स्थितयात्मक पक्ष"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q069.png"
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2021-set1-q054",
+  "b": "2021-set3-q053",
+  "verdict": "concept",
+  "reason": "Both apply the boat-stream formula (downstream b+s, upstream b−s) to total time of a down-and-up trip."
+ },
+ {
+  "a": "2021-set1-q058",
+  "b": "2021-set4-q029",
+  "verdict": "different",
+  "reason": "Car price table ratios vs ordering cylinder areas; unrelated."
+ },
+ {
+  "a": "2021-set1-q062",
+  "b": "2021-set4-q063",
+  "verdict": "different",
+  "reason": "Definition of व्यक्तिवाचक संज्ञा vs identifying a different noun type in a word/sentence."
+ },
+ {
+  "a": "2021-set1-q062",
+  "b": "2021-set5-q063",
+  "verdict": "different",
+  "reason": "Definition of व्यक्तिवाचक संज्ञा vs identifying a different noun type in a word/sentence."
+ },
+ {
+  "a": "2021-set1-q064",
+  "b": "2021-set2-q065",
+  "verdict": "different",
+  "reason": "Antonyms of different Hindi words; only the question type is shared."
+ },
+ {
+  "a": "2021-set1-q064",
+  "b": "2021-set4-q065",
+  "verdict": "different",
+  "reason": "Antonyms of different Hindi words; only the question type is shared."
+ },
+ {
+  "a": "2021-set1-q065",
+  "b": "2021-set2-q062",
+  "verdict": "different",
+  "reason": "Different Hindi items (spelling of different words, samas, punctuation); no shared fact."
+ },
+ {
+  "a": "2021-set1-q065",
+  "b": "2021-set2-q067",
+  "verdict": "different",
+  "reason": "Different Hindi items (spelling of different words, samas, punctuation); no shared fact."
+ },
+ {
+  "a": "2021-set1-q065",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "Different Hindi items (spelling of different words, samas, punctuation); no shared fact."
+ },
+ {
+  "a": "2021-set1-q065",
+  "b": "2021-set4-q066",
+  "verdict": "different",
+  "reason": "Different Hindi items (spelling of different words, samas, punctuation); no shared fact."
+ },
+ {
+  "a": "2021-set1-q065",
+  "b": "2021-set5-q061",
+  "verdict": "different",
+  "reason": "Different Hindi items (spelling of different words, samas, punctuation); no shared fact."
+ },
+ {
+  "a": "2021-set1-q066",
+  "b": "2021-set3-q066",
+  "verdict": "different",
+  "reason": "One-word substitution for different phrases (अमराई vs दैनिक)."
+ },
+ {
+  "a": "2021-set1-q067",
+  "b": "2021-set2-q066",
+  "verdict": "different",
+  "reason": "Synonym-exclusion for different words or unrelated grammar; no shared fact."
+ },
+ {
+  "a": "2021-set1-q067",
+  "b": "2021-set4-q071",
+  "verdict": "different",
+  "reason": "Synonym-exclusion for different words or unrelated grammar; no shared fact."
+ },
+ {
+  "a": "2021-set1-q067",
+  "b": "2023-06-24-s2-q093",
+  "verdict": "different",
+  "reason": "Synonym-exclusion for different words or unrelated grammar; no shared fact."
+ },
+ {
+  "a": "2021-set1-q067",
+  "b": "2023-06-24-s2-q097",
+  "verdict": "different",
+  "reason": "Synonym-exclusion for different words or unrelated grammar; no shared fact."
+ },
+ {
+  "a": "2021-set1-q068",
+  "b": "2021-set2-q068",
+  "verdict": "different",
+  "reason": "Mood (वृत्ति) of different sentences with different answers (obligation vs doubt)."
+ },
+ {
+  "a": "2021-set1-q069",
+  "b": "2021-set5-q069",
+  "verdict": "different",
+  "reason": "पुरुष (person) of a sentence vs पक्ष (aspect); different grammar facts."
+ },
+ {
+  "a": "2021-set1-q072",
+  "b": "2021-set2-q072",
+  "verdict": "different",
+  "reason": "Punctuation of different sentences requiring different marks."
+ },
+ {
+  "a": "2021-set1-q072",
+  "b": "2021-set2-q073",
+  "verdict": "different",
+  "reason": "Punctuation of different sentences requiring different marks."
+ },
+ {
+  "a": "2021-set1-q072",
+  "b": "2021-set3-q072",
+  "verdict": "different",
+  "reason": "Punctuation of different sentences requiring different marks."
+ },
+ {
+  "a": "2021-set1-q072",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "Punctuation of different sentences requiring different marks."
+ },
+ {
+  "a": "2021-set1-q072",
+  "b": "2021-set4-q072",
+  "verdict": "different",
+  "reason": "Punctuation of different sentences requiring different marks."
+ },
+ {
+  "a": "2021-set1-q073",
+  "b": "2021-set2-q072",
+  "verdict": "concept",
+  "reason": "Both test that an interrogative sentence takes the question mark (प्रश्नवाचक चिह्न)."
+ },
+ {
+  "a": "2021-set1-q073",
+  "b": "2021-set2-q073",
+  "verdict": "different",
+  "reason": "Question mark for a question vs exclamation mark for an interjection; different rules."
+ },
+ {
+  "a": "2021-set1-q073",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "Question mark for a question vs exclamation mark for an interjection; different rules."
+ },
+ {
+  "a": "2021-set1-q073",
+  "b": "2021-set4-q073",
+  "verdict": "concept",
+  "reason": "Both test that an interrogative sentence takes the question mark (प्रश्नवाचक चिह्न)."
+ },
+ {
+  "a": "2021-set1-q073",
+  "b": "2021-set5-q072",
+  "verdict": "different",
+  "reason": "Question mark vs exclamation mark (विस्मयादिबोधक) for छिः; different rules."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set1-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set2-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set2-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q074",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set2-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set2-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q075",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms; only the instruction text is shared."
+ },
+ {
+  "a": "2021-set1-q076",
+  "b": "2021-set1-q077",
+  "verdict": "different",
+  "reason": "Same passage, different facts: Nehru birth date vs his birthday celebrated as Children's Day."
+ },
+ {
+  "a": "2021-set1-q076",
+  "b": "2021-set2-q076",
+  "verdict": "different",
+  "reason": "Nehru birth date vs month of International Trade Fair; unrelated."
+ },
+ {
+  "a": "2021-set1-q080",
+  "b": "2021-set2-q080",
+  "verdict": "different",
+  "reason": "Titles of different comprehension passages; unrelated content."
+ },
+ {
+  "a": "2021-set1-q080",
+  "b": "2021-set3-q080",
+  "verdict": "different",
+  "reason": "Titles of different comprehension passages; unrelated content."
+ },
+ {
+  "a": "2021-set1-q080",
+  "b": "2021-set4-q080",
+  "verdict": "different",
+  "reason": "Titles of different comprehension passages; unrelated content."
+ },
+ {
+  "a": "2021-set1-q080",
+  "b": "2021-set5-q080",
+  "verdict": "different",
+  "reason": "Titles of different comprehension passages; unrelated content."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set1-q082",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set2-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set2-q082",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set3-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set3-q082",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set4-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set4-q082",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set5-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q081",
+  "b": "2021-set5-q082",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q082",
+  "b": "2021-set2-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q082",
+  "b": "2021-set3-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q082",
+  "b": "2021-set4-q081",
+  "verdict": "different",
+  "reason": "Error-spotting in different sentences with different grammatical errors."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set1-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set2-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set2-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set3-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set3-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set4-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q083",
+  "b": "2023-06-24-s2-q070",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set2-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set2-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set3-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set3-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set4-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q084",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement in different sentences with different grammatical fixes."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set1-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set2-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q085",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set2-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q086",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points."
+ },
+ {
+  "a": "2021-set1-q089",
+  "b": "2021-set2-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q089",
+  "b": "2021-set3-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q089",
+  "b": "2021-set4-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q089",
+  "b": "2021-set5-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q090",
+  "b": "2021-set2-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q090",
+  "b": "2021-set3-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q090",
+  "b": "2021-set4-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q090",
+  "b": "2021-set5-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different English words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set1-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set2-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set2-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set3-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set3-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set4-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q091",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set2-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set2-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set3-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set3-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set4-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ }
+]

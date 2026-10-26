@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q092",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling questions on different words."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set1-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set2-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set2-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set3-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set3-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set4-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q093",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set2-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set2-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set3-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set3-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set4-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q094",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different English idioms."
+ },
+ {
+  "a": "2021-set1-q101",
+  "b": "2021-set2-q050",
+  "verdict": "different",
+  "reason": "Unrelated maths problems (calculus/complex numbers vs ratio)."
+ },
+ {
+  "a": "2021-set1-q103",
+  "b": "2021-set2-q050",
+  "verdict": "different",
+  "reason": "Unrelated maths problems (calculus/complex numbers vs ratio)."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set1-q144",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set1-q199",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set2-q013",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set2-q119",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set2-q199",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set3-q106",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set4-q105",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q107",
+  "b": "2021-set5-q035",
+  "verdict": "different",
+  "reason": "Statement-type questions on unrelated subjects; only the option format is shared."
+ },
+ {
+  "a": "2021-set1-q112",
+  "b": "2021-set5-q112",
+  "verdict": "different",
+  "reason": "Bubble sort worst case vs quick sort worst case; different algorithms despite same O(n²) answer."
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set2-q115",
+  "verdict": "different",
+  "reason": "Output of different C snippets testing different rules (octal/hex literals, modulo sign, increments, comma, integer division)."
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set3-q111",
+  "verdict": "different",
+  "reason": "Output of different C snippets testing different rules (octal/hex literals, modulo sign, increments, comma, integer division)."
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set4-q111",
+  "verdict": "different",
+  "reason": "Output of different C snippets testing different rules (octal/hex literals, modulo sign, increments, comma, integer division)."
+ },
+ {
+  "a": "2021-set1-q115",
+  "b": "2021-set5-q114",
+  "verdict": "different",
+  "reason": "Output of different C snippets testing different rules (octal/hex literals, modulo sign, increments, comma, integer division)."
+ },
+ {
+  "a": "2021-set1-q117",
+  "b": "2021-set3-q169",
+  "verdict": "different",
+  "reason": "Custom new-order traversal of a given tree vs definition of post-order; different facts."
+ },
+ {
+  "a": "2021-set1-q117",
+  "b": "2021-set5-q115",
+  "verdict": "different",
+  "reason": "Custom traversals with different visit orders on different trees; different answers."
+ },
+ {
+  "a": "2021-set1-q123",
+  "b": "2021-set3-q114",
+  "verdict": "different",
+  "reason": "Which are transmission modes vs definition of a specific mode; different facts."
+ },
+ {
+  "a": "2021-set1-q123",
+  "b": "2021-set5-q121",
+  "verdict": "different",
+  "reason": "Which are transmission modes vs definition of a specific mode; different facts."
+ },
+ {
+  "a": "2021-set1-q124",
+  "b": "2021-set4-q104",
+  "verdict": "different",
+  "reason": "Impact printer vs input device; different facts."
+ },
+ {
+  "a": "2021-set1-q128",
+  "b": "2021-set1-q134",
+  "verdict": "different",
+  "reason": "Simplifying different Boolean expressions."
+ },
+ {
+  "a": "2021-set1-q128",
+  "b": "2021-set1-q143",
+  "verdict": "different",
+  "reason": "Simplifying different Boolean expressions."
+ },
+ {
+  "a": "2021-set1-q128",
+  "b": "2021-set2-q127",
+  "verdict": "different",
+  "reason": "Simplifying different Boolean expressions."
+ },
+ {
+  "a": "2021-set1-q131",
+  "b": "2021-set4-q119",
+  "verdict": "different",
+  "reason": "K-map minimisation of different functions (SOP vs POS); different answers."
+ },
+ {
+  "a": "2021-set1-q140",
+  "b": "2021-set3-q134",
+  "verdict": "different",
+  "reason": "SQL data types vs SQL comparison/aggregate operators; different facts."
+ },
+ {
+  "a": "2021-set1-q140",
+  "b": "2021-set5-q138",
+  "verdict": "different",
+  "reason": "SQL data types vs SQL comparison/aggregate operators; different facts."
+ },
+ {
+  "a": "2021-set1-q141",
+  "b": "2021-set2-q126",
+  "verdict": "different",
+  "reason": "Name of truth table vs identifying a gate from a given truth table; different facts."
+ },
+ {
+  "a": "2021-set1-q141",
+  "b": "2021-set3-q122",
+  "verdict": "different",
+  "reason": "Name of truth table vs identifying a gate from a given truth table; different facts."
+ },
+ {
+  "a": "2021-set1-q144",
+  "b": "2021-set2-q119",
+  "verdict": "different",
+  "reason": "NOR gate symbol vs unrelated statement/POS/ER-cardinality questions."
+ },
+ {
+  "a": "2021-set1-q144",
+  "b": "2021-set3-q135",
+  "verdict": "different",
+  "reason": "NOR gate symbol vs unrelated statement/POS/ER-cardinality questions."
+ },
+ {
+  "a": "2021-set1-q144",
+  "b": "2021-set5-q136",
+  "verdict": "different",
+  "reason": "NOR gate symbol vs unrelated statement/POS/ER-cardinality questions."
+ },
+ {
+  "a": "2021-set1-q150",
+  "b": "2021-set2-q146",
+  "verdict": "different",
+  "reason": "Full form of SQA vs full form of CASE; different facts."
+ },
+ {
+  "a": "2021-set1-q151",
+  "b": "2021-set2-q145",
+  "verdict": "paraphrase",
+  "reason": "Same stem: model with incremental releases; answer Spiral in both, only option format differs."
+ },
+ {
+  "a": "2021-set1-q154",
+  "b": "2021-set3-q145",
+  "verdict": "different",
+  "reason": "Deriving PERT/Gantt charts from each other vs structure of a PERT chart; different facts."
+ },
+ {
+  "a": "2021-set1-q156",
+  "b": "2021-set4-q149",
+  "verdict": "different",
+  "reason": "Java method syntax errors vs final class/method rules; different facts."
+ },
+ {
+  "a": "2021-set1-q158",
+  "b": "2021-set2-q154",
+  "verdict": "different",
+  "reason": "Which algorithm has Belady anomaly vs counting optimal-algorithm page faults; different tasks."
+ },
+ {
+  "a": "2021-set1-q160",
+  "b": "2021-set1-q161",
+  "verdict": "different",
+  "reason": "Definition of internal fragmentation vs definition of external fragmentation; different facts."
+ },
+ {
+  "a": "2021-set1-q162",
+  "b": "2021-set1-q163",
+  "verdict": "different",
+  "reason": "Thrashing definition vs swapping-out definition; different terms."
+ },
+ {
+  "a": "2021-set1-q164",
+  "b": "2021-set2-q154",
+  "verdict": "different",
+  "reason": "Page-fault counts with FIFO vs optimal algorithm on different reference strings."
+ },
+ {
+  "a": "2021-set1-q165",
+  "b": "2021-set2-q160",
+  "verdict": "different",
+  "reason": "CRR definition vs qualitative credit-control tool (moral suasion); different facts."
+ },
+ {
+  "a": "2021-set1-q168",
+  "b": "2021-set1-q169",
+  "verdict": "different",
+  "reason": "Session layer handles dialog control vs network layer handles routing; different layers."
+ },
+ {
+  "a": "2021-set1-q168",
+  "b": "2021-set1-q171",
+  "verdict": "different",
+  "reason": "Function of session layer vs layer number of session layer; different facts."
+ },
+ {
+  "a": "2021-set1-q170",
+  "b": "2021-set1-q171",
+  "verdict": "different",
+  "reason": "OSI end-to-end/chained layers vs layer five name; different facts."
+ },
+ {
+  "a": "2021-set1-q172",
+  "b": "2021-set5-q172",
+  "verdict": "different",
+  "reason": "Native internet business models vs transplanted real-world models; different categories."
+ },
+ {
+  "a": "2021-set1-q174",
+  "b": "2021-set3-q169",
+  "verdict": "different",
+  "reason": "BST ordering property vs post-order traversal definition; different facts."
+ },
+ {
+  "a": "2021-set1-q178",
+  "b": "2021-set3-q173",
+  "verdict": "different",
+  "reason": "Type of information system vs component of MIS; different facts."
+ },
+ {
+  "a": "2021-set1-q186",
+  "b": "2021-set2-q187",
+  "verdict": "different",
+  "reason": "Flowchart terminal symbol vs process symbol; different facts."
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set2-q050",
+  "verdict": "different",
+  "reason": "Lagrange interpolation vs unrelated arithmetic/statistics problem."
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set4-q041",
+  "verdict": "different",
+  "reason": "Lagrange interpolation vs unrelated arithmetic/statistics problem."
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set5-q187",
+  "verdict": "different",
+  "reason": "Lagrange interpolation vs unrelated arithmetic/statistics problem."
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2021-set5-q190",
+  "verdict": "concept",
+  "reason": "Both apply Lagrange interpolation formula to given data points."
+ },
+ {
+  "a": "2021-set1-q190",
+  "b": "2023-06-24-s2-q121",
+  "verdict": "different",
+  "reason": "Lagrange interpolation vs set difference/Cartesian product; unrelated."
+ },
+ {
+  "a": "2021-set1-q194",
+  "b": "2021-set3-q194",
+  "verdict": "different",
+  "reason": "Types of assessment vs who controls assessment as learning; different facts."
+ },
+ {
+  "a": "2021-set1-q199",
+  "b": "2021-set2-q119",
+  "verdict": "different",
+  "reason": "Forms of gender discrimination vs an unrelated statement question."
+ },
+ {
+  "a": "2021-set2-q003",
+  "b": "2021-set4-q003",
+  "verdict": "different",
+  "reason": "Image on Rs 500 note vs dimensions of Rs 50 note; different facts."
+ },
+ {
+  "a": "2021-set2-q005",
+  "b": "2021-set4-q005",
+  "verdict": "different",
+  "reason": "Respiratory organ of fish (gills) vs earthworm (skin); different facts."
+ },
+ {
+  "a": "2021-set2-q006",
+  "b": "2021-set4-q006",
+  "verdict": "different",
+  "reason": "Concave mirror image for object at infinity vs at C; different cases."
+ },
+ {
+  "a": "2021-set2-q013",
+  "b": "2021-set2-q119",
+  "verdict": "different",
+  "reason": "Partition of Bengal facts vs an unrelated statement question."
+ },
+ {
+  "a": "2021-set2-q015",
+  "b": "2021-set4-q016",
+  "verdict": "different",
+  "reason": "Number of Padma Bhushan vs Padma Vibhushan awardees in 2021; different facts."
+ },
+ {
+  "a": "2021-set2-q018",
+  "b": "2021-set4-q018",
+  "verdict": "different",
+  "reason": "Different constitutional articles on different subjects."
+ },
+ {
+  "a": "2021-set2-q018",
+  "b": "2021-set5-q018",
+  "verdict": "different",
+  "reason": "Different constitutional articles on different subjects."
+ },
+ {
+  "a": "2021-set2-q019",
+  "b": "2021-set5-q019",
+  "verdict": "different",
+  "reason": "India silver medals at 2016 Olympics vs gold medals at 2018 CWG; different facts."
+ },
+ {
+  "a": "2021-set2-q020",
+  "b": "2021-set3-q020",
+  "verdict": "different",
+  "reason": "Different football facts (U20 winner, Golden Boot, first World Cup winner)."
+ },
+ {
+  "a": "2021-set2-q020",
+  "b": "2021-set5-q020",
+  "verdict": "different",
+  "reason": "Different football facts (U20 winner, Golden Boot, first World Cup winner)."
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set2-q025",
+  "verdict": "different",
+  "reason": "Letter-pair/letter-group puzzles with different rules."
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set3-q023",
+  "verdict": "different",
+  "reason": "Letter-pair/letter-group puzzles with different rules."
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set3-q025",
+  "verdict": "different",
+  "reason": "Letter-pair/letter-group puzzles with different rules."
+ },
+ {
+  "a": "2021-set2-q023",
+  "b": "2021-set5-q038",
+  "verdict": "different",
+  "reason": "Letter-pair/letter-group puzzles with different rules."
+ },
+ {
+  "a": "2021-set2-q025",
+  "b": "2021-set3-q023",
+  "verdict": "different",
+  "reason": "Letter-pair/letter-group puzzles with different rules."
+ },
+ {
+  "a": "2021-set2-q025",
+  "b": "2021-set3-q025",
+  "verdict": "different",
+  "reason": "Letter-pair/letter-group puzzles with different rules."
+ },
+ {
+  "a": "2021-set2-q026",
+  "b": "2021-set3-q026",
+  "verdict": "different",
+  "reason": "Coding-decoding questions with different coding schemes."
+ },
+ {
+  "a": "2021-set2-q026",
+  "b": "2021-set4-q026",
+  "verdict": "different",
+  "reason": "Coding-decoding questions with different coding schemes."
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2021-set3-q029",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles."
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2021-set4-q027",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles."
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2021-set5-q029",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles."
+ },
+ {
+  "a": "2021-set2-q028",
+  "b": "2023-06-24-s2-q001",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles."
+ },
+ {
+  "a": "2021-set2-q030",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set2-q031",
+  "b": "2021-set3-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set2-q031",
+  "b": "2021-set4-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set2-q031",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set2-q032",
+  "b": "2021-set5-q032",
+  "verdict": "different",
+  "reason": "Number analogy vs missing number in a figure; different puzzles."
+ },
+ {
+  "a": "2021-set2-q035",
+  "b": "2021-set3-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram questions with different data."
+ },
+ {
+  "a": "2021-set2-q035",
+  "b": "2021-set4-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram questions with different data."
+ },
+ {
+  "a": "2021-set2-q035",
+  "b": "2021-set5-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram questions with different data."
+ },
+ {
+  "a": "2021-set2-q036",
+  "b": "2021-set3-q037",
+  "verdict": "different",
+  "reason": "Direction puzzles with different setups (positions, rotations, renamed directions)."
+ },
+ {
+  "a": "2021-set2-q036",
+  "b": "2021-set4-q036",
+  "verdict": "different",
+  "reason": "Direction puzzles with different setups (positions, rotations, renamed directions)."
+ },
+ {
+  "a": "2021-set2-q036",
+  "b": "2021-set5-q036",
+  "verdict": "different",
+  "reason": "Direction puzzles with different setups (positions, rotations, renamed directions)."
+ },
+ {
+  "a": "2021-set2-q037",
+  "b": "2021-set4-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense walks with different distances and answers."
+ },
+ {
+  "a": "2021-set2-q037",
+  "b": "2021-set5-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense walks with different distances and answers."
+ },
+ {
+  "a": "2021-set2-q040",
+  "b": "2023-06-24-s2-q013",
+  "verdict": "different",
+  "reason": "Mirror images of different figures with different mirror positions."
+ },
+ {
+  "a": "2021-set2-q042",
+  "b": "2021-set2-q050",
+  "verdict": "different",
+  "reason": "Unrelated arithmetic problems."
+ },
+ {
+  "a": "2021-set2-q042",
+  "b": "2021-set4-q041",
+  "verdict": "different",
+  "reason": "Unrelated arithmetic problems."
+ },
+ {
+  "a": "2021-set2-q042",
+  "b": "2021-set5-q187",
+  "verdict": "different",
+  "reason": "Unrelated arithmetic problems."
+ },
+ {
+  "a": "2021-set2-q044",
+  "b": "2021-set2-q050",
+  "verdict": "different",
+  "reason": "Unrelated arithmetic problems."
+ },
+ {
+  "a": "2021-set2-q047",
+  "b": "2021-set4-q046",
+  "verdict": "different",
+  "reason": "Percentage of a number or CP/SP article ratio vs discount from MP/SP percentages; different problems."
+ },
+ {
+  "a": "2021-set2-q049",
+  "b": "2021-set4-q046",
+  "verdict": "different",
+  "reason": "Percentage of a number or CP/SP article ratio vs discount from MP/SP percentages; different problems."
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2021-set3-q044",
+  "verdict": "different",
+  "reason": "Ratio combination vs unrelated divisibility/ratio/set problems."
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2021-set3-q051",
+  "verdict": "different",
+  "reason": "Ratio combination vs unrelated divisibility/ratio/set problems."
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2021-set4-q042",
+  "verdict": "different",
+  "reason": "Ratio combination vs unrelated divisibility/ratio/set problems."
+ },
+ {
+  "a": "2021-set2-q050",
+  "b": "2023-06-24-s2-q121",
+  "verdict": "different",
+  "reason": "Ratio combination vs unrelated divisibility/ratio/set problems."
+ }
+]

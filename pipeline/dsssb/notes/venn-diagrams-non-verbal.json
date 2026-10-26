@@ -1,0 +1,284 @@
+{
+ "slug": "venn-diagrams-non-verbal",
+ "subject": "General Intelligence & Reasoning",
+ "topic": "Venn Diagrams & Non-verbal",
+ "titleHi": "वेन आरेख एवं अशाब्दिक",
+ "summary": "Venn diagrams (choosing the diagram for a set of classes and reading numbers from a given diagram), non-verbal figure questions (mirror and water images, paper folding, embedded figures, figure series and analogies, dice and cubes), and counting figures (triangles, squares, rectangles). Several DSSSB questions each year come from these, and most are solved by a few rules plus systematic counting.",
+ "sections": [
+  {
+   "heading": "Choosing the right Venn diagram",
+   "level": "basic",
+   "subtopic": "Venn diagrams",
+   "body": "For each pair of classes ask one question: is one class **completely inside** the other (subset), do they **partly overlap**, or are they **completely separate** (disjoint)? Then combine the three answers into one picture.\n\nTips:\n- Two classes that cannot share any member (e.g. two different animals) are disjoint.\n- 'Some' members in common, but neither inside the other, means overlap (teachers and women).\n- A place hierarchy (city, country, continent) is always nested.\n- If you are unsure whether two classes overlap, think of one real example that belongs to both.",
+   "table": {
+    "columns": [
+     "Classes",
+     "Relationship",
+     "Diagram shape"
+    ],
+    "rows": [
+     [
+      "Delhi, India, Asia",
+      "Each inside the next",
+      "Three nested circles"
+     ],
+     [
+      "Rose, Lily, Flower",
+      "Two disjoint classes inside a third",
+      "Two separate circles inside a big one"
+     ],
+     [
+      "Doctors, Singers, Human beings",
+      "Two overlapping classes inside a third",
+      "Two overlapping circles inside a big one"
+     ],
+     [
+      "Women, Mothers, Teachers",
+      "Mothers inside Women; Teachers overlaps both",
+      "Nested pair cut by a third circle"
+     ],
+     [
+      "Teachers, Women, Singers",
+      "All three overlap",
+      "Three mutually overlapping circles"
+     ],
+     [
+      "Pen, River, Sun",
+      "No relation",
+      "Three separate circles"
+     ],
+     [
+      "Dogs, Cats, Animals",
+      "Two disjoint classes inside a third",
+      "Two separate circles inside a big one"
+     ]
+    ]
+   },
+   "diagram": {
+    "title": "Women, Mothers and Teachers",
+    "ascii": "+-----------------------------+\n| Women                       |\n|   +-------------+           |\n|   | Mothers     |           |\n|   |      +------+-----------+---------+\n|   |      |  x   |           |         |\n|   +------+------+     y     |    z    |\n|          |                  |         |\n+----------+------------------+         |\n           |  Teachers                  |\n           +----------------------------+\nx = mothers who teach; y = women teachers who are not\nmothers; z = male teachers"
+   }
+  },
+  {
+   "heading": "Reading numbers from Venn diagrams",
+   "level": "intermediate",
+   "subtopic": "Venn diagrams",
+   "body": "In numerical Venn questions each region carries a count. Translate the question word by word:\n- '**A and B**' = the overlap of A and B (including the part also in C, unless 'only' is used).\n- '**Only A**' = the part of A outside every other shape.\n- '**A but not B**' = A minus its overlap with B.\n- '**Neither A nor B**' = inside the universal box but outside both.\n- '**Exactly two**' = regions inside exactly two shapes.\n\nFor formula-based questions use the inclusion-exclusion rule (see formulas). For three sets, 'only A' = n(A) − n(A∩B) − n(A∩C) + n(A∩B∩C).\n\nAlways list the regions you add on paper ('a + d + e') before computing; most errors come from counting a central region twice or missing it."
+  },
+  {
+   "heading": "Mirror and water images",
+   "level": "basic",
+   "subtopic": "Figures & mirror images",
+   "body": "- A **vertical mirror** (on the right or left of the figure) swaps **left and right**; top and bottom stay the same.\n- A **horizontal mirror** (above or below), or a **water image**, swaps **top and bottom**; left and right stay the same.\n- A mirror image never rotates the figure; it only flips it.\n\n**Letters unchanged in a vertical mirror** (left-right symmetric): A, H, I, M, O, T, U, V, W, X, Y.\n**Letters unchanged in a water image** (top-bottom symmetric): B, C, D, E, H, I, K, O, X.\nFor numbers, 0, 1 and 8 look the same in both (in standard straight-line fonts).\n\nIn word mirror images, the **order of letters reverses** and each letter is flipped. For clock mirror images use 11:60 − time (vertical mirror).\n\n**Elimination tip**: pick one asymmetric detail (a dot in the top-right corner, a slanted line) and track where it goes; this usually removes three options at once."
+  },
+  {
+   "heading": "Paper folding, embedded figures and figure series",
+   "level": "intermediate",
+   "subtopic": "Figures & mirror images",
+   "body": "**Paper folding and punching**: unfold one step at a time, in reverse order. Each unfold reflects every hole across the fold line, so the number of holes **doubles** with each fold (one punch through a sheet folded twice gives 4 holes). Holes punched on the fold line itself appear as one hole across the fold.\n\n**Embedded (hidden) figures**: the given figure must appear in the option with the **same size and the same orientation**; it may not be rotated or flipped unless the question allows it. Trace its most distinctive corner first.\n\n**Figure series and analogies**: compare consecutive figures for one change at a time:\n- **Rotation**: 45°, 90° or 135°, clockwise or anticlockwise; sometimes the angle increases each step.\n- **Addition or removal** of a line or element each step.\n- **Movement** of a symbol around the corners (one step, then two steps ...).\n- **Shading** alternating or moving.\nFor figure analogies (figure 1 : figure 2 :: figure 3 : ?), apply exactly the same change to figure 3.\n\n**Pattern completion**: the missing quarter of a square figure is usually a mirror image of the adjacent quarter."
+  },
+  {
+   "heading": "Dice and painted cubes",
+   "level": "advanced",
+   "subtopic": "Figures & mirror images",
+   "body": "**Standard die**: opposite faces add up to 7 (1-6, 2-5, 3-4).\n\n**Finding opposite faces from views of the same die**:\n- Faces seen together in one view are **adjacent**, never opposite.\n- If two views share **two** faces, the remaining (third) faces are **opposite** to each other.\n- If two views share **one** face, list each view's faces **clockwise starting from the common face**; faces in the same place in the two lists are opposite.\n- If a face is adjacent to four other faces, it is opposite the sixth.\n\n**Painted cube cut into n × n × n small cubes** (all faces painted):\n- 3 faces painted: **8** (the corners)\n- 2 faces painted: **12(n − 2)** (along the edges)\n- 1 face painted: **6(n − 2)²** (centres of faces)\n- No face painted: **(n − 2)³** (inside)\nThe four counts always add up to n³. If only some faces are painted, count corners, edges and face-centres for those faces directly."
+  },
+  {
+   "heading": "Counting figures",
+   "level": "advanced",
+   "subtopic": "Counting figures",
+   "body": "Label every point with a letter and count systematically: first the smallest figures, then figures made of two parts, three parts, and so on. Write each triangle as three letters so that none is counted twice.\n\nShortcuts (see formulas):\n- **Triangle with lines from the apex**: if n lines (including both sides) start at the apex and end on the base, the number of triangles is **n(n − 1)/2**. Each extra horizontal line that cuts all of them adds another n(n − 1)/2.\n- **Squares in an n × n grid**: 1² + 2² + ... + n² = n(n + 1)(2n + 1)/6.\n- **Rectangles in an m × n grid** (squares included): C(m + 1, 2) × C(n + 1, 2).\n- **Straight lines**: count horizontal, vertical and slanting lines separately; a straight line that passes through several points is still one line.\n\nIn complex figures, divide the figure into symmetric parts, count one part, multiply, and then add the figures that cross the dividing lines.",
+   "diagram": {
+    "title": "Triangles from lines through the apex",
+    "ascii": "              A\n             /|\\\n            / | \\\n           /  |  \\\n          /   |   \\\n         B----D----C        lines from A: AB, AD, AC (3)\n\nTriangles = C(3, 2) = 3  (ABD, ADC, ABC)\nWith n lines from the apex: n(n - 1)/2 triangles"
+   }
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Two sets",
+   "formula": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B)",
+   "note": "Neither = Total − n(A ∪ B)."
+  },
+  {
+   "name": "Three sets",
+   "formula": "n(A∪B∪C) = n(A) + n(B) + n(C) − n(A∩B) − n(B∩C) − n(A∩C) + n(A∩B∩C)",
+   "note": ""
+  },
+  {
+   "name": "Only A (three sets)",
+   "formula": "n(A) − n(A∩B) − n(A∩C) + n(A∩B∩C)",
+   "note": ""
+  },
+  {
+   "name": "Painted cube",
+   "formula": "3 faces: 8; 2 faces: 12(n − 2); 1 face: 6(n − 2)²; none: (n − 2)³",
+   "note": "Total n³."
+  },
+  {
+   "name": "Triangles from the apex",
+   "formula": "T = n(n − 1)/2 per level",
+   "note": "n = number of lines from the apex including both sides."
+  },
+  {
+   "name": "Squares in n × n grid",
+   "formula": "Σk² = n(n + 1)(2n + 1)/6",
+   "note": ""
+  },
+  {
+   "name": "Rectangles in m × n grid",
+   "formula": "C(m + 1, 2) × C(n + 1, 2)",
+   "note": "Includes squares."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Practice: Which diagram best represents Women, Mothers and Teachers?",
+   "solution": "Step 1: Every mother is a woman, so Mothers lies completely inside Women.\nStep 2: Some teachers are women and some are not; some teachers are mothers and some are not. So Teachers overlaps Women and also overlaps Mothers.\nStep 3: Teachers also extends outside Women (male teachers).\nAnswer: a small circle (Mothers) inside a large circle (Women), with a third circle (Teachers) cutting across both and extending outside Women (see the diagram in the first section)."
+  },
+  {
+   "problem": "Practice: In a class of 60 students, 35 play cricket, 25 play football and 10 play both. How many play neither?",
+   "solution": "Step 1: n(C ∪ F) = 35 + 25 − 10 = 50.\nStep 2: Neither = 60 − 50 = **10**.\nCheck: only cricket = 25, only football = 15, both = 10, neither = 10; 25 + 15 + 10 + 10 = 60."
+  },
+  {
+   "problem": "Practice: In a survey of 100 people, 50 read Hindi, 40 English and 30 Urdu newspapers. 15 read Hindi and English, 10 English and Urdu, 12 Hindi and Urdu, and 5 read all three. How many read none, and how many read only Hindi?",
+   "solution": "Step 1: Union = 50 + 40 + 30 − 15 − 10 − 12 + 5 = 88.\nStep 2: None = 100 − 88 = **12**.\nStep 3: Only Hindi = 50 − 15 − 12 + 5 = **28**."
+  },
+  {
+   "problem": "Practice: A cube painted red on all faces is cut into 64 identical small cubes. How many small cubes have 3, 2, 1 and 0 faces painted?",
+   "solution": "Step 1: 64 = 4³, so n = 4 and n − 2 = 2.\nStep 2: 3 faces: 8. 2 faces: 12 × 2 = 24. 1 face: 6 × 2² = 24. 0 faces: 2³ = 8.\nCheck: 8 + 24 + 24 + 8 = 64."
+  },
+  {
+   "problem": "Practice: How many squares and how many rectangles are there in a 4 × 4 grid of small squares?",
+   "solution": "Step 1: Squares = 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = **30**.\nStep 2: Rectangles: choose 2 of the 5 vertical lines and 2 of the 5 horizontal lines: C(5, 2) × C(5, 2) = 10 × 10 = **100** (this includes the 30 squares)."
+  },
+  {
+   "problem": "Practice: In triangle ABC, three lines are drawn from A to points on BC, so that five lines in all start from A. A line parallel to BC then cuts all five lines. How many triangles are there?",
+   "solution": "Step 1: Five lines from the apex give C(5, 2) = 5 × 4 / 2 = 10 triangles with base on BC.\nStep 2: The parallel line forms a second base, giving another 10 triangles with A at the top.\nStep 3: Total = 10 + 10 = **20**."
+  }
+ ],
+ "pitfalls": [
+  "Drawing Mothers and Women as overlapping circles; Mothers is a subset of Women.",
+  "Counting the central region of a three-set Venn diagram twice.",
+  "Reading 'A and B' as 'only A and B'; the word 'only' changes the region.",
+  "Rotating the figure when finding a mirror image; a mirror only flips.",
+  "Using a vertical-mirror rule for a water image (water swaps top and bottom).",
+  "Taking two faces seen in the same view of a die as opposite; they are adjacent.",
+  "Forgetting that the painted-cube counts must add up to n³.",
+  "Missing large triangles or rectangles made of several small parts; count by size."
+ ],
+ "quickRevision": [
+  "Subset → circle inside circle; overlap → intersecting circles; disjoint → separate circles.",
+  "n(A ∪ B) = n(A) + n(B) − n(A ∩ B).",
+  "Only A (three sets) = A − AB − AC + ABC.",
+  "Vertical mirror swaps left-right; water image swaps top-bottom.",
+  "Vertically symmetric letters: A H I M O T U V W X Y.",
+  "Each fold doubles the holes when unfolded.",
+  "Embedded figure: same size and orientation.",
+  "Standard die: opposite faces sum to 7.",
+  "Two common faces in two views → remaining faces are opposite.",
+  "Painted n³ cube: 8, 12(n − 2), 6(n − 2)², (n − 2)³.",
+  "Squares in n × n grid = n(n + 1)(2n + 1)/6.",
+  "Triangles from n lines through an apex = n(n − 1)/2."
+ ],
+ "flashcards": [
+  {
+   "front": "Venn diagram for Delhi, India, Asia?",
+   "back": "Three nested circles"
+  },
+  {
+   "front": "Venn diagram for Rose, Lily, Flower?",
+   "back": "Two separate circles inside a larger circle"
+  },
+  {
+   "front": "In a vertical mirror, what swaps?",
+   "back": "Left and right"
+  },
+  {
+   "front": "In a water image, what swaps?",
+   "back": "Top and bottom"
+  },
+  {
+   "front": "Mirror image of a clock showing 3:40?",
+   "back": "8:20"
+  },
+  {
+   "front": "Sheet folded twice, one punch: holes after unfolding?",
+   "back": "4"
+  },
+  {
+   "front": "Opposite of 2 on a standard die?",
+   "back": "5"
+  },
+  {
+   "front": "Painted 3 × 3 × 3 cube: cubes with no paint?",
+   "back": "1"
+  },
+  {
+   "front": "Painted 3 × 3 × 3 cube: cubes with two faces painted?",
+   "back": "12"
+  },
+  {
+   "front": "Squares in a 3 × 3 grid?",
+   "back": "14"
+  },
+  {
+   "front": "Rectangles in a 2 × 3 grid?",
+   "back": "18 (C(3,2) × C(4,2) = 3 × 6)"
+  },
+  {
+   "front": "Triangles with 4 lines from the apex?",
+   "back": "6"
+  },
+  {
+   "front": "Two sets: 20 in A, 15 in B, 5 in both. A ∪ B?",
+   "back": "30"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Venn diagram",
+   "hi": "वेन आरेख"
+  },
+  {
+   "en": "Subset",
+   "hi": "उपसमुच्चय"
+  },
+  {
+   "en": "Intersection",
+   "hi": "सर्वनिष्ठ / प्रतिच्छेदन"
+  },
+  {
+   "en": "Union",
+   "hi": "सम्मिलन"
+  },
+  {
+   "en": "Mirror image",
+   "hi": "दर्पण प्रतिबिंब"
+  },
+  {
+   "en": "Water image",
+   "hi": "जल प्रतिबिंब"
+  },
+  {
+   "en": "Embedded figure",
+   "hi": "निहित आकृति"
+  },
+  {
+   "en": "Paper folding",
+   "hi": "कागज़ मोड़ना"
+  },
+  {
+   "en": "Dice / Cube",
+   "hi": "पासा / घन"
+  },
+  {
+   "en": "Counting figures",
+   "hi": "आकृतियों की गिनती"
+  },
+  {
+   "en": "Non-verbal reasoning",
+   "hi": "अशाब्दिक तर्कशक्ति"
+  }
+ ]
+}

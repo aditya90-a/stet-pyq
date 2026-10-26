@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set1-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set1-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set2-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set2-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q086",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q088",
+  "b": "2024-02-07-s2-q092",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blanks testing different word classes (noun/case/verb) in different sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q088",
+  "b": "2024-02-07-s2-q094",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blanks testing different word classes (noun/case/verb) in different sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2024-02-07-s2-q095",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items (synonyms of different words, noun type, word pair); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2024-02-07-s2-q100",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items (synonyms of different words, noun type, word pair); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set1-q067",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items (synonyms of different words, noun type, word pair); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set2-q066",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items (synonyms of different words, noun type, word pair); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set5-q063",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items (synonyms of different words, noun type, word pair); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q089",
+  "b": "2021-set5-q064",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items (synonyms of different words, noun type, word pair); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q090",
+  "b": "2024-02-07-s2-q091",
+  "verdict": "different",
+  "reason": "Multiple meanings of गुण vs antonym of मोक्ष; different words and facts."
+ },
+ {
+  "a": "2024-02-07-s2-q091",
+  "b": "2023-06-24-s2-q081",
+  "verdict": "different",
+  "reason": "Antonym of मोक्ष vs choosing the grammatically correct sentence; unrelated."
+ },
+ {
+  "a": "2024-02-07-s2-q092",
+  "b": "2024-02-07-s2-q094",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blanks testing case marker vs verb; different sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q094",
+  "b": "2021-set3-q066",
+  "verdict": "different",
+  "reason": "Verb fill-in-the-blank vs one-word substitution (दैनिक); unrelated."
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2024-02-07-s2-q100",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items; only the topic is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2021-set1-q067",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items; only the topic is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2021-set2-q066",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items; only the topic is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q095",
+  "b": "2021-set5-q063",
+  "verdict": "different",
+  "reason": "Different Hindi vocabulary/grammar items; only the topic is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q096",
+  "b": "2024-02-07-s2-q097",
+  "verdict": "different",
+  "reason": "Same Alpine ibex passage but different questions: central theme vs which fact is not stated."
+ },
+ {
+  "a": "2024-02-07-s2-q098",
+  "b": "2024-02-07-s2-q100",
+  "verdict": "different",
+  "reason": "Different Hindi words and tasks (antonym, synonym, spelling); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q098",
+  "b": "2021-set2-q067",
+  "verdict": "different",
+  "reason": "Different Hindi words and tasks (antonym, synonym, spelling); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q100",
+  "b": "2021-set1-q067",
+  "verdict": "different",
+  "reason": "Different Hindi words and tasks (antonym, synonym, spelling); no shared fact."
+ },
+ {
+  "a": "2024-02-07-s2-q101",
+  "b": "2024-02-07-s2-q119",
+  "verdict": "different",
+  "reason": "Match-the-following on unrelated topics (AI ethics/AI categories/process states/IQ ranges)."
+ },
+ {
+  "a": "2024-02-07-s2-q101",
+  "b": "2024-02-07-s2-q180",
+  "verdict": "different",
+  "reason": "Match-the-following on unrelated topics (AI ethics/AI categories/process states/IQ ranges)."
+ },
+ {
+  "a": "2024-02-07-s2-q101",
+  "b": "2024-02-07-s2-q199",
+  "verdict": "different",
+  "reason": "Match-the-following on unrelated topics (AI ethics/AI categories/process states/IQ ranges)."
+ },
+ {
+  "a": "2024-02-07-s2-q106",
+  "b": "2024-02-07-s2-q190",
+  "verdict": "different",
+  "reason": "Commands of communication system calls vs category of wait-for-time call; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q117",
+  "b": "2024-02-07-s2-q156",
+  "verdict": "different",
+  "reason": "Python list append() vs comment symbol #; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q119",
+  "b": "2024-02-07-s2-q180",
+  "verdict": "different",
+  "reason": "Match-the-following on unrelated topics."
+ },
+ {
+  "a": "2024-02-07-s2-q119",
+  "b": "2024-02-07-s2-q199",
+  "verdict": "different",
+  "reason": "Match-the-following on unrelated topics."
+ },
+ {
+  "a": "2024-02-07-s2-q136",
+  "b": "2021-set1-q124",
+  "verdict": "paraphrase",
+  "reason": "Same question: which printer is an impact printer; answer dot-matrix in both."
+ },
+ {
+  "a": "2024-02-07-s2-q136",
+  "b": "2021-set5-q123",
+  "verdict": "paraphrase",
+  "reason": "Same question: which printer is an impact printer; answer dot-matrix in both."
+ },
+ {
+  "a": "2024-02-07-s2-q143",
+  "b": "2024-02-07-s2-q148",
+  "verdict": "different",
+  "reason": "Definition of a pandas DataFrame (2-D) vs definition of a Series (1-D); different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q162",
+  "b": "2021-set1-q158",
+  "verdict": "concept",
+  "reason": "Both test Belady anomaly: FIFO suffers it, LRU does not; asked from opposite sides."
+ },
+ {
+  "a": "2024-02-07-s2-q167",
+  "b": "2021-set2-q131",
+  "verdict": "different",
+  "reason": "Identifying XOR symbol vs other gate properties or mask operation; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q167",
+  "b": "2021-set3-q127",
+  "verdict": "different",
+  "reason": "Identifying XOR symbol vs other gate properties or mask operation; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q167",
+  "b": "2021-set5-q141",
+  "verdict": "different",
+  "reason": "Identifying XOR symbol vs other gate properties or mask operation; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q171",
+  "b": "2021-set5-q138",
+  "verdict": "concept",
+  "reason": "Both test which operations are SQL aggregate functions (COUNT, SUM, MAX vs non-aggregates)."
+ },
+ {
+  "a": "2024-02-07-s2-q177",
+  "b": "2021-set1-q144",
+  "verdict": "different",
+  "reason": "AND gate properties vs NOR gate symbol; different gates and facts."
+ },
+ {
+  "a": "2024-02-07-s2-q180",
+  "b": "2024-02-07-s2-q199",
+  "verdict": "different",
+  "reason": "OS process states matching vs IQ range classification; unrelated."
+ },
+ {
+  "a": "2024-02-07-s2-q181",
+  "b": "2024-02-07-s2-q185",
+  "verdict": "different",
+  "reason": "SQL concatenation operator || vs LIKE pattern matching; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q181",
+  "b": "2021-set4-q109",
+  "verdict": "different",
+  "reason": "SQL concatenation operator vs C++ indirection operator; unrelated."
+ },
+ {
+  "a": "2024-02-07-s2-q189",
+  "b": "2021-set3-q158",
+  "verdict": "different",
+  "reason": "Coaxial cable RG ratings vs identifying guided media; different facts."
+ },
+ {
+  "a": "2024-02-07-s2-q191",
+  "b": "2024-02-07-s2-q198",
+  "verdict": "different",
+  "reason": "Age range of pre-operational stage vs domain of Piaget stages; different facts."
+ },
+ {
+  "a": "2021-set1-q002",
+  "b": "2021-set3-q002",
+  "verdict": "concept",
+  "reason": "Both test classification of Indian instruments: Tata = stringed, Sushir = wind, Avanaddha = percussion."
+ },
+ {
+  "a": "2021-set1-q002",
+  "b": "2021-set4-q008",
+  "verdict": "different",
+  "reason": "Musical instrument classes vs types of winds; unrelated."
+ },
+ {
+  "a": "2021-set1-q002",
+  "b": "2021-set5-q002",
+  "verdict": "concept",
+  "reason": "Both test Indian instrument classes (Tata/Sushir/Avanaddha) with different example pairs."
+ },
+ {
+  "a": "2021-set1-q004",
+  "b": "2021-set4-q004",
+  "verdict": "different",
+  "reason": "Money multiplier definition vs money supply definition; different terms."
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set2-q018",
+  "verdict": "different",
+  "reason": "Different constitutional articles on different subjects."
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set3-q018",
+  "verdict": "different",
+  "reason": "Different constitutional articles on different subjects."
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set4-q018",
+  "verdict": "different",
+  "reason": "Different constitutional articles on different subjects."
+ },
+ {
+  "a": "2021-set1-q018",
+  "b": "2021-set5-q018",
+  "verdict": "different",
+  "reason": "Different constitutional articles on different subjects."
+ },
+ {
+  "a": "2021-set1-q019",
+  "b": "2021-set3-q019",
+  "verdict": "different",
+  "reason": "2018 Commonwealth Games host city vs 2018 Asian Games host country; different facts."
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set1-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set3-q021",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set3-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q021",
+  "b": "2021-set5-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q022",
+  "b": "2021-set3-q021",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q022",
+  "b": "2021-set3-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q022",
+  "b": "2021-set5-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms."
+ },
+ {
+  "a": "2021-set1-q023",
+  "b": "2021-set3-q038",
+  "verdict": "different",
+  "reason": "Odd-one-out with different word sets or figures."
+ },
+ {
+  "a": "2021-set1-q023",
+  "b": "2021-set4-q023",
+  "verdict": "different",
+  "reason": "Odd-one-out with different word sets or figures."
+ },
+ {
+  "a": "2021-set1-q023",
+  "b": "2021-set5-q023",
+  "verdict": "different",
+  "reason": "Odd-one-out with different word sets or figures."
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set2-q023",
+  "verdict": "different",
+  "reason": "Letter-group analogy/odd-pair puzzles with different rules and letters."
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set2-q025",
+  "verdict": "different",
+  "reason": "Letter-group analogy/odd-pair puzzles with different rules and letters."
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set3-q023",
+  "verdict": "different",
+  "reason": "Letter-group analogy/odd-pair puzzles with different rules and letters."
+ },
+ {
+  "a": "2021-set1-q025",
+  "b": "2021-set3-q025",
+  "verdict": "different",
+  "reason": "Letter-group analogy/odd-pair puzzles with different rules and letters."
+ },
+ {
+  "a": "2021-set1-q026",
+  "b": "2021-set2-q026",
+  "verdict": "different",
+  "reason": "Coding-decoding questions with different coding schemes."
+ },
+ {
+  "a": "2021-set1-q026",
+  "b": "2021-set4-q026",
+  "verdict": "different",
+  "reason": "Coding-decoding questions with different coding schemes."
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set2-q028",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles with different people and conditions."
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set3-q029",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles with different people and conditions."
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set4-q027",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles with different people and conditions."
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2021-set5-q029",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles with different people and conditions."
+ },
+ {
+  "a": "2021-set1-q027",
+  "b": "2023-06-24-s2-q001",
+  "verdict": "different",
+  "reason": "Different circular seating puzzles with different people and conditions."
+ },
+ {
+  "a": "2021-set1-q030",
+  "b": "2021-set1-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q030",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set2-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set2-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set3-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set3-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set4-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set4-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set5-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q031",
+  "b": "2021-set5-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions."
+ },
+ {
+  "a": "2021-set1-q033",
+  "b": "2021-set3-q050",
+  "verdict": "different",
+  "reason": "Number-interchange equation puzzle vs unrelated arithmetic problem."
+ },
+ {
+  "a": "2021-set1-q033",
+  "b": "2021-set4-q041",
+  "verdict": "different",
+  "reason": "Number-interchange equation puzzle vs unrelated arithmetic problem."
+ },
+ {
+  "a": "2021-set1-q033",
+  "b": "2021-set5-q187",
+  "verdict": "different",
+  "reason": "Number-interchange equation puzzle vs unrelated arithmetic problem."
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set1-q107",
+  "verdict": "different",
+  "reason": "Different Venn-diagram/statement questions with different data."
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set2-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram/statement questions with different data."
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set2-q119",
+  "verdict": "different",
+  "reason": "Different Venn-diagram/statement questions with different data."
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set3-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram/statement questions with different data."
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set4-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram/statement questions with different data."
+ },
+ {
+  "a": "2021-set1-q035",
+  "b": "2021-set5-q035",
+  "verdict": "different",
+  "reason": "Different Venn-diagram/statement questions with different data."
+ },
+ {
+  "a": "2021-set1-q036",
+  "b": "2021-set2-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense problems with different moves and answers."
+ },
+ {
+  "a": "2021-set1-q036",
+  "b": "2021-set4-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense problems with different moves and answers."
+ },
+ {
+  "a": "2021-set1-q036",
+  "b": "2021-set5-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense problems with different moves and answers."
+ },
+ {
+  "a": "2021-set1-q037",
+  "b": "2021-set2-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense problems with different moves and answers."
+ },
+ {
+  "a": "2021-set1-q037",
+  "b": "2021-set3-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense problems with different moves and answers."
+ },
+ {
+  "a": "2021-set1-q037",
+  "b": "2021-set4-q037",
+  "verdict": "different",
+  "reason": "Different direction-sense problems with different moves and answers."
+ },
+ {
+  "a": "2021-set1-q038",
+  "b": "2021-set5-q038",
+  "verdict": "different",
+  "reason": "Figure analogy questions with different figures."
+ },
+ {
+  "a": "2021-set1-q039",
+  "b": "2021-set4-q040",
+  "verdict": "different",
+  "reason": "Cube-folding questions with different nets and different answers."
+ },
+ {
+  "a": "2021-set1-q045",
+  "b": "2021-set3-q045",
+  "verdict": "different",
+  "reason": "Different HCF/LCM problems with different data and unknowns."
+ },
+ {
+  "a": "2021-set1-q045",
+  "b": "2021-set5-q043",
+  "verdict": "different",
+  "reason": "Different HCF/LCM problems with different data and unknowns."
+ },
+ {
+  "a": "2021-set1-q048",
+  "b": "2021-set2-q043",
+  "verdict": "different",
+  "reason": "Different number/ratio problems with different data."
+ },
+ {
+  "a": "2021-set1-q048",
+  "b": "2021-set3-q050",
+  "verdict": "different",
+  "reason": "Different number/ratio problems with different data."
+ },
+ {
+  "a": "2021-set1-q049",
+  "b": "2021-set2-q049",
+  "verdict": "different",
+  "reason": "Different profit/loss problems with different setups."
+ },
+ {
+  "a": "2021-set1-q049",
+  "b": "2021-set5-q049",
+  "verdict": "different",
+  "reason": "Different profit/loss problems with different setups."
+ },
+ {
+  "a": "2021-set1-q050",
+  "b": "2021-set1-q103",
+  "verdict": "different",
+  "reason": "Unrelated algebra/ratio/percentage problems."
+ },
+ {
+  "a": "2021-set1-q051",
+  "b": "2021-set1-q103",
+  "verdict": "different",
+  "reason": "Unrelated algebra/ratio/percentage problems."
+ },
+ {
+  "a": "2021-set1-q051",
+  "b": "2021-set2-q047",
+  "verdict": "different",
+  "reason": "Unrelated algebra/ratio/percentage problems."
+ },
+ {
+  "a": "2021-set1-q051",
+  "b": "2021-set2-q050",
+  "verdict": "different",
+  "reason": "Unrelated algebra/ratio/percentage problems."
+ },
+ {
+  "a": "2021-set1-q052",
+  "b": "2021-set3-q052",
+  "verdict": "different",
+  "reason": "Different simple-interest problems with different unknowns."
+ },
+ {
+  "a": "2021-set1-q052",
+  "b": "2021-set5-q052",
+  "verdict": "different",
+  "reason": "Different simple-interest problems with different unknowns."
+ }
+]

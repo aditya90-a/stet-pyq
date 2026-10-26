@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2023-06-24-s2-q093",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "निम्नलिखित में से कौन सा शब्द ‘थकान’ का पर्याय नहीं है?",
+   "options": [
+    "क्लान्ति",
+    "आश्विन",
+    "श्रान्ति",
+    "परिश्रांति"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "क्लािन्त→क्लान्ति; आिश्वन→आश्विन; श्रािन्त→श्रान्ति; पिरश्रांित→परिश्रांति (matra order fixed)"
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "पर्यायवाची",
+  "concept": "Hindi: पर्यायवाची of थकान",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "‘थकान’ का अर्थ है थक जाने की अवस्था (श्रम के बाद की शिथिलता)। इसके पर्यायवाची शब्द हैं: **क्लान्ति**, **श्रान्ति**, **परिश्रांति**, शिथिलता, थकावट।\n\n**आश्विन** हिन्दू पंचांग का एक महीना (क्वार) है, जो भाद्रपद के बाद और कार्तिक से पहले आता है। इसका थकान से कोई संबंध नहीं है, इसलिए यह ‘थकान’ का पर्याय नहीं है।\n\nअन्य विकल्प क्यों नहीं:\n- क्लान्ति: थकावट, शिथिलता\n- श्रान्ति: श्रम से उत्पन्न थकान\n- परिश्रांति: अत्यधिक थकान\n\nअतः सही उत्तर विकल्प 2 (आश्विन) है।"
+ },
+ {
+  "id": "2023-06-24-s2-q094",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "दिए गए शब्दों में से शुद्ध विलोमार्थी-युग्म की पहचान करें।",
+   "options": [
+    "शानदार - शर्मनाक",
+    "शुभ्र – श्वेत",
+    "व्याप्त – संकुचित",
+    "शम्बर – पार्वती"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "शमर्नाक→शर्मनाक; संकुिचत→संकुचित; पावर्ती→पार्वती"
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "विलोम",
+  "concept": "Hindi: विलोम of शानदार",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "विलोमार्थी-युग्म वह जोड़ा है जिसके दोनों शब्द एक-दूसरे के विपरीत अर्थ वाले हों।\n\n- **शानदार – शर्मनाक**: शानदार (गौरवपूर्ण, प्रशंसनीय) और शर्मनाक (लज्जाजनक) परस्पर विपरीत अर्थ वाले हैं, इसलिए यह शुद्ध विलोम-युग्म है।\n- शुभ्र – श्वेत: दोनों का अर्थ ‘सफ़ेद’ है, यह पर्यायवाची युग्म है।\n- व्याप्त – संकुचित: व्याप्त (फैला हुआ) का प्रचलित शुद्ध विलोम ‘अव्याप्त’ है; संकुचित का शुद्ध विलोम ‘विस्तृत/प्रसारित’ माना जाता है, अतः यह मानक युग्म नहीं है।\n- शम्बर – पार्वती: इन दोनों शब्दों में विलोम संबंध नहीं है।\n\nअतः उत्तर विकल्प 1 है।"
+ },
+ {
+  "id": "2023-06-24-s2-q095",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "उचित तद्भव शब्द का चयन करके निम्न वाक्य पूर्ण करें।\n‘______ आजकल हर जगह उपलब्ध है।",
+   "options": [
+    "गोधूम",
+    "खेत",
+    "नारिकेल",
+    "गेहूँ"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "Opening quote ‘ before the blank has no closing quote in the paper.",
+   "changes": "नािरकेल→नारिकेल"
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "तत्सम-तद्भव-देशज-विदेशज",
+  "concept": "Hindi: तद्भव of गोधूम (गेहूँ)",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "तद्भव शब्द वे हैं जो संस्कृत (तत्सम) शब्दों से रूप बदलकर हिन्दी में आए हैं।\n\n- **गेहूँ** संस्कृत ‘गोधूम’ का तद्भव रूप है, और वाक्य ‘गेहूँ आजकल हर जगह उपलब्ध है’ अर्थ की दृष्टि से भी पूरी तरह उचित है।\n- गोधूम: तत्सम शब्द है।\n- नारिकेल: तत्सम है (तद्भव ‘नारियल’)।\n- खेत: यह भी ‘क्षेत्र’ का तद्भव है, पर ‘खेत आजकल हर जगह उपलब्ध है’ अर्थ की दृष्टि से उचित वाक्य नहीं बनता।\n\nइसलिए तद्भव होने और वाक्य के अर्थ दोनों की कसौटी पर सही उत्तर विकल्प 4 (गेहूँ) है।"
+ },
+ {
+  "id": "2023-06-24-s2-q096",
+  "transcription": {
+   "verdict": "match",
+   "text": "गद्यांश में प्रयुक्त शब्द ‘सम्मान’ के विलोम-युग्म का चयन कीजिये।",
+   "options": [
+    "आदर",
+    "अपमान",
+    "निरादर",
+    "बेइज्जती"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "विलोम",
+  "concept": "Hindi: विलोम of सम्मान",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "‘सम्मान’ का अर्थ है आदर, इज्ज़त। इसका मानक विलोम शब्द **अपमान** है (सम्मान ↔ अपमान, ‘मान’ मूल पर आधारित युग्म)।\n\nअन्य विकल्प क्यों नहीं:\n- आदर: यह ‘सम्मान’ का पर्यायवाची है, विलोम नहीं।\n- निरादर: यह ‘आदर’ का विलोम है।\n- बेइज्जती: यह ‘इज्ज़त’ का विलोम है (उर्दू मूल)।\n\nयद्यपि निरादर और बेइज्जती का अर्थ भी अपमान के निकट है, पर ‘सम्मान’ का शुद्ध विलोम-युग्म ‘सम्मान – अपमान’ ही माना जाता है। अतः सही उत्तर विकल्प 2 है।"
+ },
+ {
+  "id": "2023-06-24-s2-q097",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित में से कौन-सा शब्द ‘केवल’ का पर्यायवाची नहीं है?",
+   "options": [
+    "भी",
+    "एकमात्र",
+    "निरा",
+    "सिर्फ"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "पर्यायवाची",
+  "concept": "Hindi: पर्यायवाची of केवल",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "‘केवल’ का अर्थ है मात्र, सिर्फ़, एकमात्र, निरा, अकेला। यह किसी एक को सीमित करने (अपवर्जन) का भाव देता है।\n\n**भी** समावेशी अव्यय है, जिसका अर्थ है ‘इसके अतिरिक्त/साथ में’। उदाहरण: ‘राम भी आया’ (दूसरों के साथ राम आया), जबकि ‘केवल राम आया’ (राम के अलावा कोई नहीं)। दोनों के अर्थ लगभग विपरीत हैं, इसलिए ‘भी’ केवल का पर्यायवाची नहीं है।\n\nअन्य विकल्प:\n- एकमात्र: केवल एक\n- निरा: केवल, बिल्कुल (जैसे ‘निरा मूर्ख’)\n- सिर्फ: केवल\n\nअतः सही उत्तर विकल्प 1 (भी) है।"
+ },
+ {
+  "id": "2023-06-24-s2-q098",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "निम्नलिखित में से किस वाक्य में ‘क्षणिक’ शब्द का उचित प्रयोग किया गया है?",
+   "options": [
+    "अपनी क्षणिक भूख के लिए तुमने सारी रोटियाँ खा लीं !",
+    "मेरे घर बहुत से क्षणिक अतिथि आये हैं।",
+    "यह विपत्ति तो क्षणिक है, चली जायेगी।",
+    "आज हमारे समाज में क्षणिक उत्सव है।"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "क्षिणक अितिथ→क्षणिक अतिथि; क्षिणक उत्सव→क्षणिक उत्सव"
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "वाक्य शुद्धि",
+  "concept": "Hindi: correct usage of क्षणिक",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "‘क्षणिक’ का अर्थ है क्षण भर रहने वाला, थोड़े समय का, अस्थायी।\n\n**‘यह विपत्ति तो क्षणिक है, चली जायेगी।’** में विपत्ति के थोड़े समय के लिए होने और फिर चले जाने का भाव है, इसलिए यहाँ ‘क्षणिक’ का प्रयोग अर्थ के अनुरूप और उचित है।\n\nअन्य वाक्य क्यों नहीं:\n- ‘क्षणिक भूख’ के लिए ‘सारी रोटियाँ खा लेना’ अर्थ की दृष्टि से असंगत है।\n- ‘क्षणिक अतिथि’ सामान्य प्रयोग नहीं है; अतिथि के लिए ‘अल्पकालिक’ या ‘कुछ समय के लिए आए’ जैसा प्रयोग होगा।\n- ‘क्षणिक उत्सव’ भी असंगत है, क्योंकि उत्सव क्षण भर का नहीं होता।\n\nअतः सही उत्तर विकल्प 3 है।"
+ },
+ {
+  "id": "2023-06-24-s2-q099",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "उपर्युक्त गद्यांश के लिए उचित शीर्षक का चयन करें।",
+   "options": [
+    "स्वछंद उत्सव",
+    "निरुद्देश्य उत्सव",
+    "कार्य-भार और उत्सव",
+    "उत्सव का महत्त्व"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "कायर्-भार→कार्य-भार"
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: choosing a title",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "गद्यांश (प्रश्न 96–100) का केंद्रीय विषय यह है कि उत्सव का एकमात्र उद्देश्य आनंद प्राप्ति है; आवश्यकता-पूर्ति से मिलने वाला सुख क्षणिक होता है, जबकि उत्सव में हम आवश्यकताओं को भूलकर जीवन का सच्चा आनंद पाते हैं। यानी पूरा गद्यांश मनुष्य-जीवन में उत्सव की भूमिका और उसके महत्त्व को समझाता है।\n\nइसलिए सबसे उपयुक्त शीर्षक **‘उत्सव का महत्त्व’** है।\n\nअन्य विकल्प क्यों नहीं:\n- स्वछंद उत्सव: स्वच्छंदता गद्यांश का केवल एक अंश है, मुख्य विषय नहीं।\n- निरुद्देश्य उत्सव: गद्यांश कहता है कि उत्सव का उद्देश्य आनंद है, अतः यह गलत है।\n- कार्य-भार और उत्सव: कर्तव्य-भार की उपेक्षा का उल्लेख एक गौण बात है।"
+ },
+ {
+  "id": "2023-06-24-s2-q100",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "गद्यांश में जीवन का कौन-सा गहन तथ्य छुपा हुआ है?",
+   "options": [
+    "उत्सव में किसी अभाव का अनुभव न होने से विशुद्ध आनंद की प्राप्ति होती है और हम सही अर्थों में चिन्ता-मुक्त और स्वच्छंद होकर, कुछ समय के लिए, जीवन का रसास्वादन कर पाते हैं, किन्तु यह आनंद वास्तविक और स्थायी होता है मन को नयी शक्ति देता है।",
+    "उत्सव में हम किसी बात की आवश्यकता का अनुभव नहीं करते जिससे सब अभाव ख़त्म हो जाते हैं।",
+    "मनुष्य-जीवन ऐसा है कि वह किसी भी अवस्था में यह अनुभव नहीं कर सकता कि अब उसके लिए कोई आवश्यकता नहीं रह गई है इसीलिए आवश्यकता की पूर्ति होने पर उसे सुख होता है।",
+    "मनुष्य अपनी आवश्यकता की पूर्ति के लिए आजीवन प्रयत्न करता रहता है, किन्तु सुख की प्राप्ति नहीं कर पाता। आवश्यकताओं की पूर्ति और आनंद का एकमात्र साधन उत्सव हैं।"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "The page also prints the shared comprehension passage for Q96-100 (on festivals: their only aim is joy; need-fulfilment gives only momentary pleasure, while in a festival we forget our needs and feel true joy).",
+   "printedErrors": "",
+   "changes": "इसीिलए→इसीलिए; पूितर्→पूर्ति (options 3 and 4); removed the Q96-100 passage and metadata that had leaked into option 4; joined wrapped lines"
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: central idea inference",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "Option 1 is the intended answer, but its claim that the joy is ‘स्थायी’ (lasting) is not stated in the passage and sits oddly with ‘कुछ समय के लिए’ in the same sentence.",
+  "explanation": "गद्यांश का गहन तथ्य यह है कि आवश्यकता अभाव को सूचित करती है, और आवश्यकता-पूर्ति से मिलने वाला सुख क्षणिक होता है क्योंकि तुरंत नई आवश्यकता उपस्थित हो जाती है; जबकि उत्सव में हम किसी आवश्यकता का अनुभव नहीं करते, इसलिए वह ‘जीवन का आनंद’ है, ‘सच्चा आनंद’ है। विकल्प 1 इसी विचार को व्यक्त करता है: अभाव का अनुभव न होने से विशुद्ध आनंद और चिंता-मुक्त होकर जीवन का रसास्वादन।\n\nअन्य विकल्प क्यों नहीं:\n- विकल्प 2: गद्यांश यह नहीं कहता कि सब अभाव ख़त्म हो जाते हैं; केवल उनका अनुभव नहीं होता।\n- विकल्प 3: गद्यांश के वाक्यों को गलत कारण-संबंध से जोड़ता है; गद्यांश का निष्कर्ष है कि ऐसा सुख क्षणिक होता है।\n- विकल्प 4: गद्यांश कहता है कि आवश्यकता-पूर्ति पर सुख होता है, अतः ‘सुख नहीं पाता’ गलत है।\n\nध्यान दें: विकल्प 1 में ‘स्थायी’ शब्द गद्यांश में सीधे नहीं कहा गया है, फिर भी चारों में यही सबसे उपयुक्त है।"
+ },
+ {
+  "id": "2023-06-24-s2-q101",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the number of terms in the given expression?\n(x^2 + 2/x)^11",
+   "options": [
+    "12",
+    "22",
+    "11",
+    "24"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Expression garbled as '11 (x=+' → (x^2 + 2/x)^11"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Probability",
+  "concept": "Number of terms in binomial expansion",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "For a binomial raised to a power n, the expansion of (a + b)^n has **n + 1** terms, given by the general term T(r+1) = ⁿCᵣ · a^(n−r) · b^r for r = 0, 1, …, n.\n\nHere a = x², b = 2/x and n = 11, so the number of terms is 11 + 1 = **12**.\n\nThe terms do not merge: the power of x in the general term is 2(11 − r) − r = 22 − 3r, which is different for every r from 0 to 11, so no two terms combine.\n\nWhy not the others:\n- 11 is the exponent, not the number of terms.\n- 22 and 24 come from doubling the exponent, which has no basis."
+ },
+ {
+  "id": "2023-06-24-s2-q102",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "An unhappy employee because of ______ processes in a business can negatively affect the corporate image of the business and make the business less successful.",
+   "options": [
+    "poor communication",
+    "frequent communication",
+    "instant communication",
+    "easy communication"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the blank after 'because of'; joined wrapped lines"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business communication & organisation",
+  "concept": "Effect of poor internal communication",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Internal communication shapes how employees feel about the organisation. When communication processes are **poor** (unclear instructions, no feedback, information not shared, grievances not heard), employees become confused, demotivated and unhappy. Unhappy employees serve customers badly and speak negatively about the firm, which damages the corporate image and reduces business success.\n\nWhy not the others:\n- Frequent, instant and easy communication are positive qualities of a communication process; they would tend to make employees better informed and more satisfied, not unhappy.\n\nOnly 'poor communication' fits a cause of unhappiness, so option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q103",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Haptic technology is used to provide ______ feedback to a user.",
+   "options": [
+    "innovative",
+    "olfactory",
+    "tactile",
+    "visual"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Hardware, input/output devices",
+  "concept": "Haptic technology gives tactile feedback",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Haptic** comes from the Greek word for touch. Haptic technology recreates the sense of touch by applying forces, vibrations or motions to the user, i.e. it provides **tactile** (touch-based) feedback. Examples: a phone vibrating when a key is pressed, force-feedback game controllers and joysticks, and touch feedback in surgical simulators and VR gloves.\n\nWhy not the others:\n- Olfactory relates to smell.\n- Visual relates to sight (displays).\n- Innovative is a general adjective, not a type of sensory feedback."
+ },
+ {
+  "id": "2023-06-24-s2-q104",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "The process of organising the contents of each file into contiguous regions and creating larger areas of free space on the hard disk is called ______ and ______ is the process of making computer files take up less space on your computer by reducing the size of the file.",
+   "options": [
+    "debugging; assembly",
+    "defragmentation; compression",
+    "compression; formatting",
+    "defragmentation; mirroring"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the two blanks; joined wrapped lines"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Software types & utilities",
+  "concept": "Defragmentation and file compression utilities",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Two disk/file utilities are described:\n\n- **Defragmentation**: over time a file's pieces get scattered across non-adjacent clusters. A defragmenter rearranges each file into contiguous blocks and consolidates free space into larger areas, improving read speed on hard disks.\n- **Compression**: reduces the size of a file (e.g. ZIP, RAR) so it takes less storage space and transfers faster.\n\nSo the blanks are defragmentation; compression.\n\nWhy not the others:\n- Debugging removes program errors; assembly converts assembly code to machine code.\n- Formatting prepares a disk for use and erases data.\n- Mirroring (RAID 1) keeps duplicate copies of data on two disks; it increases, not reduces, space used."
+ },
+ {
+  "id": "2023-06-24-s2-q105",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Assembly languages are machine dependent.\nii) A compiler is a program which produces a machine level program from the specifications of a high-level language.\niii) An interpreter translates and executes each program statement, one at a time.\niv) ‘BASIC’ language is an interactive programming language.",
+   "options": [
+    "i-True, ii-True, iii-True, iv-True",
+    "i-False, ii-True, iii-True, iv-True",
+    "i-True, ii-True, iii-False, iv-True",
+    "i-True, ii-False, iii-True, iv-True"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "it)→ii); üi)→iii); il→ii; ili→iii; 1-True→i-True"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Software types & utilities",
+  "concept": "Assembler, compiler, interpreter characteristics",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement:\n- i) **True**. Assembly language uses mnemonics for a specific processor's instruction set, so it is machine dependent.\n- ii) **True**. A compiler translates a whole high-level-language program into a machine-level (object) program.\n- iii) **True**. An interpreter translates and executes the program one statement at a time, stopping at the first error.\n- iv) **True**. BASIC (Beginner's All-purpose Symbolic Instruction Code) was designed at Dartmouth for interactive, time-sharing use, so it is an interactive language.\n\nAll four are true, so option 1 is correct. Options 2, 3 and 4 each mark one true statement as false."
+ },
+ {
+  "id": "2023-06-24-s2-q106",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following database management systems is developed by Microsoft?",
+   "options": [
+    "Oracle",
+    "SQL Server",
+    "MySQL",
+    "PostgreSQL"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "DBMS & SQL",
+  "subtopic": "DBMS concepts & architecture",
+  "concept": "Microsoft SQL Server",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Microsoft SQL Server** is the relational database management system developed and sold by Microsoft; it uses T-SQL (Transact-SQL) as its SQL dialect.\n\nWhy not the others:\n- Oracle Database is developed by Oracle Corporation.\n- MySQL is an open-source RDBMS originally developed by MySQL AB and now owned by Oracle.\n- PostgreSQL is an open-source object-relational DBMS developed by the PostgreSQL Global Development Group (it began at the University of California, Berkeley).\n\nSo option 2 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q107",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "The given diagram expresses ______.",
+   "options": [
+    "Parallel-In Parallel-Out Shift Register",
+    "Serial-In Parallel-Out Shift Register",
+    "Serial-In Serial-Out Shift Register",
+    "Parallel-In Serial-Out Shift Register"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "Four D flip-flops share a common clock; each D input comes from its own line of a common INPUTS bus and each Q goes to its own line of a common OUTPUTS bus, with no Q-to-D connection between flip-flops.",
+   "printedErrors": "",
+   "changes": "Removed diagram labels from the text; restored the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Flip-flops, registers & counters",
+  "concept": "PIPO shift register identification",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Read the diagram's connections:\n- **Inputs**: each of the four D flip-flops receives its D input directly from a separate input line, so all 4 bits are loaded simultaneously, i.e. parallel in.\n- **Outputs**: each flip-flop's Q goes to a separate output line, so all 4 bits are available at the same time, i.e. parallel out.\n- The flip-flops are not chained (no Q of one feeding D of the next), and all share one clock.\n\nThis is a **Parallel-In Parallel-Out (PIPO)** register: data is loaded and read in one clock pulse.\n\nWhy not the others:\n- SIPO/SISO need a single serial input feeding the first flip-flop and Q→D chaining.\n- PISO needs a single serial output from the last flip-flop."
+ },
+ {
+  "id": "2023-06-24-s2-q108",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is NOT a front-end technology?",
+   "options": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "PL/SQL"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "PL/SOL→PL/SQL"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": "PL/SQL is a back-end database language",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Front-end (client-side) technologies run in the user's browser and build what the user sees and interacts with:\n- **HTML** gives the page structure,\n- **CSS** gives the presentation and layout,\n- **JavaScript** adds interactivity and behaviour.\n\n**PL/SQL** (Procedural Language/SQL) is Oracle's procedural extension of SQL. It is used to write stored procedures, functions and triggers that run inside the Oracle database server, so it is a back-end (database) technology, not a front-end one.\n\nTherefore option 4 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q109",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following are the advantages of using the NEFT system?\nAdvantages:\ni) The transaction has legal backing.\nii) Round the clock availability on all days of the year.\niii) Near-real-time funds transfer to the beneficiary account and settlement in a secure manner.\niv) Positive confirmation to the remitter by SMS/e-mail on credit to the beneficiary account.",
+   "options": [
+    "i, ii, iii and iv only",
+    "i, ii and iii only",
+    "ii, iii and iv only",
+    "i and ii only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Third statement ii)→iii); ili→iii; 'i and i only'→'i and ii only'"
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "E-commerce models & payments",
+  "concept": "Advantages of NEFT",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "NEFT (National Electronic Funds Transfer) is the RBI-run electronic fund transfer system. The RBI's NEFT FAQs list its advantages, which include:\n- i) The transaction has **legal backing** (it runs under the Payment and Settlement Systems Act and RBI regulations).\n- ii) **Round-the-clock availability** on all days of the year (24×7 NEFT since December 2019).\n- iii) **Near-real-time** transfer to the beneficiary and secure settlement (settled in half-hourly batches).\n- iv) **Positive confirmation** to the remitter by SMS/e-mail once the beneficiary account is credited.\n\nAll four statements are advantages, so option 1 (i, ii, iii and iv) is correct. The other options each leave out a valid advantage."
+ },
+ {
+  "id": "2023-06-24-s2-q110",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A/An ______ is a user-defined datatype which has data members and member functions.",
+   "options": [
+    "class",
+    "object",
+    "package",
+    "method"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the blank; joined lines"
+  },
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "subtopic": "Classes, objects & constructors",
+  "concept": "Class as user-defined data type",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A **class** is a user-defined data type that bundles **data members** (attributes/variables) and **member functions** (methods) that operate on them. It acts as a blueprint, e.g.\n`class Student { int roll; void show(); };`\n\nWhy not the others:\n- An object is an instance of a class (a variable of the class type), not the data type itself.\n- A package (Java) is a namespace that groups related classes and interfaces.\n- A method is a single member function inside a class.\n\nSo option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q111",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory?",
+   "options": [
+    "Virtual memory",
+    "Secondary memory",
+    "CPU register memory",
+    "CPU buffer memory"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "Memory management & paging",
+  "concept": "Virtual memory definition",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Virtual memory** is a storage allocation scheme in which secondary memory (disk) can be addressed as though it were part of main memory. Programs use virtual (logical) addresses; the OS and the MMU translate them to physical addresses, and pages not currently in RAM are kept on disk and brought in on demand (demand paging). This lets programs larger than physical RAM run and allows more processes in memory.\n\nWhy not the others:\n- Secondary memory is the disk itself, not the scheme that maps it into the address space.\n- CPU registers and buffers are small, fast storage inside or near the CPU and have nothing to do with addressing disk as main memory."
+ },
+ {
+  "id": "2023-06-24-s2-q112",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A ______ is the subset of a process and is also known as the lightweight process.",
+   "options": [
+    "Thread",
+    "Program",
+    "Library",
+    "Process"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Moved 'A' to the start and restored the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "Processes, threads & scheduling",
+  "concept": "Thread as lightweight process",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A **thread** is the smallest unit of execution within a process. A process can contain several threads, which share the process's code, data, open files and address space, while each thread has its own program counter, registers and stack. Because creating and switching threads needs far less overhead than creating or switching processes, a thread is called a **lightweight process (LWP)**.\n\nWhy not the others:\n- A program is passive code stored on disk.\n- A library is a collection of reusable routines.\n- A process is the heavyweight unit that contains threads, not a subset of itself."
+ },
+ {
+  "id": "2023-06-24-s2-q113",
+  "transcription": {
+   "verdict": "match",
+   "text": "Match the column Functions with the column descriptions.\nFunctions | Descriptions\na) Multiprocessing | i) Two or more users can work with programs and share peripheral devices, such as printers, at the same time.\nb) Multithreading | ii) The computer can have two or more central processing units (CPUs) that programs share.\nc) Multiuser | iii) A program can be broken into smaller parts that can be loaded as needed by the operating system.",
+   "options": [
+    "a-ii, b-iii, c-i",
+    "a-iii, b-ii, c-i",
+    "a-ii, b-i, c-iii",
+    "a-i, b-iii, c-ii"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Table laid out as rows"
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "OS types & functions",
+  "concept": "Multiprocessing, multithreading, multiuser OS features",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Match each OS feature with its meaning:\n- **a) Multiprocessing → ii)**: the computer has two or more CPUs that programs share, so instructions can run truly in parallel.\n- **b) Multithreading → iii)**: a program is divided into smaller parts (threads) that the operating system can load and run as needed.\n- **c) Multiuser → i)**: two or more users can work with programs and share peripherals such as printers at the same time.\n\nSo the matching is a-ii, b-iii, c-i, which is option 1.\n\nThe other options swap these definitions; for example 'two or more CPUs' can only describe multiprocessing, which rules out options 2 and 4."
+ },
+ {
+  "id": "2023-06-24-s2-q114",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following are responsibilities of a Business Economist?\nResponsibilities:\ni) Make a reasonable profit on capital employed.\nii) Make successful forecasts by making in-depth study of the internal and external factors.\niii) Inform the management of all the economic trends.\niv) Establish and maintain contacts with individuals and data sources.\nv) Test and analyse the software.",
+   "options": [
+    "ii, iii and iv only",
+    "i, ii, and v only",
+    "i, ii, iii and iv only",
+    "i, iii and v only"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il→ii; Iest→Test; ili→iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business economics",
+  "concept": "Responsibilities of a business economist",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Standard managerial-economics texts list these responsibilities of a business (managerial) economist:\n- **i)** help the firm earn a reasonable profit on the capital employed (his basic obligation);\n- **ii)** make successful forecasts through in-depth study of internal and external factors affecting the business;\n- **iii)** keep management informed of economic trends, both favourable and unfavourable;\n- **iv)** establish and maintain contacts with individuals and data sources to get information quickly.\n\n**v) Testing and analysing software** is the job of a software tester or quality analyst, not an economist.\n\nSo i, ii, iii and iv are responsibilities: option 3. Option 1 leaves out the profit responsibility, and options 2 and 4 include the software-testing item."
+ },
+ {
+  "id": "2023-06-24-s2-q115",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) VB.NET is an object-oriented programming language implemented in the .NET Framework.\nii) VB.NET is subset of Visual basic 6.0.\niii) .NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-False, iii-True",
+    "i-False, ii-False, iii-True"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "'the NET Framework'→'the .NET Framework'; third statement 'i) NET'→'iii) .NET'; 1/il/ili→i/ii/iii; Irue→True"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": "VB.NET and .NET platform facts",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. VB.NET is a fully object-oriented language (classes, inheritance, polymorphism) that runs on the .NET Framework/CLR.\n- ii) **False**. VB.NET is not a subset of Visual Basic 6.0. It is a redesigned successor built for .NET; it is not backward-compatible with VB6, and VB6 code needs migration to run in VB.NET.\n- iii) **True**. Modern .NET (formerly .NET Core) is described by Microsoft as a free, cross-platform, open-source developer platform for building many kinds of applications (web, desktop, mobile, cloud).\n\nSo the pattern is i-True, ii-False, iii-True, which is option 3."
+ },
+ {
+  "id": "2023-06-24-s2-q116",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following is a barrier to e-commerce relevant to micro-environmental issues (external to the organisation)?",
+   "options": [
+    "Internet infrastructure",
+    "Culture",
+    "Business models",
+    "Lack of experts"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "E-commerce models & payments",
+  "concept": "External barrier to e-commerce: infrastructure",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "E-commerce adoption barriers are often grouped into those **internal** to the organisation and those in its external environment. The question asks for one that is **external to the organisation**.\n\n**Internet infrastructure** (network coverage, bandwidth, reliability, cost of access) is outside the firm's control: it depends on telecom providers, government and the market. So it is an external, environmental barrier.\n\nWhy not the others:\n- Culture (organisational resistance to change), the firm's business models, and lack of in-house experts/skills are all internal, organisational issues that the firm itself can address.\n\nHence option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q117",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Mobile Agents are also called ______ agents. They are of two types: Mobile Agents with pre-defined path and Mobile Agents with undefined path.",
+   "options": [
+    "transportable",
+    "migrator",
+    "connector",
+    "linker"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Reordered OCR-scrambled sentence and restored the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Mobile Computing & Emerging Tech",
+  "subtopic": "Mobile & wireless computing",
+  "concept": "Mobile agents called transportable agents",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A **mobile agent** is a software program that can move (migrate) itself, together with its code, data and execution state, from one host to another in a network and continue running there. Because the agent is transported across the network, mobile agents are also called **transportable agents**.\n\nThey are commonly classified by their route: agents with a **pre-defined path** (itinerary fixed in advance) and agents with an **undefined path** (they decide the next host dynamically).\n\nWhy not the others: 'migrator', 'connector' and 'linker' are not standard names for mobile agents; 'migration' describes what an agent does, but the established alternative name is transportable agent."
+ }
+]

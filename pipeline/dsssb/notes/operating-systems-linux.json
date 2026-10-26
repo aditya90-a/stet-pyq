@@ -1,0 +1,623 @@
+{
+ "slug": "operating-systems-linux",
+ "subject": "Computer Science",
+ "topic": "Operating Systems & Linux",
+ "titleHi": "ऑपरेटिंग सिस्टम एवं लिनक्स",
+ "summary": "Covers OS types and functions, processes and threads, CPU scheduling, synchronisation and deadlock, memory management and virtual memory, file systems, disk scheduling and everyday Linux commands. DSSSB papers ask both direct definition questions (spooling, dispatcher, thrashing, Belady's anomaly, /etc) and short numericals on page faults, scheduling and deadlock-free resource counts.",
+ "sections": [
+  {
+   "heading": "What an operating system does",
+   "level": "basic",
+   "subtopic": "OS types & functions",
+   "body": "An **operating system (OS)** is system software that interfaces between user and hardware and manages all resources. It is a **resource allocator** (CPU, memory, devices) and a **control program** (prevents errors and misuse).\n**Main functions:**\n- **Process management**: create/delete processes, scheduling, synchronisation, deadlock handling.\n- **Memory management**: track which part of memory is used by whom, allocate and free memory.\n- **File management**: create/delete files and directories, map files to disk.\n- **Device (I/O) management**: drivers, buffering, caching and **spooling**.\n- **Security and protection**, user interface (CLI/GUI), accounting and error detection.\n**Spooling** (Simultaneous Peripheral Operations On-Line) puts output for a slow device such as a printer on a reserved disk area (spool) so the CPU can continue; the printer reads it later. **Buffering** holds data temporarily while it moves between two devices of different speeds.\n**Booting**: firmware (BIOS/UEFI) runs the **bootstrap loader**, which loads the kernel.",
+   "table": {
+    "columns": [
+     "OS type",
+     "Key idea",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Batch",
+      "Similar jobs grouped and run without user interaction",
+      "Early IBM mainframe systems"
+     ],
+     [
+      "Multiprogramming",
+      "Several jobs in memory; CPU switches when a job waits for I/O",
+      "Increases CPU utilisation"
+     ],
+     [
+      "Time-sharing / multitasking",
+      "CPU time sliced among users; fast response",
+      "UNIX, Linux"
+     ],
+     [
+      "Multiprocessor (parallel)",
+      "Two or more CPUs share memory and clock (tightly coupled)",
+      "SMP servers"
+     ],
+     [
+      "Distributed",
+      "Separate computers with own memory linked by a network (loosely coupled)",
+      "Cluster systems"
+     ],
+     [
+      "Real-time (hard/soft)",
+      "Results must meet deadlines; hard RTOS never misses one",
+      "VxWorks, QNX"
+     ],
+     [
+      "Network OS",
+      "Provides file/printer sharing over a LAN",
+      "Windows Server, Novell NetWare"
+     ],
+     [
+      "Mobile / embedded",
+      "Small footprint, power aware",
+      "Android, iOS"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Kernel, system calls and dual mode",
+   "level": "basic",
+   "subtopic": "OS types & functions",
+   "body": "The **kernel** is the core, memory-resident part of the OS. Programs request its services through **system calls** (e.g. `fork()`, `exec()`, `open()`, `read()`, `write()` in UNIX).\n**Dual-mode operation**: a **mode bit** distinguishes kernel (supervisor) mode = 0 from user mode = 1. **Privileged instructions** (I/O, setting the timer, disabling interrupts, changing the mode bit) execute only in kernel mode; a user program that tries one causes a trap. A system call switches user → kernel mode.\n**Kernel designs:**\n- **Monolithic**: the whole OS runs in kernel space; fast but large (Linux, traditional UNIX, MS-DOS). Linux also supports **loadable kernel modules**.\n- **Microkernel**: only minimal services (IPC, basic scheduling, low-level memory) in the kernel, the rest as user-level servers; more reliable but slower (Mach, QNX, MINIX 3).\n- **Hybrid**: Windows NT family, macOS. Exam keys sometimes class Windows as monolithic because most of its services run in kernel space.\nAn **interrupt** makes the CPU suspend current work and run an **interrupt service routine**; disabling selected interrupts is **masking**."
+  },
+  {
+   "heading": "Processes, PCB and process states",
+   "level": "basic",
+   "subtopic": "Processes, threads & scheduling",
+   "body": "A **process** is a program in execution (active); a program is a passive file. In memory a process has text, data, heap and stack.\nThe OS keeps one **Process Control Block (PCB)** per process: process ID, state, program counter, CPU registers, scheduling, memory-management, accounting and I/O status information.\n**Context switch**: saving the running process's state in its PCB and loading the next one's. It is **pure overhead**.\n**Schedulers:**\n- **Long-term (job) scheduler**: chooses which jobs enter memory; controls the **degree of multiprogramming**.\n- **Short-term (CPU) scheduler**: picks the next ready process; runs very often.\n- **Medium-term scheduler**: swaps processes out and back in.\nThe **dispatcher** actually gives the CPU to the process chosen by the short-term scheduler; the time it takes is **dispatch latency**.\n`fork()` creates a child; a finished child not yet reaped by the parent's `wait()` is a **zombie**; a child whose parent has ended is an **orphan**.",
+   "diagram": {
+    "title": "Five-state process model",
+    "ascii": "  NEW --admitted--> READY <------ I/O or event done ---+\n                    |   ^                              |\n          scheduler |   | interrupt                    |\n           dispatch |   | (time slice over)            |\n                    v   |                              |\n                   RUNNING --- I/O or event wait ---> WAITING\n                    |\n                    | exit\n                    v\n                TERMINATED"
+   }
+  },
+  {
+   "heading": "Threads and multithreading models",
+   "level": "intermediate",
+   "subtopic": "Processes, threads & scheduling",
+   "body": "A **thread** is the basic unit of CPU utilisation (a lightweight process). Each thread has its own **thread ID, program counter, register set and stack**; threads of the same process **share** code, data, heap and open files. The OS keeps a **Thread Control Block (TCB)** for each thread.\nA process encapsulates **protection** (its own address space); threads encapsulate **concurrency** within a process. Threads are private to their process and are not visible to other processes.\n**Benefits**: responsiveness, resource sharing, economy (cheaper creation and switching), multicore scalability.\n**User-level threads** are managed by a library without kernel support (fast, but one blocking call blocks the whole process); **kernel-level threads** are managed by the OS and can run in parallel.\n**Multithreading models:**\n- **Many-to-one**: many user threads → one kernel thread; no parallelism.\n- **One-to-one**: each user thread → its own kernel thread (Linux, Windows); more overhead.\n- **Many-to-many**: many user threads multiplexed onto a smaller or equal number of kernel threads."
+  },
+  {
+   "heading": "CPU scheduling criteria and algorithms",
+   "level": "intermediate",
+   "subtopic": "Processes, threads & scheduling",
+   "body": "**Criteria**: maximise CPU utilisation and **throughput** (processes completed per unit time); minimise **turnaround time**, **waiting time** and **response time**.\n**Non-preemptive** scheduling keeps the CPU until the process finishes or blocks; **preemptive** scheduling may take the CPU away (on a timer interrupt or when a higher-priority/shorter job arrives).\n- **FCFS** suffers the **convoy effect**: short jobs wait behind a long one.\n- **SJF** gives the **minimum average waiting time** (provably optimal) but needs the next burst length, which can only be estimated (exponential averaging τₙ₊₁ = α·tₙ + (1 − α)·τₙ). Its preemptive form is **SRTF** (Shortest Remaining Time First).\n- **Priority** scheduling can cause **starvation** (indefinite blocking) of low-priority jobs; the cure is **aging** (gradually raising the priority of waiting jobs).\n- **Round Robin** gives better **response time** than FCFS; a very large quantum makes it FCFS, a very small one causes excessive context switching.\n- **Multilevel queue**: separate queues (e.g. system, interactive, batch) with fixed priority between queues; **Multilevel feedback queue** lets processes move between queues.\nSCAN and C-SCAN are disk, not CPU, scheduling algorithms.",
+   "table": {
+    "columns": [
+     "Algorithm",
+     "Preemptive?",
+     "Starvation?",
+     "Remark"
+    ],
+    "rows": [
+     [
+      "FCFS",
+      "No",
+      "No",
+      "Simplest; convoy effect"
+     ],
+     [
+      "SJF",
+      "No",
+      "Yes (long jobs)",
+      "Optimal average waiting time"
+     ],
+     [
+      "SRTF",
+      "Yes",
+      "Yes",
+      "Preemptive SJF"
+     ],
+     [
+      "Priority",
+      "Either",
+      "Yes",
+      "Fix with aging"
+     ],
+     [
+      "Round Robin",
+      "Yes",
+      "No",
+      "Time quantum; good response time"
+     ],
+     [
+      "Multilevel feedback queue",
+      "Yes",
+      "Possible",
+      "Most general and complex"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Critical section, semaphores and classic problems",
+   "level": "intermediate",
+   "subtopic": "Synchronisation & deadlock",
+   "body": "A **race condition** occurs when several processes access shared data concurrently and the result depends on the order of execution. The code that touches shared data is the **critical section**. A correct solution must satisfy:\n- **Mutual exclusion**: only one process in its critical section at a time.\n- **Progress**: if none is inside, the choice of the next one cannot be postponed indefinitely.\n- **Bounded waiting**: a limit on how many times others can enter before a waiting process gets its turn.\n**Peterson's solution** works for two processes (`flag[2]`, `turn`); hardware offers atomic **TestAndSet** and **compare-and-swap**.\nA **semaphore** (Dijkstra) is an integer variable that, apart from initialisation, is accessed only through two atomic operations: **wait()** (P, from Dutch *proberen*, to test) and **signal()** (V, *verhogen*, to increment). A **counting semaphore** can take any non-negative range; a **binary semaphore** takes only 0 or 1 and behaves like a **mutex lock**. A **monitor** is a high-level construct in which only one process can be active at a time; it uses condition variables.\nClassic problems: **bounded buffer (producer–consumer)**, **readers–writers**, **dining philosophers**.",
+   "code": {
+    "lang": "text",
+    "source": "wait(S) {              // P operation\n    while (S <= 0)\n        ;              // busy wait\n    S--;\n}\nsignal(S) {            // V operation\n    S++;\n}\n\n// mutual exclusion with a binary semaphore mutex = 1\ndo {\n    wait(mutex);\n    /* critical section */\n    signal(mutex);\n    /* remainder section */\n} while (true);",
+    "output": ""
+   }
+  },
+  {
+   "heading": "Deadlock: conditions and handling",
+   "level": "advanced",
+   "subtopic": "Synchronisation & deadlock",
+   "body": "In a **deadlock** each process of a set waits for a resource held by another process of the same set. Four **necessary conditions (Coffman)** must hold simultaneously:\n- **Mutual exclusion**: at least one resource is non-sharable.\n- **Hold and wait**: a process holds at least one resource while waiting for others.\n- **No preemption**: resources are released only voluntarily.\n- **Circular wait**: P₀ waits for P₁, P₁ for P₂, …, Pₙ for P₀.\nIn a **resource-allocation graph (RAG)**, no cycle means no deadlock. With single-instance resources a cycle means deadlock; with multiple instances a cycle means deadlock is only *possible*.\n**Handling methods:**\n- **Prevention**: break one condition, e.g. request all resources at once (no hold-and-wait), allow preemption, or impose a total ordering on resource types (no circular wait).\n- **Avoidance**: grant a request only if the system stays in a **safe state**; **Banker's algorithm** (Dijkstra) uses Available, Max, Allocation and Need = Max − Allocation.\n- **Detection and recovery**: allow deadlock, detect it (wait-for graph), then recover by aborting processes or preempting resources.\n- **Ignore** it (**ostrich algorithm**), as most general-purpose OSs (UNIX/Linux, Windows) do.\nEvery deadlock state is unsafe, but not every unsafe state is a deadlock."
+  },
+  {
+   "heading": "Memory management: allocation and fragmentation",
+   "level": "intermediate",
+   "subtopic": "Memory management & paging",
+   "body": "The CPU generates **logical (virtual) addresses**; the **MMU** (Memory Management Unit) maps them to **physical addresses**. With relocation registers, physical = base (relocation) + logical, after checking logical < limit.\n**Contiguous allocation** places each process in one block. Placement strategies for a free hole:\n- **First fit**: first hole that is big enough (fast).\n- **Best fit**: smallest hole that is big enough (leaves tiny holes).\n- **Worst fit**: largest hole.\n**Internal fragmentation**: wasted space *inside* an allocated partition (an 80 KB partition holding a 60 KB process wastes 20 KB). **External fragmentation**: total free memory is enough but it is not contiguous. **Compaction** merges free holes and cures external fragmentation. Paging removes external fragmentation but may leave internal fragmentation in the last page.\n**Swapping**: a process moves from memory to the backing store (**swap out / roll out**) and later brought back (**swap in / roll in**)."
+  },
+  {
+   "heading": "Paging, segmentation and virtual memory",
+   "level": "advanced",
+   "subtopic": "Memory management & paging",
+   "body": "**Paging** divides logical memory into fixed-size **pages** and physical memory into **frames** of the same size. A logical address = (page number p, offset d). The **page table** maps p → frame number. A small, fast associative cache of page-table entries is the **TLB** (Translation Look-aside Buffer).\n**Segmentation** divides a program into variable-size logical units (code, stack, data); address = (segment number, offset); the segment table holds base and limit. It suffers external fragmentation. Segmentation with paging combines both.\n**Virtual memory** lets a process run without being completely in memory. **Demand paging** loads a page only when referenced; a reference to a page not in memory causes a **page fault** (trap to the OS), which loads the page from disk.\n**Page replacement algorithms:**\n- **FIFO**: replace the oldest page; suffers **Belady's anomaly** (more frames can give more faults; e.g. reference string 1,2,3,4,1,2,5,1,2,3,4,5 gives 9 faults with 3 frames but 10 with 4).\n- **Optimal (OPT/MIN)**: replace the page that will not be used for the longest time; lowest fault rate but needs future knowledge, so it is a benchmark.\n- **LRU**: replace the page not used for the longest time; a **stack algorithm**, so no Belady's anomaly (OPT is also free from it).\n**Thrashing**: a process spends more time paging than executing because it has too few frames; CPU utilisation collapses. Cures: **working-set model**, page-fault-frequency control, lowering the degree of multiprogramming."
+  },
+  {
+   "heading": "File system concepts and allocation methods",
+   "level": "intermediate",
+   "subtopic": "File systems & disk scheduling",
+   "body": "A **file** is a named collection of related information on secondary storage. **Access methods**: sequential, direct (relative), and indexed.\n**Directory structures**: single-level, two-level (one directory per user), tree-structured (absolute and relative path names), **acyclic graph** (sharing via links) and general graph.\n**On-disk structures**: the **boot control block** (boot block) holds the code to boot the OS; the **volume control block** (superblock in UNIX) holds volume details such as the number of blocks, block size and free-block count; each file has a **File Control Block** (an **inode** in UNIX).\n**Allocation methods:**\n- **Contiguous**: consecutive blocks; fast access; external fragmentation.\n- **Linked**: each block points to the next; no external fragmentation, but direct access is slow and pointers use space. **FAT** (File Allocation Table) keeps the links in a table.\n- **Indexed**: an index block holds all block pointers; supports direct access. The UNIX inode uses 12 direct pointers plus single, double and triple indirect pointers (ext2/ext3).\n**Free-space management**: bit vector (bitmap), linked list, grouping, counting."
+  },
+  {
+   "heading": "Disk structure and disk scheduling",
+   "level": "intermediate",
+   "subtopic": "File systems & disk scheduling",
+   "body": "A disk has **platters**; each surface has concentric **tracks** divided into **sectors**; tracks at one arm position on all platters form a **cylinder**.\n- **Seek time**: time to move the read/write head to the correct track (cylinder).\n- **Rotational latency**: time for the desired sector to rotate under the head; average = half a rotation.\n- **Transfer time**: time to actually read/write the data.\n- **Access time** = seek time + rotational latency (+ transfer time when included).\n**Disk scheduling** orders pending requests to reduce total head movement:\n- **FCFS**: fair but often long movement.\n- **SSTF** (Shortest Seek Time First): nearest request next; can starve far requests.\n- **SCAN (elevator)**: head moves to one end serving requests, then reverses.\n- **C-SCAN**: serves in one direction only, then jumps back to the other end; more uniform waiting time.\n- **LOOK / C-LOOK**: like SCAN / C-SCAN but turn at the last request instead of the disk end.\n**RAID** combines disks: RAID 0 = striping (no redundancy), RAID 1 = mirroring, RAID 5 = block striping with distributed parity.",
+   "table": {
+    "columns": [
+     "Algorithm",
+     "Moves to disk end?",
+     "Starvation?"
+    ],
+    "rows": [
+     [
+      "FCFS",
+      "No",
+      "No"
+     ],
+     [
+      "SSTF",
+      "No",
+      "Possible"
+     ],
+     [
+      "SCAN",
+      "Yes",
+      "No"
+     ],
+     [
+      "C-SCAN",
+      "Yes, then jumps back",
+      "No"
+     ],
+     [
+      "LOOK",
+      "No (last request)",
+      "No"
+     ],
+     [
+      "C-LOOK",
+      "No (last request)",
+      "No"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Linux basics: directory tree, file types and permissions",
+   "level": "basic",
+   "subtopic": "Linux commands & shell",
+   "body": "Linux is a free, open-source, UNIX-like, multi-user, multitasking OS; its kernel was created by **Linus Torvalds** (1991) and is distributed under the GNU GPL. Layers: hardware → **kernel** → **shell** (command interpreter, e.g. bash) → utilities/applications.\nEverything hangs from the single root directory `/` (see table); there are no drive letters.\n**File types** (first character of `ls -l`): `-` regular, `d` directory, `l` symbolic link, `c` character special file, `b` block special file, `s` socket, `p` named pipe.\n**Links**: a **hard link** is another directory entry for the same inode (cannot span file systems or normally point to directories); a **soft (symbolic) link** is a separate file that stores a path (`ln -s target name`) and breaks if the target is deleted.\n**Permissions**: read r = 4, write w = 2, execute x = 1, for **user (owner), group, others**: 7 = rwx, 6 = rw-, 5 = r-x, 4 = r--. `chmod 754 file` gives rwxr-xr--; symbolic form `chmod u+x,g-w file`. With **umask** 022 new files get 644 and directories 755.",
+   "table": {
+    "columns": [
+     "Directory",
+     "Contents"
+    ],
+    "rows": [
+     [
+      "/bin",
+      "Essential user commands (ls, cp)"
+     ],
+     [
+      "/sbin",
+      "System administration commands"
+     ],
+     [
+      "/etc",
+      "System configuration files (e.g. /etc/passwd)"
+     ],
+     [
+      "/home",
+      "Home directories of ordinary users"
+     ],
+     [
+      "/root",
+      "Home directory of the superuser"
+     ],
+     [
+      "/dev",
+      "Device (special) files"
+     ],
+     [
+      "/tmp",
+      "Temporary files"
+     ],
+     [
+      "/var",
+      "Variable data such as logs (/var/log)"
+     ],
+     [
+      "/usr",
+      "User programs, libraries and documentation"
+     ],
+     [
+      "/boot",
+      "Kernel and boot-loader files"
+     ],
+     [
+      "/proc",
+      "Virtual files with process and kernel information"
+     ],
+     [
+      "/lib",
+      "Shared libraries"
+     ],
+     [
+      "/mnt, /media",
+      "Mount points for other file systems"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Linux commands, redirection and shell scripting",
+   "level": "intermediate",
+   "subtopic": "Linux commands & shell",
+   "body": "**Redirection and pipes**: `>` sends output to a file (overwrite), `>>` appends, `<` takes input from a file, `2>` redirects errors; `|` (pipe) sends the output of one command as input to the next, e.g. `ls -l | grep txt | wc -l`. `&` at the end runs a command in the background.\n**Shell script basics**: first line `#!/bin/bash` (shebang); variables are assigned without spaces (`x=7`) and read with `$x`; `$0` is the script name, `$1`…`$9` are arguments, `$#` the number of arguments, `$?` the exit status of the last command (0 = success), `$$` the PID of the shell. Make a script executable with `chmod +x script.sh` and run it with `./script.sh`.\nInteger comparison inside `[ ]` uses `-eq -ne -gt -lt -ge -le`; string comparison uses `=` and `!=`.",
+   "table": {
+    "columns": [
+     "Command",
+     "Purpose"
+    ],
+    "rows": [
+     [
+      "ls -l / ls -a",
+      "Long listing / include hidden files"
+     ],
+     [
+      "pwd",
+      "Print working directory"
+     ],
+     [
+      "cd, mkdir, rmdir",
+      "Change / make / remove (empty) directory"
+     ],
+     [
+      "cp, mv, rm -r",
+      "Copy; move or rename; remove recursively"
+     ],
+     [
+      "cat, more, less, head, tail",
+      "Display file contents (whole, paged, first/last lines)"
+     ],
+     [
+      "grep pattern file",
+      "Search lines matching a pattern"
+     ],
+     [
+      "find / -name a.txt",
+      "Search for files in a directory tree"
+     ],
+     [
+      "wc -l / sort / uniq / cut",
+      "Count lines; sort; remove adjacent duplicates; extract fields"
+     ],
+     [
+      "chmod, chown, chgrp",
+      "Change permissions / owner / group"
+     ],
+     [
+      "ps, top, kill -9 PID",
+      "List processes; live view; force-kill a process"
+     ],
+     [
+      "df -h, du -sh, free",
+      "Disk free space; directory usage; memory usage"
+     ],
+     [
+      "man, which, whoami",
+      "Manual page; path of a command; current user"
+     ],
+     [
+      "tar, gzip, ssh, scp",
+      "Archive; compress; remote login; secure copy"
+     ],
+     [
+      "sudo, su",
+      "Run as superuser; switch user"
+     ]
+    ]
+   },
+   "code": {
+    "lang": "bash",
+    "source": "#!/bin/bash\ncount=0\nfor f in alpha beta gamma\ndo\n  count=$((count+1))\n  echo \"$count: $f\"\ndone\necho \"Total: $count\"\nprintf \"banana\\napple\\ncherry\\napple\\n\" | sort -u | head -n 2\nx=7\nif [ $x -gt 5 ]; then\n  echo \"big\"\nelse\n  echo \"small\"\nfi",
+    "output": "1: alpha\n2: beta\n3: gamma\nTotal: 3\napple\nbanana\nbig"
+   }
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Turnaround time",
+   "formula": "TAT = Completion time − Arrival time",
+   "note": "For each process; average over all processes."
+  },
+  {
+   "name": "Waiting time",
+   "formula": "WT = TAT − Burst time",
+   "note": "Time spent in the ready queue (no I/O assumed)."
+  },
+  {
+   "name": "Response time",
+   "formula": "RT = Time of first CPU allocation − Arrival time",
+   "note": "Equals WT for non-preemptive algorithms."
+  },
+  {
+   "name": "Throughput",
+   "formula": "Throughput = Number of processes completed ÷ Total time",
+   "note": ""
+  },
+  {
+   "name": "CPU utilisation",
+   "formula": "Utilisation = Busy time ÷ Total time × 100%",
+   "note": ""
+  },
+  {
+   "name": "SJF burst prediction",
+   "formula": "τₙ₊₁ = α·tₙ + (1 − α)·τₙ, 0 ≤ α ≤ 1",
+   "note": "Exponential averaging of previous bursts."
+  },
+  {
+   "name": "Deadlock-free resource count",
+   "formula": "R ≥ n(k − 1) + 1",
+   "note": "n processes each needing at most k units of one resource type; equivalently the maximum safe n = ⌊(R − 1) ÷ (k − 1)⌋."
+  },
+  {
+   "name": "Logical address split (paging)",
+   "formula": "Offset bits = log₂(page size); page-number bits = logical address bits − offset bits",
+   "note": "Number of pages = 2^(page-number bits)."
+  },
+  {
+   "name": "Page table size",
+   "formula": "Number of pages × size of one page-table entry",
+   "note": ""
+  },
+  {
+   "name": "Effective access time with TLB",
+   "formula": "EAT = h(t + m) + (1 − h)(t + 2m)",
+   "note": "h = TLB hit ratio, t = TLB time, m = memory access time; some books ignore t."
+  },
+  {
+   "name": "Effective access time with page faults",
+   "formula": "EAT = (1 − p) × memory access time + p × page-fault service time",
+   "note": "p = page-fault rate."
+  },
+  {
+   "name": "Average rotational latency",
+   "formula": "= ½ × (60 ÷ RPM) seconds",
+   "note": "At 7200 RPM one rotation = 8.33 ms, average latency ≈ 4.17 ms."
+  },
+  {
+   "name": "Linux permission arithmetic",
+   "formula": "r = 4, w = 2, x = 1; default permissions = base AND NOT umask (base 666 for files, 777 for directories)",
+   "note": "Simple digit-wise subtraction works when no umask digit exceeds the base digit: umask 022 → files 644, directories 755; umask 077 → files 600, directories 700."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "Four processes arrive as follows (arrival time, burst time in ms): P1 (0, 8), P2 (1, 4), P3 (2, 2), P4 (3, 5). Find the average waiting time and turnaround time under (a) FCFS, (b) non-preemptive SJF, (c) SRTF.",
+   "solution": "(a) **FCFS** Gantt: P1 0–8 | P2 8–12 | P3 12–14 | P4 14–19.\n- TAT = CT − AT: P1 8, P2 11, P3 12, P4 16 → average 47 ÷ 4 = **11.75 ms**.\n- WT = TAT − BT: P1 0, P2 7, P3 10, P4 11 → average 28 ÷ 4 = **7 ms**.\n(b) **SJF (non-preemptive)**: only P1 is present at 0, so it runs 0–8. At 8 all have arrived; pick shortest: P3 (2) 8–10, P2 (4) 10–14, P4 (5) 14–19.\n- WT: P1 0, P3 8 − 2 = 6, P2 10 − 1 = 9, P4 14 − 3 = 11 → 26 ÷ 4 = **6.5 ms**.\n- TAT: 8, 13, 8, 16 → 45 ÷ 4 = **11.25 ms**.\n(c) **SRTF**: at 1 P2 (4) < P1's remaining 7 → preempt; at 2 P3 (2) < P2's remaining 3 → preempt; P3 finishes at 4; then P2 (3 left) runs 4–7; P4 7–12; P1 (7 left) 12–19.\nGantt: P1 0–1 | P2 1–2 | P3 2–4 | P2 4–7 | P4 7–12 | P1 12–19.\n- TAT: P1 19, P2 6, P3 2, P4 9 → 36 ÷ 4 = **9 ms**.\n- WT: P1 11, P2 2, P3 0, P4 4 → 17 ÷ 4 = **4.25 ms**.\nSRTF gives the lowest average waiting time, as expected."
+  },
+  {
+   "problem": "Round Robin with time quantum 2 ms: P1 (arrival 0, burst 5), P2 (1, 3), P3 (2, 1), P4 (4, 2). A newly arrived process joins the ready queue before a preempted process. Find completion times and average waiting time.",
+   "solution": "- 0–2: P1 runs (3 left). Queue at 2: P2, P3, P1.\n- 2–4: P2 runs (1 left). P4 arrives at 4 → queue: P3, P1, P4, P2.\n- 4–5: P3 runs and finishes (CT 5).\n- 5–7: P1 runs (1 left) → queue: P4, P2, P1.\n- 7–9: P4 runs and finishes (CT 9).\n- 9–10: P2 finishes (CT 10).\n- 10–11: P1 finishes (CT 11).\nTAT = CT − AT: P1 11, P2 9, P3 3, P4 5 → average 28 ÷ 4 = **7 ms**.\nWT = TAT − BT: P1 6, P2 6, P3 2, P4 3 → average 17 ÷ 4 = **4.25 ms**."
+  },
+  {
+   "problem": "Reference string 2, 3, 2, 1, 5, 2, 4, 5, 3, 2, 5, 2 with 3 initially empty frames. Count page faults for FIFO, LRU and Optimal.",
+   "solution": "**FIFO** (frames after each fault):\n2 F [2] → 3 F [2,3] → 2 hit → 1 F [2,3,1] → 5 F replace 2 [3,1,5] → 2 F replace 3 [1,5,2] → 4 F replace 1 [5,2,4] → 5 hit → 3 F replace 5 [2,4,3] → 2 hit → 5 F replace 2 [4,3,5] → 2 F replace 4 [3,5,2]. Faults = **9**.\n**LRU**:\n2 F, 3 F, 2 hit, 1 F {2,3,1}, 5 F replace 3 (least recent) {2,1,5}, 2 hit, 4 F replace 1 {2,5,4}, 5 hit, 3 F replace 2 {5,4,3}, 2 F replace 4 {5,3,2}, 5 hit, 2 hit. Faults = **7**.\n**Optimal**:\n2 F, 3 F, 2 hit, 1 F {2,3,1}, 5 F replace 1 (never used again) {2,3,5}, 2 hit, 4 F replace 2 (used farthest in future) {4,3,5}, 5 hit, 3 hit, 2 F replace 4 {2,3,5}, 5 hit, 2 hit. Faults = **6**.\nOrder: OPT (6) ≤ LRU (7) ≤ FIFO (9)."
+  },
+  {
+   "problem": "A system uses 32-bit logical addresses, 4 KB pages and 4-byte page-table entries. (a) How many bits are used for the page number and the offset? (b) What is the size of a single-level page table? (c) With TLB access time 20 ns, memory access time 100 ns and TLB hit ratio 80%, what is the effective access time?",
+   "solution": "(a) Page size 4 KB = 2¹² bytes → **offset = 12 bits**; page number = 32 − 12 = **20 bits**.\n(b) Number of pages = 2²⁰ = 1,048,576. Page table = 2²⁰ × 4 B = 2²² B = **4 MB**.\n(c) Hit: 20 + 100 = 120 ns. Miss: 20 + 100 (page table) + 100 (data) = 220 ns.\nEAT = 0.8 × 120 + 0.2 × 220 = 96 + 44 = **140 ns**.\n(If a question ignores TLB time: 0.8 × 100 + 0.2 × 200 = 120 ns.)"
+  },
+  {
+   "problem": "A disk has cylinders 0–199. The head is at 50 and moving towards higher numbers. Queue: 82, 170, 43, 140, 24, 16, 190. Find total head movement for FCFS, SSTF, SCAN, C-SCAN and LOOK.",
+   "solution": "**FCFS**: 50→82→170→43→140→24→16→190 = 32 + 88 + 127 + 97 + 116 + 8 + 174 = **642**.\n**SSTF**: nearest each time: 50→43 (7)→24 (19)→16 (8)→82 (66)→140 (58)→170 (30)→190 (20) = **208**.\n**SCAN** (towards 199): 50→82→140→170→190→199, then reverse →43→24→16: (199 − 50) + (199 − 16) = 149 + 183 = **332**.\n**C-SCAN**: 50→…→199 (149), jump 199→0 (199), then 0→16→24→43 (43): total **391** cylinders if the return jump is counted (192 if a question says the return is not counted).\n**LOOK**: 50→190 (140), reverse 190→16 (174) = **314**."
+  },
+  {
+   "problem": "Banker's algorithm: resources A, B, C with totals (9, 4, 6). Allocation: P0 (0,1,0), P1 (2,0,0), P2 (3,0,2), P3 (2,1,1). Max: P0 (5,3,2), P1 (3,2,2), P2 (4,1,3), P3 (2,2,2). Is the system in a safe state?",
+   "solution": "Total allocated = (7, 2, 3) → **Available = (9,4,6) − (7,2,3) = (2, 2, 3)**.\nNeed = Max − Allocation: P0 (5,2,2), P1 (1,2,2), P2 (1,1,1), P3 (0,1,1).\nSafety check (scan P0…P3 each time):\n- P0 needs (5,2,2) > (2,2,3) → wait. P1 (1,2,2) ≤ (2,2,3) → run; Work = (2,2,3) + (2,0,0) = (4,2,3).\n- P0 (5,2,2) > (4,2,3) → wait. P2 (1,1,1) ≤ (4,2,3) → Work = (7,2,5).\n- P0 (5,2,2) ≤ (7,2,5) → Work = (7,3,5).\n- P3 (0,1,1) ≤ (7,3,5) → Work = (9,4,6).\nAll can finish → **safe**; one safe sequence is **<P1, P2, P0, P3>** (other safe sequences also exist)."
+  }
+ ],
+ "pitfalls": [
+  "Waiting time = TAT − burst time, not completion time − burst time (unless arrival time is 0).",
+  "SJF is optimal for average waiting time only among non-preemptive schemes with known bursts; SRTF (its preemptive version) does even better when jobs arrive at different times.",
+  "Belady's anomaly occurs in FIFO, not in LRU or Optimal (both are stack algorithms).",
+  "Deadlock-free resource count: do not just divide R by k. Use R ≥ n(k − 1) + 1; e.g. 6 units, 3 per process → n ≤ 2.",
+  "A cycle in a resource-allocation graph guarantees deadlock only when every resource has a single instance.",
+  "An unsafe state is not the same as a deadlock; it only means deadlock may happen.",
+  "Thrashing is caused by too few frames per process; increasing the degree of multiprogramming makes it worse.",
+  "C-SCAN, SCAN, LOOK and SSTF are disk-scheduling algorithms, not CPU-scheduling algorithms.",
+  "The dispatcher gives the CPU to the chosen process; the short-term scheduler only selects it.",
+  "Internal fragmentation = waste inside an allocated block; external = free space scattered in non-contiguous holes. Paging removes external, not internal, fragmentation.",
+  "In C-SCAN head-movement questions check whether the return sweep is to be counted.",
+  "Linux 'c' in ls -l means character special file and 'b' block special file; 'l' is a symbolic link, not a hard link."
+ ],
+ "quickRevision": [
+  "Spooling stores printer output on disk so the CPU need not wait for the printer.",
+  "Privileged instructions run only in kernel mode; mode bit 0 = kernel, 1 = user.",
+  "Linux is a monolithic kernel with loadable modules; Mach and QNX are microkernels.",
+  "PCB = per-process record; TCB = per-thread record.",
+  "Context-switch time is pure overhead.",
+  "Long-term scheduler controls the degree of multiprogramming.",
+  "Threads share code, data and files but have their own registers, PC and stack.",
+  "Round Robin improves response time; SRTF and priority scheduling can starve processes; aging fixes it.",
+  "Semaphore operations: wait (P) and signal (V), both atomic.",
+  "Coffman conditions: mutual exclusion, hold and wait, no preemption, circular wait.",
+  "Banker's algorithm = deadlock avoidance; ostrich algorithm = ignore deadlock.",
+  "Thrashing = very high page-fault activity; cured by the working-set model.",
+  "Seek time = moving head to track; rotational latency = waiting for sector.",
+  "/etc holds system configuration files; /dev holds device files; /home holds users' home directories.",
+  "chmod 755 = rwxr-xr-x; umask 022 gives files 644 and directories 755."
+ ],
+ "flashcards": [
+  {
+   "front": "What is spooling?",
+   "back": "Holding output (or input) for a slow device such as a printer in a reserved disk area so the CPU can continue working."
+  },
+  {
+   "front": "Which OS module actually hands the CPU to the selected process?",
+   "back": "The dispatcher (its delay is dispatch latency)."
+  },
+  {
+   "front": "Which scheduler controls the degree of multiprogramming?",
+   "back": "The long-term (job) scheduler."
+  },
+  {
+   "front": "Name the five process states.",
+   "back": "New, Ready, Running, Waiting (blocked), Terminated."
+  },
+  {
+   "front": "Which CPU scheduling algorithm gives minimum average waiting time?",
+   "back": "SJF (SRTF in the preemptive case)."
+  },
+  {
+   "front": "What is the convoy effect?",
+   "back": "Short processes waiting behind one long CPU-bound process in FCFS."
+  },
+  {
+   "front": "Cure for starvation in priority scheduling?",
+   "back": "Aging — gradually raising the priority of waiting processes."
+  },
+  {
+   "front": "Three requirements of a critical-section solution?",
+   "back": "Mutual exclusion, progress, bounded waiting."
+  },
+  {
+   "front": "Two atomic operations on a semaphore?",
+   "back": "wait() / P and signal() / V."
+  },
+  {
+   "front": "Four necessary conditions for deadlock?",
+   "back": "Mutual exclusion, hold and wait, no preemption, circular wait."
+  },
+  {
+   "front": "7 units of a resource, each process needs at most 2. Maximum processes guaranteed deadlock free?",
+   "back": "6, since n(2 − 1) + 1 ≤ 7 gives n ≤ 6."
+  },
+  {
+   "front": "Which page-replacement algorithm suffers from Belady's anomaly?",
+   "back": "FIFO."
+  },
+  {
+   "front": "What is thrashing?",
+   "back": "Excessive paging: the process spends more time servicing page faults than executing."
+  },
+  {
+   "front": "80 KB partition holds a 60 KB process; the 20 KB waste is called?",
+   "back": "Internal fragmentation."
+  },
+  {
+   "front": "What does the TLB cache?",
+   "back": "Recently used page-table entries (page → frame mappings)."
+  },
+  {
+   "front": "Time for the desired sector to come under the head?",
+   "back": "Rotational latency (rotational delay)."
+  },
+  {
+   "front": "Linux directory for system configuration files?",
+   "back": "/etc"
+  },
+  {
+   "front": "Octal for rwxr-x---?",
+   "back": "750"
+  },
+  {
+   "front": "What does $? hold in a shell?",
+   "back": "Exit status of the last command (0 means success)."
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Operating system",
+   "hi": "प्रचालन तंत्र / ऑपरेटिंग सिस्टम"
+  },
+  {
+   "en": "Kernel",
+   "hi": "कर्नेल (मूल भाग)"
+  },
+  {
+   "en": "Process",
+   "hi": "प्रक्रम / प्रोसेस"
+  },
+  {
+   "en": "Thread",
+   "hi": "थ्रेड (हल्का प्रक्रम)"
+  },
+  {
+   "en": "Scheduling",
+   "hi": "अनुसूचन"
+  },
+  {
+   "en": "Context switch",
+   "hi": "संदर्भ परिवर्तन"
+  },
+  {
+   "en": "Deadlock",
+   "hi": "गतिरोध"
+  },
+  {
+   "en": "Starvation",
+   "hi": "भुखमरी (अनिश्चित प्रतीक्षा)"
+  },
+  {
+   "en": "Mutual exclusion",
+   "hi": "पारस्परिक अपवर्जन"
+  },
+  {
+   "en": "Virtual memory",
+   "hi": "आभासी स्मृति"
+  },
+  {
+   "en": "Page fault",
+   "hi": "पृष्ठ दोष"
+  },
+  {
+   "en": "Fragmentation",
+   "hi": "विखंडन"
+  },
+  {
+   "en": "File system",
+   "hi": "फ़ाइल प्रणाली"
+  },
+  {
+   "en": "Seek time",
+   "hi": "खोज समय"
+  },
+  {
+   "en": "Permission",
+   "hi": "अनुमति"
+  }
+ ]
+}

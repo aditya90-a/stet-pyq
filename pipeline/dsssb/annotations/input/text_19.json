@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2024-02-07-s2-q129",
+  "copies": [
+   "2024-02-07-s2-q129"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding Assembly language?\nI. An assembler converts (or assembles) the symbolic program of an Assembly\nlanguage into its equivalent machine program.\nII. A program written in an assembly language is machine dependent.",
+  "options": [
+   "A) Both I and II",
+   "B) Only II",
+   "C) Only I",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q130",
+  "copies": [
+   "2024-02-07-s2-q130"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following Instruction format use an implied accumulator (AC) register for\nall data manipulation?",
+  "options": [
+   "A) One-address instructions",
+   "B) Three-address instructions",
+   "C) Zero-address instructions",
+   "D) Two-address instructions"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q131",
+  "copies": [
+   "2024-02-07-s2-q131"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In context of the Digital Personal Data Protection Act, 2023, which of the given\nfollowing is correct?",
+  "options": [
+   "A) “Child” means an individual who has not completed the age of eighteen years",
+   "B) “Digital personal data” means personal data in physical form",
+   "C) “Chairperson” does not mean the chairperson of the board",
+   "D) “Data” means representation of facts only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q132",
+  "copies": [
+   "2024-02-07-s2-q132"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following File operation need not involve any actual I/O (Input/Output) and\nis also known as ‘File Seek’?",
+  "options": [
+   "A) Deleting a file",
+   "B) Repositioning within a file",
+   "C) Reading a file",
+   "D) Truncating a file"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q133",
+  "copies": [
+   "2024-02-07-s2-q133"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In CPU, which of the following type of register is required by the control unit and\ncontains the instruction currently being executed?",
+  "options": [
+   "A) Instruction register",
+   "B) Accumulator",
+   "C) Program register",
+   "D) Memory data register"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q134",
+  "copies": [
+   "2024-02-07-s2-q134"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The values in a dictionary can be ______ but the keys in the dictionary should be ______\nin Python programming languages",
+  "options": [
+   "A) repeated, repeated",
+   "B) repeated, unique",
+   "C) unique, repeated",
+   "D) unique, unique"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q135",
+  "copies": [
+   "2024-02-07-s2-q135"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following part of operating system allocates the CPU to next scheduled\nprocess in the system?",
+  "options": [
+   "A) File manager",
+   "B) Dispatcher",
+   "C) Scheduler",
+   "D) Input/output handler"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q136",
+  "copies": [
+   "2024-02-07-s2-q136"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following printer is type of impact printer?",
+  "options": [
+   "A) Ink-Jet",
+   "B) Laser",
+   "C) Dot matrix",
+   "D) Thermal"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q137",
+  "copies": [
+   "2024-02-07-s2-q137"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is correct regarding point-to-point connection in the\ndata communication?\nI. It provides a dedicated link between two devices.\nII. It is a timeshared connection.",
+  "options": [
+   "A) Only II",
+   "B) Both I and II",
+   "C) Neither I nor II",
+   "D) Only I"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q138",
+  "copies": [
+   "2024-02-07-s2-q138"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In Direct Memory Access (DMA) ______, a block sequence consisting of a number of\nmemory words is transferred in a continuous burst.",
+  "options": [
+   "A) Bus granting",
+   "B) Burst transfer",
+   "C) Cycle stealing",
+   "D) Controller count"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q139",
+  "copies": [
+   "2024-02-07-s2-q139"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following normal form of normalization in relational model, disallows\nrelations within relations or relations as attribute values within tuples?",
+  "options": [
+   "A) Fourth",
+   "B) First",
+   "C) Second",
+   "D) Third"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q140",
+  "copies": [
+   "2024-02-07-s2-q140"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT an attribute that included by the HR tag which puts a\nhorizontal line on the page?",
+  "options": [
+   "A) SHADE",
+   "B) SIZE",
+   "C) ALIGN",
+   "D) WIDT H"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q141",
+  "copies": [
+   "2024-02-07-s2-q141"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ enables the creator owner to earn recognition or financial benefit by using their\ncreation or invention.",
+  "options": [
+   "A) Patent",
+   "B) Copyright",
+   "C) Intellectual property right",
+   "D) Data protection"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q142",
+  "copies": [
+   "2024-02-07-s2-q142"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Over half of the e-waste generated in the developed world are exported to\ndeveloping countries, mainly to ______, where metals like copper, iron, silicon, nickel\nand gold are recovered during recycling process.",
+  "options": [
+   "A) Afghanistan",
+   "B) Kazakistan",
+   "C) UAE",
+   "D) India"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q143",
+  "copies": [
+   "2024-02-07-s2-q143"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a two-dimensional labelled data structure with columns of potentially\ndifferent type, in data handling with pandas.",
+  "options": [
+   "A) Series",
+   "B) Missing data",
+   "C) Iteration",
+   "D) Data frames"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q144",
+  "copies": [
+   "2024-02-07-s2-q144"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A semaphore is an integer variable that, apart from initialization, is accessed only\nthrough which of the following standard atomic operation?",
+  "options": [
+   "A) release ( )",
+   "B) lock ( )",
+   "C) acquire ( )",
+   "D) signal ( )"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q145",
+  "copies": [
+   "2024-02-07-s2-q145"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "From the challenges given below, which of the challenge does IoT adoption include?",
+  "options": [
+   "A) Deepfake",
+   "B) Black box",
+   "C) Security",
+   "D) Cloud storage"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q147",
+  "copies": [
+   "2024-02-07-s2-q147"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Irreparable computer and other electronic goods are known as ______ in tech world.",
+  "options": [
+   "A) Man made waste",
+   "B) Natural waste",
+   "C) Waste",
+   "D) Electronic waste"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q148",
+  "copies": [
+   "2024-02-07-s2-q148"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a one-dimensional labelled array capable of holding any data\ntype (integers, strings, floating point numbers, python objects, etc) in data handling\nwith pandas?",
+  "options": [
+   "A) Series",
+   "B) Missing data",
+   "C) Data frames",
+   "D) Iteration"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q149",
+  "copies": [
+   "2024-02-07-s2-q149"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The E-waste (management) rules 2016 of India, recognizes two broad categories: IT\nand telecommunication equipment and consumer electrical and electronics including\nwhich of the following material?\nI. Fluorescent\nII. Mercury",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q150",
+  "copies": [
+   "2024-02-07-s2-q150"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following form is correct to show a ‘comments’ in the HTML language?",
+  "options": [
+   "A) < – – This is a comment – – >",
+   "B) < – – This is a comment – –! >",
+   "C) < !– – This is a comment – –! >",
+   "D) < !– – This is a comment – – >"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q151",
+  "copies": [
+   "2024-02-07-s2-q151"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If you encounter an import Error, what does it mean?\nI. Python could find pandas in list of available libraries\nII. Pandas couldn’t find python in list of available libraries\nIII. Python couldn’t find Pandas in list of available libraries",
+  "options": [
+   "A) Only III",
+   "B) I, II and III",
+   "C) Only I",
+   "D) Only I and III"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q152",
+  "copies": [
+   "2024-02-07-s2-q152"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Data frame in Pandas has a method which takes a column name (for a regular index) or\na list of column names to create a new, re-indexed data frame, which of the following\nis correct method?",
+  "options": [
+   "A) dFb",
+   "B) data.index ( )",
+   "C) set_index ( )",
+   "D) dFmi"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q153",
+  "copies": [
+   "2024-02-07-s2-q153"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct for Identifiers name used in Python language?",
+  "options": [
+   "A) An identifier can have underscore (_) symbol",
+   "B) We must use keywords as identifier",
+   "C) There is restriction the length of an identifier",
+   "D) An identifier must start with a digit"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q154",
+  "copies": [
+   "2024-02-07-s2-q154"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following rule is needed to be followed while declaring the XML\n(Extensible Markup Language) elements name?",
+  "options": [
+   "A) Name must start with a number",
+   "B) Name can contain spaces",
+   "C) Name must not start with the letter xml",
+   "D) Name cannot contain letter, numbers and other characters"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q155",
+  "copies": [
+   "2024-02-07-s2-q155"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In digital realm, which refers to the legal rights to protect invention or creation in\nintellectual property, are given to whom?",
+  "options": [
+   "A) Employee",
+   "B) Seller",
+   "C) Creator/invertor",
+   "D) Buyers"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q156",
+  "copies": [
+   "2024-02-07-s2-q156"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following symbol is used to add comments in the Python language?",
+  "options": [
+   "A) *",
+   "B) #",
+   "C) !",
+   "D) //"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q157",
+  "copies": [
+   "2024-02-07-s2-q157"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which operation is provided in Pandas, when multiple tables can be concatenated both\ncolumn wise and row wise as database?",
+  "options": [
+   "A) SUM",
+   "B) MERGE",
+   "C) GROUP BY",
+   "D) SELECT"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q158",
+  "copies": [
+   "2024-02-07-s2-q158"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "IPR (Intellectual Property Right) is given for how much time, in digital realm?",
+  "options": [
+   "A) Certain period of time",
+   "B) Unlimited period of time",
+   "C) Uncertain period of time",
+   "D) Depending on case to case basis"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q159",
+  "copies": [
+   "2024-02-07-s2-q159"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In E-waste management, from which factors, there comes the exposure variability in\nelectronic waste?",
+  "options": [
+   "A) Type of E-waste",
+   "B) Quantity of the Pollutants in air",
+   "C) Management processes of the air pollution",
+   "D) Medical waste"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q161",
+  "copies": [
+   "2024-02-07-s2-q161"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following maths function in SQL returns the smallest integer greater than,\nor equal to, the specified numeric expression?",
+  "options": [
+   "A) ROUND",
+   "B) CEILING",
+   "C) ABS",
+   "D) FLOOR"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q162",
+  "copies": [
+   "2024-02-07-s2-q162"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following page replacement algorithms(s) does not suffer from Belady\nanomaly in Operating System?\nI. Least-Recently Used (LRU) page replacement.\nII. First-In, First-Out (FIFO) page replacement.",
+  "options": [
+   "A) Only I",
+   "B) Neither I nor II",
+   "C) Only II",
+   "D) Both I and II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q163",
+  "copies": [
+   "2024-02-07-s2-q163"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "String is a collection of one or more character which consists of ______ in\nprogramming language.\nI. Letters\nII. Numbers\nIII. Symbols",
+  "options": [
+   "A) I, II and III",
+   "B) Only I",
+   "C) Only I and III",
+   "D) Only II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q164",
+  "copies": [
+   "2024-02-07-s2-q164"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following symbol is used with SELECT command of SQL, to retrieve all\nthe attribute values of the selected tuples?",
+  "options": [
+   "A) #",
+   "B) %",
+   "C) *",
+   "D) :"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q165",
+  "copies": [
+   "2024-02-07-s2-q165"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is commonly used in UNICODE encoding schemes and number\nsystem in computer science?",
+  "options": [
+   "A) UT F-17",
+   "B) UT F-61",
+   "C) UT F-8",
+   "D) UT F-35"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q166",
+  "copies": [
+   "2024-02-07-s2-q166"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Extensions like .txt, .py, .CSV, etc in python language are example of ______.",
+  "options": [
+   "A) text files",
+   "B) text editor",
+   "C) UNI CODE",
+   "D) ASCII"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q168",
+  "copies": [
+   "2024-02-07-s2-q168"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following phase of the compiler, gathers type information and saves it in\neither the syntax tree or the symbol table, for subsequent use during intermediate\ncode generation?",
+  "options": [
+   "A) Semantic Analyzer",
+   "B) Code Analyzer",
+   "C) Syntax Analyzer",
+   "D) Lexical Analyzer"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q169",
+  "copies": [
+   "2024-02-07-s2-q169"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Number with decimal points is called ______ in programming language.",
+  "options": [
+   "A) Fractional point numbers",
+   "B) Complex numbers",
+   "C) Imaginary Numbers",
+   "D) Integer"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q170",
+  "copies": [
+   "2024-02-07-s2-q170"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following operation includes all tuples that are in R-set but not in S-set?",
+  "options": [
+   "A) R – S",
+   "B) R Ç S",
+   "C) R È S",
+   "D) R × S"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q171",
+  "copies": [
+   "2024-02-07-s2-q171"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT an aggregate function in SQL?",
+  "options": [
+   "A) CROSS PRODUCT",
+   "B) MAXIMUM",
+   "C) COUNT",
+   "D) SUM"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q172",
+  "copies": [
+   "2024-02-07-s2-q172"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ has been developed to incorporate all the character of every written language\nof the world. It provides a unique number for every character, irrespective of device\n[server, desktop, mob], OS [linux, win] or software application",
+  "options": [
+   "A) UNICODE",
+   "B) Binary Code",
+   "C) ISCII",
+   "D) ASCII"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q173",
+  "copies": [
+   "2024-02-07-s2-q173"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "ASCII (American Standard Code for Information Interchange) can only handle ______\nor at most ______ languages and that shows its limitation to handle all world languages.",
+  "options": [
+   "A) 2, 5",
+   "B) 1, 2",
+   "C) 1, 5",
+   "D) 3, 4"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q174",
+  "copies": [
+   "2024-02-07-s2-q174"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In Database Management System (DBMS), which of the following term de fines a\ncollection of entities that have the same attributes in the database?",
+  "options": [
+   "A) Entity type",
+   "B) Value set",
+   "C) Entity set",
+   "D) Value type"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q175",
+  "copies": [
+   "2024-02-07-s2-q175"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which symbol is used to add the comment in the code or program to make it more\nreadable and understandable in Python programming language?",
+  "options": [
+   "A) #",
+   "B) *",
+   "C) –",
+   "D) :"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q176",
+  "copies": [
+   "2024-02-07-s2-q176"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct for context switching in Operating\nSystem?\nI. When a context switch occurs, the kernel saves the context of the old process in\nits PCB (Process Control Block).\nII. Context-Switch time is pure overhead, because the system does no useful work\nwhile switching.",
+  "options": [
+   "A) Neither I nor II",
+   "B) Only I",
+   "C) Only II",
+   "D) Both I and II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q177",
+  "copies": [
+   "2024-02-07-s2-q177"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding AND logic gate?\nI. The AND gate produces the output value 1 if input A and input B are both equal to 1.\nII. The algebraic operation symbol of the AND function is the same as the\nmultiplication symbol of ordinary arithmetic.",
+  "options": [
+   "A) Neither I nor II",
+   "B) Only I",
+   "C) Both I and II",
+   "D) Only II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q178",
+  "copies": [
+   "2024-02-07-s2-q178"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following term of ER model (Entity – Relationship) is corresponding to\nthe foreign key (or relationship relation) in the relational model of database?",
+  "options": [
+   "A) Composite attribute",
+   "B) Entity type",
+   "C) 1 : 1 (one to one) or 1 : N (one to many) relationship type",
+   "D) M : N (many to many) relationship type"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q179",
+  "copies": [
+   "2024-02-07-s2-q179"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In relational databases, which of the following integrity constraint is specified between\ntwo relations and is used to maintain the consistency among tuples in the two\nrelations?",
+  "options": [
+   "A) Entity integrity constraint",
+   "B) Semantic integrity constraint",
+   "C) Functional integrity constraint",
+   "D) Referential integrity constraint"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q181",
+  "copies": [
+   "2024-02-07-s2-q181"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following operator is used as concatenation operator in SQL?",
+  "options": [
+   "A) + +",
+   "B) “ ”",
+   "C) # #",
+   "D) | |"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q182",
+  "copies": [
+   "2024-02-07-s2-q182"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is correct regarding unguided media (wireless)?\nI. Unguided media transport electromagnetic waves without using a physical\nconductor.\nII. Unguided signals can travel from the source to destination in ground propagation\nway.",
+  "options": [
+   "A) Only II",
+   "B) Both I and II",
+   "C) Only I",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

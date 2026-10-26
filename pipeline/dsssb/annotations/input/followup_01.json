@@ -1,0 +1,308 @@
+[
+ {
+  "id": "2024-02-07-s2-q010",
+  "copies": [
+   "2024-02-07-s2-q010"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some\nconclusions based on those statements. Taking the given statements to be true even\nif they seem to be at variance from commonly known facts. Read all the conclusions\nand then decide which of the given conclusion logically follows the given statements.\nStatements:\nI. Some C are D.\nII. Some D are E.\nIII. No E is G.\nConclusion:\nI. Some E are C.\nII. No D is G.\nIII. Some G are C.",
+  "options": [
+   "A) Neither conclusion follows",
+   "B) Only conclusion II follows",
+   "C) Only conclusion I follows",
+   "D) Only conclusion III follows"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q030",
+  "copies": [
+   "2021-set2-q030"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some P are K.\nII. No S is P.\nConclusions:\nI. No P is S.\nII. All S are K.",
+  "options": [
+   "A) Only conclusion I follows",
+   "B) Only conclusion II follows",
+   "C) Both conclusions I and II follows",
+   "D) Neither conclusion follows"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set2-q031",
+  "copies": [
+   "2021-set2-q031"
+  ],
+  "paper": "2021 · Set 2 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All L are J.\nII. No V is L.\nConclusions:\nI. All J are L.\nII. All V are J.\nIII. All L are V.",
+  "options": [
+   "A) Only conclusion I follows",
+   "B) Neither conclusion follows",
+   "C) Both conclusions II and III follows",
+   "D) All conclusion follows"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q030",
+  "copies": [
+   "2021-set3-q030"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some land are hard.\nII. No stone is land.\nConclusions:\nI. Some hard are land.\nII. Some stone are hard.",
+  "options": [
+   "A) Only conclusion I follows",
+   "B) Only conclusion II follows",
+   "C) Both conclusions I and II follows",
+   "D) Neither conclusion follows"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q031",
+  "copies": [
+   "2021-set3-q031"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All A are S.\nII. No D is A.\nConclusions:\nI. Some S are A.\nII. All S are D.\nIII. No A is D.",
+  "options": [
+   "A) Both conclusions I and II follows",
+   "B) Only conclusion III follows",
+   "C) Both conclusions I and III follows",
+   "D) All conclusion follows"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set3-q156",
+  "copies": [
+   "2021-set3-q156"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which modulation technique is applied to a binary signal in figure (a) to achieve figure (b)?",
+  "options": [
+   "A) Amplitude modulation",
+   "B) Frequency modulation",
+   "C) Phase modulation",
+   "D) Quadrature phase shift keying"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set3-q156.png"
+ },
+ {
+  "id": "2021-set3-q160",
+  "copies": [
+   "2021-set3-q160"
+  ],
+  "paper": "2021 · Set 3 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the following.",
+  "options": [
+   "A) a-iii, b-i, c-ii, d-iv",
+   "B) a-iv, b-i, c-ii, d-iii",
+   "C) a-ii, b-iii, c-iv, d-i",
+   "D) a-i, b-iv, c-iii, d-ii"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set3-q160.png"
+ },
+ {
+  "id": "2021-set4-q030",
+  "copies": [
+   "2021-set4-q030"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No ground are land.\nII. Some garden are land.\nConclusions:\nI. Some land are garden.\nII. Some land are ground.",
+  "options": [
+   "A) Only conclusion I follows",
+   "B) Only conclusion II follows",
+   "C) Both conclusions I and II follows",
+   "D) Neither conclusion follows"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q031",
+  "copies": [
+   "2021-set4-q031"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All B are S.\nII. No S are K.\nConclusions:\nI. All S are B.\nII. Some S are B.\nIII. All K are B.",
+  "options": [
+   "A) Both conclusions I and II follows",
+   "B) Only conclusion III follows",
+   "C) Only conclusion II follows",
+   "D) Neither conclusion follows"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q040",
+  "copies": [
+   "2021-set4-q040"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "By folding the given paper, which of the following cube cannot be made?",
+  "options": [
+   "A) I, II and III",
+   "B) I, III and IV",
+   "C) I, II and IV",
+   "D) I, II, III and IV"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q040.png"
+ },
+ {
+  "id": "2021-set4-q118",
+  "copies": [
+   "2021-set4-q118"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which gate is represented by the following truth table?",
+  "options": [
+   "A) NOR",
+   "B) NAND",
+   "C) XOR",
+   "D) XNOR"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set4-q118.png"
+ },
+ {
+  "id": "2021-set5-q030",
+  "copies": [
+   "2021-set5-q030"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No X are Y.\nII. Some Z are Y.\nConclusions:\nI. All Z are X.\nII. No Y is X.",
+  "options": [
+   "A) Only conclusion I follows",
+   "B) Only conclusion II follows",
+   "C) Both conclusions I and II follows",
+   "D) Neither conclusion follows"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q031",
+  "copies": [
+   "2021-set5-q031"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All F are C.\nII. No D is F.\nConclusions:\nI. Some C are F.\nII. All C are D.\nIII. No F is D.",
+  "options": [
+   "A) Both conclusions I and II follows",
+   "B) Only conclusion III follows",
+   "C) Both conclusions I and III follows",
+   "D) All conclusion follows"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set5-q039",
+  "copies": [
+   "2021-set5-q039"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Which answer figure will complete the pattern in the question figure?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q039.png"
+ },
+ {
+  "id": "2021-set5-q040",
+  "copies": [
+   "2021-set5-q040"
+  ],
+  "paper": "2021 · Set 5 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "If a mirror is placed on the line AB, then which of the answer figures is the right image of the given figure?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set5-q040.png"
+ }
+]

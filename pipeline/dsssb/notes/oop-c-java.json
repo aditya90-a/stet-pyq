@@ -1,0 +1,626 @@
+{
+  "slug": "oop-c-java",
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "titleHi": "ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग, C++ एवं जावा",
+  "summary": "Object-oriented concepts and how C++ and Java implement them: classes, constructors, inheritance, overloading, virtual functions, templates and exceptions, plus Java's JVM, data types, packages, interfaces and threads. DSSSB asks many statement-based and output-tracing questions here, so exact rules and outputs matter.",
+  "sections": [
+    {
+      "heading": "OOP concepts: the object model",
+      "level": "basic",
+      "subtopic": "OOP concepts",
+      "body": "**OOP** organises a program around **objects** (data plus the functions that operate on it) instead of procedures. A **class** is a blueprint (user-defined type); an **object** is an instance of a class.\nCore features:\n- **Encapsulation**: wrapping data and functions into a single unit (the class). With access control it gives **data hiding**.\n- **Abstraction**: showing only essential features and hiding implementation details (abstract classes, interfaces).\n- **Inheritance**: a derived (sub) class acquires the properties of a base (super) class, giving **reusability**.\n- **Polymorphism**: \"one name, many forms\"; the same message produces different behaviour (overloading, overriding).\n- **Dynamic binding**: the function body to execute is chosen at run time.\n- **Message passing**: objects communicate by calling each other's methods.\n**Encapsulation, inheritance and polymorphism** are the three concepts every OO language must support; abstraction is often added as a fourth.\n**Simula 67** is regarded as the first OO language and **Smalltalk** as a pure OO language. C++ is hybrid (procedural code is still allowed); Java is not \"pure\" OO because it has primitive types.",
+      "table": {
+        "columns": [
+          "Procedure-oriented (C)",
+          "Object-oriented (C++/Java)"
+        ],
+        "rows": [
+          [
+            "Emphasis on functions/algorithms",
+            "Emphasis on data (objects)"
+          ],
+          [
+            "Top-down design",
+            "Bottom-up design"
+          ],
+          [
+            "Data moves freely between functions (global data)",
+            "Data hidden inside objects; accessed through methods"
+          ],
+          [
+            "Hard to reuse and extend",
+            "Reuse through inheritance and composition"
+          ],
+          [
+            "Examples: C, Pascal, FORTRAN",
+            "Examples: Simula, Smalltalk, C++, Java, C#, Python"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Classes, objects, access specifiers and static members (C++)",
+      "level": "basic",
+      "subtopic": "Classes, objects & constructors",
+      "body": "A C++ class contains **data members** and **member functions**. Access is controlled by three **access specifiers**:\n- `private`: accessible only inside the class (and by its friends). **Default for `class`.**\n- `protected`: like private, but also accessible in derived classes.\n- `public`: accessible from anywhere. **Default for `struct`.**\nMember functions defined inside the class body are implicitly **inline**. A function defined outside uses the **scope resolution operator** `::`, e.g. `void Box::show() { ... }`.\nEvery non-static member function receives a hidden pointer **`this`** pointing to the calling object.\nA **static data member** is shared by all objects (one copy per class) and must be defined once outside the class. A **static member function** can access only static members, has no `this` pointer and can be called as `Class::func()`.\nA **friend function** is not a member, yet it can access private and protected members. Friendship is not inherited, not symmetric and not transitive.\nThe size of an empty class object in C++ is **1 byte** (so that every object has a distinct address).",
+      "code": {
+        "lang": "cpp",
+        "source": "#include <iostream>\nusing namespace std;\n\nclass Counter {\n    static int count;          // one copy shared by all objects\n    int id;\npublic:\n    Counter() { id = ++count; }\n    int getId() const { return id; }\n    static int total() { return count; }\n};\nint Counter::count = 0;        // definition outside the class\n\nint main() {\n    Counter a, b, c;\n    cout << b.getId() << \" \" << Counter::total() << endl;\n    return 0;\n}",
+        "output": "2 3"
+      }
+    },
+    {
+      "heading": "Constructors and destructors",
+      "level": "intermediate",
+      "subtopic": "Classes, objects & constructors",
+      "body": "A **constructor** has the same name as the class, has **no return type (not even void)** and is called automatically when an object is created. Types:\n- **Default constructor**: takes no arguments. If you write no constructor at all, the compiler supplies one; once you write any constructor, the implicit default one is not generated.\n- **Parameterized constructor**: takes arguments, e.g. `Point(int x, int y)`.\n- **Copy constructor**: `Point(const Point &p)`. The parameter must be a **reference**; pass-by-value would itself need a copy and recurse forever. It is invoked when an object is initialised from another object, passed by value or returned by value.\nConstructors can be **overloaded** and can have default arguments, but they **cannot be virtual, static or inherited**.\nA **destructor** `~ClassName()` takes no arguments and returns nothing, so there is only **one per class** (no overloading). It **can be virtual**. It is called automatically when the object goes out of scope or is deleted.\n**Order of calls:** base-class constructor first, then member objects, then the derived constructor body. Destructors run in exactly the **reverse** order. Local objects are destroyed in reverse order of creation.",
+      "code": {
+        "lang": "cpp",
+        "source": "#include <iostream>\nusing namespace std;\n\nclass A {\npublic:\n    A()  { cout << \"A \"; }\n    ~A() { cout << \"~A \"; }\n};\nclass B : public A {\npublic:\n    B()  { cout << \"B \"; }\n    ~B() { cout << \"~B \"; }\n};\n\nint main() {\n    B obj;\n    cout << \"| \";\n    return 0;   // obj destroyed here\n}",
+        "output": "A B | ~B ~A"
+      }
+    },
+    {
+      "heading": "Inheritance: types and visibility modes",
+      "level": "intermediate",
+      "subtopic": "Inheritance & polymorphism",
+      "body": "**Inheritance** creates a new class from an existing one: `class Derived : access-mode Base { ... };`\nTypes of inheritance:\n- **Single**: one base, one derived.\n- **Multiple**: one derived class from two or more bases (`class C : public A, public B`). Supported in C++, **not for classes in Java**.\n- **Multilevel**: A → B → C.\n- **Hierarchical**: several derived classes from one base.\n- **Hybrid**: a combination, e.g. multilevel + multiple.\nThe **diamond problem**: if B and C both derive from A and D derives from B and C, D gets two copies of A. C++ solves this with a **virtual base class**: `class B : virtual public A`.\n**Private members of the base are inherited but never directly accessible** in the derived class. The default inheritance mode is **private for `class`** and **public for `struct`**. Constructors, destructors, friend functions and the assignment operator are not inherited.\nIn Java, `class B extends A` (only one superclass) and `implements` for any number of interfaces; `super` refers to the parent. Every Java class implicitly extends **`Object`**.",
+      "table": {
+        "columns": [
+          "Base member",
+          "public inheritance",
+          "protected inheritance",
+          "private inheritance"
+        ],
+        "rows": [
+          [
+            "public",
+            "public",
+            "protected",
+            "private"
+          ],
+          [
+            "protected",
+            "protected",
+            "protected",
+            "private"
+          ],
+          [
+            "private",
+            "not accessible",
+            "not accessible",
+            "not accessible"
+          ]
+        ]
+      },
+      "diagram": {
+        "title": "Types of inheritance",
+        "ascii": "Single     Multilevel   Multiple     Hierarchical\n  A           A          A     B          A\n  |           |           \\   /          / \\\n  B           B             C           B   C\n              |\n              C\nHybrid (diamond):   A\n                   / \\\n                  B   C\n                   \\ /\n                    D"
+      }
+    },
+    {
+      "heading": "Polymorphism: compile-time vs run-time",
+      "level": "intermediate",
+      "subtopic": "Inheritance & polymorphism",
+      "body": "**Polymorphism** means one interface, many implementations. It is of two kinds:\n- **Compile-time (static, early binding)**: the call is resolved by the compiler. Achieved by **function overloading, operator overloading** and **templates**.\n- **Run-time (dynamic, late binding)**: the call is resolved while the program runs, based on the actual object type. Achieved by **virtual functions** in C++ and **method overriding** in Java.\n**Overloading** = same name, different parameter lists, usually in the same class. **Overriding** = a subclass redefines a method with the same signature as in the superclass.\nIn Java, every non-static, non-private, non-final instance method is virtual by default, so a superclass reference calls the subclass version (shown below). Static methods are not overridden; a subclass static method with the same signature **hides** the parent's. Java overriding rules: same name and parameters; return type same or a subtype (covariant); access cannot be made more restrictive; cannot override `final`, `static` or `private` methods.",
+      "table": {
+        "columns": [
+          "Point",
+          "Overloading",
+          "Overriding"
+        ],
+        "rows": [
+          [
+            "Binding",
+            "Compile time",
+            "Run time"
+          ],
+          [
+            "Where",
+            "Usually same class",
+            "Base and derived class"
+          ],
+          [
+            "Signature",
+            "Must differ (number/type/order of parameters)",
+            "Must be the same"
+          ],
+          [
+            "Return type alone",
+            "Cannot distinguish overloads",
+            "Same or covariant"
+          ],
+          [
+            "Needs inheritance",
+            "No",
+            "Yes"
+          ]
+        ]
+      },
+      "code": {
+        "lang": "java",
+        "source": "class Animal {\n    void sound() { System.out.println(\"Some sound\"); }\n}\nclass Dog extends Animal {\n    @Override\n    void sound() { System.out.println(\"Bark\"); }\n}\npublic class Test {\n    public static void main(String[] args) {\n        Animal a = new Dog();   // superclass reference, subclass object\n        a.sound();              // resolved at run time\n    }\n}",
+        "output": "Bark"
+      }
+    },
+    {
+      "heading": "Function overloading and operator overloading",
+      "level": "intermediate",
+      "subtopic": "Overloading & virtual functions",
+      "body": "**Function overloading**: several functions share a name but differ in the **number, type or order** of parameters. A different **return type alone is not enough** (compile error). Default arguments can make calls **ambiguous**, e.g. `f(int)` and `f(int, int = 0)` both match `f(5)`.\n**Operator overloading** gives an existing operator a meaning for user-defined types using the keyword `operator`, e.g. `Complex operator+(const Complex&)`. Rules:\n- You cannot create new operators or change an operator's **precedence, associativity or number of operands**.\n- Operators that **cannot be overloaded**: `::` (scope resolution), `.` (member access), `.*` (pointer-to-member), `?:` (conditional), `sizeof` (and `typeid`).\n- `=`, `()`, `[]` and `->` can be overloaded only as **member functions**.\n- `<<` and `>>` for streams are normally written as **friend** functions, because the left operand is a stream, not our object.\n- As a member function a **unary** operator takes 0 arguments and a **binary** operator 1; as a friend they take 1 and 2.\nJava does **not** allow user-defined operator overloading; the only built-in exception is `+` for String concatenation. Java does support method overloading.",
+      "code": {
+        "lang": "cpp",
+        "source": "#include <iostream>\nusing namespace std;\n\nclass Complex {\n    int re, im;\npublic:\n    Complex(int r = 0, int i = 0) : re(r), im(i) {}\n    Complex operator+(const Complex &c) const {\n        return Complex(re + c.re, im + c.im);\n    }\n    void show() const { cout << re << \" + \" << im << \"i\" << endl; }\n};\n\nint main() {\n    Complex a(2, 3), b(4, 5);\n    Complex c = a + b;      // calls a.operator+(b)\n    c.show();\n    return 0;\n}",
+        "output": "6 + 8i"
+      }
+    },
+    {
+      "heading": "Virtual functions, pure virtual functions and abstract classes",
+      "level": "advanced",
+      "subtopic": "Overloading & virtual functions",
+      "body": "A **virtual function** is declared with the keyword `virtual` in the base class. When it is called through a **base-class pointer or reference**, the version of the **actual object's class** runs (late binding). A non-virtual function is chosen by the **pointer's type** (early binding).\nImplementation: each class with virtual functions has a **vtable**; each object holds a hidden **vptr** to it.\nA **pure virtual function** has no body in the base: `virtual void draw() = 0;`. A class with at least one pure virtual function is an **abstract class**: you cannot create its objects, but you can have pointers and references to it. A derived class that does not override every pure virtual function is also abstract.\nKey rules:\n- **Constructors cannot be virtual**; **destructors can and should be** virtual in a base class used polymorphically, otherwise `delete basePtr` may skip the derived destructor (undefined behaviour).\n- Static member functions and friend functions cannot be virtual.\n- Calling through an **object** (not pointer/reference) uses static binding; assigning a derived object to a base object **slices** it.\nJava equivalent: `abstract` methods and classes; an abstract class may have constructors and concrete methods.",
+      "code": {
+        "lang": "cpp",
+        "source": "#include <iostream>\nusing namespace std;\n\nclass Shape {\npublic:\n    void name()         { cout << \"Shape\" << endl; }\n    virtual void draw() { cout << \"Shape::draw\" << endl; }\n    virtual ~Shape() {}\n};\nclass Circle : public Shape {\npublic:\n    void name() { cout << \"Circle\" << endl; }\n    void draw() { cout << \"Circle::draw\" << endl; }\n};\n\nint main() {\n    Shape *p = new Circle();\n    p->name();   // non-virtual: decided by pointer type\n    p->draw();   // virtual: decided by object type\n    delete p;\n    return 0;\n}",
+        "output": "Shape\nCircle::draw"
+      }
+    },
+    {
+      "heading": "Templates and exception handling in C++",
+      "level": "advanced",
+      "subtopic": "Templates & exceptions",
+      "body": "**Templates** support **generic programming**: one definition works for many types. The compiler instantiates a version per type at **compile time** (compile-time polymorphism).\n- Function template: `template <typename T> T maxOf(T a, T b)`.\n- Class template: `template <class T> class Stack { T arr[50]; ... };` used as `Stack<int> s;`.\nThe **STL** (Standard Template Library) is built on templates: **containers** (vector, list, deque, stack, queue, map, set), **algorithms** (sort, find, reverse) and **iterators**.\n**Exception handling** separates error handling from normal code using three keywords:\n- `try`: block that may raise an exception.\n- `throw`: raises an exception (any type: int, string, object).\n- `catch`: handles it. `catch(...)` catches **every** exception and must be the last handler.\nAfter a `throw`, control jumps to the first matching `catch`; the rest of the `try` block is skipped and local objects are destroyed (**stack unwinding**). If no handler matches, `std::terminate()` is called. C++ has no `finally`; cleanup is done by destructors (RAII).",
+      "code": {
+        "lang": "cpp",
+        "source": "#include <iostream>\nusing namespace std;\n\ntemplate <typename T>\nT maxOf(T a, T b) { return (a > b) ? a : b; }\n\nint divide(int a, int b) {\n    if (b == 0) throw \"Division by zero\";\n    return a / b;\n}\n\nint main() {\n    cout << maxOf(3, 7) << \" \" << maxOf(2.5, 1.5) << \" \"\n         << maxOf('a', 'z') << endl;\n    try {\n        cout << divide(10, 2) << endl;\n        cout << divide(1, 0) << endl;      // throws\n        cout << \"skipped\" << endl;\n    } catch (const char *msg) {\n        cout << \"Caught: \" << msg << endl;\n    }\n    cout << \"End\" << endl;\n    return 0;\n}",
+        "output": "7 2.5 z\n5\nCaught: Division by zero\nEnd"
+      }
+    },
+    {
+      "heading": "Exception handling in Java",
+      "level": "intermediate",
+      "subtopic": "Templates & exceptions",
+      "body": "All Java exceptions derive from **`Throwable`**, which has two subclasses: **`Error`** (serious JVM problems such as `OutOfMemoryError`, `StackOverflowError`; not normally caught) and **`Exception`**.\n- **Checked exceptions** are checked by the compiler; they must be caught or declared with `throws`. Examples: `IOException`, `FileNotFoundException`, `SQLException`, `ClassNotFoundException`, `InterruptedException`.\n- **Unchecked exceptions** are `RuntimeException` and its subclasses: `ArithmeticException`, `NullPointerException`, `ArrayIndexOutOfBoundsException`, `NumberFormatException`, `ClassCastException`.\nKeywords: `try`, `catch`, `finally`, `throw` (raises one exception object) and `throws` (declares in the method header which exceptions it may pass on).\nThe **`finally`** block runs whether or not an exception occurs (it is skipped only if the JVM stops, e.g. `System.exit()`). When several `catch` blocks are used, a **subclass must be caught before its superclass**; otherwise the later block is unreachable and the code does not compile.\nDo not confuse `final` (keyword), `finally` (block) and `finalize()` (deprecated garbage-collector hook).",
+      "diagram": {
+        "title": "Java exception hierarchy",
+        "ascii": "              Object\n                |\n            Throwable\n           /         \\\n       Error        Exception\n         |          /        \\\n OutOfMemoryError  IOException   RuntimeException\n StackOverflow-    SQLException  (unchecked)\n Error             (checked)      ArithmeticException\n                                  NullPointerException"
+      },
+      "code": {
+        "lang": "java",
+        "source": "public class ExDemo {\n    static int divide(int a, int b) { return a / b; }\n\n    public static void main(String[] args) {\n        try {\n            System.out.println(divide(10, 2));\n            System.out.println(divide(5, 0));\n            System.out.println(\"not printed\");\n        } catch (ArithmeticException e) {\n            System.out.println(\"Caught: \" + e.getMessage());\n        } finally {\n            System.out.println(\"finally runs\");\n        }\n    }\n}",
+        "output": "5\nCaught: / by zero\nfinally runs"
+      }
+    },
+    {
+      "heading": "Java basics: features, JDK, JRE and JVM",
+      "level": "basic",
+      "subtopic": "Java basics & JVM",
+      "body": "Java was developed by **James Gosling** and his team at **Sun Microsystems** (originally named **Oak**). Key features: simple, object-oriented, **platform independent** (\"write once, run anywhere\"), architecture neutral, portable, robust (strong typing, no explicit pointers, automatic **garbage collection**), secure, multithreaded and distributed.\nHow a program runs:\n- `javac Hello.java` compiles source into **bytecode** stored in `Hello.class`.\n- `java Hello` starts the **JVM**, which loads, verifies and executes the bytecode.\n- Inside the JVM: **class loader**, **bytecode verifier**, **execution engine** (interpreter + **JIT compiler** that converts frequently used bytecode to native code) and **garbage collector**.\nBytecode is platform independent; the **JVM itself is platform dependent**.\n**JDK** = JRE + development tools. **JRE** = JVM + core libraries.\nEntry point: `public static void main(String[] args)`. A file may hold only one `public` class, named like the file. All Java functions are members of some class and are called **methods**; they cannot be defined outside a class.",
+      "table": {
+        "columns": [
+          "Tool",
+          "Purpose"
+        ],
+        "rows": [
+          [
+            "javac",
+            "Java compiler: .java source to .class bytecode"
+          ],
+          [
+            "java",
+            "Launcher: starts the JVM and runs a class"
+          ],
+          [
+            "javadoc",
+            "Generates API-style HTML documentation from comments"
+          ],
+          [
+            "javap",
+            "Class-file disassembler: shows members/bytecode of a .class file"
+          ],
+          [
+            "jdb",
+            "Java debugger"
+          ],
+          [
+            "jar",
+            "Packs classes into a .jar archive"
+          ],
+          [
+            "appletviewer",
+            "Ran applets without a browser (applets are now obsolete)"
+          ]
+        ]
+      },
+      "diagram": {
+        "title": "From source code to execution",
+        "ascii": "Hello.java --javac--> Hello.class (bytecode)\n                            |\n                 +----------v-----------+\n                 | JVM: class loader    |\n                 |      bytecode verify |\n                 |      interpreter+JIT |\n                 +----------+-----------+\n                            v\n                 native machine code (OS/CPU)"
+      }
+    },
+    {
+      "heading": "Java data types, operators and strings",
+      "level": "intermediate",
+      "subtopic": "Java basics & JVM",
+      "body": "Java has 8 **primitive types** with fixed sizes on every platform (see table); everything else is a reference type. Integer literals are `int` and decimal literals are `double` by default (`3.5f` for float, `10L` for long). `char` is a 16-bit **Unicode** (UTF-16) code unit, and `boolean` holds only `true`/`false` (not 0/1).\n**Type promotion**: in an expression, byte, short and char are promoted to int, so `byte c = a + b;` needs a cast.\nOperators to remember: `>>` (signed right shift), `>>>` (unsigned right shift, fills with 0), `&`, `|`, `^`, `~`, and the short-circuit `&&`, `||`. Relational operators are `<`, `<=`, `>`, `>=`, `==`, `!=` (`=>` is not an operator). `instanceof` tests the type of an object.\n**Strings**: `String` objects are **immutable**. `==` compares references; use `equals()` to compare contents. `StringBuffer` (synchronized) and `StringBuilder` (faster, not synchronized) are mutable.\n`+` is evaluated **left to right**: once a String appears, later operands are concatenated as text, but numbers before the first String are added arithmetically.",
+      "table": {
+        "columns": [
+          "Type",
+          "Size",
+          "Default value",
+          "Range / note"
+        ],
+        "rows": [
+          [
+            "byte",
+            "1 byte",
+            "0",
+            "-128 to 127"
+          ],
+          [
+            "short",
+            "2 bytes",
+            "0",
+            "-32,768 to 32,767"
+          ],
+          [
+            "int",
+            "4 bytes",
+            "0",
+            "-2³¹ to 2³¹ - 1"
+          ],
+          [
+            "long",
+            "8 bytes",
+            "0L",
+            "-2⁶³ to 2⁶³ - 1"
+          ],
+          [
+            "float",
+            "4 bytes",
+            "0.0f",
+            "IEEE 754 single precision"
+          ],
+          [
+            "double",
+            "8 bytes",
+            "0.0d",
+            "IEEE 754 double precision"
+          ],
+          [
+            "char",
+            "2 bytes",
+            "'\\u0000'",
+            "0 to 65,535 (Unicode)"
+          ],
+          [
+            "boolean",
+            "JVM-dependent",
+            "false",
+            "true / false only"
+          ]
+        ]
+      },
+      "code": {
+        "lang": "java",
+        "source": "public class Demo {\n    public static void main(String[] args) {\n        System.out.println(\"A\" + 1 + 2);\n        System.out.println(1 + 2 + \"A\");\n        System.out.println('a' + 1);\n        System.out.println(7 / 2 + \" \" + 7 % 3 + \" \" + 7.0 / 2);\n        int x = 5;\n        int y = x++ + ++x;      // 5 + 7\n        System.out.println(x + \" \" + y);\n    }\n}",
+        "output": "A12\n3A\n98\n3 1 3.5\n7 12"
+      }
+    },
+    {
+      "heading": "Packages, access modifiers and interfaces in Java",
+      "level": "intermediate",
+      "subtopic": "Java packages, interfaces & threads",
+      "body": "A **package** groups related classes and interfaces and provides a namespace. `package mypack;` must be the **first statement** in the file; `import java.util.*;` or `import java.util.Scanner;` brings in classes. **`java.lang` is imported automatically** (String, Math, System, Object, Thread, wrapper classes such as Integer).\nCommon packages: `java.util`, `java.io`, `java.net`, `java.awt`/`javax.swing` (GUI), `java.sql`.\nImportant keywords: `final` (variable = constant, method = cannot be overridden, class = cannot be inherited, e.g. String), `static` (belongs to the class), `this`, `super` (`super()` must be the first statement of a constructor).\nAn **interface** is a fully abstract type: its methods are `public abstract` by default and its variables are `public static final` constants. Since Java 8 an interface may also contain `default` and `static` methods. A class **implements** any number of interfaces, and an interface can **extend** several interfaces, which gives Java multiple inheritance of type without the diamond problem for state.",
+      "table": {
+        "columns": [
+          "Modifier",
+          "Same class",
+          "Same package",
+          "Subclass (other package)",
+          "Everywhere"
+        ],
+        "rows": [
+          [
+            "private",
+            "Yes",
+            "No",
+            "No",
+            "No"
+          ],
+          [
+            "default (none)",
+            "Yes",
+            "Yes",
+            "No",
+            "No"
+          ],
+          [
+            "protected",
+            "Yes",
+            "Yes",
+            "Yes",
+            "No"
+          ],
+          [
+            "public",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Abstract class vs interface",
+      "level": "intermediate",
+      "subtopic": "Java packages, interfaces & threads",
+      "body": "Neither can be instantiated with `new`. Use an **abstract class** when related classes share state and code; use an **interface** for a capability that unrelated classes share (e.g. `Runnable`, `Comparable`).",
+      "table": {
+        "columns": [
+          "Feature",
+          "Abstract class",
+          "Interface"
+        ],
+        "rows": [
+          [
+            "Keyword",
+            "abstract class / extends",
+            "interface / implements"
+          ],
+          [
+            "Methods",
+            "Abstract and concrete",
+            "Abstract; default and static since Java 8"
+          ],
+          [
+            "Variables",
+            "Any kind (instance, static, final or not)",
+            "Only public static final constants"
+          ],
+          [
+            "Constructors",
+            "Allowed",
+            "Not allowed"
+          ],
+          [
+            "Multiple inheritance",
+            "A class extends only one",
+            "A class implements many"
+          ],
+          [
+            "Default member access",
+            "Package (default)",
+            "public"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Multithreading in Java",
+      "level": "advanced",
+      "subtopic": "Java packages, interfaces & threads",
+      "body": "A **thread** is a lightweight unit of execution within a process; threads of a process share its memory. Two ways to create one:\n- **Extend `Thread`** and override `run()`.\n- **Implement `Runnable`** (single method `run()`) and pass the object to `new Thread(r)`. Preferred, because the class can still extend another class.\n`start()` creates a new thread which then calls `run()`. Calling `run()` directly just executes it in the current thread like an ordinary method. Calling `start()` twice on the same thread throws `IllegalThreadStateException`.\nLife cycle (textbook): **New → Runnable → Running → Blocked/Waiting → Dead (Terminated)**. The `Thread.State` enum lists NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, TERMINATED.\nUseful methods: `sleep(ms)` (static, keeps locks), `join()` (wait for a thread to finish), `yield()`, `isAlive()`. Priorities run from **1 (MIN_PRIORITY) to 10 (MAX_PRIORITY)**; the default is **5 (NORM_PRIORITY)**.\n**Synchronization**: a `synchronized` method or block lets only one thread hold an object's lock (monitor) at a time. `wait()`, `notify()` and `notifyAll()` belong to the **Object** class, must be called while holding the lock, and `wait()` releases the lock.",
+      "code": {
+        "lang": "java",
+        "source": "class Worker extends Thread {\n    public void run() {\n        System.out.println(\"Worker running\");\n    }\n}\npublic class Main {\n    public static void main(String[] args) throws InterruptedException {\n        Worker t = new Worker();\n        t.start();   // new thread executes run()\n        t.join();    // main waits until t finishes\n        System.out.println(\"Main done\");\n    }\n}",
+        "output": "Worker running\nMain done"
+      }
+    }
+  ],
+  "formulas": [
+    {
+      "name": "Range of an n-bit signed integer (two's complement)",
+      "formula": "-2ⁿ⁻¹ to 2ⁿ⁻¹ - 1",
+      "note": "byte (8 bits): -128 to 127; int (32 bits): -2,147,483,648 to 2,147,483,647."
+    },
+    {
+      "name": "Bitwise NOT",
+      "formula": "~x = -(x + 1)",
+      "note": "Holds for two's complement integers in C++ and Java, e.g. ~12 = -13."
+    },
+    {
+      "name": "Shift operators",
+      "formula": "x << k = x × 2ᵏ ;  x >> k = ⌊x ÷ 2ᵏ⌋",
+      "note": "Valid while no overflow occurs; >> on a negative int rounds toward minus infinity (arithmetic shift). In Java, >>> fills with zeros."
+    },
+    {
+      "name": "Arguments of an overloaded operator",
+      "formula": "member function: arity - 1 ;  friend function: arity",
+      "note": "Unary member takes 0, binary member takes 1; unary friend takes 1, binary friend takes 2."
+    },
+    {
+      "name": "Java thread priorities",
+      "formula": "MIN_PRIORITY = 1, NORM_PRIORITY = 5, MAX_PRIORITY = 10",
+      "note": "A new thread inherits the priority of the thread that created it (main thread has 5)."
+    }
+  ],
+  "workedExamples": [
+    {
+      "problem": "class M, class A and class B each print their name in the constructor and \"~name\" in the destructor. class C : public B, public A { M m; } does the same. What is printed when an object of C is created in main() and main() ends?",
+      "solution": "Rule: base classes are constructed in the order they are **listed in the class declaration**, then member objects in declaration order, then the body of C's constructor.\n- Bases listed as B, A → B, then A\n- Member object m → M\n- C's own body → C\nConstruction: **B A M C**\nDestruction is the exact reverse: **~C ~M ~A ~B**.\nNote that the order in the constructor's initializer list does not change this."
+    },
+    {
+      "problem": "class Base { private: int a; protected: int b; public: int c; };\nclass D1 : protected Base { };\nclass D2 : public D1 { };\nWhat is the access level of a, b and c inside D2, and which of them can main() access through a D2 object?",
+      "solution": "Step 1 (Base → D1, protected mode): public c → protected; protected b → protected; private a → not accessible.\nStep 2 (D1 → D2, public mode): protected members stay protected, so b and c are **protected** in D2; a remains **inaccessible**.\nmain() is outside the hierarchy, so through a D2 object it can access **none** of a, b, c."
+    },
+    {
+      "problem": "Give the output of the Java statements:\nSystem.out.println(10 + 20 + \"Java\" + 10 + 20);\nSystem.out.println(\"\" + 'A' + 'B');\nSystem.out.println('A' + 'B' + \"\");",
+      "solution": "`+` is evaluated left to right.\n- 10 + 20 = 30 (both int); 30 + \"Java\" = \"30Java\"; then + 10 → \"30Java10\"; + 20 → **30Java1020**\n- \"\" + 'A' = \"A\"; + 'B' → **AB**\n- 'A' + 'B' is char + char = int: 65 + 66 = 131; 131 + \"\" → **131**"
+    },
+    {
+      "problem": "C++: class P { public: virtual void f() { cout << \"P.f \"; } void g() { cout << \"P.g \"; } };\nclass Q : public P { public: void f() { cout << \"Q.f \"; } void g() { cout << \"Q.g \"; } };\nIn main: P *p = new Q; Q q; P &r = q; P obj = q;\np->f(); p->g(); r.f(); obj.f();   What is printed?",
+      "solution": "- p->f(): f is virtual and p points to a Q object → **Q.f**\n- p->g(): g is not virtual, so the pointer type P decides → **P.g**\n- r.f(): a reference also uses dynamic binding; r refers to a Q → **Q.f**\n- obj.f(): obj is a P object (the Q part was sliced off when copied) → **P.f**\nOutput: **Q.f P.g Q.f P.f**"
+    },
+    {
+      "problem": "Java: int a = 12, b = 10; Find a & b, a | b, a ^ b, ~a, a << 2, a >> 2 and -16 >>> 28.",
+      "solution": "12 = 1100, 10 = 1010 (binary)\n- a & b = 1000 = **8**\n- a | b = 1110 = **14**\n- a ^ b = 0110 = **6**\n- ~a = -(12 + 1) = **-13**\n- a << 2 = 12 × 4 = **48**\n- a >> 2 = 12 ÷ 4 = **3**\n- -16 in 32 bits = 1111 ... 1111 0000 (0xFFFFFFF0). >>> 28 shifts in zeros and keeps the top 4 bits 1111 → **15**"
+    }
+  ],
+  "pitfalls": [
+    "Default access is private in a C++ class but public in a struct; default inheritance mode follows the same rule.",
+    "Constructors have no return type, not even void, and can never be virtual; destructors can (and in polymorphic base classes should) be virtual.",
+    "A copy constructor must take its parameter by reference; taking it by value would require infinite recursive copying.",
+    "Functions that differ only in return type are not valid overloads.",
+    "::, ., .*, ?: and sizeof cannot be overloaded; overloading never changes precedence, associativity or the number of operands.",
+    "Calling run() instead of start() does not create a new thread in Java.",
+    "In Java == on Strings compares references; equals() compares contents.",
+    "Java has no multiple inheritance of classes, but a class can implement several interfaces.",
+    "In a Java multi-catch sequence, catching a superclass (Exception) before a subclass (ArithmeticException) is a compile-time error.",
+    "Java protected is wider than C++ protected: it also allows access from any class in the same package."
+  ],
+  "quickRevision": [
+    "Three essential OOP concepts: encapsulation, inheritance, polymorphism (abstraction is the fourth pillar).",
+    "Simula 67 was the first OO language; Smalltalk is pure OO; C++ is hybrid.",
+    "Encapsulation + access control = data hiding.",
+    "Static data member: one copy per class, defined outside the class; static functions have no this pointer.",
+    "Construction: base → members → derived; destruction in reverse.",
+    "Diamond problem in C++ is solved by a virtual base class.",
+    "Compile-time polymorphism: overloading and templates; run-time polymorphism: virtual functions / overriding.",
+    "A class with a pure virtual function (= 0) is abstract and cannot be instantiated.",
+    "catch(...) catches all exceptions in C++; C++ has no finally block.",
+    "javac produces bytecode (.class); the JVM runs it using an interpreter and JIT compiler.",
+    "javap disassembles class files; javadoc generates HTML API documentation.",
+    "JDK = JRE + tools; JRE = JVM + libraries; JVM is platform dependent, bytecode is not.",
+    "java.lang is imported automatically; Object is the root of all Java classes.",
+    "Interface variables are public static final; methods are public abstract unless default/static.",
+    "wait(), notify() and notifyAll() are methods of Object; sleep() is a static method of Thread."
+  ],
+  "flashcards": [
+    {
+      "front": "What is encapsulation?",
+      "back": "Binding data and the functions that operate on it into one unit (class); with access specifiers it provides data hiding."
+    },
+    {
+      "front": "Default access specifier of a C++ class and of a struct?",
+      "back": "class: private; struct: public."
+    },
+    {
+      "front": "Why must a copy constructor take a reference parameter?",
+      "back": "Passing by value would call the copy constructor again, causing infinite recursion."
+    },
+    {
+      "front": "Order of constructor calls in multilevel inheritance A → B → C?",
+      "back": "A, then B, then C; destructors run C, B, A."
+    },
+    {
+      "front": "Which C++ operators cannot be overloaded?",
+      "back": ":: (scope resolution), . (member access), .* (pointer-to-member), ?: (conditional), sizeof (and typeid)."
+    },
+    {
+      "front": "What makes a C++ class abstract?",
+      "back": "At least one pure virtual function, e.g. virtual void f() = 0;"
+    },
+    {
+      "front": "Why declare a base-class destructor virtual?",
+      "back": "So that delete through a base pointer also runs the derived destructor."
+    },
+    {
+      "front": "What is a virtual base class used for?",
+      "back": "To keep only one copy of a common base in diamond-shaped (hybrid/multiple) inheritance."
+    },
+    {
+      "front": "Early binding vs late binding?",
+      "back": "Early (static): call fixed at compile time, e.g. overloading. Late (dynamic): fixed at run time, e.g. virtual functions."
+    },
+    {
+      "front": "What does the Java compiler produce?",
+      "back": "Bytecode in a .class file, executed by the JVM."
+    },
+    {
+      "front": "What does javap do?",
+      "back": "Disassembles a .class file, listing its fields, methods and (with -c) bytecode."
+    },
+    {
+      "front": "Size of char and boolean in Java?",
+      "back": "char: 2 bytes (16-bit Unicode). boolean: size not fixed by the specification; values are only true/false."
+    },
+    {
+      "front": "final class and final method in Java?",
+      "back": "A final class cannot be inherited; a final method cannot be overridden."
+    },
+    {
+      "front": "Checked vs unchecked exceptions?",
+      "back": "Checked (e.g. IOException) must be caught or declared with throws; unchecked are RuntimeException subclasses (e.g. ArithmeticException)."
+    },
+    {
+      "front": "throw vs throws?",
+      "back": "throw raises an exception object; throws in a method header declares exceptions the method may pass on."
+    },
+    {
+      "front": "Two ways to create a thread in Java?",
+      "back": "Extend Thread and override run(), or implement Runnable and pass it to a Thread object; then call start()."
+    },
+    {
+      "front": "Default priority of a Java thread?",
+      "back": "5 (NORM_PRIORITY); the range is 1 to 10."
+    },
+    {
+      "front": "Package imported by default in every Java program?",
+      "back": "java.lang"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Object",
+      "hi": "ऑब्जेक्ट / वस्तु"
+    },
+    {
+      "en": "Class",
+      "hi": "क्लास / वर्ग"
+    },
+    {
+      "en": "Encapsulation",
+      "hi": "एनकैप्सुलेशन / संपुटीकरण"
+    },
+    {
+      "en": "Data hiding",
+      "hi": "डेटा छिपाव"
+    },
+    {
+      "en": "Abstraction",
+      "hi": "अमूर्तन"
+    },
+    {
+      "en": "Inheritance",
+      "hi": "इनहेरिटेंस / वंशानुक्रम"
+    },
+    {
+      "en": "Polymorphism",
+      "hi": "बहुरूपता"
+    },
+    {
+      "en": "Constructor",
+      "hi": "कंस्ट्रक्टर / निर्माता फलन"
+    },
+    {
+      "en": "Destructor",
+      "hi": "डिस्ट्रक्टर / विनाशक फलन"
+    },
+    {
+      "en": "Overloading",
+      "hi": "ओवरलोडिंग / अधिभारण"
+    },
+    {
+      "en": "Overriding",
+      "hi": "ओवरराइडिंग / अधिलेखन"
+    },
+    {
+      "en": "Exception handling",
+      "hi": "अपवाद प्रबंधन"
+    },
+    {
+      "en": "Interface",
+      "hi": "इंटरफ़ेस / अंतरापृष्ठ"
+    },
+    {
+      "en": "Thread",
+      "hi": "थ्रेड / सूत्र"
+    },
+    {
+      "en": "Bytecode",
+      "hi": "बाइटकोड"
+    }
+  ]
+}

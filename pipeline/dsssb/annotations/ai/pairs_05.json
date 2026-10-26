@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2021-set2-q051",
+  "b": "2021-set3-q050",
+  "verdict": "different",
+  "reason": "Ratio of three numbers via sum of squares vs ratio from sum and difference; different problems."
+ },
+ {
+  "a": "2021-set2-q051",
+  "b": "2021-set4-q051",
+  "verdict": "different",
+  "reason": "Both ratio problems but A uses sum of squares, B uses plain sum; different data and answers."
+ },
+ {
+  "a": "2021-set2-q051",
+  "b": "2021-set5-q050",
+  "verdict": "different",
+  "reason": "A finds largest from sum of squares; B finds sum of squares from sum; different computations."
+ },
+ {
+  "a": "2021-set2-q052",
+  "b": "2021-set4-q052",
+  "verdict": "concept",
+  "reason": "Both apply simple interest formula R = (n-1)x100/T for a sum becoming n times."
+ },
+ {
+  "a": "2021-set2-q054",
+  "b": "2021-set5-q054",
+  "verdict": "concept",
+  "reason": "Both include the catch-up (relative speed) statement for B chasing A; other statements and answers differ."
+ },
+ {
+  "a": "2021-set2-q055",
+  "b": "2021-set4-q055",
+  "verdict": "different",
+  "reason": "Efficiency-based combined work vs partner leaving midway; different work problems."
+ },
+ {
+  "a": "2021-set2-q055",
+  "b": "2021-set5-q055",
+  "verdict": "different",
+  "reason": "Efficiency-based work vs finding third worker's time; different work problems."
+ },
+ {
+  "a": "2021-set2-q056",
+  "b": "2021-set2-q057",
+  "verdict": "different",
+  "reason": "Rhombus diagonals vs cylinder height; different mensuration problems."
+ },
+ {
+  "a": "2021-set2-q057",
+  "b": "2021-set3-q057",
+  "verdict": "different",
+  "reason": "Cylinder height from TSA vs melting hemisphere into cylinders; different problems."
+ },
+ {
+  "a": "2021-set2-q057",
+  "b": "2023-06-24-s2-q056",
+  "verdict": "different",
+  "reason": "Cylinder height from TSA vs base perimeter from volume; different problems."
+ },
+ {
+  "a": "2021-set2-q061",
+  "b": "2021-set3-q061",
+  "verdict": "different",
+  "reason": "Videshaj word vs gunvachak visheshan; different grammar topics."
+ },
+ {
+  "a": "2021-set2-q061",
+  "b": "2021-set3-q063",
+  "verdict": "different",
+  "reason": "Videshaj word vs words formed with suffix; different topics."
+ },
+ {
+  "a": "2021-set2-q061",
+  "b": "2021-set3-q065",
+  "verdict": "different",
+  "reason": "Videshaj word vs incorrect word pair; different topics."
+ },
+ {
+  "a": "2021-set2-q061",
+  "b": "2023-06-24-s2-q097",
+  "verdict": "different",
+  "reason": "Videshaj word vs synonym of kewal; different topics."
+ },
+ {
+  "a": "2021-set2-q062",
+  "b": "2021-set2-q065",
+  "verdict": "different",
+  "reason": "Samas identification vs antonym; different topics."
+ },
+ {
+  "a": "2021-set2-q062",
+  "b": "2021-set5-q061",
+  "verdict": "different",
+  "reason": "Samas of different words (anusmarak vs garudadhwaj); different facts and answers."
+ },
+ {
+  "a": "2021-set2-q062",
+  "b": "2021-set5-q063",
+  "verdict": "different",
+  "reason": "Samas vs type of noun; different topics."
+ },
+ {
+  "a": "2021-set2-q063",
+  "b": "2021-set2-q065",
+  "verdict": "different",
+  "reason": "Sandhi vichchhed vs antonym; different topics."
+ },
+ {
+  "a": "2021-set2-q064",
+  "b": "2021-set2-q065",
+  "verdict": "different",
+  "reason": "Antonyms of different words (dayalu vs anurag)."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set3-q064",
+  "verdict": "different",
+  "reason": "Antonym vs word-pair meaning; different topics."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set3-q067",
+  "verdict": "different",
+  "reason": "Antonym vs word-pair meaning; different topics."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set4-q065",
+  "verdict": "different",
+  "reason": "Antonyms of different words (anurag vs agragami)."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set4-q069",
+  "verdict": "different",
+  "reason": "Antonym vs karak; different topics."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set5-q061",
+  "verdict": "different",
+  "reason": "Antonym vs samas; different topics."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set5-q064",
+  "verdict": "different",
+  "reason": "Antonym vs word-pair meaning; different topics."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set5-q066",
+  "verdict": "different",
+  "reason": "Antonym vs word-pair meaning; different topics."
+ },
+ {
+  "a": "2021-set2-q065",
+  "b": "2021-set5-q067",
+  "verdict": "different",
+  "reason": "Antonyms of different words (anurag vs alpapran)."
+ },
+ {
+  "a": "2021-set2-q066",
+  "b": "2021-set4-q071",
+  "verdict": "different",
+  "reason": "Synonym exclusion vs simple sentence; different topics."
+ },
+ {
+  "a": "2021-set2-q066",
+  "b": "2023-06-24-s2-q093",
+  "verdict": "different",
+  "reason": "'Not a synonym' for different words (akinchan vs thakan)."
+ },
+ {
+  "a": "2021-set2-q066",
+  "b": "2023-06-24-s2-q097",
+  "verdict": "different",
+  "reason": "'Not a synonym' for different words (akinchan vs kewal)."
+ },
+ {
+  "a": "2021-set2-q067",
+  "b": "2021-set2-q073",
+  "verdict": "different",
+  "reason": "Spelling vs punctuation; different topics."
+ },
+ {
+  "a": "2021-set2-q067",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "Spelling vs punctuation; different topics."
+ },
+ {
+  "a": "2021-set2-q067",
+  "b": "2021-set4-q066",
+  "verdict": "different",
+  "reason": "Correct spelling of different words (kalindi vs vindhyachal)."
+ },
+ {
+  "a": "2021-set2-q068",
+  "b": "2021-set3-q064",
+  "verdict": "different",
+  "reason": "Vritti of sentence vs word-pair meaning; different topics."
+ },
+ {
+  "a": "2021-set2-q068",
+  "b": "2021-set4-q069",
+  "verdict": "different",
+  "reason": "Vritti vs karak; different topics."
+ },
+ {
+  "a": "2021-set2-q068",
+  "b": "2021-set5-q063",
+  "verdict": "different",
+  "reason": "Vritti vs type of noun; different topics."
+ },
+ {
+  "a": "2021-set2-q069",
+  "b": "2021-set5-q069",
+  "verdict": "different",
+  "reason": "Purush identification vs paksh identification; different grammar concepts."
+ },
+ {
+  "a": "2021-set2-q071",
+  "b": "2021-set5-q068",
+  "verdict": "different",
+  "reason": "Compound sentence vs nitya ekvachan word; different topics."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set2-q073",
+  "verdict": "different",
+  "reason": "Question mark vs exclamation mark sentences; different answers and rules."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set3-q066",
+  "verdict": "different",
+  "reason": "Punctuation vs one-word substitution; different topics."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set3-q072",
+  "verdict": "different",
+  "reason": "Question mark vs semicolon; different punctuation rules."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "Question mark vs exclamation mark; different rules."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set4-q072",
+  "verdict": "different",
+  "reason": "Question mark vs exclamation mark; different rules."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set4-q073",
+  "verdict": "concept",
+  "reason": "Both test use of question mark (prashnavachak) for an interrogative sentence."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set5-q065",
+  "verdict": "different",
+  "reason": "Punctuation vs fill in the blank; different topics."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set5-q072",
+  "verdict": "different",
+  "reason": "Question mark vs exclamation mark; different rules."
+ },
+ {
+  "a": "2021-set2-q072",
+  "b": "2021-set5-q073",
+  "verdict": "concept",
+  "reason": "Both test question mark (prashnavachak) at end of interrogative sentence."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set3-q066",
+  "verdict": "different",
+  "reason": "Punctuation vs one-word substitution; different topics."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set3-q072",
+  "verdict": "different",
+  "reason": "Exclamation mark vs semicolon; different rules."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set3-q073",
+  "verdict": "concept",
+  "reason": "Both test exclamation mark after interjection-led exclamatory sentence (baap re / are)."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set4-q064",
+  "verdict": "different",
+  "reason": "Punctuation vs one-word substitution; different topics."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set4-q072",
+  "verdict": "concept",
+  "reason": "Both test exclamation mark for exclamatory/surprise sentence."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set4-q073",
+  "verdict": "different",
+  "reason": "Exclamation mark vs question mark; different rules."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set5-q072",
+  "verdict": "concept",
+  "reason": "Both test exclamation mark (vismayadibodhak) after interjection."
+ },
+ {
+  "a": "2021-set2-q073",
+  "b": "2021-set5-q073",
+  "verdict": "different",
+  "reason": "Exclamation mark vs question mark; different rules."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set2-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q074",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q075",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q075",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q075",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q075",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q075",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q075",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q076",
+  "b": "2021-set2-q077",
+  "verdict": "different",
+  "reason": "Same passage but asks when the trade fair is held vs who organises it."
+ },
+ {
+  "a": "2021-set2-q077",
+  "b": "2021-set2-q079",
+  "verdict": "different",
+  "reason": "Same passage but asks who organises the fair vs what the ministry organises."
+ },
+ {
+  "a": "2021-set2-q080",
+  "b": "2021-set3-q080",
+  "verdict": "different",
+  "reason": "Title questions on different passages (trade fair vs Republic Day)."
+ },
+ {
+  "a": "2021-set2-q080",
+  "b": "2021-set4-q080",
+  "verdict": "different",
+  "reason": "Title questions on different passages (trade fair vs internet)."
+ },
+ {
+  "a": "2021-set2-q080",
+  "b": "2021-set5-q080",
+  "verdict": "different",
+  "reason": "Title questions on different passages (trade fair vs green revolution)."
+ },
+ {
+  "a": "2021-set2-q081",
+  "b": "2021-set2-q082",
+  "verdict": "different",
+  "reason": "Error spotting in different sentences with different errors (most/mostly vs come/comes)."
+ },
+ {
+  "a": "2021-set2-q081",
+  "b": "2021-set3-q081",
+  "verdict": "different",
+  "reason": "Different sentences; 'most water' adverb error vs double superlative 'most bravest'."
+ },
+ {
+  "a": "2021-set2-q081",
+  "b": "2021-set4-q081",
+  "verdict": "different",
+  "reason": "Different sentences; 'most water' vs 'senior than' (senior to) errors."
+ },
+ {
+  "a": "2021-set2-q081",
+  "b": "2021-set4-q082",
+  "verdict": "different",
+  "reason": "Different sentences and errors in error-spotting."
+ },
+ {
+  "a": "2021-set2-q081",
+  "b": "2021-set5-q081",
+  "verdict": "different",
+  "reason": "Different sentences; 'most water' vs subject-verb 'He have'."
+ },
+ {
+  "a": "2021-set2-q082",
+  "b": "2021-set3-q081",
+  "verdict": "different",
+  "reason": "Different sentences; subject-verb agreement vs double superlative."
+ },
+ {
+  "a": "2021-set2-q082",
+  "b": "2021-set4-q081",
+  "verdict": "different",
+  "reason": "Different sentences; 'come greater' vs 'senior than' errors."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set2-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors (convenient to vs yet to see)."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set3-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors (adjective form vs tense)."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set3-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set4-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q083",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2021-set3-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors (yet to see vs tense consistency)."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2021-set3-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2021-set4-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2021-set4-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2021-set5-q083",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2021-set5-q084",
+  "verdict": "different",
+  "reason": "Sentence improvement on different errors."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2023-06-24-s2-q069",
+  "verdict": "different",
+  "reason": "Different sentences; 'yet to see' vs 'No sooner did we arrive' constructions."
+ },
+ {
+  "a": "2021-set2-q084",
+  "b": "2023-06-24-s2-q070",
+  "verdict": "different",
+  "reason": "Different sentences; 'yet to see' vs tense agreement 'is burnt'."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q085",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill in the blank with different sentences and answers."
+ },
+ {
+  "a": "2021-set2-q086",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Preposition 'on behalf' vs vocabulary blank; different."
+ },
+ {
+  "a": "2021-set2-q086",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Preposition vs verb tense blank; different."
+ },
+ {
+  "a": "2021-set2-q086",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Preposition vs vocabulary blank; different."
+ },
+ {
+  "a": "2021-set2-q086",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Preposition vs tense blank; different."
+ },
+ {
+  "a": "2021-set2-q086",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Preposition vs vocabulary blank; different."
+ },
+ {
+  "a": "2021-set2-q086",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Preposition vs relative pronoun blank; different."
+ },
+ {
+  "a": "2021-set2-q089",
+  "b": "2021-set3-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different words (affection vs warning)."
+ },
+ {
+  "a": "2021-set2-q089",
+  "b": "2021-set4-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different words (affection vs encounter)."
+ },
+ {
+  "a": "2021-set2-q089",
+  "b": "2021-set5-q089",
+  "verdict": "different",
+  "reason": "Synonyms of different words (affection vs consistent)."
+ },
+ {
+  "a": "2021-set2-q090",
+  "b": "2021-set3-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different words (ancillary vs altercate)."
+ },
+ {
+  "a": "2021-set2-q090",
+  "b": "2021-set4-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different words (ancillary vs allegiance)."
+ },
+ {
+  "a": "2021-set2-q090",
+  "b": "2021-set5-q090",
+  "verdict": "different",
+  "reason": "Antonyms of different words (ancillary vs appellant)."
+ },
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set2-q092",
+  "verdict": "different",
+  "reason": "Spelling of different words; correctly vs incorrectly spelt."
+ },
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set3-q091",
+  "verdict": "different",
+  "reason": "Correct spelling of different words (shopping vs transmission)."
+ },
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set3-q092",
+  "verdict": "different",
+  "reason": "Spelling of different words."
+ },
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set4-q091",
+  "verdict": "different",
+  "reason": "Correct spelling of different words (shopping vs honourable)."
+ },
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Spelling of different words."
+ },
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Correct spelling of different words (shopping vs international)."
+ }
+]

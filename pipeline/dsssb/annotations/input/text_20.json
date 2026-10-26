@@ -1,0 +1,1023 @@
+[
+ {
+  "id": "2024-02-07-s2-q183",
+  "copies": [
+   "2024-02-07-s2-q183"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct formula for calculating wavelength (λ) of a signal in\nthe data communication?",
+  "options": [
+   "A) λ = propagation speed + frequency",
+   "B) λ = propagation speed × period",
+   "C) λ = propagation speed + period",
+   "D) λ = propagation speed × frequency"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q184",
+  "copies": [
+   "2024-02-07-s2-q184"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In periodic analog signals, which of the following is NOT a parameter to describe a sine\nwave in data communication?",
+  "options": [
+   "A) Wavelength",
+   "B) Phase",
+   "C) Frequency",
+   "D) Peak amplitude"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q185",
+  "copies": [
+   "2024-02-07-s2-q185"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following operator of SQL is used in WHERE clause for match a character\npattern in database?",
+  "options": [
+   "A) LIKE",
+   "B) IN",
+   "C) IS NULL",
+   "D) OR"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q186",
+  "copies": [
+   "2024-02-07-s2-q186"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In SQL, which of the following is correct command for schema evolution, if the\nRESTRICT option is chosen than the schema is dropped only if schema has no\nelement in it?",
+  "options": [
+   "A) DELET E",
+   "B) UPDAT E",
+   "C) ALT ER",
+   "D) DROP"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q187",
+  "copies": [
+   "2024-02-07-s2-q187"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ files are spreadsheet files in a text format of data when cell contents are\nseparated by a character for example a comma or semi-colon.",
+  "options": [
+   "A) Comma-Separated- Values",
+   "B) Semi-colon Separated Values",
+   "C) Column and Row Headers",
+   "D) CVS"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q188",
+  "copies": [
+   "2024-02-07-s2-q188"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Unicode in the programming language can be represented using which of the bit\nformat standards in computer science?",
+  "options": [
+   "A) 8-bit",
+   "B) 17-bit",
+   "C) 65-bit",
+   "D) 9-bit"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q189",
+  "copies": [
+   "2024-02-07-s2-q189"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following type of guided transmission media are categorized by their\nRadio Government (RG) ratings in computer networking?",
+  "options": [
+   "A) Fiber-Optic Cable",
+   "B) Coaxial Cable",
+   "C) Metallic Cable",
+   "D) Twisted-Pair Cable"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q190",
+  "copies": [
+   "2024-02-07-s2-q190"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following system call include ‘wait for time’ operation command in\nOperating System?",
+  "options": [
+   "A) Process Control",
+   "B) Device Management",
+   "C) File Management",
+   "D) Communications"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q191",
+  "copies": [
+   "2024-02-07-s2-q191"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following stage is used for child cognition development at the age from 2\nyears to 7 years?",
+  "options": [
+   "A) Sensori-motor",
+   "B) Pre-operational",
+   "C) Formal operational",
+   "D) Concrete operational"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q192",
+  "copies": [
+   "2024-02-07-s2-q192"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "The Government of India adopted the National Policy for Empowerment of Women in\n______.",
+  "options": [
+   "A) 2001",
+   "B) 2005",
+   "C) 2000",
+   "D) 2003"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q193",
+  "copies": [
+   "2024-02-07-s2-q193"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "In which of the following approach Pedagogy indicate learning by doing based on\nengagement of students through different activities?\nI. Teacher centered approach\nII. Student centered approach",
+  "options": [
+   "A) Both I and II",
+   "B) Only I",
+   "C) Neither I nor II",
+   "D) Only II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q194",
+  "copies": [
+   "2024-02-07-s2-q194"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following approach of Assessment for Learning is the assessment of\nclassmates on the response and performance of the learner?",
+  "options": [
+   "A) Teacher-led assessment",
+   "B) Learner self-assessment",
+   "C) Computer-based assessment",
+   "D) Peer assessment"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q195",
+  "copies": [
+   "2024-02-07-s2-q195"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following language was included through the 71st constitutional\namendment (1992) in 8th schedule of the Indian Constitution?",
+  "options": [
+   "A) Bengali",
+   "B) Nepali",
+   "C) Boro",
+   "D) Gujarati"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q196",
+  "copies": [
+   "2024-02-07-s2-q196"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "Art education is the area of learning that is based upon which of the following?\nI. The visual, tangible art\nII. The performing arts",
+  "options": [
+   "A) Only I",
+   "B) Both I and II",
+   "C) Neither I nor II",
+   "D) Only II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q197",
+  "copies": [
+   "2024-02-07-s2-q197"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "In which of the following approach to learning and teaching, both the teacher and the\nstudents perform activities strictly confined to the prescribed contents/ textbooks in\nthe subject being taught?",
+  "options": [
+   "A) Learner centered",
+   "B) Teacher-centered",
+   "C) Subject-centered",
+   "D) Discipline centered"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q198",
+  "copies": [
+   "2024-02-07-s2-q198"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "Piaget divided which of the following domain of development into four stages: The\nSensorimotor Stage, The Pre-Operational Stage, Concrete Operational Stage and The\nFormal Operational Stage?",
+  "options": [
+   "A) Moral development",
+   "B) Physical and motor development",
+   "C) Cognitive development",
+   "D) Socio-emotional development"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2024-02-07-s2-q200",
+  "copies": [
+   "2024-02-07-s2-q200"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "In the types of Learning resources, the term ______ denotes a partially three-\ndimensional, full-size replica or scale model of a landscape typically showing historical\nevents, nature scenes or cityscapes, for purposes of education or entertainment.",
+  "options": [
+   "A) cartoons",
+   "B) Globes",
+   "C) realia",
+   "D) diorama"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q001",
+  "copies": [
+   "2021-set1-q001"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a Sushira Vadya?",
+  "options": [
+   "A) Damru",
+   "B) Sitar",
+   "C) Table",
+   "D) Flute"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q002",
+  "copies": [
+   "2021-set1-q002"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of vadya – type is correct?\nI. Tata – Wind\nII. Avanddha – Stringed",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q003",
+  "copies": [
+   "2021-set1-q003"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Reserve ratio can also be called ______.",
+  "options": [
+   "A) Cash Reserve Ratio",
+   "B) Cash Ratio",
+   "C) Liquid Reserve Ratio",
+   "D) Required Ratio"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q004",
+  "copies": [
+   "2021-set1-q004"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "What is the ratio of the stock of money to the stock of high powered money in an economy called?",
+  "options": [
+   "A) Money multiplier",
+   "B) Money exchange",
+   "C) Money credit",
+   "D) Money supply"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q005",
+  "copies": [
+   "2021-set1-q005"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which base is found in window cleaner?",
+  "options": [
+   "A) Calcium Hydroxide",
+   "B) Potassium Hydroxide",
+   "C) Sodium Hydroxide",
+   "D) Ammonium Hydroxide"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q006",
+  "copies": [
+   "2021-set1-q006"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following happens due to atmospheric refraction?\nI. Twinkling of stars\nII. Advanced sunrise and delayed sunset",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q007",
+  "copies": [
+   "2021-set1-q007"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which organism causes rust of wheat?",
+  "options": [
+   "A) Bacteria",
+   "B) Protozoa",
+   "C) Virus",
+   "D) Fungi"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q008",
+  "copies": [
+   "2021-set1-q008"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following regarding earthquake is correct?\nI. P waves – Longitudinal\nII. S waves – Transverse",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q009",
+  "copies": [
+   "2021-set1-q009"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following metal deposits are found in Asia?\nI. Manganese\nII. Bauxite\nIII. Nickel",
+  "options": [
+   "A) I and II",
+   "B) II and III",
+   "C) I and III",
+   "D) I, II and III"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q010",
+  "copies": [
+   "2021-set1-q010"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of river – flow direction is correct?\nI. Tapi – West\nII. Narmada – East",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q011",
+  "copies": [
+   "2021-set1-q011"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In ______, Gandhiji organised a satyagraha to support peasants of Kheda district.",
+  "options": [
+   "A) 1919",
+   "B) 1921",
+   "C) 1917",
+   "D) 1920"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q012",
+  "copies": [
+   "2021-set1-q012"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "In which harappan city was cotton grown?",
+  "options": [
+   "A) Kalibangan",
+   "B) Lothal",
+   "C) Rakhigadi",
+   "D) Mehrgarh"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q013",
+  "copies": [
+   "2021-set1-q013"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) regarding The Mohammedan Anglo Oriental college is/are correct?\nI. It was founded by Sayyid Ahmed Khan.\nII. It was established in 1875.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q014",
+  "copies": [
+   "2021-set1-q014"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The second edition of the Khelo India Winter Games began at Gulmarg on ______ 2021.",
+  "options": [
+   "A) February 21",
+   "B) February 26",
+   "C) January 30",
+   "D) February 5"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q015",
+  "copies": [
+   "2021-set1-q015"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which organisation releases the World Economic Outlook report?",
+  "options": [
+   "A) IMF",
+   "B) World Bank",
+   "C) ADB",
+   "D) International Economic Association"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q016",
+  "copies": [
+   "2021-set1-q016"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "The headquarters of International Labour Organisation are situated in ______.",
+  "options": [
+   "A) Paris",
+   "B) Madrid",
+   "C) Geneva",
+   "D) New York"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q017",
+  "copies": [
+   "2021-set1-q017"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of article – contents of Indian constitution is correct?\nI. 239 – Administration of Union territories\nII. 241 – Special provisions with respect to Delhi",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q018",
+  "copies": [
+   "2021-set1-q018"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which article of Indian constitution is related to duration of Panchayats?",
+  "options": [
+   "A) 243A",
+   "B) 243E",
+   "C) 243K",
+   "D) 243O"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q019",
+  "copies": [
+   "2021-set1-q019"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which city hosted the 2018 commonwealth games?",
+  "options": [
+   "A) Sydney",
+   "B) Gold Coast",
+   "C) Melbourne",
+   "D) Canberra"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q020",
+  "copies": [
+   "2021-set1-q020"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Awareness",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following pair of sportsperson – sports is correct?\nI. Rory Mcllroy – Golf\nII. Martina Hingis – Tennis",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q021",
+  "copies": [
+   "2021-set1-q021"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nGRZ, KWV, OBR, SGN, ?",
+  "options": [
+   "A) WMJ",
+   "B) WLJ",
+   "C) XLJ",
+   "D) XMJ"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q022",
+  "copies": [
+   "2021-set1-q022"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nTONY, WTGP, ZYZG, ?, FILO",
+  "options": [
+   "A) CESX",
+   "B) CDSY",
+   "C) CESY",
+   "D) CDSX"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q023",
+  "copies": [
+   "2021-set1-q023"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, select the odd word from the given alternatives.",
+  "options": [
+   "A) Shirt",
+   "B) Trouser",
+   "C) Jacket",
+   "D) Male"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q024",
+  "copies": [
+   "2021-set1-q024"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, select the related letters from the given alternatives.\nKOM : LPN :: TIP : ?",
+  "options": [
+   "A) UJQ",
+   "B) VJQ",
+   "C) UHQ",
+   "D) VHQ"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q025",
+  "copies": [
+   "2021-set1-q025"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some\nLogic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation.\n(TOPX, ZVXG, FCFP)",
+  "options": [
+   "A) (AJNP, GQVY, MXEH)",
+   "B) (KQRN, QXZW, WEHF)",
+   "C) (LPCR, RWKZ, XDSI)",
+   "D) (TGPA, ZNXJ, EUFS)"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q026",
+  "copies": [
+   "2021-set1-q026"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In a certain code language, ‘I think I can’ is written as ‘6 8 6 4’, ‘We can think about’ is written as ‘5 4 8 9’. What is the code for ‘think, can’ in\nthat code language?",
+  "options": [
+   "A) 8 4",
+   "B) 6 9",
+   "C) 8 5",
+   "D) 6 4"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q027",
+  "copies": [
+   "2021-set1-q027"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Eight friends P, Q, R, S, T U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third\nto the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S\nis not the immediate neighbour of Q.Who is second to the right of P?",
+  "options": [
+   "A) S",
+   "B) V",
+   "C) T",
+   "D) Q"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q028",
+  "copies": [
+   "2021-set1-q028"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Height of six cups H, R, S, T, V and X is compared. Height of X is more than at least two cups. Height of V is more than X but less than S.\nHeight of R is more than H. If the height of T is maximum, then which of the following sequence can be correct?\nI. R < X < V\nII. H < R = X\nIII. R < X < S",
+  "options": [
+   "A) Only II",
+   "B) Both II and III",
+   "C) Only III",
+   "D) I, II and III"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q029",
+  "copies": [
+   "2021-set1-q029"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "6 teachers P, Q, R, S, T and U have to present lectures. Each teacher will present a lecture on one day from Monday to Saturday. Each teacher\npresents on different day. There are 3 male and 3 female teachers. Each male is married to one of the females. More than 2 people present\nbetween T and U. R presents on Friday but his wife does not presents on Monday. P presents on the next day of S. Two people present between P\nand U. P’s wife presents on next day of P. Gender of T and U is same. Which of the following statement is NOT correct?",
+  "options": [
+   "A) Q is a female teacher and her husband presents on Wednesday",
+   "B) R and U are married couples",
+   "C) S’s wife presents on Monday",
+   "D) Two lectures are presented between Q and S"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q030",
+  "copies": [
+   "2021-set1-q030",
+   "2021-set2-q030",
+   "2021-set2-q031",
+   "2021-set3-q030",
+   "2021-set3-q031",
+   "2021-set4-q030",
+   "2021-set4-q031",
+   "2021-set5-q030",
+   "2021-set5-q031",
+   "2024-02-07-s2-q010"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. Some M are B.\nII. No L is M.\nConclusions:\nI. No L is B.\nII. No M is L.",
+  "options": [
+   "A) Only conclusion I follows",
+   "B) Only conclusion II follows",
+   "C) Both conclusions I and II follows",
+   "D) Neither conclusion follows"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "keysAcrossCopies": {
+   "2021-set1-q030": "B",
+   "2021-set2-q030": "A",
+   "2021-set2-q031": "B",
+   "2021-set3-q030": "A",
+   "2021-set3-q031": "C",
+   "2021-set4-q030": "A",
+   "2021-set4-q031": "C",
+   "2021-set5-q030": "B",
+   "2021-set5-q031": "C",
+   "2024-02-07-s2-q010": "A"
+  }
+ },
+ {
+  "id": "2021-set1-q031",
+  "copies": [
+   "2021-set1-q031"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All honey are chair\nII. No white is honey.\nConclusiosn:\nI. Some chair are not white.\nII. Some honey are not white.\nIII. Some chair are honey.",
+  "options": [
+   "A) Both conclusions II and III follows",
+   "B) Only conclusion I follows",
+   "C) Both conclusions I and II follows",
+   "D) All conclusion follows"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q032",
+  "copies": [
+   "2021-set1-q032"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "In the following question, select the missing number from the given series.\n8, 31, 123, ?, 1963",
+  "options": [
+   "A) 491",
+   "B) 481",
+   "C) 471",
+   "D) 461"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set1-q033",
+  "copies": [
+   "2021-set1-q033"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "By Interchanging the given two numbers which of the following equation will be incorrect?\n5 and 2",
+  "options": [
+   "A) 2 + 8 × 7 ÷ 4 – 5 = 17",
+   "B) 8 + 6 × 2 ÷ 5 – 4 = 19",
+   "C) 6 + 8 × 2 ÷ 4 – 5 = 14",
+   "D) 5 + 2 × 6 ÷ 4 – 1 = 7"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

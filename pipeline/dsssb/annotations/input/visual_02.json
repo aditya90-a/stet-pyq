@@ -1,0 +1,532 @@
+[
+ {
+  "id": "2024-02-07-s2-q119",
+  "copies": [
+   "2024-02-07-s2-q119"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the categories of AI with its correct description.",
+  "options": [
+   "A) I-2, II-3, III-1",
+   "B) I-2, II-1, III-3",
+   "C) I-1, II-2, III-3",
+   "D) I-1, II-3, III-2"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q119.png"
+ },
+ {
+  "id": "2024-02-07-s2-q122",
+  "copies": [
+   "2024-02-07-s2-q122"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following notation of ERD (Entity – Relationship Diagram) shows the\n‘Weak Entity’?",
+  "options": [
+   "A) ",
+   "B) ",
+   "C) ",
+   "D) "
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q122.png"
+ },
+ {
+  "id": "2024-02-07-s2-q146",
+  "copies": [
+   "2024-02-07-s2-q146"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following tag of HTML language is a container for the tags that contain\ninformation about the page?",
+  "options": [
+   "A) <title>",
+   "B) Chtmb",
+   "C) chead>",
+   "D) <body>"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q146.png"
+ },
+ {
+  "id": "2024-02-07-s2-q160",
+  "copies": [
+   "2024-02-07-s2-q160"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following HTML tag is used to puts a line break in the text?",
+  "options": [
+   "A) <B>",
+   "B) <BL)",
+   "C) <L>",
+   "D) <BR>"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q160.png"
+ },
+ {
+  "id": "2024-02-07-s2-q167",
+  "copies": [
+   "2024-02-07-s2-q167"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following logic gate is shown in the given Graphic Symbol? (where, A and\nB = inputs, x = output)",
+  "options": [
+   "A) OR gate",
+   "B) NAND gate",
+   "C) NOR gate",
+   "D) Exclusive – OR (XOR) gate"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q167.png"
+ },
+ {
+  "id": "2024-02-07-s2-q180",
+  "copies": [
+   "2024-02-07-s2-q180"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the following Process states of Operating System with their de finitions.",
+  "options": [
+   "A) I-3, II-1, III-2",
+   "B) I-1, II-3, III-2",
+   "C) I-1, II-2, III-3",
+   "D) I-3, II-2, III-1"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q180.png"
+ },
+ {
+  "id": "2024-02-07-s2-q199",
+  "copies": [
+   "2024-02-07-s2-q199"
+  ],
+  "paper": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "section": "Teaching Methodology",
+  "language": "en",
+  "passage": null,
+  "text": "Match the following Classification Of Cognitive Disability (Mental Retardation) with their\nrange of intelligence quotient (IQ).",
+  "options": [
+   "A) I-2, II-3, III-1",
+   "B) I-1, II-3, III-2",
+   "C) I-3, II-2, III-1",
+   "D) I-2, II-1, III-3"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2024-02-07-s2-q199.png"
+ },
+ {
+  "id": "2021-set1-q034",
+  "copies": [
+   "2021-set1-q034"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "How many bikes are scooters?",
+  "options": [
+   "A) 17",
+   "B) 18",
+   "C) 16",
+   "D) 19"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q034.png"
+ },
+ {
+  "id": "2021-set1-q035",
+  "copies": [
+   "2021-set1-q035"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Based on the given venn diagram, which of the following, statement(s) is/are NOT correct?\nI. Number of ball which are not blue, are 4.\nII. Total number of cartoon are 23.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q035.png"
+ },
+ {
+  "id": "2021-set1-q036",
+  "copies": [
+   "2021-set1-q036"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Raman walks 25 metres in north. He turns right and walks 72 metres to reach point A. He again turns right and walks 16 metres. He finally turns\nleft and walks 8 metres to reach point B. How far is point B from point A and in which direction is starting point from point B?",
+  "options": [
+   "A) S340 South-West",
+   "B) W340 North-East",
+   "C) V320 North-East",
+   "D) W320 South-West"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q036.png"
+ },
+ {
+  "id": "2021-set1-q038",
+  "copies": [
+   "2021-set1-q038"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right of (::) from the given\nalternatives based on the same logic/rule/relation.",
+  "options": [
+   "A) •",
+   "B) ",
+   "C) =x)",
+   "D) x="
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q038.png"
+ },
+ {
+  "id": "2021-set1-q039",
+  "copies": [
+   "2021-set1-q039"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "By folding the given paper, which of the following cube cannot be made?",
+  "options": [
+   "A) II and III",
+   "B) III and IV",
+   "C) Only IV",
+   "D) I, II and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q039.png"
+ },
+ {
+  "id": "2021-set1-q040",
+  "copies": [
+   "2021-set1-q040",
+   "2021-set4-q040"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "General Intelligence & Reasoning",
+  "language": "en",
+  "passage": null,
+  "text": "By folding the given paper, which of the following cube cannot be made?",
+  "options": [
+   "A) I, II, III and IV",
+   "B) II, III and IV",
+   "C) III and IV",
+   "D) I and II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "keysAcrossCopies": {
+   "2021-set1-q040": "C",
+   "2021-set4-q040": "D"
+  },
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q040.png"
+ },
+ {
+  "id": "2021-set1-q041",
+  "copies": [
+   "2021-set1-q041"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "What is the value of 3/0.02 + w0.000049 ?",
+  "options": [
+   "A) 0.003",
+   "B) 0.03",
+   "C) 0.3",
+   "D) 3"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q041.png"
+ },
+ {
+  "id": "2021-set1-q042",
+  "copies": [
+   "2021-set1-q042"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "A-B)\nIfA_11\n§ then what is the value of\n?\nB=\nA+B",
+  "options": [
+   "A) ",
+   "B) I",
+   "C) 9\n20",
+   "D) 1\n20"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q042.png"
+ },
+ {
+  "id": "2021-set1-q044",
+  "copies": [
+   "2021-set1-q044"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "-731 +732)?\nWhich of the following numbers will completely divide ( 729 - 730 _",
+  "options": [
+   "A) 26",
+   "B) 51",
+   "C) 72",
+   "D) 78"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q044.png"
+ },
+ {
+  "id": "2021-set1-q051",
+  "copies": [
+   "2021-set1-q051"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "If a:b =2:3, then what is the value of (b2 + 2a?) : (62 - 2a2)?",
+  "options": [
+   "A) 17 : 1",
+   "B) 18 : 1",
+   "C) 15 : 2",
+   "D) 20 : 11"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q051.png"
+ },
+ {
+  "id": "2021-set1-q056",
+  "copies": [
+   "2021-set1-q056"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "Perimeter of a rectangle is 110 cm and difference between length and breadth is 5 cm. If area of the rectangle is equal to the area of an equilateral\ntriangle, then what will be the side of equilateral triangle?",
+  "options": [
+   "A) 20x(100))\ncm",
+   "B) 10х (300))",
+   "C) 30 ×(100)ª\ncm",
+   "D) 5x(150)ª\ncM"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "mixed-ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q056.png"
+ },
+ {
+  "id": "2021-set1-q058",
+  "copies": [
+   "2021-set1-q058"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The table given below shows the price (in lakh) of six cars C1, C2, C3, C4, C5 and C6 in three different cities X, Y and Z.\nWhich of the following statement(s) is/are correct?\nI. The ratio of price of C1 in city X to the price of C4 in city Z is 6 : 7 respectively.\nII. The ratio of price of C1 in the city X to the price of C4 in city Z is 7 : 6 respectively.\nIII. Price of C5 is 5 percent more in city Y than the price in city X.",
+  "options": [
+   "A) Only I",
+   "B) Both II and III",
+   "C) Only III",
+   "D) All are correct"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q058.png"
+ },
+ {
+  "id": "2021-set1-q059",
+  "copies": [
+   "2021-set1-q059"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The line chart given below shows the marked price and selling price of six articles A, B, C, D, E and F.\n685.\n565\n615\n450\n435\n525\n362\n-• 395\n425\n420\n350\n318\nA\nD\nE\n-•Marked Price -*-Selling Price\ndiscount = (Marked price -Selling price)\nMarked price - Selling price × 100\ndi scount % =\nMarked price\nJ1 = Value of sum of discount on articles C and D\nJ2 = Value of difference of discount on articles Dand E\nWhat is the value of J1 - J2?",
+  "options": [
+   "A) 29",
+   "B) 20",
+   "C) 40",
+   "D) 69"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q059.png"
+ },
+ {
+  "id": "2021-set1-q060",
+  "copies": [
+   "2021-set1-q060"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Arithmetical & Numerical Ability",
+  "language": "en",
+  "passage": null,
+  "text": "The line chart given below shows the birth rate (per thousand persons) and death rate (per thousand persons) of countries P, Q, R and S in the\nyear 2018.\nWhich of the following statement(s) is/are correct?\nI. Birth rate of country Q is 9.2 percent more than country R.\nII. Birth rate of country R is 11.76 percent more than the birthrate of country S.\nIII. Birth rate of country Q is 32 percent more than the birth rate of country S.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Both I and III"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q060.png"
+ },
+ {
+  "id": "2021-set1-q061",
+  "copies": [
+   "2021-set1-q061"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए वाक्य में से मध्यम पुरूष सर्वनाम ज्ञात किजिए।\nतुम्हें दूसरी कक्षा में बुलाया गया हैं।",
+  "options": [
+   "A) म",
+   "B) तुम्हें",
+   "C) गया",
+   "D) दूसरी कक्षा"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q061.png"
+ },
+ {
+  "id": "2021-set1-q062",
+  "copies": [
+   "2021-set1-q062"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "व्यक्ति, स्थान या वस्तुविशेष का बोध करने वाले शब्दों को क्या कहते हैं?",
+  "options": [
+   "A) द्रव्यवाचक संज्ञा",
+   "B) जातिवाचक संज्ञा",
+   "C) व्यक्तिवाचक संज्ञा",
+   "D) समूहवाचक संज्ञा"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q062.png"
+ },
+ {
+  "id": "2021-set1-q063",
+  "copies": [
+   "2021-set1-q063"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्दों का सही तत्सम-तद्धव ज्ञात कीजिए।",
+  "options": [
+   "A) उलूखल-उल्लू",
+   "B) कदा-कौन",
+   "C) कर्कटक-ककड़ी",
+   "D) उपवेष्टन-ओढ़ना"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q063.png"
+ },
+ {
+  "id": "2021-set1-q064",
+  "copies": [
+   "2021-set1-q064"
+  ],
+  "paper": "2021 · Set 1 (91/20)",
+  "section": "Hindi Language",
+  "language": "hi",
+  "passage": null,
+  "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअग्रज",
+  "options": [
+   "A) कग्रज",
+   "B) अनुज",
+   "C) ससीम",
+   "D) अनघ"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer",
+  "reviewImage": "pipeline/cache/dsssb/review/2021-set1-q064.png"
+ }
+]

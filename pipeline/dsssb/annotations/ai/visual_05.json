@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2021-set2-q072",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nयहाँ सारी दुनिया के लोग ही आ गए क्या",
+   "options": [
+    ":",
+    "?",
+    "!",
+    "।"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "विराम चिह्न",
+  "concept": "Hindi: प्रश्नवाचक चिह्न (?) का प्रयोग",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "वाक्य \"यहाँ सारी दुनिया के लोग ही आ गए क्या\" में वक्ता कुछ पूछ रहा है। वाक्य के अंत में आया **\"क्या\"** इसे प्रश्नवाचक वाक्य बनाता है, इसलिए इसके अंत में **प्रश्नवाचक चिह्न (?)** लगेगा: \"यहाँ सारी दुनिया के लोग ही आ गए क्या?\"\n\nअन्य विकल्प क्यों नहीं:\n- **: (उपविराम/कोलन)** किसी बात को स्पष्ट करने या सूची आरंभ करने से पहले लगता है, वाक्य के अंत में नहीं।\n- **! (विस्मयादिबोधक)** हर्ष, शोक, आश्चर्य आदि भाव प्रकट करने वाले शब्दों या वाक्यों के बाद लगता है; यहाँ मुख्य भाव प्रश्न का है।\n- **। (पूर्ण विराम)** साधारण कथन (विधानवाचक वाक्य) के अंत में लगता है, प्रश्न के अंत में नहीं।"
+ },
+ {
+  "id": "2021-set2-q073",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nबाप रे आज भी वर्षा होगी",
+   "options": [
+    "!",
+    "?",
+    "–",
+    ":-"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "विराम चिह्न",
+  "concept": "Hindi: विस्मयादिबोधक चिह्न (!) का प्रयोग",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "\"बाप रे\" एक विस्मयादिबोधक शब्द है, जो आश्चर्य, घबराहट या भय का भाव प्रकट करता है। ऐसे शब्दों के बाद **विस्मयादिबोधक चिह्न (!)** लगाया जाता है: \"बाप रे! आज भी वर्षा होगी।\"\n\nअन्य विकल्प क्यों नहीं:\n- **? (प्रश्नवाचक)** केवल प्रश्न पूछने पर लगता है; यह वाक्य प्रश्न नहीं बल्कि भाव-प्रकाशन है।\n- **– (निर्देशक/डैश)** किसी कथन, उदाहरण या व्याख्या से पहले लगता है।\n- **:- (विवरण चिह्न)** किसी विषय का विवरण या सूची आरंभ करने के लिए लगता है।\n\nअतः सही उत्तर \"!\" है।"
+ },
+ {
+  "id": "2021-set2-q074",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।\nगंगा लाभ होना",
+   "options": [
+    "किसी कार्य से मुक्ति पाना",
+    "मृत्यु होना",
+    "मारे-मारे फिरना",
+    "मृत्यु के पश्चात् मोक्ष"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopic": "मुहावरे",
+  "concept": "Hindi: मुहावरा गंगा लाभ होना",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "medium",
+  "keyAssessment": "ambiguous",
+  "keyNote": "Standard Hindi dictionaries and idiom lists give गंगालाभ होना = मृत्यु होना / मर जाना, which is option B. The key's option D (मृत्यु के पश्चात् मोक्ष) reflects the religious connotation of the same idiom, so two options are defensible.",
+  "explanation": "\"गंगा लाभ होना\" एक शिष्ट (मृदु) प्रयोग है, जिसका अर्थ है **मर जाना / मृत्यु होना**। हिंदू मान्यता में गंगा-तट पर या गंगा-स्मरण के साथ प्राण त्यागना पुण्य और मोक्षदायक माना जाता है, इसलिए किसी की मृत्यु को आदरपूर्वक \"गंगा लाभ होना\" कहा जाता है।\n\nस्रोत उत्तर-कुंजी विकल्प D \"मृत्यु के पश्चात् मोक्ष\" को सही मानती है, जो इसी धार्मिक भाव को व्यक्त करता है। किंतु प्रचलित शब्दकोशों और मुहावरा-सूचियों में \"गंगालाभ\" का सीधा अर्थ **मृत्यु** दिया जाता है, जो विकल्प B \"मृत्यु होना\" है। इसलिए यह प्रश्न विवादास्पद है: B और D दोनों मृत्यु से जुड़े हैं और दोनों के पक्ष में तर्क दिया जा सकता है। परीक्षा के लिए उत्तर-कुंजी का उत्तर D याद रखें।\n\n- \"किसी कार्य से मुक्ति पाना\" और \"मारे-मारे फिरना\" इस मुहावरे के अर्थ नहीं हैं।"
+ },
+ {
+  "id": "2021-set2-q075",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइति-श्री करना",
+   "options": [
+    "तुच्छ लगना",
+    "लज्जित होना",
+    "समाप्त करना",
+    "बहुत सस्ता"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopic": "मुहावरे",
+  "concept": "Hindi: मुहावरा इति-श्री करना",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "\"इति\" का अर्थ है **अंत** या **समाप्ति**। प्राचीन ग्रंथों और कथाओं के अंत में \"इति श्री\" लिखा जाता था, जिसका अर्थ होता था कि रचना यहीं समाप्त होती है। इसी से मुहावरा बना **\"इति-श्री करना\" = समाप्त करना / अंत कर देना**।\n\nउदाहरण: \"उसने आधा-अधूरा काम करके ही उसकी इति-श्री कर दी।\"\n\nअन्य विकल्प क्यों नहीं:\n- **तुच्छ लगना** और **बहुत सस्ता** का इस मुहावरे से कोई संबंध नहीं है।\n- **लज्जित होना** के लिए \"पानी-पानी होना\", \"सिर नीचा होना\" जैसे मुहावरे प्रयुक्त होते हैं।\n\nअतः सही उत्तर \"समाप्त करना\" है।"
+ },
+ {
+  "id": "2021-set2-q076",
+  "transcription": {
+   "verdict": "match",
+   "text": "अंतर्राष्ट्रीय व्यापार मेला कब आयोजित किया जाता है?",
+   "options": [
+    "अक्टूबर",
+    "नवम्बर",
+    "दिसम्बेर",
+    "अप्रैल"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "Option 3 is printed as 'दिसम्बेर' (for दिसम्बर).",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: व्यापार मेले का आयोजन-माह",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "गद्यांश में स्पष्ट लिखा है: \"देश की राजधानी में प्रतिवर्ष प्रगति मैदान में **नवंबर माह** में आयोजित व्यापार मेला अत्यंत महत्वपूर्ण होता जा रहा है।\"\n\nअतः अंतर्राष्ट्रीय व्यापार मेला **नवम्बर** में आयोजित किया जाता है।\n\nअन्य विकल्प क्यों नहीं:\n- अक्टूबर, दिसम्बर और अप्रैल का गद्यांश में कहीं उल्लेख नहीं है।\n\nअपठित गद्यांश के प्रश्नों में उत्तर हमेशा गद्यांश में दी गई जानकारी के आधार पर ही चुनना चाहिए, अपने सामान्य ज्ञान के आधार पर नहीं। (विकल्प 3 में \"दिसम्बेर\" वर्तनी प्रश्न-पत्र में ही ऐसी छपी है।)"
+ },
+ {
+  "id": "2021-set2-q077",
+  "transcription": {
+   "verdict": "match",
+   "text": "अंतर्राष्ट्रीय व्यापार मेला का आयोजन किसके द्वारा किया जाता है?",
+   "options": [
+    "जनता",
+    "कंपनियों",
+    "सरकार",
+    "विशेषज्ञ"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: मेले का आयोजक",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "गद्यांश के पहले वाक्य में कहा गया है: \"विभिन्न स्थानों पर समय-समय पर अनेक मेलों अथवा प्रदर्शनियों का आयोजन **सरकार** अथवा अन्य व्यापारिक संस्थानों द्वारा किया जाता है।\" दिए गए विकल्पों में से केवल **सरकार** इस कथन से मेल खाता है।\n\nअन्य विकल्प क्यों नहीं:\n- **जनता** मेले में भाग लेती है, आयोजन नहीं करती।\n- **कंपनियाँ** अपने उत्पाद बाज़ार में उतारने के लिए इस अवसर की प्रतीक्षा करती हैं, यानी वे प्रतिभागी हैं।\n- **विशेषज्ञ** इस अवसर का लाभ उठाकर भारत की स्थिति का आकलन करते हैं; वे आयोजक नहीं हैं।\n\nअतः सही उत्तर \"सरकार\" है।"
+ },
+ {
+  "id": "2021-set2-q078",
+  "transcription": {
+   "verdict": "match",
+   "text": "इस मेले को किसका खजाना माना जाता है?",
+   "options": [
+    "जानकारी व मनोरंजन",
+    "शिल्पकारों व प्रगति",
+    "उपभोक्ता व व्यापारी",
+    "कला- संस्कृति व मार्किट मुहैया"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: मेला किसका खजाना",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "गद्यांश में सीधा वाक्य है: \"यह मेला **जानकारी व मनोरंजन का खजाना** माना जाता है।\"\n\nअतः सही उत्तर विकल्प A \"जानकारी व मनोरंजन\" है।\n\nअन्य विकल्प क्यों नहीं:\n- **शिल्पकारों व प्रगति**: शिल्पकारों को मार्किट मुहैया कराने और प्रदेशों की प्रगति की झाँकियों का उल्लेख है, पर इन्हें \"खजाना\" नहीं कहा गया।\n- **उपभोक्ता व व्यापारी**: ये मेले से लाभान्वित होने वाले वर्ग हैं।\n- **कला-संस्कृति व मार्किट मुहैया**: ये गद्यांश के अलग-अलग अंशों से लिए गए शब्द हैं, जो भ्रमित करने के लिए जोड़े गए हैं।"
+ },
+ {
+  "id": "2021-set2-q079",
+  "transcription": {
+   "verdict": "match",
+   "text": "अल्पसंख्यक मंत्रालयों द्वारा किसका आयोजन भी किया जाता है?",
+   "options": [
+    "प्रगतिशील",
+    "हुनर हॉट",
+    "स्थिति का आकलन",
+    "नवीनता"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "Option 2 is printed as 'हुनर हॉट', while the passage says 'हुनर हाट'.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: हुनर हाट का आयोजक",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "गद्यांश में लिखा है: \"इस अंतर्राष्ट्रीय व्यापार मेले में **अल्पसंख्यक मंत्रालय द्वारा 'हुनर हाट' का भी आयोजन** किया जाता है...\" इसलिए सही उत्तर **हुनर हाट** (विकल्प B) है। प्रश्न-पत्र के विकल्प में यह \"हुनर हॉट\" छपा है, पर आशय वही है।\n\nअन्य विकल्प क्यों नहीं:\n- **प्रगतिशील** और **नवीनता** किसी आयोजन के नाम नहीं हैं।\n- **स्थिति का आकलन** देश के विशेषज्ञ और व्यापारी करते हैं; यह कोई आयोजन नहीं है।\n\nहुनर हाट का उद्देश्य दस्तकारों और शिल्पकारों को बाज़ार (मार्किट) उपलब्ध कराना बताया गया है।"
+ },
+ {
+  "id": "2021-set2-q080",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "कला-संस्कृति",
+    "प्रदेशों की प्रगति",
+    "प्रगति मैदान",
+    "भारत-अंतर्राष्ट्रीय व्यापार मेला"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Removed the comprehension header and passage text that had been appended to option 4."
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi passage: उपयुक्त शीर्षक",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "शीर्षक ऐसा होना चाहिए जो पूरे गद्यांश के केंद्रीय विषय को समेटे। पूरा गद्यांश प्रगति मैदान में हर वर्ष नवंबर में लगने वाले **भारत अंतर्राष्ट्रीय व्यापार मेले** के बारे में है: इसका आयोजन, इसकी प्रसिद्धि, झाँकियाँ, नई तकनीकों का प्रदर्शन, विदेशी कंपनियों की भागीदारी और हुनर हाट।\n\nअन्य विकल्प क्यों नहीं:\n- **कला-संस्कृति** और **प्रदेशों की प्रगति** मेले की झाँकियों के केवल एक हिस्से का वर्णन करते हैं।\n- **प्रगति मैदान** केवल आयोजन-स्थल है, गद्यांश का विषय नहीं।\n\nअतः सबसे उपयुक्त शीर्षक \"भारत-अंतर्राष्ट्रीय व्यापार मेला\" है।"
+ },
+ {
+  "id": "2021-set2-q101",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following statement is correct for the given partial differential equation?\n∂u/∂t + u ∂u/∂x = ∂²u/∂x²",
+   "options": [
+    "It is linear equation of order two",
+    "It is non-linear equation of order one",
+    "It is linear equation of order one",
+    "It is non-linear equation of order two"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the PDE printed as an image: ∂u/∂t + u ∂u/∂x = ∂²u/∂x²."
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Matrices & calculus",
+  "concept": "PDE order and linearity (Burgers' equation)",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Classify the PDE ∂u/∂t + u ∂u/∂x = ∂²u/∂x² (this is the viscous Burgers' equation).\n\n**Order** = order of the highest derivative present. The term ∂²u/∂x² is a second derivative, so the order is **two**.\n\n**Linearity**: a PDE is linear only if u and all its derivatives appear to the first power and are not multiplied by each other (coefficients may depend only on the independent variables x, t). Here the term **u·∂u/∂x** is a product of the unknown u with its own derivative, so the equation is **non-linear**.\n\nTherefore it is a non-linear equation of order two.\n\nWhy not the others:\n- Options A and C call it linear, which the u·∂u/∂x term rules out.\n- Options B and C give order one, ignoring ∂²u/∂x²."
+ },
+ {
+  "id": "2021-set2-q102",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A parametric curve is defined by x = cos(Πt/2), y = sin(Πt/2) in the range of 0 ≤ t ≤ 1. It is rotated about the X-axis by 360°.\nWhat is the area of the surface generated?",
+   "options": [
+    "4π",
+    "π",
+    "2π",
+    "Π/2"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "The paper prints capital Π in the parametric equations and in option 4 where π is meant.",
+   "changes": "Rebuilt the garbled OCR of the equations (x = cos(Πt/2), y = sin(Πt/2), 0 ≤ t ≤ 1, 360°); option 4 'П 2' → 'Π/2'."
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Matrices & calculus",
+  "concept": "Surface area of revolution of parametric curve",
+  "difficulty": "hard",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "For a curve rotated about the x-axis, S = ∫ 2π·y·√((dx/dt)² + (dy/dt)²) dt.\n\nHere x = cos(πt/2), y = sin(πt/2):\n- dx/dt = −(π/2)·sin(πt/2), dy/dt = (π/2)·cos(πt/2)\n- √((dx/dt)² + (dy/dt)²) = π/2\n\nS = ∫₀¹ 2π·sin(πt/2)·(π/2) dt = π² ∫₀¹ sin(πt/2) dt\n= π² · [−(2/π)·cos(πt/2)]₀¹ = π² · (2/π)(1 − 0) = **2π**.\n\nCheck: for 0 ≤ t ≤ 1 the curve is a quarter of the unit circle from (1, 0) to (0, 1). Rotating it about the x-axis gives a hemisphere of radius 1, whose curved surface area is 2πr² = 2π.\n\nWhy not the others: 4π is the whole sphere, while π and π/2 come from dropping the factor 2 or the arc-length factor π/2."
+ },
+ {
+  "id": "2021-set2-q103",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the value of ∮_c e^(2z)/(z+1)^4 dz, where c is a circle with centre at origin, |z| = 3?",
+   "options": [
+    "(4/3)Πie^-2",
+    "2πie^-2",
+    "(8/3)Πie^-2",
+    "3πie^-2"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "Options 1 and 3 print capital Π where π is meant.",
+   "changes": "Rebuilt the garbled OCR of the integral (∮_c e^(2z)/(z+1)^4 dz, |z| = 3); options 1 and 3 'ATle? 3', '§Tié?' → '(4/3)Πie^-2', '(8/3)Πie^-2'."
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Matrices & calculus",
+  "concept": "Cauchy integral formula for derivatives",
+  "difficulty": "hard",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Use Cauchy's integral formula for derivatives: ∮ f(z)/(z − a)^(n+1) dz = (2πi/n!)·f⁽ⁿ⁾(a), when a lies inside c.\n\nHere f(z) = e^(2z), a = −1 and n + 1 = 4, so n = 3. The point z = −1 has |−1| = 1 < 3, so it lies inside the circle.\n\n- f′(z) = 2e^(2z), f″(z) = 4e^(2z), f‴(z) = 8e^(2z)\n- f‴(−1) = 8e⁻²\n\nIntegral = (2πi/3!)·8e⁻² = (2πi/6)·8e⁻² = **(8/3)πi·e⁻²**.\n\nWhy not the others:\n- (4/3)πie⁻² would follow from forgetting one factor of 2 in the derivative.\n- 2πie⁻² and 3πie⁻² do not include the 1/3! and 2³ factors correctly."
+ },
+ {
+  "id": "2021-set2-q119",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following statement(s) is/are correct?\nI. (4052)_7 = (1409)_10\nII. (1715)_10 = (BAB)_12",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added statements I and II, which are printed as an image."
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Number systems & conversions",
+  "concept": "Base-7 and base-12 conversions",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Statement I**: (4052)₇ to decimal\n= 4×7³ + 0×7² + 5×7¹ + 2×7⁰\n= 4×343 + 0 + 35 + 2 = 1372 + 37 = **1409**. Correct.\n\n**Statement II**: (1715)₁₀ to base 12 by repeated division:\n- 1715 ÷ 12 = 142, remainder 11 (B)\n- 142 ÷ 12 = 11, remainder 10 (A)\n- 11 ÷ 12 = 0, remainder 11 (B)\n\nReading remainders bottom-up gives (BAB)₁₂. Check: 11×144 + 10×12 + 11 = 1584 + 120 + 11 = 1715. Correct.\n\nBoth statements are true, so the answer is **Both I and II**."
+ },
+ {
+  "id": "2021-set2-q126",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which gate is represented by the following truth table?\nA | B | Output\n0 | 0 | 0\n0 | 1 | 0\n1 | 0 | 0\n1 | 1 | 1",
+   "options": [
+    "OR",
+    "AND",
+    "NAND",
+    "NOR"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the truth table printed as an image."
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "AND gate truth table",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The output is 1 only when **both** inputs are 1 (row A = 1, B = 1) and 0 in every other row. That is exactly the behaviour of the **AND** gate: Output = A·B.\n\nWhy not the others:\n- **OR** would give 1 whenever at least one input is 1 (rows 01, 10, 11).\n- **NAND** is the complement of AND: 1, 1, 1, 0.\n- **NOR** is the complement of OR: 1, 0, 0, 0.\n\nA quick way to recognise basic gates is to look at the single \"odd\" row: AND has a lone 1 at input 11, NOR has a lone 1 at input 00, NAND has a lone 0 at 11, and OR has a lone 0 at 00."
+ },
+ {
+  "id": "2021-set2-q128",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following represents the borrow in a half subtraction?",
+   "options": [
+    "AB",
+    "AB̅",
+    "A̅B",
+    "A̅B̅"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the overbars lost in extraction: option 2 → AB̅, option 3 → A̅B, option 4 → A̅B̅."
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Combinational circuits",
+  "concept": "Half subtractor borrow expression",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A half subtractor computes A − B for two bits.\n\n- A=0, B=0 → Difference 0, Borrow 0\n- A=0, B=1 → Difference 1, Borrow **1**\n- A=1, B=0 → Difference 1, Borrow 0\n- A=1, B=1 → Difference 0, Borrow 0\n\nA borrow is needed only when A = 0 and B = 1, so **Borrow = A′B** (A-bar·B), and Difference = A ⊕ B.\n\nWhy not the others:\n- **AB** is the carry of a half adder.\n- **AB′** would be the borrow for B − A, not A − B.\n- **A′B′** is 1 only for input 00, where no borrow occurs."
+ },
+ {
+  "id": "2021-set2-q131",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Both the inputs of XOR gate are connected to B. What will be the output?",
+   "options": [
+    "0",
+    "1",
+    "B",
+    "B̅"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option 4 'ШUI' → B̅."
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "XOR with identical inputs",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "XOR gives 1 only when its inputs are **different**. If both inputs are tied to the same signal B, they are always equal, so the output is always 0.\n\nAlgebraically: B ⊕ B = B·B′ + B′·B = 0 + 0 = **0**.\n\nWhy not the others:\n- **1** would be the result of B ⊕ B′ (inputs always different), or of XNOR with equal inputs.\n- **B** is B ⊕ 0.\n- **B′** is B ⊕ 1 (XOR used as a controlled inverter).\n\nUseful XOR identities: A ⊕ 0 = A, A ⊕ 1 = A′, A ⊕ A = 0, A ⊕ A′ = 1."
+ },
+ {
+  "id": "2021-set2-q137",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the value of F̅?\nF = AB + C̅D̅ + B̅D",
+   "options": [
+    "A̅B̅ + C̅D̅ + BD̅",
+    "(A̅ + B̅)(C + D)(B + D̅)",
+    "(A + B)(C̅ + D̅)(B̅ + D)",
+    "(A + B̅)(C + D̅)(B + D̅)"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the overbars lost in OCR: question asks for F̅; F = AB + C̅D̅ + B̅D; overbars restored in all four options."
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "Complement of SOP using De Morgan",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Given F = AB + C′D′ + B′D, find F′ using De Morgan's laws.\n\nStep 1: complement of a sum = product of complements:\nF′ = (AB)′ · (C′D′)′ · (B′D)′\n\nStep 2: complement each product term (complement of a product = sum of complements):\n- (AB)′ = A′ + B′\n- (C′D′)′ = C + D\n- (B′D)′ = B + D′\n\nSo **F′ = (A′ + B′)(C + D)(B + D′)**, which is option B.\n\nWhy not the others:\n- Option A only complements literals without switching + and ·.\n- Option C keeps the original literals un-complemented.\n- Option D complements the wrong literals in the first two factors."
+ },
+ {
+  "id": "2021-set2-q138",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following K-Map represent the function F?\nF(A, B, C, D) = S(0, 1, 2, 6, 8, 9, 10)",
+   "options": [
+    "K-map (rows AB, columns CD in order 00, 01, 11, 10): AB=00: 1 1 0 1; AB=01: 0 0 0 1; AB=11: 0 0 0 0; AB=10: 1 1 0 1",
+    "K-map (rows AB, columns CD in order 00, 01, 11, 10): AB=00: 0 1 1 1; AB=01: 0 0 0 1; AB=11: 0 0 0 0; AB=10: 1 1 0 1",
+    "K-map (rows AB, columns CD in order 00, 01, 11, 10): AB=00: 1 0 0 1; AB=01: 1 0 0 1; AB=11: 0 0 0 0; AB=10: 1 1 1 0",
+    "K-map (rows AB, columns CD in order 00, 01, 11, 10): AB=00: 1 1 0 1; AB=01: 0 0 0 1; AB=11: 1 1 0 0; AB=10: 0 0 0 1"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "Each option is a 4-variable K-map with rows AB = 00, 01, 11, 10 and columns CD = 00, 01, 11, 10; empty cells are written as 0.",
+   "printedErrors": "The function is printed as 'S(0, 1, 2, 6, 8, 9, 10)'; S stands for Σ (sum of minterms).",
+   "changes": "Options were garbled K-map OCR; rewritten as row-by-row cell values read from the image."
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "K-map minimisation",
+  "concept": "Plotting minterms on a 4-variable K-map",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Write each minterm as ABCD and place a 1 in row AB, column CD (Gray order 00, 01, 11, 10):\n- 0 = 0000 → row 00, col 00\n- 1 = 0001 → row 00, col 01\n- 2 = 0010 → row 00, col 10\n- 6 = 0110 → row 01, col 10\n- 8 = 1000 → row 10, col 00\n- 9 = 1001 → row 10, col 01\n- 10 = 1010 → row 10, col 10\n\nExpected map: row 00 = 1 1 0 1, row 01 = 0 0 0 1, row 11 = all 0, row 10 = 1 1 0 1. This is **option A**.\n\nWhy not the others:\n- B misses cell 0 and wrongly marks cell 3 (row 00, col 11).\n- C marks cell 4 and cell 11 and misses 1 and 10.\n- D marks cells 12, 13 and misses 8, 9."
+ },
+ {
+  "id": "2021-set2-q151",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which statement in this code is unreachable switch(x)?\n{\ncase 1:\na1=100;\ncase 2:\na2=1000;\na3=10;\nbreak;\na4=10000;\n}",
+   "options": [
+    "a1 = 100;",
+    "a2 = 1000;",
+    "a3 = 10;",
+    "a4 = 10000;"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "'switch(x)' is printed at the end of the question sentence instead of above the code block.",
+   "changes": "Added the code block printed as an image."
+  },
+  "subject": "Computer Science",
+  "topic": "Programming in C",
+  "subtopic": "Control statements & loops",
+  "concept": "Unreachable code after break in switch",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Trace the switch(x) block:\n- If x == 1, control jumps to `case 1:`, runs `a1=100;`, then **falls through** (no break) into `a2=1000;` and `a3=10;`, then hits `break;`.\n- If x == 2, control jumps to `case 2:` and runs `a2=1000;`, `a3=10;`, then `break;`.\n- For any other value there is no default label, so nothing in the block runs.\n\nThe statement `a4=10000;` comes right after `break;` and has no case label in front of it, so no path of execution can ever reach it. It is **unreachable code** (compilers often warn about it).\n\nWhy not the others: a1 is reached for x = 1, while a2 and a3 are reached for x = 1 (via fall-through) and x = 2."
+ },
+ {
+  "id": "2021-set2-q163",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which modulation technique is applied to a binary signal in figure (a) to achieve figure (b)?",
+   "options": [
+    "Amplitude modulation",
+    "Frequency modulation",
+    "Phase modulation",
+    "Quadrature phase shift keying"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "Figure (a) is the binary signal 0 1 0 1 1 0 0 1 0 0 1 0 0; figure (b) shows a carrier sine wave present only during the 1 bits and a flat line during the 0 bits.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transmission media & devices",
+  "concept": "Amplitude shift keying (on-off keying) waveform",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "The same question in 2021 Set 3 (q156) is keyed B (Frequency modulation), while this paper keys A. The waveform has constant frequency and only switches the carrier on and off, so A is correct.",
+  "explanation": "In figure (b) the carrier appears as a sine wave of the **same frequency** whenever the bit is 1, and the line is flat (zero amplitude) whenever the bit is 0. Only the **amplitude** of the carrier changes with the data, so this is amplitude modulation of a digital signal, i.e. **Amplitude Shift Keying (ASK)**, specifically its on-off keying form.\n\nWhy not the others:\n- **Frequency modulation (FSK)** would keep the amplitude constant and show tightly and loosely spaced cycles for 1 and 0; there would be no flat gaps.\n- **Phase modulation (PSK)** keeps both amplitude and frequency constant and flips the phase of the wave at bit changes.\n- **QPSK** uses four phases, each carrying 2 bits; again the carrier never disappears.\n\nNote: the same question in another 2021 paper (Set 3) is keyed Frequency modulation, which does not fit the figure."
+ },
+ {
+  "id": "2021-set2-q166",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the following.\na. Repeater | i. Network layer\nb. Bridge | ii. Transport layer\nc. Routers | iii. Data link layer\nd. Gateway | iv. Physical layer",
+   "options": [
+    "a-ii, b-i, c-iii, d-iv",
+    "a-iii, b-ii, c-i, d-iv",
+    "a-iv, b-iii, c-i, d-ii",
+    "a-i, b-iii, c-iv, d-ii"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the match table printed as an image."
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "OSI & TCP/IP models",
+  "concept": "Network devices and their OSI layers",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "The same question in 2021 Set 3 (q160) is keyed B, while this paper keys C. B maps a repeater to the data link layer and a gateway to the physical layer, which is wrong; C is correct.",
+  "explanation": "Each device works at the layer whose information it uses:\n- **Repeater → Physical layer (iv)**: it only regenerates and amplifies the electrical signal (bits).\n- **Bridge → Data link layer (iii)**: it filters and forwards frames using MAC addresses.\n- **Router → Network layer (i)**: it forwards packets between networks using IP addresses and routing tables.\n- **Gateway → Transport layer (ii)**: a gateway converts between different protocols and works at the transport layer and above (often up to the application layer); among the given choices, transport layer is the one left for it.\n\nSo the match is a-iv, b-iii, c-i, d-ii = **option C**.\n\nNote: the same question in another 2021 paper (Set 3) is keyed option B, which places a repeater at the data link layer and a gateway at the physical layer; that key is not correct."
+ },
+ {
+  "id": "2021-set2-q171",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is a max-heap?",
+   "options": [
+    "Tree 100(80(40, –), 60(50(20, –), 30))",
+    "Tree 100(80(40, 50), 60(20, 30))",
+    "Tree 100(80(40, 50), 60(–, 30(–, 20)))",
+    "Tree 100(50(40, 80), 60(20, 30))"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "Each option is a binary tree drawing; written here as node(left child, right child), with – for a missing child.",
+   "printedErrors": "",
+   "changes": "Options were garbled OCR of tree drawings; rewritten as node(left, right) notation read from the image."
+  },
+  "subject": "Computer Science",
+  "topic": "Data Structures",
+  "subtopic": "Trees & binary search trees",
+  "concept": "Max-heap: complete tree plus parent ≥ children",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A max-heap must satisfy two rules:\n1. **Shape**: it is a complete binary tree (every level full except possibly the last, which is filled from left to right).\n2. **Order**: every parent is ≥ its children.\n\nCheck each option:\n- **A**: 80 has no right child, yet 50 (under 60) has a child 20 on the next level. The tree is not complete, so not a heap.\n- **B**: 100 → 80, 60; 80 → 40, 50; 60 → 20, 30. All levels are full and every parent is larger than its children. **Valid max-heap.**\n- **C**: 60 has no left child but has a right child 30, and 20 hangs below 30. Not complete.\n- **D**: shape is complete, but 50 has a child 80 > 50, violating the order rule."
+ },
+ {
+  "id": "2021-set2-q174",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Consider the following AVL tree.\nWhat will be the resultant AVL tree after insertion of node with value 20?",
+   "options": [
+    "Tree 38(14(8, 23(18(–, 20), –)), 56(45, 82(70, –)))",
+    "Tree 38(14(8, 20(18, 23)), 56(45, 82(70, –)))",
+    "Tree 38(14(8, 23(20(18, –), –)), 56(45, 82(70, –)))",
+    "Tree 38(14(8, 18(–, 20(–, 23))), 56(45, 82(70, –)))"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "The given AVL tree is 38(14(8, 23(18, –)), 56(45, 82(70, –))) in node(left, right) notation; each option is also a tree drawing.",
+   "printedErrors": "",
+   "changes": "Options were garbled OCR of tree drawings; rewritten as node(left, right) notation read from the image."
+  },
+  "subject": "Computer Science",
+  "topic": "Data Structures",
+  "subtopic": "Trees & binary search trees",
+  "concept": "AVL insertion with LR rotation",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Step 1: BST insert.** 20 < 38 → go left to 14; 20 > 14 → go right to 23; 20 < 23 → go left to 18; 20 > 18 → 20 becomes the right child of 18.\n\n**Step 2: check balance factors upward.**\n- 18: left height 0, right 1 → −1 (fine)\n- 23: left height 2, right 0 → **+2, unbalanced**\n\n**Step 3: identify the case.** The new node went into the **right** subtree of the **left** child of 23 → **LR case**. First rotate left at 18, then rotate right at 23. The middle value 20 moves up: 20 becomes the root of that subtree with 18 as left child and 23 as right child.\n\nResult: 38(14(8, 20(18, 23)), 56(45, 82(70))) = **option B**. All balance factors are now within −1..+1.\n\nWhy not the others: A is the unbalanced tree before rotation; C and D are wrong rotations that leave 23 or 18 unbalanced."
+ },
+ {
+  "id": "2021-set2-q187",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which symbol in flowchart is used for processing?",
+   "options": [
+    "Diamond (rhombus)",
+    "Rectangle",
+    "Parallelogram",
+    "Circle"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "The four options are drawn shapes: a diamond, a rectangle, a parallelogram and a circle.",
+   "printedErrors": "",
+   "changes": "Options were blank (shapes printed as images); filled in the shape names."
+  },
+  "subject": "Computer Science",
+  "topic": "Algorithms",
+  "subtopic": "Flowcharts & pseudocode",
+  "concept": "Flowchart process symbol (rectangle)",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In a flowchart the **rectangle** is the **process** symbol. It holds a computation or action such as `sum = a + b` or `count = count + 1`.\n\nThe other standard symbols:\n- **Diamond**: decision (a yes/no or true/false test such as `x > 0?`), with two or more exits.\n- **Parallelogram**: input/output (e.g. `Read A`, `Print sum`).\n- **Circle**: connector, used to join parts of a flowchart across a page or to another page.\n- **Oval (terminal)**: start and stop.\n\nSo the processing symbol is the rectangle, option B."
+ },
+ {
+  "id": "2021-set3-q032",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.\n4 | 6 | 8 | 36\n2 | 7 | 6 | 30\n5 | 1 | 2 | ?",
+   "options": [
+    "32",
+    "24",
+    "16",
+    "40"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the number grid printed as an image."
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Series",
+  "subtopic": "Missing term",
+  "concept": "Missing number grid: twice the row sum",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Look for a rule linking the first three numbers of each row to the fourth.\n\n- Row 1: 4 + 6 + 8 = 18, and 18 × 2 = **36** ✓\n- Row 2: 2 + 7 + 6 = 15, and 15 × 2 = **30** ✓\n- Row 3: 5 + 1 + 2 = 8, so ? = 8 × 2 = **16**\n\nThe rule (sum of the first three numbers × 2) works for both complete rows, so the missing number is 16.\n\nWhy not the others: 32, 24 and 40 do not follow from any rule that also fits rows 1 and 2 (for example, a product rule fails because 4 × 6 × 8 = 192, not 36)."
+ }
+]

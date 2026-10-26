@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2021-set3-q077",
+  "transcription": {
+   "verdict": "match",
+   "text": "हमारी मातृ भूमि भारत लंबे समय तक किस शासन का गुलाम रही?",
+   "options": [
+    "संघात्मक शासन",
+    "संसदात्मक शासन प्रणाली",
+    "एकात्मक शासन",
+    "ब्रिटिश शासन"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – भारत पर ब्रिटिश शासन",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **ब्रिटिश शासन** है।\n\nगद्यांश में स्पष्ट लिखा है: \"हमारी मातृभूमि भारत लंबे समय तक ब्रिटिश शासन की गुलाम रही तथा ब्रिटिश शासन द्वारा बनाये गये कानूनों का भारतीय लोगों को पालन करना पड़ता था।\" अतः प्रश्न का उत्तर सीधे गद्यांश की इसी पंक्ति से मिलता है।\n\nअन्य विकल्प क्यों नहीं:\n- **संघात्मक शासन** और **एकात्मक शासन** शासन-व्यवस्था के प्रकार हैं, किसी विदेशी सत्ता के नाम नहीं; गद्यांश में इनका उल्लेख नहीं है।\n- **संसदात्मक शासन प्रणाली** भी एक शासन-प्रणाली है, जिसे भारत ने स्वतंत्रता के बाद अपनाया; इसकी गुलामी का प्रश्न ही नहीं उठता।\n\nअपठित गद्यांश के प्रश्नों में उत्तर हमेशा गद्यांश में दिए गए तथ्य के आधार पर ही चुनना चाहिए।"
+ },
+ {
+  "id": "2021-set3-q078",
+  "transcription": {
+   "verdict": "match",
+   "text": "हमारे देश के कई वीरों ने अपने प्राणों की आहुति क्यों दी थी?",
+   "options": [
+    "एकता और अखंडता हेतु",
+    "संस्कृति और परम्परा",
+    "विविधता में एकता",
+    "लोकतांत्रिक और कानूनों"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – वीरों का बलिदान",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **एकता और अखंडता हेतु** है।\n\nगद्यांश की पंक्ति है: \"...जिससे हमारे देश की एकता और अखंडता जिसके लिए कई वीरों ने अपने प्राणों की आहुति दी है, इसी प्रकार से बनी रहे।\" इससे स्पष्ट है कि वीरों ने देश की एकता और अखंडता के लिए बलिदान दिया।\n\nअन्य विकल्प क्यों नहीं:\n- **संस्कृति और परम्परा** का उल्लेख झांकियों के प्रसंग में है, बलिदान के कारण के रूप में नहीं।\n- **विविधता में एकता** भी झांकियों द्वारा दिखाए जाने वाले भाव के रूप में आया है।\n- **लोकतांत्रिक और कानूनों** गद्यांश में बलिदान से जुड़ा नहीं है और अधूरा वाक्यांश भी है।\n\nइसलिए गद्यांश के आधार पर विकल्प A ही सही है।"
+ },
+ {
+  "id": "2021-set3-q079",
+  "transcription": {
+   "verdict": "match",
+   "text": "गणतांत्रिक स्वरूप हमारे देश को कहां से कहां तक जोड़ने का कार्य करता हैं?",
+   "options": [
+    "कन्याकुमारी से दिल्ली",
+    "कश्मीर से कन्याकुमारी",
+    "कश्मीर से लदाख",
+    "कन्याकुमारी से लेह"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "'करता हैं' छपा है; शुद्ध रूप 'करता है' होगा।",
+   "changes": "कार्यकरता→कार्य करता (spacing only)"
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – कश्मीर से कन्याकुमारी",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **कश्मीर से कन्याकुमारी** है।\n\nगद्यांश की अंतिम पंक्ति है: \"...हमारे देश का संविधान तथा इसका गणतांत्रिक स्वरुप ही हमारे देश को कश्मीर से कन्याकुमारी तक जोड़ने का कार्य करता है।\" प्रश्न इसी पंक्ति पर आधारित है।\n\nअन्य विकल्प क्यों नहीं:\n- **कन्याकुमारी से दिल्ली**, **कश्मीर से लदाख** और **कन्याकुमारी से लेह** का गद्यांश में कहीं उल्लेख नहीं है।\n- 'कश्मीर से कन्याकुमारी' भारत के उत्तर से दक्षिण तक के पूरे विस्तार को दर्शाने वाला प्रचलित प्रयोग है, जो पूरे देश की एकता का प्रतीक है।\n\nध्यान दें: प्रश्न में 'करता हैं' छपा है, जबकि व्याकरण की दृष्टि से 'करता है' शुद्ध है; इससे उत्तर पर कोई प्रभाव नहीं पड़ता।"
+ },
+ {
+  "id": "2021-set3-q080",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "स्वतंत्रता दिवस",
+    "भारत का नागरिक",
+    "जोड़ने का कार्य",
+    "गणतंत्र दिवस"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option C: जोड़ने का काय→जोड़ने का कार्य; Option D: removed the comprehension header and passage text that had been appended after 'गणतंत्र दिवस'"
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश का उपयुक्त शीर्षक",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **गणतंत्र दिवस** है।\n\nगद्यांश की शुरुआत ही \"हर वर्ष 26 जनवरी को हमारे देश में गणतंत्र दिवस के रूप में मनाया जाता है\" से होती है। आगे 26 जनवरी 1950 को संविधान लागू होने, भारत के संप्रभु, लोकतांत्रिक गणराज्य बनने, झांकियों और इस राष्ट्रीय पर्व के महत्व की चर्चा है। पूरा गद्यांश गणतंत्र दिवस के इर्द-गिर्द घूमता है, इसलिए यही उपयुक्त शीर्षक है।\n\nअन्य विकल्प क्यों नहीं:\n- **स्वतंत्रता दिवस** (15 अगस्त) का उल्लेख केवल प्रसंगवश हुआ है।\n- **भारत का नागरिक** और **जोड़ने का कार्य** गद्यांश के छोटे अंश हैं, केंद्रीय विषय नहीं।\n\nशीर्षक सदैव गद्यांश के मुख्य विषय को व्यक्त करने वाला, संक्षिप्त और सटीक होना चाहिए।"
+ },
+ {
+  "id": "2021-set3-q113",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Assume two binary operators ‘^’ and ‘v’. ‘^’ has higher precedence than ‘v’. Operator ‘^’ is right associative while operator ‘v’ is left associative. Which of the following represents the expression tree for the given expression?\n(9 v 3 ^ 4 v 2)",
+   "options": [
+    "[Tree] root v (left: ^ with children 9 and v(3, 4); right: 2), i.e. (9 ^ (3 v 4)) v 2",
+    "[Tree] root v (left: v with children 9 and ^(3, 4); right: 2), i.e. (9 v (3 ^ 4)) v 2",
+    "[Tree] root v (left: v with children ^(3, 4) and 9; right: 2), i.e. ((3 ^ 4) v 9) v 2",
+    "[Tree] root v (left: 2; right: v with children 9 and ^(3, 4)), i.e. 2 v (9 v (3 ^ 4))"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "All four options are drawn as binary expression trees with circled operator nodes; each is written here as a nested description plus the equivalent parenthesised expression.",
+   "printedErrors": "",
+   "changes": "Options were empty or a stray '4'; replaced with text descriptions of the four printed trees"
+  },
+  "subject": "Computer Science",
+  "topic": "Data Structures",
+  "subtopic": "Trees & binary search trees",
+  "concept": "Expression tree with precedence and associativity",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Build the tree by applying precedence first, then associativity.\n\n- `^` has higher precedence, so `3 ^ 4` is grouped first: `9 v (3 ^ 4) v 2`.\n- Now two `v` operators remain at the same level. `v` is **left associative**, so the left one is applied first: `(9 v (3 ^ 4)) v 2`.\n- The last operator applied becomes the root: the second `v`, with right child `2` and left child the subtree `9 v (3 ^ 4)`. That subtree has `v` at its root, `9` on the left and the `^` node (children 3 and 4) on the right.\n\nThis is exactly option B.\n\nWhy not the others:\n- A puts `^` above `v`, i.e. 9 ^ (3 v 4), which ignores that `^` binds tighter.\n- C changes the operand order (3 ^ 4 before 9), which is a different expression.\n- D groups the `v` operators from the right, as if `v` were right associative, and also moves 2 to the left."
+ },
+ {
+  "id": "2021-set3-q122",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which gate is represented by the following truth table?",
+   "options": [
+    "OR",
+    "AND",
+    "XOR",
+    "NOT"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "Truth table with inputs A, B and output: 00→0, 01→1, 10→1, 11→1.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "OR gate truth table",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The table gives output 0 only when both inputs are 0, and output 1 whenever at least one input is 1:\n\n- A=0, B=0 → 0\n- A=0, B=1 → 1\n- A=1, B=0 → 1\n- A=1, B=1 → 1\n\nThat is the definition of the **OR** gate, Y = A + B.\n\nWhy not the others:\n- **AND** would give 1 only for A=1, B=1 (outputs 0, 0, 0, 1).\n- **XOR** would give 0 for A=1, B=1 (outputs 0, 1, 1, 0); the last row here is 1, which rules it out.\n- **NOT** has a single input and simply inverts it, so it cannot have a two-input table."
+ },
+ {
+  "id": "2021-set3-q123",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following represents carry in half adder?",
+   "options": [
+    "AB",
+    "AB̄",
+    "ĀB",
+    "ĀB̄"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Restored the overbars lost in extraction: option 2 AB→AB̄, option 3 AB→ĀB, option 4 AB→ĀB̄"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Combinational circuits",
+  "concept": "Half adder carry expression",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A half adder adds two bits A and B and produces a Sum and a Carry.\n\n- A=0, B=0 → Sum 0, Carry 0\n- A=0, B=1 → Sum 1, Carry 0\n- A=1, B=0 → Sum 1, Carry 0\n- A=1, B=1 → Sum 0, Carry 1\n\nCarry is 1 only when both inputs are 1, so **Carry = AB** (an AND gate). The Sum is A ⊕ B = AB̄ + ĀB (an XOR gate).\n\nWhy not the others:\n- **AB̄** and **ĀB** are each one product term of the Sum (XOR), not the carry.\n- **ĀB̄** is 1 only when both inputs are 0, which is the NOR function."
+ },
+ {
+  "id": "2021-set3-q127",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Both the inputs of NAND gate are connected to A. What will be the output?",
+   "options": [
+    "0",
+    "1",
+    "A",
+    "Ā"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option 4 was empty; restored Ā (A with overbar)"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "NAND gate as inverter",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A NAND gate gives Y = (X·Y)′. If both inputs are tied to A:\n\nY = (A·A)′ = (A)′ = **Ā**, because A·A = A (idempotent law).\n\nCheck: A=0 → (0·0)′ = 1; A=1 → (1·1)′ = 0. The output is always the complement of A, so a NAND gate with shorted inputs works as a **NOT gate (inverter)**. This is one reason NAND is called a universal gate.\n\nWhy not the others:\n- **0** or **1**: the output is not constant; it changes with A.\n- **A**: that would be the result for an AND (or OR) gate with both inputs tied together, not NAND."
+ },
+ {
+  "id": "2021-set3-q129",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the building blocks in Entity relationship diagram.\ni | Ellipse | a | Relationship\nii | Line with a circle and a bar (—o+) | b | Attributes\niii | Line with two bars (—||) | c | Optional one\niv | Diamond | d | Mandatory one",
+   "options": [
+    "i-b, ii-c, iii-a, iv-d",
+    "i-b, ii-c, iii-d, iv-a",
+    "i-c, ii-b, iii-d, iv-a",
+    "i-b, ii-a, iii-d, iv-c"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "The left column shows ER symbols drawn as images: an ellipse, a line ending in a circle and a single bar, a line ending in two bars, and a diamond.",
+   "printedErrors": "",
+   "changes": "Added the match table (symbols described in words) that the text layer omitted"
+  },
+  "subject": "Computer Science",
+  "topic": "DBMS & SQL",
+  "subtopic": "ER model & keys",
+  "concept": "ER diagram symbols and crow's foot notation",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Match each symbol with its ER meaning:\n\n- **i. Ellipse → b. Attributes.** In Chen notation attributes are drawn as ovals.\n- **ii. —o+ (circle and one bar) → c. Optional one.** In crow's foot notation the circle means \"zero\" (optional) and the bar means \"one\", so the pair is zero-or-one.\n- **iii. —|| (two bars) → d. Mandatory one.** Two bars mean exactly one: minimum one and maximum one.\n- **iv. Diamond → a. Relationship.** Relationships are drawn as diamonds.\n\nSo the matching is i-b, ii-c, iii-d, iv-a, which is option B.\n\nWhy not the others:\n- A and D swap the diamond with a cardinality symbol.\n- C swaps the ellipse (attribute) with the optional-one symbol."
+ },
+ {
+  "id": "2021-set3-q137",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the meaning of this arithmetic micro-operation?\nR3 ← R1 + R̄2 + 1",
+   "options": [
+    "Content of R1 plus R2 transferred to R3",
+    "Content of R1 plus the 2’s complement of R2 transferred to R3",
+    "Content of R1 plus the 1’s complement of R2 transferred to R3",
+    "Content of R1 plus R2 after increments transferred to R3"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the micro-operation R3 ← R1 + R̄2 + 1 (printed as an image, overbar on R2) that was missing from the text"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Architecture",
+  "subtopic": "CPU, registers & instruction cycle",
+  "concept": "Subtract micro-operation using 2's complement",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In register transfer language, R̄2 means the bitwise complement of R2, i.e. its **1's complement**. Adding 1 to the 1's complement gives the **2's complement**:\n\nR̄2 + 1 = 2's complement of R2\n\nSo R3 ← R1 + R̄2 + 1 means: add R1 to the 2's complement of R2 and transfer the result to R3. This is how a CPU performs **subtraction**, R3 ← R1 − R2, using an adder.\n\nWhy not the others:\n- A: R1 + R2 would be written R3 ← R1 + R2, with no complement.\n- C: R1 plus the 1's complement would be R3 ← R1 + R̄2, without the +1.\n- D: the +1 applies to the complemented R2, not to an increment of R1 and R2."
+ },
+ {
+  "id": "2021-set3-q146",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the following operators with their definition in data definition language.\n1 | { }: | i | optional data\n2 | ( ): | ii | selection\n3 | [, .]: | iii | iterative",
+   "options": [
+    "1-iii, 2-i, 3-ii",
+    "1-i, 2-ii, 3-iii",
+    "1-ii, 2-iii, 3-i",
+    "1-iii, 2-ii, 3-i"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "The third symbol is printed as '[, .]:'; the usual data-dictionary selection notation is [ | ] (square brackets with alternatives separated by |).",
+   "changes": "Added the match table that the text layer omitted"
+  },
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "subtopic": "Requirements & design",
+  "concept": "Data dictionary notation symbols",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "These symbols come from the **data dictionary notation** used in structured analysis to define data items:\n\n- `=` is composed of, `+` and\n- `{ }` **iteration**: the enclosed item repeats, e.g. order = {item}\n- `( )` **optional**: the enclosed item may or may not be present, e.g. (middle name)\n- `[ | ]` **selection**: choose exactly one of the alternatives, e.g. [cash | card]\n\nSo { } → iii (iterative), ( ) → i (optional data), [ ] → ii (selection). The matching is 1-iii, 2-i, 3-ii, option A.\n\nWhy not the others: B, C and D each pair braces or parentheses with the wrong meaning; braces always denote repetition, and parentheses always denote an optional element.\n\nNote: the paper prints the selection symbol as \"[, .]\"; the standard form separates the choices with a bar, [ | ]."
+ },
+ {
+  "id": "2021-set3-q170",
+  "transcription": {
+   "verdict": "match",
+   "text": "What will be the balancing factor of node 14 in an AVL tree when a node 13 is deleted from it?",
+   "options": [
+    "BF(14) = –1",
+    "BF(14) = –2",
+    "B(14) = 2",
+    "BF(14) = 1"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "AVL tree: root 14; left child 1 whose right child is 13; right child 64 with left child 26 and right child 98; 98 has children 85 and 110.",
+   "printedErrors": "Option 3 is printed as 'B(14) = 2' instead of 'BF(14) = 2'.",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Data Structures",
+  "subtopic": "Trees & binary search trees",
+  "concept": "AVL balance factor after deletion",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Balance factor BF(node) = height(left subtree) − height(right subtree), counting height in levels of nodes.\n\nBefore deletion:\n- Left subtree of 14: 1 → 13, height 2.\n- Right subtree of 14: 64 → 98 → 85/110, height 3.\n- BF(14) = 2 − 3 = −1 (balanced).\n\nAfter deleting leaf 13:\n- Left subtree of 14 is just node 1, height 1.\n- Right subtree is unchanged, height 3.\n- **BF(14) = 1 − 3 = −2**.\n\nSo node 14 becomes unbalanced (right-heavy), and the tree would need a rotation (here a left rotation at 14, since BF(64) = 1 − 2 = −1). The question asks only for the balance factor before rebalancing, which is −2, option B.\n\nWhy not the others: −1 is the value before deletion; +1 and +2 have the wrong sign, because the right side is taller."
+ },
+ {
+  "id": "2021-set3-q172",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the following.\n1 | Longest common subsequence | i | Divide and conquer\n2 | Huffman code | ii | Linear programming\n3 | Quick sort | iii | Greedy algorithm\n4 | Simplex algorithm | iv | Dynamic programming",
+   "options": [
+    "1-iv, 2-i, 3-ii, 4-iii",
+    "1-iii, 2-ii, 3-iv, 4-i",
+    "1-iv, 2-iii, 3-i, 4-ii",
+    "1-iii, 2-iv, 3-ii, 4-i"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the match table that the text layer omitted"
+  },
+  "subject": "Computer Science",
+  "topic": "Algorithms",
+  "subtopic": "Dynamic programming",
+  "concept": "Algorithm design paradigm matching",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Match each problem or algorithm to its design technique:\n\n- **Longest common subsequence → Dynamic programming (iv).** LCS has overlapping subproblems and optimal substructure; it fills a table c[i][j] in O(mn).\n- **Huffman code → Greedy algorithm (iii).** It repeatedly merges the two least-frequent nodes.\n- **Quick sort → Divide and conquer (i).** It partitions around a pivot and recursively sorts the two parts.\n- **Simplex algorithm → Linear programming (ii).** Simplex is the classic method for solving LP problems.\n\nSo the answer is 1-iv, 2-iii, 3-i, 4-ii, option C.\n\nWhy not the others: A labels Huffman as divide and conquer and quick sort as LP; B and D label LCS as greedy, which does not give an optimal LCS."
+ },
+ {
+  "id": "2021-set3-q189",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A bike manufacturing factory has two plants P and Q. Plant P manufactures 60 percent of bikes and plant Q manufacture 40 percent. 80 percent of the bikes at plant P and 90 percent of the bikes at plant Q are rated of standard quality. A bike is chosen at random and is found to be of standard quality. What is the probability that it has come from plant P?",
+   "options": [
+    "3/7",
+    "6/7",
+    "5/7",
+    "4/7"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "'plant Q manufacture 40 percent' (should be 'manufactures').",
+   "changes": "Options were partial OCR digits (3, 6, empty, 4); restored the printed fractions 3/7, 6/7, 5/7, 4/7"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Probability",
+  "concept": "Bayes' theorem conditional probability",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Use Bayes' theorem. Let S = bike is of standard quality.\n\n- P(P) = 0.6, P(S | P) = 0.8 → P(P and S) = 0.6 × 0.8 = 0.48\n- P(Q) = 0.4, P(S | Q) = 0.9 → P(Q and S) = 0.4 × 0.9 = 0.36\n- Total P(S) = 0.48 + 0.36 = 0.84\n\nP(P | S) = 0.48 / 0.84 = 48/84 = **4/7**\n\nSo option D is correct.\n\nWhy not the others:\n- 3/7 = 0.36/0.84 is the probability that the bike came from plant Q.\n- 6/7 and 5/7 do not come from any correct combination of the given figures."
+ },
+ {
+  "id": "2021-set3-q190",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "If x = 5, then what is the value of y from the following table of values?\nx | 2 | 6\ny | 8 | 12",
+   "options": [
+    "10",
+    "15",
+    "11",
+    "9.5"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the table of values that the text layer omitted"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Interpolation & numerical methods",
+  "concept": "Linear interpolation from two points",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "With only two data points, the interpolating polynomial is a straight line (linear or Lagrange interpolation of degree 1).\n\nPoints: (2, 8) and (6, 12).\n\n- Slope = (12 − 8) / (6 − 2) = 4/4 = 1\n- y = 8 + 1 × (x − 2) = x + 6\n- At x = 5: y = 5 + 6 = **11**\n\nLagrange form gives the same result: y = 8·(5−6)/(2−6) + 12·(5−2)/(6−2) = 8·(1/4) + 12·(3/4) = 2 + 9 = 11.\n\nSo option C is correct. The other values (10, 15, 9.5) do not lie on the line through the two given points."
+ },
+ {
+  "id": "2021-set4-q034",
+  "transcription": {
+   "verdict": "match",
+   "text": "How many red are neither green nor rectangle?",
+   "options": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "Venn diagram of a Red circle, a Green circle and a horizontal Rectangle: Rectangle only 8; Red∩Rectangle only 9; Red∩Green∩Rectangle 2; Green∩Rectangle only 1; Green only 3; Red only 4; Red∩Green outside the rectangle 6.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Venn diagrams",
+  "concept": "Venn diagram region counting",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "We need the part of the **Red** circle that lies outside both the **Green** circle and the **Rectangle**.\n\nRegions inside the Red circle:\n- 9: red and rectangle (excluded, it is in the rectangle)\n- 2: red, green and rectangle (excluded)\n- 6: red and green, outside the rectangle (excluded, it is green)\n- 4: red only, outside both green and the rectangle ✓\n\nSo the count is **4**, option D.\n\nWhy not the others: 6 is red-and-green, 8 is rectangle only (not red at all), and 10 = 6 + 4 wrongly includes the green overlap."
+ },
+ {
+  "id": "2021-set4-q035",
+  "transcription": {
+   "verdict": "match",
+   "text": "Based on the given venn diagram, which of the following statement(s) is/are incorrect?\nI. Total number of odd are 10.\nII. Number of even which are not letters, are 10.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "A horizontal 'Even' rectangle crosses a vertical 'Odd' rectangle and a 'Letters' circle: Even only 8; Even∩Odd 2; Even∩Odd∩Letters 3; Even∩Letters 4; Letters only 16; Odd only 6.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Venn diagrams",
+  "concept": "Venn diagram region counting",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Read the regions of each figure.\n\n**Statement I (total odd):** the Odd rectangle contains 2 (with even), 3 (with even and letters) and 6 (odd only).\nTotal odd = 2 + 3 + 6 = **11**, not 10. So statement I is **incorrect**.\n\n**Statement II (even but not letters):** the Even rectangle contains 8, 2, 3 and 4; of these, 3 and 4 lie inside the Letters circle.\nEven not letters = 8 + 2 = **10**. So statement II is **correct**.\n\nThe question asks for the incorrect statement(s): only I, option A.\n\nWhy not the others: B and C treat statement II as wrong, but 8 + 2 = 10 exactly; D ignores that the odd total is 11."
+ },
+ {
+  "id": "2021-set4-q038",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "In the following question, select the wrong figure from the given series.",
+   "options": [
+    "[Figure] T R across the top right; J above A down the left side",
+    "[Figure] A J across the top right; T R across the bottom right",
+    "[Figure] R above T on the left; A above J on the right",
+    "[Figure] R above T on the upper left; J A across the bottom right"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "A series of five square boxes, each holding the letters A, J, T, R at border positions; options 1-4 are figures 3, 4, 2 and 5 of the series.",
+   "printedErrors": "",
+   "changes": "Options were empty; replaced with descriptions of the printed figures"
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Figures & mirror images",
+  "concept": "Wrong figure in a letter-movement series",
+  "difficulty": "hard",
+  "derivedAnswer": "B",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Number the eight border cells of each box clockwise: 0 top-left, 1 top-middle, 2 top-right, 3 middle-right, 4 bottom-right, 5 bottom-middle, 6 bottom-left, 7 middle-left.\n\nPositions in the series:\n- Fig 1: A0, J1, T3, R4\n- Fig 2: A3, J4, T6, R7\n- Fig 3: A6, J7, T1, R2\n- Fig 4 (printed): A1, J2, T5, R4\n- Fig 5: A4, J5, T7, R0\n\nEvery letter moves **3 cells clockwise** each step. Following that rule, figure 4 should be A1, J2, **T4, R5**, i.e. the bottom row should read \"R T\". The printed figure 4 has \"T R\", so T and R are swapped.\n\nFigure 4 is option 2 (B), the wrong figure. Options 1, 3 and 4 (figures 3, 2 and 5) all fit the rule.\n\nThe positions above were read from small printed images, so confidence is medium, but the rule fits all other figures exactly."
+ },
+ {
+  "id": "2021-set4-q043",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following option is correct?",
+   "options": [
+    "∛2 > ⁶√3 > ¹⁸√12 > ⁹√4",
+    "∛2 > ⁶√3 > ⁹√4 > ¹⁸√12",
+    "¹⁸√12 > ⁹√4 > ⁶√3 > ∛2",
+    "¹⁸√12 > ∛2 > ⁶√3 > ⁹√4"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Options were empty or '32>55>34>412'; restored the printed surds with their root indices"
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Number System & Simplification",
+  "subtopic": "Simplification & surds",
+  "concept": "Comparing surds of different orders",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "To compare surds with different root indices, convert them to the same index. LCM of 3, 6, 9 and 18 is 18.\n\n- ∛2 = 2^(1/3) = ¹⁸√(2⁶) = ¹⁸√64\n- ⁶√3 = 3^(1/6) = ¹⁸√(3³) = ¹⁸√27\n- ⁹√4 = 4^(1/9) = ¹⁸√(4²) = ¹⁸√16\n- ¹⁸√12 stays ¹⁸√12\n\nWith the same root index, compare the radicands: 64 > 27 > 16 > 12.\n\nSo **∛2 > ⁶√3 > ⁹√4 > ¹⁸√12**, option B.\n\nWhy not the others: A swaps ⁹√4 and ¹⁸√12 (16 > 12); C reverses the full order; D wrongly puts ¹⁸√12, the smallest, first."
+ },
+ {
+  "id": "2021-set4-q056",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Diagonal of a square is 40 cm. What will be the area of square?",
+   "options": [
+    "400√2 cm^2",
+    "400 cm^2",
+    "1600 cm^2",
+    "800 cm^2"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "400~2 cm?→400√2 cm^2"
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Mensuration & Geometry",
+  "subtopic": "2-D figures (area, perimeter)",
+  "concept": "Area of square from diagonal",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "For a square with diagonal d, area = d²/2.\n\nArea = 40² / 2 = 1600 / 2 = **800 cm²**.\n\nCheck via the side: side = d/√2 = 40/√2 = 20√2 cm, so area = (20√2)² = 400 × 2 = 800 cm².\n\nSo option D is correct.\n\nWhy not the others:\n- 1600 cm² is d², forgetting to divide by 2.\n- 400 cm² treats 20 as the side (half the diagonal).\n- 400√2 cm² comes from not squaring the √2 in the side 20√2."
+ },
+ {
+  "id": "2021-set4-q058",
+  "transcription": {
+   "verdict": "match",
+   "text": "The pie chart given below shows the population of seven states L, M, N, O, P, Q and R. Total population of all these seven states is 225000.\nPopulation of a particular state is shown as a percent of total population of all these seven states.\nJ1 = Sum of population of state N and O\nJ2 = Difference between population of state M and N\nJ3 = Average population of states M, N, O and P\nWhat is the value of (J1 + J2 + J3)?",
+   "options": [
+    "137350",
+    "142875",
+    "147275",
+    "147350"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "Pie chart: L 18%, M 32%, N 16%, O 14%, P 8%, Q 7%, R 5%.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "subtopic": "Data interpretation & statistics",
+  "concept": "Pie chart percentage data interpretation",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Total = 225000, so 1% = 2250.\n\nShares from the pie chart: M 32%, N 16%, O 14%, P 8%.\n\n- J1 = N + O = (16 + 14)% = 30% = 30 × 2250 = 67500\n- J2 = M − N = (32 − 16)% = 16% = 16 × 2250 = 36000\n- J3 = average of M, N, O, P = (32 + 16 + 14 + 8)% / 4 = 70% / 4 = 17.5% = 17.5 × 2250 = 39375\n\nJ1 + J2 + J3 = 67500 + 36000 + 39375 = **142875**\n\n(Shortcut: (30 + 16 + 17.5)% = 63.5% of 225000 = 142875.)\n\nSo option B is correct."
+ },
+ {
+  "id": "2021-set4-q059",
+  "transcription": {
+   "verdict": "match",
+   "text": "The bar graph given below shows the sales of five different products (in lakhs) A, B, C, D and E during 2001 and 2005 by a company.\nWhich of the following statement(s) is/are correct?\nI. In 2001 Sales of product B is 56.67 percent more than the sales of product C.\nII. In 2001 Sales of product A is 146.67 percent more than the sales of product E.\nIII. Ratio of sales of product C in 2001 to the sales of product D in 2005 is 1 : 7.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Only III",
+    "Both II and III"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "Bar graph of sales (in lakhs), 2001 / 2005: A 18.5 / 18.7; B 5.95 / 38.5; C 4.25 / 28.5; D 6.8 / 29.75; E 7.5 / 42.5.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "subtopic": "Data interpretation & statistics",
+  "concept": "Bar graph percentage and ratio comparison",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Values from the graph (in lakhs): 2001: A 18.5, B 5.95, C 4.25, E 7.5; 2005: D 29.75.\n\n**I.** B vs C in 2001: (5.95 − 4.25) / 4.25 × 100 = 1.7 / 4.25 × 100 = **40%**, not 56.67%. Incorrect.\n\n**II.** A vs E in 2001: (18.5 − 7.5) / 7.5 × 100 = 11 / 7.5 × 100 = **146.67%**. Correct.\n\n**III.** C (2001) : D (2005) = 4.25 : 29.75. Since 29.75 / 4.25 = 7, the ratio is **1 : 7**. Correct.\n\nOnly statements II and III are correct, so the answer is option D."
+ },
+ {
+  "id": "2021-set4-q060",
+  "transcription": {
+   "verdict": "match",
+   "text": "The bar graph given below shows the runs scored by five batsmen in a cricket match.\nJ1 = Average runs scored by all the five batsmen\nJ2 = Difference between runs scored by E and D\nJ3 = Difference between runs scored by C and B\nWhat is the value of (J3 – J2 + J1)?",
+   "options": [
+    "81",
+    "61",
+    "71",
+    "91"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "Bar graph of runs: A 95, B 105, C 135, D 75, E 145.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "subtopic": "Data interpretation & statistics",
+  "concept": "Bar graph average and difference",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Runs from the graph: A 95, B 105, C 135, D 75, E 145.\n\n- J1 = average = (95 + 105 + 135 + 75 + 145) / 5 = 555 / 5 = 111\n- J2 = E − D = 145 − 75 = 70\n- J3 = C − B = 135 − 105 = 30\n\nJ3 − J2 + J1 = 30 − 70 + 111 = **71**\n\nSo option C is correct.\n\nWhy not the others: 81, 61 and 91 do not match this calculation; a common slip is using J2 − J3 (= 40) instead of J3 − J2 (= −40), which would give 151, not an option."
+ },
+ {
+  "id": "2021-set4-q061",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में रेखांकित भाग किस प्रकार का अव्यय है, ज्ञात कीजिए।\nहाय! वह मर गया।",
+   "options": [
+    "सम्बन्धबोधक",
+    "समुत्चयबोधक",
+    "क्रिया विशेषण",
+    "विस्मयादिबोधक"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "'हाय!' is underlined in the paper. Option 2 is printed 'समुत्चयबोधक'; the correct spelling is 'समुच्चयबोधक'.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "कारक एवं अव्यय",
+  "concept": "Hindi: विस्मयादिबोधक अव्यय (हाय!)",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **विस्मयादिबोधक** है।\n\nवाक्य \"हाय! वह मर गया।\" में रेखांकित शब्द 'हाय!' है। जो अव्यय शब्द हर्ष, शोक, आश्चर्य, घृणा, भय आदि मन के भावों को प्रकट करते हैं, उन्हें **विस्मयादिबोधक अव्यय** कहते हैं। इनके बाद प्रायः विस्मयादिबोधक चिह्न (!) लगता है। यहाँ 'हाय!' शोक का भाव प्रकट करता है। अन्य उदाहरण: अरे!, वाह!, छी!, ओह!\n\nअन्य विकल्प क्यों नहीं:\n- **सम्बन्धबोधक** संज्ञा/सर्वनाम का संबंध वाक्य के दूसरे शब्दों से जोड़ता है (जैसे के साथ, की ओर)।\n- **समुच्चयबोधक** (प्रश्न-पत्र में 'समुत्चयबोधक' छपा है) दो शब्दों या वाक्यों को जोड़ता है (और, परंतु)।\n- **क्रिया विशेषण** क्रिया की विशेषता बताता है (धीरे, यहाँ)।"
+ },
+ {
+  "id": "2021-set4-q062",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए शब्द का उपसर्ग ज्ञात कीजिए।\nऔगुन",
+   "options": [
+    "अव",
+    "आ",
+    "गुन",
+    "ओ"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "उपसर्गज्ञात→उपसर्ग ज्ञात (spacing only)"
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "उपसर्ग-प्रत्यय",
+  "concept": "Hindi: उपसर्ग अव/औ (औगुन)",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **अव** है।\n\n'औगुन' शब्द 'अवगुण' का तद्भव रूप है: अव + गुण = अवगुण → औगुन। हिंदी के तद्भव (हिंदी) उपसर्गों में 'औ' को 'अव' का ही रूप माना जाता है, जिसका अर्थ है हीनता या बुराई। इसी उपसर्ग से बने अन्य शब्द हैं: औघट, औसर (अवसर), औढर। अतः औगुन = औ/अव + गुन, और दिए गए विकल्पों में उपसर्ग 'अव' है।\n\nअन्य विकल्प क्यों नहीं:\n- **आ** उपसर्ग से आगमन, आजीवन जैसे शब्द बनते हैं; औगुन में 'आ' नहीं है।\n- **गुन** मूल शब्द (गुण का तद्भव) है, उपसर्ग नहीं।\n- **ओ** विकल्प 'औ' से भिन्न है; औगुन के आरंभ में 'औ' है, 'ओ' नहीं।"
+ }
+]

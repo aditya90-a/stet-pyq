@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "2021-set4-q105",
+  "copies": [
+   "2021-set4-q105"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a type of subprogram?\nI. Functions\nII. Subroutines",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q106",
+  "copies": [
+   "2021-set4-q106"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a primary task of memory management system?\nI. It keeps track of which parts of the memory are currently being used\nII. When space is available, it allocates memory to the programs that are next to be loaded",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q107",
+  "copies": [
+   "2021-set4-q107"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A 2D array in which there are different number of elements in each row is known as ______.",
+  "options": [
+   "A) regular",
+   "B) irregular",
+   "C) sparse",
+   "D) dense"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q108",
+  "copies": [
+   "2021-set4-q108"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When does the .exe file is created in C language?",
+  "options": [
+   "A) After compilation",
+   "B) After loading all files",
+   "C) After linking",
+   "D) After writing"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q109",
+  "copies": [
+   "2021-set4-q109"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The operator in C++, which is used to access a value referred by a pointer is known as ______.",
+  "options": [
+   "A) indirect operator",
+   "B) direct operator",
+   "C) indirection operator",
+   "D) insertion operator"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q110",
+  "copies": [
+   "2021-set4-q110"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Sort the following elements using Bubble sort in ascending order. What is the intermediate sequence of 37, 54, 21, 85, 68, 12, 9, 57 after second\npass?",
+  "options": [
+   "A) 21, 37, 12, 9, 54, 57, 68, 85",
+   "B) 37, 21, 54, 68, 12, 9, 57, 85",
+   "C) 21, 37, 54, 12, 9, 57, 68, 85",
+   "D) 21, 12, 9, 37, 54, 57, 68, 85"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q111",
+  "copies": [
+   "2021-set4-q111"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, v;\nk=(v=20,v+2);\nprintf(\"%d\",k);\n}",
+  "options": [
+   "A) 2",
+   "B) 20",
+   "C) 22",
+   "D) Error"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q112",
+  "copies": [
+   "2021-set4-q112"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The following keys 22, 28, 23, 12 and 13 are inserted into initially empty hash table of length 9 using open addressing with hash function h(k) =\nk mode 9 and linear probing. At what index key 13 is inserted?",
+  "options": [
+   "A) 4",
+   "B) 5",
+   "C) 6",
+   "D) 7"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q113",
+  "copies": [
+   "2021-set4-q113"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the file extension for Batch files?",
+  "options": [
+   "A) .BAT",
+   "B) .BCH",
+   "C) .CTH",
+   "D) .BATCH"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q114",
+  "copies": [
+   "2021-set4-q114"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a type of Real time operating system?\nI. Hard real time system\nII. Soft real time system",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q115",
+  "copies": [
+   "2021-set4-q115"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "If b is the base of the positional number system. What is the range of symbols it consists of?",
+  "options": [
+   "A) 0 to b",
+   "B) 1 to b",
+   "C) 0 to (b – 1)",
+   "D) 1 to (b – 1)"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q116",
+  "copies": [
+   "2021-set4-q116"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many bits are required to represent any decimal number in the range from 0 to 2^n–1 in base 2?",
+  "options": [
+   "A) n",
+   "B) n – 1",
+   "C) 2^n – 1",
+   "D) n + 1"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q117",
+  "copies": [
+   "2021-set4-q117"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Assigned ordering among the characters used by the computer is known as ______.",
+  "options": [
+   "A) character sequence",
+   "B) linear sequence",
+   "C) collating sequence",
+   "D) data sequence"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q120",
+  "copies": [
+   "2021-set4-q120"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Astable multivibrator has ______ quasi-stable states.",
+  "options": [
+   "A) 0",
+   "B) 1",
+   "C) 2",
+   "D) 3"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q121",
+  "copies": [
+   "2021-set4-q121"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct regarding figure of merit of an IC?",
+  "options": [
+   "A) Propagation delay time – power",
+   "B) Propagation delay time ÷ power",
+   "C) Propagation delay time × power",
+   "D) Propagation delay time + power"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q122",
+  "copies": [
+   "2021-set4-q122"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct regarding T type flip flop?\nI. If T = 1, changes state for lining clock pulse\nII. If T = 0, does not changes state",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q124",
+  "copies": [
+   "2021-set4-q124"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is oldest database model?",
+  "options": [
+   "A) Deductive",
+   "B) Relational",
+   "C) Object-Oriented",
+   "D) Hierarchical"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q125",
+  "copies": [
+   "2021-set4-q125"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of DDLC in database?",
+  "options": [
+   "A) Distributed Database Log Clearing",
+   "B) Distributed Database Life Cycle",
+   "C) Database Development Life Cycle",
+   "D) Deductive Database Life Cycle"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q126",
+  "copies": [
+   "2021-set4-q126"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "All candidate keys other than primary keys are known as ______.",
+  "options": [
+   "A) Foreign key",
+   "B) Secondary key",
+   "C) Alternate key",
+   "D) Remaining key"
+  ],
+  "sourceKey": null,
+  "officialNote": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q127",
+  "copies": [
+   "2021-set4-q127"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The left-hand side and the right-hand sides of a functional dependency are sometimes called ______ and ______ respectively.",
+  "options": [
+   "A) domain; attributes",
+   "B) determinant; dependent",
+   "C) range; table",
+   "D) tuple; relation"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q128",
+  "copies": [
+   "2021-set4-q128"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ are some problems that may arise while creating the Entity relationship model.",
+  "options": [
+   "A) Connection traps",
+   "B) Transition traps",
+   "C) Groups traps",
+   "D) Data traps"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q130",
+  "copies": [
+   "2021-set4-q130"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is the point of synchronisation between the database and the transaction log file in database management system.",
+  "options": [
+   "A) Checkpoint",
+   "B) Shadow point",
+   "C) Mapping point",
+   "D) Key point"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q131",
+  "copies": [
+   "2021-set4-q131"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "How many address lines and input-output data lines are needed in 2k × 16 memory unit?",
+  "options": [
+   "A) 10 address line, 16 data line",
+   "B) 10 address line, 4 data line",
+   "C) 11 address line, 4 data line",
+   "D) 11 address line, 16 data line"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q133",
+  "copies": [
+   "2021-set4-q133"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "By including which logical gate binary adder circuit is used for both binary addition and subtraction?",
+  "options": [
+   "A) Ex - AND gate",
+   "B) AND gate",
+   "C) Ex - OR gate",
+   "D) OR gate"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q134",
+  "copies": [
+   "2021-set4-q134"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The 8-bit register A and B initially have the following values.\nA = 01110110\nB = 10000101\nWhat is the 8-bit value in each register after execution of the following micro-operation?\nA ← A + B\nB ← B + 1",
+  "options": [
+   "A) A = 11111110, B = 10000101",
+   "B) A = 11111011, B = 10001110",
+   "C) A = 11111011, B = 10000110",
+   "D) A = 11111101, B = 10000101"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q135",
+  "copies": [
+   "2021-set4-q135"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Pseudo instruction is given to ______.",
+  "options": [
+   "A) compiler",
+   "B) linker",
+   "C) assembler",
+   "D) loader"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q136",
+  "copies": [
+   "2021-set4-q136"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which property of CSS specifies the degree to which text should be emboldened?",
+  "options": [
+   "A) Font – style",
+   "B) Font – family",
+   "C) Font – weight",
+   "D) Font – size"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q137",
+  "copies": [
+   "2021-set4-q137"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which property of CSS enables to set multiple list properties at once?",
+  "options": [
+   "A) List – style – type",
+   "B) List – style – image",
+   "C) List – style – position",
+   "D) List – style"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q138",
+  "copies": [
+   "2021-set4-q138"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is correct?\nI. Decrease in asset is credited\nII. Increase in liabilities is credited",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q139",
+  "copies": [
+   "2021-set4-q139"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is a feature of depreciation?\nI. It is decline in the book value of fixed assets\nII. It is a continuing process",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q141",
+  "copies": [
+   "2021-set4-q141"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the full form of ROCOF in Software Reliability?",
+  "options": [
+   "A) Ratio of occurrence of fault",
+   "B) Rate of occurrence of fault",
+   "C) Rate of occurrence of failure",
+   "D) Ratio of occurrence of failure"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q143",
+  "copies": [
+   "2021-set4-q143"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "According to structured partitioning in software engineering a program ______.",
+  "options": [
+   "A) should be partitioned both horizontally and diagonally",
+   "B) should be partitioned both vertically and diagonally",
+   "C) should be partitioned both horizontally and vertically",
+   "D) should be partitioned diagonally"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q144",
+  "copies": [
+   "2021-set4-q144"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is another name for level 0-DFD?",
+  "options": [
+   "A) E-R Diagram",
+   "B) Context diagram",
+   "C) Flow diagram",
+   "D) Structure chart"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q145",
+  "copies": [
+   "2021-set4-q145"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is COUPLING in software design?",
+  "options": [
+   "A) Coupling is measure of degree of functional interdependence between the two modules",
+   "B) Coupling is measure of degree of functional non-dependence between the two modules",
+   "C) Coupling is measure of degree of functional connected dependence between the two modules",
+   "D) Coupling is the measure of the functional strength of the module of the software"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q146",
+  "copies": [
+   "2021-set4-q146"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are correct regarding code walk-through in software engineering?\nI. It is an informal technique for analysis of the code.\nII. It is undertaken just before the coding of the module.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q147",
+  "copies": [
+   "2021-set4-q147"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In boundary value analysis testing method, if we want to design a test case that computes the square root of integer values in the range from 1 to\n4000, then the test case must include what values?",
+  "options": [
+   "A) [0, 1, 3999, 4000]",
+   "B) [1, 2, 3999, 4000]",
+   "C) [0, 1, 4000, 4001]",
+   "D) [1, 2, 4000, 4001]"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q148",
+  "copies": [
+   "2021-set4-q148"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is function of javap command?",
+  "options": [
+   "A) A command for running the java compiler",
+   "B) A command that disassembles java class files",
+   "C) A command for running a non-optimized version of java compiler",
+   "D) A command that is used to generate API-style HTML documentation"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q149",
+  "copies": [
+   "2021-set4-q149"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement is/are correct regarding JAVA programming?\nI. A class marked as final cannot be inherited\nII. A method marked final cannot be overridden",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q150",
+  "copies": [
+   "2021-set4-q150"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is the output of the following JAVA code?\nString s = “exam:” + 9 + 9 + 9;\nSystem.out.println(s);",
+  "options": [
+   "A) exam 27",
+   "B) exam:27",
+   "C) exam:9",
+   "D) exam:999"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q152",
+  "copies": [
+   "2021-set4-q152"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "The programming of first generation computers was done in ______ language.\nI. Machine\nII. High level",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q153",
+  "copies": [
+   "2021-set4-q153"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which protocol is used for basic transmission of multimedia content?",
+  "options": [
+   "A) Real-time transport protocol",
+   "B) Real-system transport protocol",
+   "C) Real-system transfer protocol",
+   "D) Real-software transport protocol"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q154",
+  "copies": [
+   "2021-set4-q154"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ stores entries about files and their characteristics.",
+  "options": [
+   "A) File application table",
+   "B) File access table",
+   "C) Format allocation table",
+   "D) File allocation table"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q155",
+  "copies": [
+   "2021-set4-q155"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "A disk consists of ______, ______, ______.",
+  "options": [
+   "A) track, segment and circle",
+   "B) track, circle and cone",
+   "C) drum, track and segment",
+   "D) cylinder, tracks and sectors"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q156",
+  "copies": [
+   "2021-set4-q156"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statement(s) is/are NOT correct?\nI. Parallel processing is also known as loosely coupled architecture.\nII. Distributed system is also known as tightly coupled architecture.",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q157",
+  "copies": [
+   "2021-set4-q157"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "As the income of the consumer increases, the ______.",
+  "options": [
+   "A) demand for a normal good becomes zero",
+   "B) demand for an inferior good falls",
+   "C) demand for an inferior good rises",
+   "D) demand for a normal good falls"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q158",
+  "copies": [
+   "2021-set4-q158"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Selling of a bond by RBI to private individuals or institutions leads to______.\nI. Reduction in quantity of reserves\nII. Reduction in money supply",
+  "options": [
+   "A) Only I",
+   "B) Only II",
+   "C) Both I and II",
+   "D) Neither I nor II"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q159",
+  "copies": [
+   "2021-set4-q159"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "In a production process if all inputs get tripled, then which of the following statements will follow?\nI. If output is tripled, then decreasing returns to scale holds.\nII. If output gets doubled, then constant returns to scale holds.\nIII. If output is more than tripled, then increasing returns to scale holds.",
+  "options": [
+   "A) Only II",
+   "B) Only III",
+   "C) I and II",
+   "D) I and III"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q161",
+  "copies": [
+   "2021-set4-q161"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is not an example of Guided transmission media?",
+  "options": [
+   "A) Fiber optic",
+   "B) Infrared wave",
+   "C) Twisted pair",
+   "D) Coaxial cable"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q162",
+  "copies": [
+   "2021-set4-q162"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "DHCP (Dynamic Host Configuration Protocol) is a ______.",
+  "options": [
+   "A) asking question and getting the reply",
+   "B) protocol in which the sends for positive acknowledgement before advancing to the next data item",
+   "C) protocol allows a newly booted workstation to broadcast its Ethernet address",
+   "D) protocol allows both manual IP address assign infant and automatic assignment"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ },
+ {
+  "id": "2021-set4-q163",
+  "copies": [
+   "2021-set4-q163"
+  ],
+  "paper": "2021 · Set 4 (91/20)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "______ is a private network that uses a public network to connect remote sites or users together.",
+  "options": [
+   "A) Visual public network",
+   "B) Virtual private network",
+   "C) Virtual public network",
+   "D) Visual private network"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "pdf-text-layer"
+ }
+]

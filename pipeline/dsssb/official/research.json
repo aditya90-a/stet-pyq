@@ -1,0 +1,312 @@
+{
+  "generated": "2026-10-26",
+  "summary": "DSSSB TGT Computer Science (DoE, GNCTD) research. All core facts verified from PDFs downloaded from dsssb.delhi.gov.in on 2026-10-26; scanned PDFs were read visually.",
+  "facts": [
+    {
+      "key": "advt_41_26",
+      "value": "Post Code 41/26, Trained Graduate Teacher (Computer Science), Directorate of Education, is in DSSSB Vacancy Notice / Advertisement No. 03/2026, No. F.1(445)/P&P/DSSSB/2026/Advt./4829, dated 29/05/2026. It covers post codes 21/26 to 45/26, 1979 vacancies in total. The website attachment is dated 2026-06-01.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "VACANCY NOTICE / ADVERTISEMENT NO. 03/2026 for various Posts from Post code 21/26 to 45/26",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "Listing page: https://dsssb.delhi.gov.in/dsssb/vacancy-notice-advertisement-no-032026-various-posts-post-code-2126-4526-closing-date-0. Requisition ref: F.No.DE/TGT(CS)/E-IV/REQ/2025/268 dated 18/09/2025."
+    },
+    {
+      "key": "vacancies_41_26",
+      "value": "675 in total: UR 416, OBC 00, SC 104, ST 39, EWS 116. Included in the 675 are 22 PwBD posts: cat (a) 06, (b) 06, (c) 05, (d)&(e) 05. ESM and MSP are marked '--'. Group B.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026 (page 2 table; page 20 post block)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "The advertisement calls the vacancies tentative. Some third-party sites give 838 or 967; those figures are wrong or merge several posts."
+    },
+    {
+      "key": "pay_41_26",
+      "value": "Rs 44,900 - 1,42,400 (Pay Level 7), Group 'B', General Central Service, Non-Gazetted, Non-Ministerial",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": ""
+    },
+    {
+      "key": "age_41_26",
+      "value": "Not more than 30 years, as on the cut-off date 15/07/2026. Government servants get up to 5 years relaxation under Central Govt instructions. Contractual employees of the same department get a one-time relaxation equal to their contractual service, up to 5 years, if they worked at least 120 days in that year (Services Dept OM F.19(11)/2015/S-IV/1751-1756 dated 11/06/2019). General relaxation under Para 7: SC/ST 5 yrs; OBC 3 yrs; PwBD 10 yrs; PwBD+SC/ST 15 yrs; PwBD+OBC 13 yrs. Departmental candidates with 3 years of continuous regular service get up to 5 yrs for Group B posts. Ex-Servicemen get military service plus 3 years, up to age 55. Widow/divorcee and MSP relaxations apply to Group C only, so they do not apply to this Group B post.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026 (post block p.20-21; Para 7 Age Relaxation p.33)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "OBC benefits apply only to OBC (Delhi) candidates. OBC (Outside) candidates must apply as UR."
+    },
+    {
+      "key": "qualification_41_26",
+      "value": "Essential, any one of: (1) BCA from a recognized university; OR graduation in Computer Science from a recognized university, with CS studied as a main subject in all years; OR BE/B.Tech (Computer Science/IT) from a recognized university; OR graduation in any subject plus the 'A' level course from DOEACC, Ministry of ICT, Govt of India. Note: the Competent Authority may relax qualifications, with reasons recorded, for candidates who are otherwise well qualified. Desirable: NIL. Experience: NIL.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "The 41/26 block does not require B.Ed or CTET. CTET appears in the advertisement only for other posts, e.g. 43/26 Special Education Teacher and 44/26 Special Educator (Primary). Qualifications are judged as on 15/07/2026."
+    },
+    {
+      "key": "application_dates_41_26",
+      "value": "Online applications at https://dsssbonline.nic.in opened 16/06/2026 from 12:00 noon and closed 15/07/2026 at 11:59 PM. The cut-off date for eligibility is 15/07/2026.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "On 2026-10-26 the vacancy page showed only one corrigendum to Advt 03/2026 (dated 05-10-2026), and it is for Post Code 45/26, not 41/26."
+    },
+    {
+      "key": "fee_41_26",
+      "value": "Rs 100. Exempt: women, SC, ST, PwBD and Ex-Servicemen (ESM already re-employed in a regular civil post are not exempt). Payment only through SBI e-pay. The fee is not refundable.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026, Para 3",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": ""
+    },
+    {
+      "key": "exam_scheme_41_26",
+      "value": "Row 3 of Para 4 covers post codes 41/26, 42/26, 43/26 and 44/26: One Tier (Technical/Teaching), exam code I-T-T, 2 hours, 200 MCQs for 200 marks, no descriptive paper, grand total 200. Section A has 100 one-mark MCQs: General Awareness; General Intelligence & Reasoning Ability; Arithmetical & Numerical Ability; Test of Hindi Language & Comprehension; Test of English Language & Comprehension, 20 marks each. Section B has 100 one-mark MCQs (100 marks) 'from the subject concerned including questions on teaching methodology/ B.Ed.' Negative marking: 0.25 deducted for each wrong 1-mark MCQ. Questions are bilingual (Hindi and English) except the language sections. Scores are normalized if required (Notice 11.07.2018).",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026, Para 4 Examination Scheme and Notes (pp.27-31)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "DSSSB reserves the right to change the scheme before the exam. Re-evaluation is not available."
+    },
+    {
+      "key": "qualifying_marks_41_26",
+      "value": "Minimum qualifying marks: General/EWS 40%, OBC (Delhi) 35%, SC/ST/PwBD 30%, and ESM 5% lower than their category, with a floor of 30%. For One Tier Technical/Teaching, the minimum applies only to Section B (the domain subject). Section A has no minimum, but the minimum also applies to the cumulative marks. The final merit list uses Section A + Section B combined. Ties are broken by higher Section B marks, then older age, then alphabetical first name.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+      "sourceTitle": "Advertisement No. 03/2026, Para 4 note and Para 5",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "This differs from the 2017 TGT notice, which required qualifying in Sections A and B separately. The Section-B-only rule is not new in 2026: it already applied under Advt 08/22 (39/22) and Advt 02/23 (70/23)."
+    },
+    {
+      "key": "exam_dates_41_26",
+      "value": "The CBT for 41/26 is scheduled for 27-11-2026 (shifts I, II, III), 28-11-2026 (I), 30-11-2026 (I, II, III), 01-12-2026 (I, II, III), 02-12-2026 (I, II, III), 03-12-2026 (II, III) and 04-12-2026 (I, II, III). Shift times: I 09:00-11:00 AM, II 01:00-03:00 PM, III 05:00-07:00 PM.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/exam_schedule_1.pdf",
+      "sourceTitle": "Notification of online examination for various post codes scheduled from 27 October 2026 to 05 December 2026 (No. F.55(438)/Exam/DSSSB/2025/PF/C.N.359909/2902-2909 dated 07-10-2026)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "That is 18 shifts in total. The 2026 shift timings (09-11, 13-15, 17-19) differ from the 2023-24 timings (08:30-10:30, 12:30-14:30, 16:30-18:30). Listing page: https://dsssb.delhi.gov.in/dsssb/notification-online-examination-various-post-codes-various-departments-scheduled-27-october-0"
+    },
+    {
+      "key": "syllabus_41_26_section_b",
+      "value": "Official 'SYLLABUS: TGT Computer Science in DOE' (2 pages, scanned). Page 1 has 32 CS units: 1 Mathematics I-IV; 2 Business Communication, Business Organization and Management, Writing; 3 Computer Basics and P.C. Software; 4 Programming with C, Data Structures using C, C++ Programming; 5 Fundamentals of Information Technology; 6 Basis of Physics; 7 Digital Electronics; 8 Database Management System; 9 Computer Architecture; 10 Front End Designed Tools; 11 Financial Accounting; 12 Object/Computer Oriented Programming/Numerical Techniques; 13 Software Engineering; 14 Java Programming and website design; 15 Operating Systems; 16 Business Economics; 17 Computer Networks; 18 .net programming; 19 Linux Environment; 20 E-Commerce; 21 Design and analysis of algorithms; 22 Computer Network Security; 23 Management Information System; 24 Mobile Computing; 25 Computer Graphics & Multimedia Applications (Graphics, Graphics Hardware, Clipping, Curve & Surfaces, Solid Modeling); 26 Internet Programming (Web Server, CSS, Event Model, Filter & Transitions, Data Binding with Tabular Data Control, PWS Setup, Publishing Information/Internet Information Server, DTD's using XML with XTML and CSS, XML parsers); 27 Knowledge Management & New Economy; 28 Foundation Course in English; 29 Problem Solving & Programming; 30 Statistical Techniques (Descriptive Statistics, Probability concepts, Probability Distributions, Inference); 31 TCP/Protocols; 32 Interpolation. Page 2 is headed 'Topics of syllabus-Teaching Education and Methodology': 1 Learning & Teaching; 2 Language across the curriculum; 3 Understanding discipline and subject; 4 Gender school and Society; 5 Pedagogy of a school subject; 6 Knowledge and curriculum; 7 Assessment for learning; 8 Creating an inclusive school; 9 Childhood and growing up; 10 Drama and Art in Education.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/pc-41-26_tgt_computer_science_in_doe.pdf",
+      "sourceTitle": "PC - 41-26 TGT Computer Science in DoE (Section-B Indicative Syllabus)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "This is the same document as the user's local scan. It is listed at https://dsssb.delhi.gov.in/doit/tab-content/indicative-syllabus (node https://dsssb.delhi.gov.in/node/74290). No page-level date is shown."
+    },
+    {
+      "key": "syllabus_section_a_ITT_200",
+      "value": "'SYLLABUS: I-T-T One Tier (Technical / Teaching) 200 Marks'. Section A: General Awareness, 20 marks (current events, everyday observation, History, Polity, Constitution, Sports, Art & Culture, Geography, Economics, Everyday Science, Scientific Research, National/International Organizations/Institutions). General Intelligence & Reasoning Ability, 20 marks (Analogy, Classification, Series, Coding-Decoding, Blood Relations, Direction Sense, Logical Venn Diagrams, Alphabet Test, Sitting Arrangements, Mathematical Operations, Arithmetical Reasoning, Missing character, Number/Ranking/Time Sequence, Eligibility Test, Syllogism, Statement-Arguments/Assumptions/Courses of action/Conclusions, Deriving Conclusion, Assertion-Reason, Punch Lines, Situation Reaction, Cause and Effect, Analytical Reasoning). Arithmetical & Numerical Ability, 20 marks (Number Systems incl. Simplification, Decimals, Data Interpretation, Fractions, LCM, HCF, Ratio & Proportion, Percentage, Average, Profit & Loss, Discount, SI & CI, Mensuration, Time & Work, Time & Distance, Tables & Graphs, Pie/Line/Bar charts, Venn Diagrams). English Language & Comprehension, 20 marks, and Hindi Language & Comprehension, 20 marks (vocabulary, grammar, sentence structure, synonyms, antonyms, correct usage). Section B: 100 marks, 'MCQs pertaining to Graduation qualification and Teaching Methodology required for the post'.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/syllabus_i-t-t_one_tier_technical_i_teaching_200_marks.pdf",
+      "sourceTitle": "SYLLABUS: I-T-T One Tier (Technical / Teaching) 200 Marks (Section A Indicative Syllabus)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "Listed at https://dsssb.delhi.gov.in/doit/tab-content/section-a-indicative-syllabus. The document is undated."
+    },
+    {
+      "key": "tgt_scheme_2017_notice",
+      "value": "DSSSB notice No. F.4(100)/2012/P&P/NES/DSSSB/805-810 dated 28/07/2017 (Board resolution P&P/2017/17 dated 17/07/2017) set the TGT exam: one MCQ paper of 2 hours. Section A: 100 one-mark MCQs 'as per existing examination scheme', 100 marks. Section B: 100 one-mark MCQs from the subject 'including questions on teaching methodology/B.Ed.', 100 marks. Candidates had to qualify Sections A and B separately; merit used the aggregate.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/generic_multiple_files/noticexamination_scheme_prescribed_by_dsssb_for_the_post_of_tgt_regarding.pdf",
+      "sourceTitle": "Notice: examination scheme prescribed by DSSSB for the post of TGT",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "Listed on https://dsssb.delhi.gov.in/dsssb/new-examination-and-interview-scheme. The separate-qualification rule was later replaced: the 2022-2026 advertisements apply minimum qualifying marks only to Section B plus the cumulative total."
+    },
+    {
+      "key": "generic_ITT_scheme_2021_2023",
+      "value": "DSSSB notice No.F7/(04)/2016/P&P/DSSSB/4634 dated 20-01-2021, Annexure A: One Tier Tech (Teaching Post), I-T(T), 2 hrs, 200 MCQ, 200 marks. Part A covers GA, Reasoning, Arithmetic, Hindi and English at 20 marks each (100 total). Part B covers the subject, 100 marks. Notice F.7(04)/16/P&P/DSSSB/2022/891 dated 05/09/2023 restates I-T-T as 2 hrs, 200 Q, 200 marks, same Section A, Section B 100 marks.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/generic_multiple_files/new_examination_scheme.pdf",
+      "sourceTitle": "New Examination Scheme for recruitment to various posts by DSSSB (20-01-2021)",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "2023 notice: https://dsssb.delhi.gov.in/sites/default/files/DSSSB/generic_multiple_files/exam_scheme.pdf"
+    },
+    {
+      "key": "historical_192_14",
+      "value": "TGT (Computer Science), Post Code 192/14, DoE. The objective exam was held on 21.05.2017. Answer keys for series A-D were published via notice No.F.10(235)/Sec.Cell/DSSSB/2017/431-32 dated 07/06/2017, with challenges allowed until 18/06/2017 through the e-challenge module on dsssbonline.nic.in.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_tgtcs_answer_key0001_1.pdf",
+      "sourceTitle": "Answer keys of Objective Examination for TGT (Computer Science), post code 192/14, held on 21.05.2017",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "Node page: https://dsssb.delhi.gov.in/node/19565"
+    },
+    {
+      "key": "historical_91_20",
+      "value": "TGT Computer Science, Post Code 91/20, DoE. Advt No. 04/20, closing date 23/02/2020, 364 vacancies (EWS 11, UR 107, OBC 140, SC 20, ST 86, incl. PwD 54). The online exam was held on 01/08/2021 and 07/08/2021; 13,792 candidates appeared. Marks and e-dossier Notice No. 46 is dated 02/11/2021. Cut-offs for e-dossier out of 200: UR 123.93, EWS 113.00, OBC 94.71, SC 107.93, ST 66.29.",
+      "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf",
+      "sourceTitle": "Notice No. 46, TGT Computer Science Post Code 91/20, release of marks and calling of e-dossiers",
+      "official": true,
+      "accessed": "2026-10-26",
+      "confidence": "confirmed",
+      "note": "The 1 Aug 2021 date matches the local EdCIL response sheets created 2021-08-01, so those are very likely 91/20 papers. DSSSB documents do not confirm that EdCIL was the exam agency."
+    }
+  ],
+  "postCodes": [
+    {
+      "postCode": "192/14",
+      "advt": "not confirmed (2014 advertisement; number not verified)",
+      "department": "Directorate of Education, GNCTD",
+      "examDates": ["21.05.2017 (objective exam; shift not confirmed)"],
+      "answerKeyPublished": "Yes. Answer keys (series A-D) were notified 07/06/2017, with challenges until 18/06/2017. Corrigendum notice: https://dsssb.delhi.gov.in/node/19569",
+      "sources": [
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_tgtcs_answer_key0001_1.pdf",
+        "https://dsssb.delhi.gov.in/node/19565"
+      ]
+    },
+    {
+      "postCode": "91/20",
+      "advt": "04/20 (closing date 23/02/2020); 364 vacancies",
+      "department": "Directorate of Education, GNCTD",
+      "examDates": ["01.08.2021", "07.08.2021 (shifts not confirmed)"],
+      "answerKeyPublished": "Yes. A draft key notice dated 13/08/2021 (No. 286) was followed by notice No. 298 dated 18/08/2021, which made the 91/20 objection link available 19.08.2021-20.08.2021. Final keys were notified 06/10/2021 (No. 344), with the link open 06.10.2021-10.10.2021. Keys were shown via login, not as a public PDF.",
+      "sources": [
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/it0072_2.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/exam_notice_nov0008_1.pdf"
+      ]
+    },
+    {
+      "postCode": "39/22",
+      "advt": "08/22 dated 14.10.2022 (cut-off date 18.11.2022); 106 vacancies (UR 37, EWS 29, OBC 19, SC 19, ST 2)",
+      "department": "Directorate of Education, GNCTD",
+      "examDates": [
+        "24.06.2023 Shift II 12:30-02:30 PM",
+        "24.06.2023 Shift III 04:30-06:30 PM",
+        "25.06.2023 Shift I 08:30-10:30 AM",
+        "25.06.2023 Shift II 12:30-02:30 PM",
+        "25.06.2023 Shift III 04:30-06:30 PM"
+      ],
+      "answerKeyPublished": "Yes. A draft key and objection page covers exams of 21-25 June 2023, except 23 June (node 56582; the page shows dates 30/06/2023-04/07/2023, likely the link window). Final keys were notified 10.08.2023, with the link open 10.08.2023-14.08.2023. 9,109 candidates appeared. Marks were declared 27/02/2024 and the main result (Notice 927) on 12/04/2024.",
+      "sources": [
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan_0075_0.pdf",
+        "https://dsssb.delhi.gov.in/node/56582",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_10009.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/tgt_39-22_1.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan0085.pdf"
+      ]
+    },
+    {
+      "postCode": "70/23",
+      "advt": "02/23 dated 31/07/2023 (closing 15/09/2023); 6 vacancies (UR 5, OBC 1)",
+      "department": "New Delhi Municipal Council (NDMC), not DoE",
+      "examDates": ["07.02.2024 Shift II 12:30-02:30 PM"],
+      "answerKeyPublished": "Yes. Draft keys were notified 22/02/2024 (link 22.02.2024-26.02.2024) and final keys 16/04/2024 (link 16.04.2024-20.04.2024). 868 candidates appeared. Marks Notice 1489 is dated 24/06/2024; prorated cut-offs were UR 122.26 and OBC 107.35.",
+      "sources": [
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan0005_6.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan20240222_0023.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan0089_2.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan20240624_0054.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/tgt_computer_science_in_ndmc.pdf"
+      ]
+    },
+    {
+      "postCode": "56/24",
+      "advt": "05/24 read with corrigendum dated 08.07.2025 (cut-off date 17.04.2024); 55 vacancies (UR 38, OBC 2, SC 2, ST 8, EWS 5)",
+      "department": "Directorate of Education, GNCTD",
+      "examDates": ["12.09.2025", "13.09.2025 (shifts not confirmed)"],
+      "answerKeyPublished": "Yes. Draft keys were notified 26/09/2025 (link 29.09.2025-03.10.2025) and final keys 27.11.2025 (link 28.11.2025-02.12.2025 for this group). 5,209 candidates appeared. Marks Notice 333 is dated 20.04.2026; Result Notice 375 and Rejection Notice 376 are dated 18.09.2026.",
+      "sources": [
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/375.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/wwr-20250012.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan20251127_15111557.pdf"
+      ]
+    },
+    {
+      "postCode": "41/26",
+      "advt": "03/2026 dated 29/05/2026; 675 vacancies",
+      "department": "Directorate of Education, GNCTD",
+      "examDates": [
+        "27.11.2026 Shifts I, II, III",
+        "28.11.2026 Shift I",
+        "30.11.2026 Shifts I, II, III",
+        "01.12.2026 Shifts I, II, III",
+        "02.12.2026 Shifts I, II, III",
+        "03.12.2026 Shifts II, III",
+        "04.12.2026 Shifts I, II, III",
+        "Shift timings: I 09:00-11:00, II 13:00-15:00, III 17:00-19:00"
+      ],
+      "answerKeyPublished": "Not yet; the exam has not been held. Para 5(iv) of the advertisement says draft keys will be displayed after the exam with online objections.",
+      "sources": [
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf",
+        "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/exam_schedule_1.pdf"
+      ]
+    }
+  ],
+  "examPattern": {
+    "name": "One Tier (Technical / Teaching), exam code I-T-T, 200 marks",
+    "appliesTo": "TGT posts including TGT Computer Science 41/26 (and 42/26, 43/26, 44/26 in Advt 03/2026)",
+    "durationMinutes": 120,
+    "totalQuestions": 200,
+    "totalMarks": 200,
+    "markPerQuestion": 1,
+    "negativeMarking": 0.25,
+    "descriptive": "None",
+    "sections": [
+      {"section": "A", "name": "General Awareness", "questions": 20, "marks": 20},
+      {"section": "A", "name": "General Intelligence & Reasoning Ability", "questions": 20, "marks": 20},
+      {"section": "A", "name": "Arithmetical & Numerical Ability", "questions": 20, "marks": 20},
+      {"section": "A", "name": "Test of Hindi Language & Comprehension", "questions": 20, "marks": 20},
+      {"section": "A", "name": "Test of English Language & Comprehension", "questions": 20, "marks": 20},
+      {"section": "B", "name": "Subject concerned (Computer Science) including teaching methodology/B.Ed.", "questions": 100, "marks": 100}
+    ],
+    "language": "Bilingual (Hindi & English) except the language sections",
+    "qualifyingRule2026": "Minimum qualifying marks (Gen/EWS 40%, OBC-Delhi 35%, SC/ST/PwBD 30%, ESM -5% with a 30% floor) apply to Section B and to the cumulative total. Section A has no minimum. Merit is A+B combined, normalized if needed.",
+    "changesVsOlderRules": [
+      "2017 TGT notice (28/07/2017): candidates had to qualify Sections A and B separately. From Advt 08/22 (and 02/23, 03/2026), the minimum applies only to Section B plus the cumulative total. This is not new in 2026.",
+      "Section counts, marks, duration and negative marking match the 2017, 2021 and 2023 scheme notices; no 2026 change to the structure was found.",
+      "The 2026 exam shift timings changed to 09:00-11:00 / 13:00-15:00 / 17:00-19:00 (2023-24 used 08:30-10:30 / 12:30-14:30 / 16:30-18:30).",
+      "The 41/26 Section B syllabus (the 32-unit list) differs from the NDMC 70/23 TGT CS indicative syllabus, which follows a CBSE-style topic list (Computer Systems & Organization, Python, Society Law & Ethics, etc.)."
+    ],
+    "sources": [
+      {"url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026_1.pdf", "title": "Advertisement No. 03/2026, Para 4-5", "official": true},
+      {"url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/syllabus_i-t-t_one_tier_technical_i_teaching_200_marks.pdf", "title": "SYLLABUS: I-T-T One Tier (Technical/Teaching) 200 Marks", "official": true},
+      {"url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/generic_multiple_files/noticexamination_scheme_prescribed_by_dsssb_for_the_post_of_tgt_regarding.pdf", "title": "TGT examination scheme notice, 28/07/2017", "official": true},
+      {"url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/generic_multiple_files/new_examination_scheme.pdf", "title": "New Examination Scheme, 20-01-2021", "official": true},
+      {"url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/generic_multiple_files/exam_scheme.pdf", "title": "Exam scheme notices 05/09/2023 & 13/12/2023", "official": true}
+    ]
+  },
+  "thirdPartyNotes": [
+    {
+      "source": "https://www.pw.live/teaching/exams/dsssb-tgt-recruitment-2026",
+      "official": false,
+      "note": "Third-party (fallback, via search snippet only). Its 675 vacancies for 41/26 and 16 June-15 July 2026 dates agree with the official advertisement. Its 967 total across three posts is not consistent with the official table (41+42+43 = 967, so it may be a three-post sum)."
+    },
+    {
+      "source": "https://www.careerpower.in/blog/dsssb-tgt-vacancy-2026",
+      "official": false,
+      "note": "Third-party (via search snippet only). Its 838 figure for TGT CS contradicts the official 675."
+    }
+  ],
+  "openQuestions": [
+    "Advertisement number and exam shift(s) for 192/14 (exam 21.05.2017) were not verified.",
+    "Shift-wise breakdown for 91/20 (01.08.2021 and 07.08.2021) and 56/24 (12-13.09.2025) is not confirmed; the schedule notices for those months were not opened.",
+    "That EdCIL was the exam agency for the August 2021 CBT is not confirmed from DSSSB documents. Only the dates match the local files.",
+    "Whether the Advt 08/22 (39/22) and 05/24 (56/24) qualifications for TGT CS also omitted B.Ed/CTET is not confirmed; those advertisement PDFs were not opened.",
+    "The notification/upload date of the 41/26 Section-B syllabus PDF is not shown on the page (node 74290).",
+    "Whether official question papers/response sheets for TGT CS exams are posted in DSSSB's 'Question Bank Online Exam' tabs (2021/2023/2024/2025) was not checked, though a 2018 PGT CS paper exists there (node 55603).",
+    "The Delhi Gazette / Recruitment Rules notification for TGT (Computer Science) in DoE was not located. The advertisement cites only the user department requisition dated 18/09/2025.",
+    "The admit card link for 27 Oct-5 Dec 2026 exams exists on the DSSSB homepage; whether 41/26 admit cards are already released was not checked."
+  ]
+}

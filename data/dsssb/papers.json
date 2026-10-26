@@ -1,0 +1,1109 @@
+[
+ {
+  "id": "2021-set1",
+  "set": 1,
+  "year": 2021,
+  "postCode": "91/20",
+  "advt": "04/20",
+  "department": "Directorate of Education (DoE), GNCTD",
+  "departmentShort": "DoE",
+  "currentSyllabusMatch": "DoE TGT Computer Science (same department as the current post code 41/26)",
+  "examDates": [
+   "2021-08-01",
+   "2021-08-07"
+  ],
+  "answerKey": {
+   "label": "Key marked in the DSSSB/EdCIL master question paper (green option with tick)",
+   "detail": "The file carries DSSSB's own post-objection notes ('discrepancy is found in question/answer. So, this question is ignored for all candidates'), which indicates the final-key version. Final keys for 91/20 were notified on 06/10/2021.",
+   "official": true,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/exam_notice_nov0008_1.pdf"
+   ]
+  },
+  "label": "2021 · Set 1 (91/20)",
+  "shortLabel": "2021 S1",
+  "labelHi": "2021 · सेट 1 (91/20)",
+  "date": null,
+  "dateStatus": "not-available",
+  "dateNote": "The exam date is not printed in this paper. DSSSB notice No. 46 says the 91/20 exam was held on 01/08/2021 and 07/08/2021.",
+  "inferredDate": "2021-08-01",
+  "inferredDateNote": "Inferred only from the paper's 'Creation Date' (2021-08-01 16:50:59); not used as fact.",
+  "shift": null,
+  "shiftLabel": "Set 1 (shift not printed)",
+  "shiftStatus": "not-available",
+  "time": null,
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf"
+  ],
+  "metaChecks": [
+   {
+    "field": "paperName",
+    "result": "pass",
+    "detail": "printed: 'TGT Computer Science1'; expected 'TGT Computer Science1'"
+   },
+   {
+    "field": "year",
+    "result": "pass",
+    "detail": "paper Creation Date 2021-08-01 16:50:59"
+   },
+   {
+    "field": "totalMarks",
+    "result": "pass",
+    "detail": "printed Total Marks 200"
+   },
+   {
+    "field": "duration",
+    "result": "pass",
+    "detail": "printed Duration 120 min"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "paperName": "TGT Computer Science1",
+   "creationDate": "2021-08-01 16:50:59",
+   "durationMin": 120,
+   "totalMarks": 200
+  },
+  "pdf": {
+   "name": "tgt_computer_science1.pdf",
+   "md5": "957720c90ba6bb4a9ca0275d165b6213",
+   "pages": 168,
+   "url": "dsssb/pdfs/tgt_computer_science1.pdf"
+  },
+  "sourceFormat": "edcil_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Awareness": 20,
+    "General Intelligence & Reasoning": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "Hindi Language": 20,
+    "English Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Number Systems & Digital Electronics": 13,
+    "Computer Science|Computer Networks & Protocols": 9,
+    "Computer Science|Data Structures": 8,
+    "English Language|Comprehension & Para Jumbles": 7,
+    "English Language|Vocabulary": 7,
+    "Computer Science|Business, Accounting & Economics": 7,
+    "Computer Science|Operating Systems & Linux": 7,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 6,
+    "English Language|Grammar": 6,
+    "Computer Science|Mathematics, Statistics & Numerical Methods": 6,
+    "Computer Science|DBMS & SQL": 6,
+    "Computer Science|E-Commerce, MIS & IT in Business": 6,
+    "Computer Science|Software Engineering": 6,
+    "General Awareness|Current Affairs & Sports": 5,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 5,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 5,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 4,
+    "Hindi Language|व्याकरण (Grammar)": 4,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 4,
+    "Hindi Language|शुद्धि (Correction)": 4,
+    "Computer Science|Computer Fundamentals & PC Software": 4,
+    "Computer Science|Web Technologies": 4,
+    "General Awareness|Everyday Science": 3,
+    "General Awareness|Geography": 3,
+    "General Awareness|History": 3,
+    "General Intelligence & Reasoning|Series": 3,
+    "General Intelligence & Reasoning|Analogy & Classification": 3,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 3,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 3,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 3,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 3,
+    "Computer Science|Physics Basics": 3,
+    "Computer Science|Programming in C": 3,
+    "Computer Science|Algorithms": 3,
+    "Computer Science|OOP, C++ & Java": 3,
+    "Teaching Methodology|Language Across the Curriculum": 3,
+    "General Awareness|Art, Culture & Awards": 2,
+    "General Awareness|Economy": 2,
+    "General Awareness|Polity & Constitution": 2,
+    "General Intelligence & Reasoning|Coding-Decoding": 2,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 2,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 2,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 2,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 2,
+    "Teaching Methodology|Assessment for Learning": 2,
+    "Teaching Methodology|Gender, School & Society": 2,
+    "Computer Science|Mobile Computing & Emerging Tech": 1,
+    "Computer Science|Computer Graphics & Multimedia": 1,
+    "Teaching Methodology|Learning & Teaching": 1,
+    "Teaching Methodology|Pedagogy of a School Subject": 1,
+    "Teaching Methodology|Drama & Art in Education": 1
+   },
+   "byDifficulty": {
+    "easy": 108,
+    "medium": 84,
+    "hard": 8
+   },
+   "byStatus": {
+    "verified": 179,
+    "corrected": 18,
+    "disputed": 3
+   },
+   "repeated": 2,
+   "conceptRepeated": 12,
+   "dropped": 3,
+   "explained": 200
+  }
+ },
+ {
+  "id": "2021-set2",
+  "set": 2,
+  "year": 2021,
+  "postCode": "91/20",
+  "advt": "04/20",
+  "department": "Directorate of Education (DoE), GNCTD",
+  "departmentShort": "DoE",
+  "currentSyllabusMatch": "DoE TGT Computer Science (same department as the current post code 41/26)",
+  "examDates": [
+   "2021-08-01",
+   "2021-08-07"
+  ],
+  "answerKey": {
+   "label": "Key marked in the DSSSB/EdCIL master question paper (green option with tick)",
+   "detail": "The file carries DSSSB's own post-objection notes ('discrepancy is found in question/answer. So, this question is ignored for all candidates'), which indicates the final-key version. Final keys for 91/20 were notified on 06/10/2021.",
+   "official": true,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/exam_notice_nov0008_1.pdf"
+   ]
+  },
+  "label": "2021 · Set 2 (91/20)",
+  "shortLabel": "2021 S2",
+  "labelHi": "2021 · सेट 2 (91/20)",
+  "date": null,
+  "dateStatus": "not-available",
+  "dateNote": "The exam date is not printed in this paper. DSSSB notice No. 46 says the 91/20 exam was held on 01/08/2021 and 07/08/2021.",
+  "inferredDate": "2021-08-01",
+  "inferredDateNote": "Inferred only from the paper's 'Creation Date' (2021-08-01 20:12:11); not used as fact.",
+  "shift": null,
+  "shiftLabel": "Set 2 (shift not printed)",
+  "shiftStatus": "not-available",
+  "time": null,
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf"
+  ],
+  "metaChecks": [
+   {
+    "field": "paperName",
+    "result": "pass",
+    "detail": "printed: 'TGT Computer Science2'; expected 'TGT Computer Science2'"
+   },
+   {
+    "field": "year",
+    "result": "pass",
+    "detail": "paper Creation Date 2021-08-01 20:12:11"
+   },
+   {
+    "field": "totalMarks",
+    "result": "pass",
+    "detail": "printed Total Marks 200"
+   },
+   {
+    "field": "duration",
+    "result": "pass",
+    "detail": "printed Duration 120 min"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "paperName": "TGT Computer Science2",
+   "creationDate": "2021-08-01 20:12:11",
+   "durationMin": 120,
+   "totalMarks": 200
+  },
+  "pdf": {
+   "name": "tgt_computer_science2.pdf",
+   "md5": "0e80fa3ceb4df9f4417784dce7ee7c2a",
+   "pages": 175,
+   "url": "dsssb/pdfs/tgt_computer_science2.pdf"
+  },
+  "sourceFormat": "edcil_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Awareness": 20,
+    "General Intelligence & Reasoning": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "Hindi Language": 20,
+    "English Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Number Systems & Digital Electronics": 14,
+    "Computer Science|Software Engineering": 9,
+    "Computer Science|Data Structures": 9,
+    "Computer Science|Operating Systems & Linux": 8,
+    "English Language|Comprehension & Para Jumbles": 7,
+    "English Language|Vocabulary": 7,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 6,
+    "English Language|Grammar": 6,
+    "Computer Science|Business, Accounting & Economics": 6,
+    "Computer Science|Computer Networks & Protocols": 6,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 5,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 5,
+    "Computer Science|Mathematics, Statistics & Numerical Methods": 5,
+    "Computer Science|Programming in C": 5,
+    "Computer Science|E-Commerce, MIS & IT in Business": 5,
+    "Computer Science|DBMS & SQL": 5,
+    "General Awareness|Art, Culture & Awards": 4,
+    "General Intelligence & Reasoning|Analogy & Classification": 4,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 4,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 4,
+    "Hindi Language|व्याकरण (Grammar)": 4,
+    "Hindi Language|शुद्धि (Correction)": 4,
+    "Computer Science|Computer Graphics & Multimedia": 4,
+    "General Awareness|Everyday Science": 3,
+    "General Awareness|Geography": 3,
+    "General Awareness|History": 3,
+    "General Awareness|Current Affairs & Sports": 3,
+    "General Intelligence & Reasoning|Series": 3,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 3,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 3,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 3,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 3,
+    "Computer Science|Computer Fundamentals & PC Software": 3,
+    "General Awareness|Economy": 2,
+    "General Awareness|Polity & Constitution": 2,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 2,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 2,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 2,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 2,
+    "Computer Science|Physics Basics": 2,
+    "Computer Science|Algorithms": 2,
+    "Computer Science|Web Technologies": 2,
+    "Computer Science|Mobile Computing & Emerging Tech": 2,
+    "Teaching Methodology|Assessment for Learning": 2,
+    "Teaching Methodology|Language Across the Curriculum": 2,
+    "Teaching Methodology|Drama & Art in Education": 2,
+    "General Intelligence & Reasoning|Coding-Decoding": 1,
+    "Computer Science|OOP, C++ & Java": 1,
+    "Computer Science|Computer Architecture": 1,
+    "Computer Science|Network Security & Cyber Law": 1,
+    "Teaching Methodology|Learning & Teaching": 1,
+    "Teaching Methodology|Pedagogy of a School Subject": 1,
+    "Teaching Methodology|Gender, School & Society": 1,
+    "Teaching Methodology|Knowledge, Curriculum & Policy": 1
+   },
+   "byDifficulty": {
+    "easy": 117,
+    "medium": 75,
+    "hard": 8
+   },
+   "byStatus": {
+    "verified": 173,
+    "corrected": 21,
+    "disputed": 5,
+    "unverified": 1
+   },
+   "repeated": 2,
+   "conceptRepeated": 13,
+   "dropped": 1,
+   "explained": 200
+  }
+ },
+ {
+  "id": "2021-set3",
+  "set": 3,
+  "year": 2021,
+  "postCode": "91/20",
+  "advt": "04/20",
+  "department": "Directorate of Education (DoE), GNCTD",
+  "departmentShort": "DoE",
+  "currentSyllabusMatch": "DoE TGT Computer Science (same department as the current post code 41/26)",
+  "examDates": [
+   "2021-08-01",
+   "2021-08-07"
+  ],
+  "answerKey": {
+   "label": "Key marked in the DSSSB/EdCIL master question paper (green option with tick)",
+   "detail": "The file carries DSSSB's own post-objection notes ('discrepancy is found in question/answer. So, this question is ignored for all candidates'), which indicates the final-key version. Final keys for 91/20 were notified on 06/10/2021.",
+   "official": true,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/exam_notice_nov0008_1.pdf"
+   ]
+  },
+  "label": "2021 · Set 3 (91/20)",
+  "shortLabel": "2021 S3",
+  "labelHi": "2021 · सेट 3 (91/20)",
+  "date": null,
+  "dateStatus": "not-available",
+  "dateNote": "The exam date is not printed in this paper. DSSSB notice No. 46 says the 91/20 exam was held on 01/08/2021 and 07/08/2021.",
+  "inferredDate": "2021-08-07",
+  "inferredDateNote": "Inferred only from the paper's 'Creation Date' (2021-08-07 11:46:25); not used as fact.",
+  "shift": null,
+  "shiftLabel": "Set 3 (shift not printed)",
+  "shiftStatus": "not-available",
+  "time": null,
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf"
+  ],
+  "metaChecks": [
+   {
+    "field": "paperName",
+    "result": "pass",
+    "detail": "printed: 'TGT Computer Science3'; expected 'TGT Computer Science3'"
+   },
+   {
+    "field": "year",
+    "result": "pass",
+    "detail": "paper Creation Date 2021-08-07 11:46:25"
+   },
+   {
+    "field": "totalMarks",
+    "result": "pass",
+    "detail": "printed Total Marks 200"
+   },
+   {
+    "field": "duration",
+    "result": "pass",
+    "detail": "printed Duration 120 min"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "paperName": "TGT Computer Science3",
+   "creationDate": "2021-08-07 11:46:25",
+   "durationMin": 120,
+   "totalMarks": 200
+  },
+  "pdf": {
+   "name": "tgt_computer_science3.pdf",
+   "md5": "45fbe96b39c9678ddf688f3ab1f6abfa",
+   "pages": 167,
+   "url": "dsssb/pdfs/tgt_computer_science3.pdf"
+  },
+  "sourceFormat": "edcil_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Awareness": 20,
+    "General Intelligence & Reasoning": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "Hindi Language": 20,
+    "English Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Number Systems & Digital Electronics": 11,
+    "Computer Science|Data Structures": 9,
+    "Computer Science|Computer Networks & Protocols": 9,
+    "English Language|Vocabulary": 8,
+    "Computer Science|Computer Fundamentals & PC Software": 7,
+    "Computer Science|DBMS & SQL": 7,
+    "Computer Science|Software Engineering": 7,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 6,
+    "English Language|Grammar": 6,
+    "English Language|Comprehension & Para Jumbles": 6,
+    "General Awareness|Current Affairs & Sports": 5,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 5,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 5,
+    "Hindi Language|व्याकरण (Grammar)": 5,
+    "Computer Science|Computer Architecture": 5,
+    "Computer Science|Computer Graphics & Multimedia": 5,
+    "Computer Science|Mathematics, Statistics & Numerical Methods": 5,
+    "General Intelligence & Reasoning|Analogy & Classification": 4,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 4,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 4,
+    "Computer Science|Algorithms": 4,
+    "Computer Science|Operating Systems & Linux": 4,
+    "Computer Science|E-Commerce, MIS & IT in Business": 4,
+    "General Awareness|Everyday Science": 3,
+    "General Awareness|Geography": 3,
+    "General Awareness|History": 3,
+    "General Intelligence & Reasoning|Series": 3,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 3,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 3,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 3,
+    "Hindi Language|शुद्धि (Correction)": 3,
+    "Computer Science|Programming in C": 3,
+    "Computer Science|Web Technologies": 3,
+    "General Awareness|Art, Culture & Awards": 2,
+    "General Awareness|Economy": 2,
+    "General Awareness|Polity & Constitution": 2,
+    "General Intelligence & Reasoning|Coding-Decoding": 2,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 2,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 2,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 2,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 2,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 2,
+    "Computer Science|Network Security & Cyber Law": 2,
+    "Computer Science|Mobile Computing & Emerging Tech": 2,
+    "Computer Science|OOP, C++ & Java": 2,
+    "Teaching Methodology|Pedagogy of a School Subject": 2,
+    "Teaching Methodology|Assessment for Learning": 2,
+    "Teaching Methodology|Drama & Art in Education": 2,
+    "Teaching Methodology|Gender, School & Society": 2,
+    "Computer Science|Physics Basics": 1,
+    "Teaching Methodology|Knowledge, Curriculum & Policy": 1,
+    "Teaching Methodology|Language Across the Curriculum": 1
+   },
+   "byDifficulty": {
+    "easy": 125,
+    "medium": 68,
+    "hard": 7
+   },
+   "byStatus": {
+    "verified": 174,
+    "corrected": 19,
+    "disputed": 4,
+    "unverified": 3
+   },
+   "repeated": 0,
+   "conceptRepeated": 17,
+   "dropped": 2,
+   "explained": 200
+  }
+ },
+ {
+  "id": "2021-set4",
+  "set": 4,
+  "year": 2021,
+  "postCode": "91/20",
+  "advt": "04/20",
+  "department": "Directorate of Education (DoE), GNCTD",
+  "departmentShort": "DoE",
+  "currentSyllabusMatch": "DoE TGT Computer Science (same department as the current post code 41/26)",
+  "examDates": [
+   "2021-08-01",
+   "2021-08-07"
+  ],
+  "answerKey": {
+   "label": "Key marked in the DSSSB/EdCIL master question paper (green option with tick)",
+   "detail": "The file carries DSSSB's own post-objection notes ('discrepancy is found in question/answer. So, this question is ignored for all candidates'), which indicates the final-key version. Final keys for 91/20 were notified on 06/10/2021.",
+   "official": true,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/exam_notice_nov0008_1.pdf"
+   ]
+  },
+  "label": "2021 · Set 4 (91/20)",
+  "shortLabel": "2021 S4",
+  "labelHi": "2021 · सेट 4 (91/20)",
+  "date": null,
+  "dateStatus": "not-available",
+  "dateNote": "The exam date is not printed in this paper. DSSSB notice No. 46 says the 91/20 exam was held on 01/08/2021 and 07/08/2021.",
+  "inferredDate": "2021-08-07",
+  "inferredDateNote": "Inferred only from the paper's 'Creation Date' (2021-08-07 16:35:52); not used as fact.",
+  "shift": null,
+  "shiftLabel": "Set 4 (shift not printed)",
+  "shiftStatus": "not-available",
+  "time": null,
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf"
+  ],
+  "metaChecks": [
+   {
+    "field": "paperName",
+    "result": "pass",
+    "detail": "printed: 'TGT Computer Science4'; expected 'TGT Computer Science4'"
+   },
+   {
+    "field": "year",
+    "result": "pass",
+    "detail": "paper Creation Date 2021-08-07 16:35:52"
+   },
+   {
+    "field": "totalMarks",
+    "result": "pass",
+    "detail": "printed Total Marks 200"
+   },
+   {
+    "field": "duration",
+    "result": "pass",
+    "detail": "printed Duration 120 min"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "paperName": "TGT Computer Science4",
+   "creationDate": "2021-08-07 16:35:52",
+   "durationMin": 120,
+   "totalMarks": 200
+  },
+  "pdf": {
+   "name": "tgt_computer_science4.pdf",
+   "md5": "1f87e17507d8032119b68cca31e78717",
+   "pages": 169,
+   "url": "dsssb/pdfs/tgt_computer_science4.pdf"
+  },
+  "sourceFormat": "edcil_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Awareness": 20,
+    "General Intelligence & Reasoning": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "Hindi Language": 20,
+    "English Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Number Systems & Digital Electronics": 11,
+    "Computer Science|Data Structures": 8,
+    "English Language|Comprehension & Para Jumbles": 7,
+    "English Language|Vocabulary": 7,
+    "Computer Science|Business, Accounting & Economics": 7,
+    "Computer Science|Operating Systems & Linux": 7,
+    "Computer Science|DBMS & SQL": 7,
+    "Computer Science|Software Engineering": 7,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 6,
+    "English Language|Grammar": 6,
+    "Computer Science|Computer Networks & Protocols": 6,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 5,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 5,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 5,
+    "Hindi Language|व्याकरण (Grammar)": 5,
+    "Computer Science|Mathematics, Statistics & Numerical Methods": 5,
+    "General Awareness|Current Affairs & Sports": 4,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 4,
+    "Hindi Language|शुद्धि (Correction)": 4,
+    "Computer Science|Computer Fundamentals & PC Software": 4,
+    "Computer Science|OOP, C++ & Java": 4,
+    "Computer Science|Computer Architecture": 4,
+    "Computer Science|Web Technologies": 4,
+    "Computer Science|E-Commerce, MIS & IT in Business": 4,
+    "General Awareness|Art, Culture & Awards": 3,
+    "General Awareness|Everyday Science": 3,
+    "General Awareness|Geography": 3,
+    "General Awareness|History": 3,
+    "General Intelligence & Reasoning|Analogy & Classification": 3,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 3,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 3,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 3,
+    "Computer Science|Programming in C": 3,
+    "Computer Science|Computer Graphics & Multimedia": 3,
+    "Computer Science|Algorithms": 3,
+    "Teaching Methodology|Language Across the Curriculum": 3,
+    "General Awareness|Economy": 2,
+    "General Awareness|Polity & Constitution": 2,
+    "General Intelligence & Reasoning|Series": 2,
+    "General Intelligence & Reasoning|Coding-Decoding": 2,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 2,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 2,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 2,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 2,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 2,
+    "Computer Science|Network Security & Cyber Law": 2,
+    "Teaching Methodology|Assessment for Learning": 2,
+    "Teaching Methodology|Gender, School & Society": 2,
+    "Computer Science|Mobile Computing & Emerging Tech": 1,
+    "Teaching Methodology|Learning & Teaching": 1,
+    "Teaching Methodology|Pedagogy of a School Subject": 1,
+    "Teaching Methodology|Drama & Art in Education": 1
+   },
+   "byDifficulty": {
+    "easy": 133,
+    "medium": 57,
+    "hard": 10
+   },
+   "byStatus": {
+    "verified": 183,
+    "corrected": 16,
+    "disputed": 1
+   },
+   "repeated": 0,
+   "conceptRepeated": 18,
+   "dropped": 7,
+   "explained": 200
+  }
+ },
+ {
+  "id": "2021-set5",
+  "set": 5,
+  "year": 2021,
+  "postCode": "91/20",
+  "advt": "04/20",
+  "department": "Directorate of Education (DoE), GNCTD",
+  "departmentShort": "DoE",
+  "currentSyllabusMatch": "DoE TGT Computer Science (same department as the current post code 41/26)",
+  "examDates": [
+   "2021-08-01",
+   "2021-08-07"
+  ],
+  "answerKey": {
+   "label": "Key marked in the DSSSB/EdCIL master question paper (green option with tick)",
+   "detail": "The file carries DSSSB's own post-objection notes ('discrepancy is found in question/answer. So, this question is ignored for all candidates'), which indicates the final-key version. Final keys for 91/20 were notified on 06/10/2021.",
+   "official": true,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/exam_notice_nov0008_1.pdf"
+   ]
+  },
+  "label": "2021 · Set 5 (91/20)",
+  "shortLabel": "2021 S5",
+  "labelHi": "2021 · सेट 5 (91/20)",
+  "date": null,
+  "dateStatus": "not-available",
+  "dateNote": "The exam date is not printed in this paper. DSSSB notice No. 46 says the 91/20 exam was held on 01/08/2021 and 07/08/2021.",
+  "inferredDate": "2021-08-07",
+  "inferredDateNote": "Inferred only from the paper's 'Creation Date' (2021-08-08 11:10:26); not used as fact.",
+  "shift": null,
+  "shiftLabel": "Set 5 (shift not printed)",
+  "shiftStatus": "not-available",
+  "time": null,
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_91-20.pdf"
+  ],
+  "metaChecks": [
+   {
+    "field": "paperName",
+    "result": "pass",
+    "detail": "printed: 'TGT Computer Science5'; expected 'TGT Computer Science5'"
+   },
+   {
+    "field": "year",
+    "result": "pass",
+    "detail": "paper Creation Date 2021-08-08 11:10:26"
+   },
+   {
+    "field": "totalMarks",
+    "result": "pass",
+    "detail": "printed Total Marks 200"
+   },
+   {
+    "field": "duration",
+    "result": "pass",
+    "detail": "printed Duration 120 min"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "paperName": "TGT Computer Science5",
+   "creationDate": "2021-08-08 11:10:26",
+   "durationMin": 120,
+   "totalMarks": 200
+  },
+  "pdf": {
+   "name": "tgt_computer_science5.pdf",
+   "md5": "fab4427cf0c4b340573fc527eb1811c3",
+   "pages": 171,
+   "url": "dsssb/pdfs/tgt_computer_science5.pdf"
+  },
+  "sourceFormat": "edcil_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Awareness": 20,
+    "General Intelligence & Reasoning": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "Hindi Language": 20,
+    "English Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Data Structures": 9,
+    "Computer Science|Mathematics, Statistics & Numerical Methods": 8,
+    "Computer Science|Operating Systems & Linux": 8,
+    "Computer Science|Computer Networks & Protocols": 8,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 7,
+    "English Language|Comprehension & Para Jumbles": 7,
+    "English Language|Vocabulary": 7,
+    "Computer Science|Business, Accounting & Economics": 7,
+    "Computer Science|Number Systems & Digital Electronics": 7,
+    "English Language|Grammar": 6,
+    "Computer Science|Computer Fundamentals & PC Software": 6,
+    "Computer Science|DBMS & SQL": 6,
+    "Computer Science|Software Engineering": 6,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 5,
+    "Hindi Language|व्याकरण (Grammar)": 5,
+    "Computer Science|Computer Architecture": 5,
+    "General Awareness|Art, Culture & Awards": 4,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 4,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 4,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 4,
+    "Computer Science|E-Commerce, MIS & IT in Business": 4,
+    "General Awareness|Everyday Science": 3,
+    "General Awareness|Geography": 3,
+    "General Awareness|History": 3,
+    "General Awareness|Current Affairs & Sports": 3,
+    "General Intelligence & Reasoning|Series": 3,
+    "General Intelligence & Reasoning|Analogy & Classification": 3,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 3,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 3,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 3,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 3,
+    "Hindi Language|शुद्धि (Correction)": 3,
+    "Computer Science|Web Technologies": 3,
+    "Computer Science|Algorithms": 3,
+    "Computer Science|Computer Graphics & Multimedia": 3,
+    "General Awareness|Economy": 2,
+    "General Awareness|Polity & Constitution": 2,
+    "General Intelligence & Reasoning|Coding-Decoding": 2,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 2,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 2,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 2,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 2,
+    "Computer Science|OOP, C++ & Java": 2,
+    "Computer Science|Programming in C": 2,
+    "Computer Science|Mobile Computing & Emerging Tech": 2,
+    "Teaching Methodology|Assessment for Learning": 2,
+    "Teaching Methodology|Language Across the Curriculum": 2,
+    "Teaching Methodology|Drama & Art in Education": 2,
+    "Teaching Methodology|Gender, School & Society": 2,
+    "Computer Science|Physics Basics": 1,
+    "Teaching Methodology|Learning & Teaching": 1,
+    "Teaching Methodology|Pedagogy of a School Subject": 1
+   },
+   "byDifficulty": {
+    "easy": 120,
+    "medium": 73,
+    "hard": 7
+   },
+   "byStatus": {
+    "verified": 180,
+    "corrected": 18,
+    "disputed": 2
+   },
+   "repeated": 2,
+   "conceptRepeated": 18,
+   "dropped": 3,
+   "explained": 200
+  }
+ },
+ {
+  "id": "2023-06-24-s2",
+  "year": 2023,
+  "postCode": "39/22",
+  "advt": "08/22",
+  "department": "Directorate of Education (DoE), GNCTD",
+  "departmentShort": "DoE",
+  "currentSyllabusMatch": "DoE TGT Computer Science (same department as the current post code 41/26)",
+  "label": "24 Jun 2023 · Shift 2 (39/22)",
+  "labelHi": "24 जून 2023 · पाली 2 (39/22)",
+  "shortLabel": "2023 S2",
+  "date": "2023-06-24",
+  "dateStatus": "verified",
+  "dateNote": "Printed in the paper name ('24th Jun 2023 Shift 2') and in the file name; DSSSB's schedule lists 39/22 on 24.06.2023 Shift II (12:30-02:30 PM).",
+  "shift": 2,
+  "shiftLabel": "Shift 2",
+  "shiftStatus": "verified",
+  "time": "12:30 PM - 2:30 PM",
+  "timeSource": "notice",
+  "examDates": [
+   "2023-06-24",
+   "2023-06-25"
+  ],
+  "answerKey": {
+   "label": "Key marked in the DSSSB/EdCIL master question paper (green option with tick)",
+   "detail": "The paper header says 'Actual Answer Key : Yes'. Final keys for 39/22 were notified on 10/08/2023.",
+   "official": true,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_10009.pdf"
+   ]
+  },
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan_0075_0.pdf",
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/notice_10009.pdf"
+  ],
+  "metaChecks": [
+   {
+    "field": "paperName",
+    "result": "pass",
+    "detail": "printed: 'TGTComputerScience 24th Jun 2023 Shift 2'; expected 'TGTComputerScience 24th Jun 2023 Shift 2'"
+   },
+   {
+    "field": "date",
+    "result": "pass",
+    "detail": "paper name gives '24 Jun 2023'"
+   },
+   {
+    "field": "shift",
+    "result": "pass",
+    "detail": "paper name gives shift 2"
+   },
+   {
+    "field": "filename",
+    "result": "pass",
+    "detail": "file name 'tgtcomputerscience_24th_jun_2023_shift_2.pdf' contains the date"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "paperName": "TGTComputerScience 24th Jun 2023 Shift 2",
+   "actualAnswerKey": true,
+   "paperNameDate": "24 Jun 2023",
+   "paperNameShift": 2
+  },
+  "pdf": {
+   "name": "tgtcomputerscience_24th_jun_2023_shift_2.pdf",
+   "md5": "d0975d35d0b728252f6a797800d700bf",
+   "pages": 232,
+   "url": "dsssb/pdfs/tgtcomputerscience_24th_jun_2023_shift_2.pdf"
+  },
+  "sourceFormat": "edcil_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Intelligence & Reasoning": 20,
+    "General Awareness": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "English Language": 20,
+    "Hindi Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Web Technologies": 12,
+    "Computer Science|Mathematics, Statistics & Numerical Methods": 8,
+    "Computer Science|Business, Accounting & Economics": 8,
+    "Computer Science|Operating Systems & Linux": 8,
+    "General Awareness|Current Affairs & Sports": 7,
+    "English Language|Comprehension & Para Jumbles": 7,
+    "English Language|Grammar": 7,
+    "Computer Science|Computer Fundamentals & PC Software": 7,
+    "Computer Science|E-Commerce, MIS & IT in Business": 7,
+    "English Language|Vocabulary": 6,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 6,
+    "Hindi Language|व्याकरण (Grammar)": 6,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 5,
+    "Computer Science|OOP, C++ & Java": 5,
+    "Computer Science|Computer Graphics & Multimedia": 5,
+    "General Intelligence & Reasoning|Series": 4,
+    "General Awareness|History": 4,
+    "General Awareness|Everyday Science": 4,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 4,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 4,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 4,
+    "Computer Science|Number Systems & Digital Electronics": 4,
+    "Computer Science|Mobile Computing & Emerging Tech": 4,
+    "Computer Science|Physics Basics": 4,
+    "Computer Science|Computer Networks & Protocols": 4,
+    "Computer Science|Software Engineering": 4,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 3,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 3,
+    "General Intelligence & Reasoning|Analogy & Classification": 3,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 3,
+    "General Intelligence & Reasoning|Coding-Decoding": 3,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 3,
+    "Computer Science|Network Security & Cyber Law": 3,
+    "General Awareness|Art, Culture & Awards": 2,
+    "General Awareness|Economy": 2,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 2,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 2,
+    "Hindi Language|शुद्धि (Correction)": 2,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 2,
+    "Computer Science|DBMS & SQL": 2,
+    "Computer Science|Python Programming": 2,
+    "Teaching Methodology|Gender, School & Society": 2,
+    "Teaching Methodology|Knowledge, Curriculum & Policy": 2,
+    "Teaching Methodology|Assessment for Learning": 2,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 1,
+    "General Awareness|Geography": 1,
+    "Computer Science|Programming in C": 1,
+    "Computer Science|Computer Architecture": 1,
+    "Computer Science|Data Structures": 1,
+    "Teaching Methodology|Childhood & Growing Up": 1,
+    "Teaching Methodology|Learning & Teaching": 1,
+    "Teaching Methodology|Pedagogy of a School Subject": 1,
+    "Teaching Methodology|Drama & Art in Education": 1
+   },
+   "byDifficulty": {
+    "easy": 114,
+    "medium": 82,
+    "hard": 4
+   },
+   "byStatus": {
+    "corrected": 102,
+    "verified": 94,
+    "disputed": 3,
+    "unverified": 1
+   },
+   "repeated": 0,
+   "conceptRepeated": 3,
+   "dropped": 0,
+   "explained": 200
+  }
+ },
+ {
+  "id": "2024-02-07-s2",
+  "year": 2024,
+  "postCode": "70/23",
+  "advt": "02/23",
+  "department": "New Delhi Municipal Council (NDMC)",
+  "departmentShort": "NDMC",
+  "currentSyllabusMatch": "NDMC post - its official syllabus is a different, CBSE-style list (Python, Society/Law/Ethics...). Useful practice, but not the DoE 41/26 syllabus.",
+  "label": "07 Feb 2024 · Shift 2 (70/23, NDMC)",
+  "labelHi": "07 फ़रवरी 2024 · पाली 2 (70/23, NDMC)",
+  "shortLabel": "2024 S2",
+  "date": "2024-02-07",
+  "dateStatus": "verified",
+  "dateNote": "Printed in the paper (Test Date 07/02/2024) and in the file name; DSSSB's 70/23 notices give the exam on 07.02.2024 Shift II.",
+  "shift": 2,
+  "shiftLabel": "Shift 2",
+  "shiftStatus": "verified",
+  "time": "12:30 PM - 2:30 PM",
+  "timeSource": "printed",
+  "examDates": [
+   "2024-02-07"
+  ],
+  "answerKey": {
+   "label": "Key as printed in the republished copy (green option with tick)",
+   "detail": "This copy was republished by Adda247 from the Digialm master paper. Final keys for 70/23 were notified on 16/04/2024; the republished copy cannot itself prove it is the final version.",
+   "official": false,
+   "evidence": [
+    "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan0089_2.pdf"
+   ]
+  },
+  "evidence": [
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/scan0005_6.pdf",
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/scan0089_2.pdf",
+   "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/universal-tab/tgt_computer_science_in_ndmc.pdf"
+  ],
+  "republishedBy": "Adda247",
+  "metaChecks": [
+   {
+    "field": "date",
+    "result": "pass",
+    "detail": "printed Test Date '2024-02-07'"
+   },
+   {
+    "field": "time",
+    "result": "pass",
+    "detail": "printed Test Time ('12:30 PM', '2:30 PM')"
+   },
+   {
+    "field": "filename",
+    "result": "pass",
+    "detail": "file name 'DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf' contains the date"
+   }
+  ],
+  "metaConflicts": [],
+  "printed": {
+   "date": "2024-02-07",
+   "timeStart": "12:30 PM",
+   "timeEnd": "2:30 PM",
+   "subjectName": "TGT (Computer Science)"
+  },
+  "pdf": {
+   "name": "DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf",
+   "md5": "35a2f2db00d886a652f7944c251af453",
+   "pages": 67,
+   "url": "dsssb/pdfs/DSSSB-TGT-Computer-Science-Official-Paper-Held-On_-07-Feb-2024-Shift-2-Eng.pdf"
+  },
+  "sourceFormat": "digialm_master_paper",
+  "numbering": {
+   "count": 200,
+   "duplicates": [],
+   "gaps": []
+  },
+  "questionCount": 200,
+  "stats": {
+   "questions": 200,
+   "bySubject": {
+    "Computer Science": 90,
+    "General Intelligence & Reasoning": 20,
+    "General Awareness": 20,
+    "Arithmetical & Numerical Ability": 20,
+    "English Language": 20,
+    "Hindi Language": 20,
+    "Teaching Methodology": 10
+   },
+   "byTopic": {
+    "Computer Science|Python Programming": 19,
+    "Computer Science|DBMS & SQL": 15,
+    "Computer Science|Society, Ethics & E-waste": 10,
+    "Computer Science|Operating Systems & Linux": 10,
+    "Arithmetical & Numerical Ability|Percentage, Profit & Loss": 7,
+    "English Language|Vocabulary": 7,
+    "English Language|Comprehension & Para Jumbles": 7,
+    "Computer Science|Computer Networks & Protocols": 7,
+    "Computer Science|Number Systems & Digital Electronics": 7,
+    "Computer Science|Computer Architecture": 7,
+    "English Language|Grammar": 6,
+    "Hindi Language|व्याकरण (Grammar)": 6,
+    "Hindi Language|शब्द ज्ञान (Vocabulary)": 6,
+    "Computer Science|Web Technologies": 6,
+    "General Intelligence & Reasoning|Logical & Verbal Reasoning": 5,
+    "General Intelligence & Reasoning|Analogy & Classification": 5,
+    "Hindi Language|गद्यांश एवं वाक्य संरचना": 5,
+    "General Intelligence & Reasoning|Coding-Decoding": 4,
+    "General Awareness|Current Affairs & Sports": 4,
+    "General Awareness|Polity & Constitution": 4,
+    "General Awareness|History": 4,
+    "Teaching Methodology|Learning & Teaching": 4,
+    "General Awareness|Geography": 3,
+    "Arithmetical & Numerical Ability|Ratio, Average & Ages": 3,
+    "Arithmetical & Numerical Ability|Number System & Simplification": 3,
+    "Arithmetical & Numerical Ability|Time, Work & Distance": 3,
+    "Hindi Language|मुहावरे एवं लोकोक्तियाँ": 3,
+    "Computer Science|Mobile Computing & Emerging Tech": 3,
+    "Computer Science|Computer Fundamentals & PC Software": 3,
+    "General Intelligence & Reasoning|Series": 2,
+    "General Intelligence & Reasoning|Arrangement & Puzzles": 2,
+    "General Awareness|Economy": 2,
+    "General Awareness|Everyday Science": 2,
+    "Arithmetical & Numerical Ability|Algebra, Trigonometry & Data": 2,
+    "Arithmetical & Numerical Ability|Mensuration & Geometry": 2,
+    "Computer Science|Network Security & Cyber Law": 2,
+    "General Intelligence & Reasoning|Blood Relations & Directions": 1,
+    "General Intelligence & Reasoning|Venn Diagrams & Non-verbal": 1,
+    "General Awareness|Art, Culture & Awards": 1,
+    "Computer Science|Programming in C": 1,
+    "Teaching Methodology|Gender, School & Society": 1,
+    "Teaching Methodology|Assessment for Learning": 1,
+    "Teaching Methodology|Language Across the Curriculum": 1,
+    "Teaching Methodology|Drama & Art in Education": 1,
+    "Teaching Methodology|Inclusive Education": 1,
+    "Teaching Methodology|Pedagogy of a School Subject": 1
+   },
+   "byDifficulty": {
+    "easy": 140,
+    "medium": 59,
+    "hard": 1
+   },
+   "byStatus": {
+    "verified": 179,
+    "corrected": 16,
+    "disputed": 4,
+    "unverified": 1
+   },
+   "repeated": 1,
+   "conceptRepeated": 4,
+   "dropped": 0,
+   "explained": 200
+  }
+ }
+]

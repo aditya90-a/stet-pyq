@@ -1,0 +1,485 @@
+[
+ {
+  "id": "2023-06-24-s2-q168",
+  "copies": [
+   "2023-06-24-s2-q168"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) The clock signal is required for sequential circuits.\nil) In the sequential circuit, memory elements play an important role and are required.",
+  "options": [
+   "A) i-True, ii-True",
+   "B) i-False, il-True",
+   "C) i-True, ii-False",
+   "D) i-False, ii-False"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q168.png"
+ },
+ {
+  "id": "2023-06-24-s2-q169",
+  "copies": [
+   "2023-06-24-s2-q169"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the column Well-known ports used by ICP with the column Protocol.\nWell-known ports used by TCP Protocol\ni) Davtime\na) 7\nb) 9\nii) Echo\niii) Discard\nc) 11\niv) SYSTAT\nd) 13",
+  "options": [
+   "A) a-ii, b-i, c-iv, d-iii",
+   "B) a-i, b-ii, c-iv, d-iii",
+   "C) a-ii, b-iii, c-iv, d-i",
+   "D) a-ii, b-i, c-iv, d-ii"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q169.png"
+ },
+ {
+  "id": "2023-06-24-s2-q170",
+  "copies": [
+   "2023-06-24-s2-q170"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is an accounting application software?",
+  "options": [
+   "A) Tally",
+   "B) MS-Word",
+   "C) OpenOffice",
+   "D) MS-Access"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q170.png"
+ },
+ {
+  "id": "2023-06-24-s2-q171",
+  "copies": [
+   "2023-06-24-s2-q171"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are feature(s) of inheritance in OOPs?\nFeatures:\ni) Sub Class\nii) Super Class\niii) Reusability\niv) Operator Overloading",
+  "options": [
+   "A) ili only",
+   "B) i and ii only",
+   "C) ii and ili only",
+   "D) i, ii and iii only"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q171.png"
+ },
+ {
+  "id": "2023-06-24-s2-q172",
+  "copies": [
+   "2023-06-24-s2-q172"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following statements is/are true for the Waterfall Model?\nStatements:\ni) This model does not work smoothly if there are some issues left at the previous step.\nil) It projects the process of development in a cyclic manner, repeating every step after every cycle of software\ndevelopment life cycle process.\nii]) This model considers risk, which often goes unnoticed by most other models.\niv) This model provides meaus of testing of software at each stage in a reverse manner.",
+  "options": [
+   "A) ionly",
+   "B) i and ii only",
+   "C) ii and ili only",
+   "D) i, ili and iv only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q172.png"
+ },
+ {
+  "id": "2023-06-24-s2-q173",
+  "copies": [
+   "2023-06-24-s2-q173"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following projects deals with developing a well understood application program, the size of the\ndevelopment team is reasonably small, and the team members are experienced in developing similar types of projects?",
+  "options": [
+   "A) Flexible",
+   "B) Semidetached",
+   "C) Organic",
+   "D) Embedded"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q173.png"
+ },
+ {
+  "id": "2023-06-24-s2-q174",
+  "copies": [
+   "2023-06-24-s2-q174"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following commands is/are used to create files in Linux?\nCommands:\ni) touch\nii) cat\niii) head\niv) finger",
+  "options": [
+   "A) i, ii and ili only",
+   "B) ii, ili and iv only",
+   "C) i and ii only",
+   "D) i only"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q174.png"
+ },
+ {
+  "id": "2023-06-24-s2-q175",
+  "copies": [
+   "2023-06-24-s2-q175"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are managerial functions?\nFunctions:\ni) Planning\nil) Organising\niii) Staffing\niv) Directing\nV) Controlling\nvi) Coding\nvil) Testing",
+  "options": [
+   "A) i, ii, iii, iv and v only",
+   "B) ii, ili and iv only",
+   "C) v and vii only",
+   "D) i, il, iii and iv only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q175.png"
+ },
+ {
+  "id": "2023-06-24-s2-q176",
+  "copies": [
+   "2023-06-24-s2-q176"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following are limitations of mobile computing?\nLimitations:\ni) Device mobility\nii) Power consumption\niii) Human interface with device\niv) Range and Bandwidth\nv) Transmission interferences\nvi) Wireless connectivity",
+  "options": [
+   "A) ii, iii, iv and v only",
+   "B) i, ii and v only",
+   "C) i, ii and iv only",
+   "D) i, iii and vi only"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q176.png"
+ },
+ {
+  "id": "2023-06-24-s2-q177",
+  "copies": [
+   "2023-06-24-s2-q177"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "What is/are the purpose(s) of JavaScript events?\ni) Provide a dynamic interface to a webpage.\nii) Provide a static interface to a webpage.",
+  "options": [
+   "A) Only (i)",
+   "B) Only (ii)",
+   "C) Both (i) and (ii)",
+   "D) Neither (i) nor (ii)"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q177.png"
+ },
+ {
+  "id": "2023-06-24-s2-q178",
+  "copies": [
+   "2023-06-24-s2-q178"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "in ASP.NET means that data that is collected from a source is bound to the controls that provide the\nThe term\nread and write connection to the data.",
+  "options": [
+   "A) data binding",
+   "B) data controlling",
+   "C) binding hierarchy",
+   "D) control variable"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q178.png"
+ },
+ {
+  "id": "2023-06-24-s2-q179",
+  "copies": [
+   "2023-06-24-s2-q179"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following commands is used to comment out multiple lines in an XML file?",
+  "options": [
+   "A) <!-- This is a\nmulti-line\nXML comment -->",
+   "B) This XML file\ncontains a list\nof custom information\n*/",
+   "C) This is a\nmulti-line\nXML comment",
+   "D) This XML file\ncontains a list\nof custom information"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q179.png"
+ },
+ {
+  "id": "2023-06-24-s2-q180",
+  "copies": [
+   "2023-06-24-s2-q180"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "is a method of constructing new data points within a range of discrete set of known data points.",
+  "options": [
+   "A) Interpolation",
+   "B) Isolation",
+   "C) Integration",
+   "D) Limit"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q180.png"
+ },
+ {
+  "id": "2023-06-24-s2-q181",
+  "copies": [
+   "2023-06-24-s2-q181"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is NOT a system call category?",
+  "options": [
+   "A) Process Control",
+   "B) Device Manipulation",
+   "C) File Manipulation",
+   "D) Data Compilation"
+  ],
+  "sourceKey": "D",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q181.png"
+ },
+ {
+  "id": "2023-06-24-s2-q182",
+  "copies": [
+   "2023-06-24-s2-q182"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) In connectionless services of tramsport layer protocol, the packets are sent from one pauty to another with no need for\nconnection establishment or connection release.\n11) In connection-oriented service of transport layer protocol, a connection is first established between the sender and the\nreceiver.\nii) The User Datagram Protocol (UDP) is called a connectionless, unreliable transport protocol.",
+  "options": [
+   "A) 1-True, il-True, ill-True",
+   "B) i-False, ii-True, iii-True",
+   "C) 1-True, il-False, ili-True",
+   "D) i-False, i-False, ili-False"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q182.png"
+ },
+ {
+  "id": "2023-06-24-s2-q183",
+  "copies": [
+   "2023-06-24-s2-q183"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "is a study of economics based on facts, is verifiable, and you can prove or disprove",
+  "options": [
+   "A) Positive economics",
+   "B) Negative economies",
+   "C) Regular economics",
+   "D) Basic economics"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q183.png"
+ },
+ {
+  "id": "2023-06-24-s2-q184",
+  "copies": [
+   "2023-06-24-s2-q184"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the column Mobility with the column Descriptions.\nMobility\nDescriptions\na) Macго-\ni) This is mobility within a MANET, caused by\ndevice mobility constantly changing the\nmobility\nnetwork topology.\nb) Micro-\nil) This is mobility through a global network.\nmobility\nc) Ad hoc\niii) This is mobility of a device in one single\nmobility\nadministrative domain of the global network.",
+  "options": [
+   "A) a-ii, b-iii, c-i",
+   "B) a-iii, b-ii, c-i",
+   "C) a-i, b-ii, c-iii",
+   "D) a-i, b-iii, c-ii"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q184.png"
+ },
+ {
+  "id": "2023-06-24-s2-q185",
+  "copies": [
+   "2023-06-24-s2-q185"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "When a plane is perpendicular to a reference plane, its projection on that plane is a/an",
+  "options": [
+   "A) point",
+   "B) straight line",
+   "C) apparent line",
+   "D) curve"
+  ],
+  "sourceKey": "B",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q185.png"
+ },
+ {
+  "id": "2023-06-24-s2-q186",
+  "copies": [
+   "2023-06-24-s2-q186"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following does the actual display in a computer?",
+  "options": [
+   "A) CRI",
+   "B) VRAM",
+   "C) DPU",
+   "D) GPU"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q186.png"
+ },
+ {
+  "id": "2023-06-24-s2-q187",
+  "copies": [
+   "2023-06-24-s2-q187"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Match the column Types of knowledge with the column Descriptions.\nTypes of knowledge\nDescriptions\na) Tacit knowledge\n[i) This type of knowledge is captured within various\ndocument types such as manuals, reports, and guides,\nallowing organisations to easily share knowledge\nacross teams.\nb) Implicit knowledge\nil) This type of knowledge is typically acquired\nthrough experience, and it is intuitively understood.\niii) This type is also referred to as 'know-how°\nc) Explicit knowledge\nknowledge.",
+  "options": [
+   "A) a-ii, b-ili, c-i",
+   "B) a-iii, b-ii, c-i",
+   "C) a-i, b-ii, c-iii",
+   "D) a-i, b-iii, c-ii"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q187.png"
+ },
+ {
+  "id": "2023-06-24-s2-q188",
+  "copies": [
+   "2023-06-24-s2-q188"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulmess of the following statements?\ni) A tuple is a sequence of immutable Python objects, in the given tuple course = \"I\", \"m\", \"n\", \"o\", has four elements.\nii) Io explicitly remove an entire tuple, use the drop statement.",
+  "options": [
+   "A) i-True, ii-True",
+   "B) i-False, il-True",
+   "C) i-True, ii-False",
+   "D) i-False, ii-False"
+  ],
+  "sourceKey": "C",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q188.png"
+ },
+ {
+  "id": "2023-06-24-s2-q189",
+  "copies": [
+   "2023-06-24-s2-q189"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Interpolation is a statistical method by which related known values are used to estimate an unknown value or set of\nvalles.\nil) In the Inverse Distance Weighted (IDW) interpolation method, estimation of cell values is done by averaging values\nof sample data points in the neighbourhood of each processing cell.",
+  "options": [
+   "A) i-True, ii-True",
+   "B) i-False, il-True",
+   "C) i-True, ii-False",
+   "D) i-False, ii-False"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q189.png"
+ },
+ {
+  "id": "2023-06-24-s2-q190",
+  "copies": [
+   "2023-06-24-s2-q190"
+  ],
+  "paper": "24 Jun 2023 · Shift 2 (39/22)",
+  "section": "Computer Science",
+  "language": "en",
+  "passage": null,
+  "text": "Which of the following is/are Interpolation Methods in Computer Graphics?\ni) Inverse Distance Weighted\nii) Kriging\niii) Natural Neighbor\niv) Spline\nv) Topo to raster\nvi) Compiler",
+  "options": [
+   "A) i, ii, iii, iv and v only",
+   "B) i, ii, iii, iv, v and vi",
+   "C) i, in, and iv only",
+   "D) ionly"
+  ],
+  "sourceKey": "A",
+  "officialNote": null,
+  "textOrigin": "ocr",
+  "reviewImage": "pipeline/cache/dsssb/review/2023-06-24-s2-q190.png"
+ }
+]

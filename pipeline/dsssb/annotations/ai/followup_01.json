@@ -1,0 +1,281 @@
+[
+ {
+  "id": "2024-02-07-s2-q010",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: chained 'some' with negative",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: Some C are D, Some D are E, No E is G.\n- **Conclusion I (Some E are C):** C meets D and E meets D, but the C-part and E-part of D may be different. Two 'some' statements give no definite conclusion, so it does not follow.\n- **Conclusion II (No D is G):** only the D that are E are kept away from G; the remaining D may well be G. Does not follow.\n- **Conclusion III (Some G are C):** G is only linked to the others through a negative statement with E, so nothing definite can be said about G and C. Does not follow.\n\nA diagram in which C, D and G overlap only partly, and E stays clear of G, satisfies every statement while making each conclusion false. So **neither conclusion follows** (option A), which matches the key."
+ },
+ {
+  "id": "2021-set2-q030",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: conversion of universal negative",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: Some P are K, No S is P.\n- **Conclusion I (No P is S):** a universal negative converts fully. 'No S is P' means the two groups share no member, which is the same as 'No P is S'. It follows.\n- **Conclusion II (All S are K):** S is only known to be separate from P. S may lie completely outside K, partly inside it or fully inside it. Nothing forces all S to be K, so it does not follow.\n\nSo **only conclusion I follows** (option A), which matches the key."
+ },
+ {
+  "id": "2021-set2-q031",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: all + no, universal conclusions",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: All L are J, No V is L.\n- **Conclusion I (All J are L):** 'All L are J' cannot be reversed. J may contain members that are not L. Does not follow.\n- **Conclusion II (All V are J):** V is only known to be outside L. V can lie outside J entirely, so it does not follow.\n- **Conclusion III (All L are V):** this contradicts 'No V is L' (which equals 'No L is V'). Definitely false.\n\nNone of the three conclusions follows, so the answer is **neither conclusion follows** (option B), which matches the key."
+ },
+ {
+  "id": "2021-set3-q030",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: conversion of particular affirmative",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: Some land are hard, No stone is land.\n- **Conclusion I (Some hard are land):** 'Some land are hard' converts directly to 'Some hard are land', because a particular affirmative can be reversed. It follows.\n- **Conclusion II (Some stone are hard):** stone is only known to be separate from land. The hard things that are land cannot be stone, but there is no information about the other hard things. Stone may or may not overlap with hard, so the conclusion is only a possibility and does not follow.\n\nSo **only conclusion I follows** (option A), which matches the key."
+ },
+ {
+  "id": "2021-set3-q031",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: all + no, conversions",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: All A are S, No D is A.\n- **Conclusion I (Some S are A):** 'All A are S' converts by limitation to 'Some S are A'. It follows.\n- **Conclusion II (All S are D):** S contains all of A, and no A is D, so the A-part of S is outside D. Therefore not all S can be D. Does not follow.\n- **Conclusion III (No A is D):** a universal negative converts fully, so 'No D is A' gives 'No A is D'. It follows.\n\nSo **conclusions I and III follow** (option C), which matches the key."
+ },
+ {
+  "id": "2021-set3-q156",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which modulation technique is applied to a binary signal in figure (a) to achieve figure (b)?",
+   "options": [
+    "Amplitude modulation",
+    "Frequency modulation",
+    "Phase modulation",
+    "Quadrature phase shift keying"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "Figure (a) is a binary square wave labelled with the bits 0 1 0 1 1 0 0 1 0 0 1 0 0; figure (b) is a sine wave of constant amplitude whose cycles become closer or wider apart, so its frequency switches between two values with the bits.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transmission media & devices",
+  "concept": "Identifying FSK from waveform",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In figure (b) every cycle of the carrier reaches the same peak height, so the amplitude is constant. What changes is how tightly the cycles are packed: some stretches have narrow, closely spaced cycles and others have wider ones, and the switches follow the bit pattern in figure (a). Changing the carrier's frequency according to the data is **frequency modulation**. For a binary signal this is called frequency shift keying (FSK), with one frequency for 0 and another for 1.\n\nWhy not the others:\n- **Amplitude modulation (ASK):** the peak height would change with the bits. Here it does not.\n- **Phase modulation (PSK):** the frequency stays fixed and the wave jumps in phase at bit boundaries.\n- **QPSK:** uses four phases, each carrying two bits, again at a single frequency.\n\nThe answer is option B, which matches the key."
+ },
+ {
+  "id": "2021-set3-q160",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the following.\na | Hub | i | Data link layer\nb | Switch | ii | Network layer\nc | Routers | iii | Application layer\nd | Gateway | iv | Physical layer",
+   "options": [
+    "a-iii, b-i, c-ii, d-iv",
+    "a-iv, b-i, c-ii, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-i, b-iv, c-iii, d-ii"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Added the match table (Hub/Switch/Routers/Gateway vs layers), which was printed as an image and missing from the text layer."
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "subtopic": "Transmission media & devices",
+  "concept": "Network devices and OSI layers",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Each device is matched to the highest OSI layer it works at:\n- **Hub → Physical layer (iv):** it simply repeats the electrical signal to every port and does not understand addresses.\n- **Switch → Data link layer (i):** it forwards frames using MAC addresses.\n- **Router → Network layer (ii):** it forwards packets between networks using IP addresses.\n- **Gateway → Application layer (iii):** it connects networks that use different protocols and translates between them, which can involve every layer up to the application layer.\n\nThis gives a-iv, b-i, c-ii, d-iii, which is **option B** and matches the key."
+ },
+ {
+  "id": "2021-set4-q030",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: conversion of particular affirmative",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: No ground are land, Some garden are land.\n- **Conclusion I (Some land are garden):** 'Some garden are land' converts directly to 'Some land are garden'. It follows.\n- **Conclusion II (Some land are ground):** this contradicts 'No ground are land', which also means 'No land is ground'. Definitely false.\n\nSo **only conclusion I follows** (option A), which matches the key."
+ },
+ {
+  "id": "2021-set4-q031",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: all + no, conversions",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: All B are S, No S are K.\n- **Conclusion I (All S are B):** 'All B are S' cannot be reversed. S may contain things that are not B. Does not follow.\n- **Conclusion II (Some S are B):** 'All B are S' converts by limitation to 'Some S are B'. It follows.\n- **Conclusion III (All K are B):** B lies inside S, and S shares nothing with K, so no B is K. 'All K are B' is therefore false.\n\nOnly conclusion II follows, so the answer is **option C**, which matches the key."
+ },
+ {
+  "id": "2021-set4-q040",
+  "transcription": {
+   "verdict": "match",
+   "text": "By folding the given paper, which of the following cube cannot be made?",
+   "options": [
+    "I, II and III",
+    "I, III and IV",
+    "I, II and IV",
+    "I, II, III and IV"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "The net is a horizontal row A, 7, 6, 4 with 3 above and 8 below the 6; cubes I–IV show (top, front, right) faces (7, A, 4), (A, 3, 6), (6, A, 4) and (8, A, 3).",
+   "printedErrors": "'which of the following cube' should be 'cubes' (grammar).",
+   "changes": ""
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Figures & mirror images",
+  "concept": "Cube net opposite faces",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "First find the opposite faces in the net. In the row A–7–6–4, faces with one square between them are opposite: **A ↔ 6** and **7 ↔ 4**. The squares above and below 6 are also opposite: **3 ↔ 8**.\n\nTwo opposite faces can never be seen together on a cube. Check each cube:\n- **I:** shows 7 and 4, which are opposite. Impossible.\n- **II:** shows A and 6, which are opposite. Impossible.\n- **III:** shows 6 and A, which are opposite. Impossible.\n- **IV:** shows 8 and 3, which are opposite. Impossible.\n\nNone of the four cubes can be made, so the answer is **I, II, III and IV** (option D), which matches the key."
+ },
+ {
+  "id": "2021-set4-q118",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which gate is represented by the following truth table?",
+   "options": [
+    "NOR",
+    "NAND",
+    "XOR",
+    "XNOR"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "Truth table with inputs A, B, C over all eight combinations 000 to 111; the Output is 1 for every row except A=B=C=1, where it is 0.",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "Identify gate from truth table",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The table has three inputs, and the output is 0 only in the last row, where A = B = C = 1. In every other row the output is 1.\n\nAn AND gate gives 1 only when all inputs are 1. Inverting it gives 0 only when all inputs are 1, so the table is Y = (A·B·C)′, a **3-input NAND** gate.\n\nWhy not the others:\n- **NOR:** 1 only when all inputs are 0 (the first row), and 0 everywhere else.\n- **XOR (3-input):** 1 when an odd number of inputs are 1, for example 001 → 1 but 011 → 0. The table gives 1 for 011.\n- **XNOR:** the complement of XOR, so it gives 0 for 001. The table gives 1 there.\n\nThe answer is option B, which matches the key."
+ },
+ {
+  "id": "2021-set5-q030",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: conversion of universal negative",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: No X are Y, Some Z are Y.\n- **Conclusion I (All Z are X):** the Z that are Y cannot be X, because no Y is X. So at least some Z are not X, and 'All Z are X' is false.\n- **Conclusion II (No Y is X):** a universal negative converts fully, so 'No X are Y' gives 'No Y is X'. It follows.\n\nSo **only conclusion II follows** (option B), which matches the key."
+ },
+ {
+  "id": "2021-set5-q031",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "subtopic": "Syllogism",
+  "concept": "Syllogism: all + no, conversions",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Statements: All F are C, No D is F.\n- **Conclusion I (Some C are F):** 'All F are C' converts by limitation to 'Some C are F'. It follows.\n- **Conclusion II (All C are D):** C contains all of F, and no F is D, so the F-part of C is outside D. Therefore not all C can be D. Does not follow.\n- **Conclusion III (No F is D):** a universal negative converts fully, so 'No D is F' gives 'No F is D'. It follows.\n\nSo **conclusions I and III follow** (option C), which matches the key."
+ },
+ {
+  "id": "2021-set5-q039",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which answer figure will complete the pattern in the question figure?",
+   "options": [
+    "[Figure: downward-pointing shield at top right; arc at top-left corner; quarter circle with a diagonal at bottom-left; arc at bottom-right]",
+    "[Figure: upward-pointing house shape at top right; arc at top-left corner; quarter circle with a diagonal at bottom-left; arc at bottom-right]",
+    "[Figure: upward-pointing house shape at top right; arc at top-left corner; quarter circle with a horizontal line at bottom-left; arc at bottom-right]",
+    "[Figure: upward-pointing house shape at top left; arc at top-right corner; arc at bottom-left; quarter circle with a diagonal at bottom-right]"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "A 2×2 square with the top-right quarter missing; arcs and a central circle with eight spokes run symmetrically across the quarters; the top-left quarter has an upward-pointing house shape, and the two bottom quarters have mirror-image downward-pointing shields.",
+   "printedErrors": "",
+   "changes": "Option texts added as figure descriptions (options are images)."
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Figures & mirror images",
+  "concept": "Pattern completion by mirror symmetry",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The full figure is symmetric about its vertical centre line: the bottom-right quarter is the mirror image of the bottom-left quarter. So the missing top-right quarter must be the mirror image of the top-left quarter.\n\nMirroring the top-left quarter left-to-right gives:\n- the **upward-pointing house shape** moves to the top-right of the cell;\n- the arc touching the top edge moves to the top-left corner;\n- the quarter of the central circle, with its **diagonal spoke**, sits in the bottom-left corner;\n- the side arc moves to the bottom-right.\n\nWhy not the others:\n- **Option 1:** has a downward-pointing shield instead of the house.\n- **Option 3:** has a horizontal line in the circle quarter instead of the diagonal spoke.\n- **Option 4:** has the shapes on the wrong sides, as if the cell had not been mirrored.\n\nThe answer is option B, which matches the key."
+ },
+ {
+  "id": "2021-set5-q040",
+  "transcription": {
+   "verdict": "match",
+   "text": "If a mirror is placed on the line AB, then which of the answer figures is the right image of the given figure?",
+   "options": [
+    "[Figure: grid with black squares in the top corners, a black corner shape at bottom-left and a white outlined corner shape at bottom-right]",
+    "[Figure: grid with black squares in the top corners, white outlined shape at bottom-left, black shape at bottom-right, pentagon pointing up]",
+    "[Figure: grid flipped left-to-right, with the pentagon on the right and the diagonals on the left]",
+    "[Figure: grid with black squares in the top corners, white outlined shape at bottom-left, black shape at bottom-right, pentagon pointing down]"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "A square grid with a white outlined quarter shape in the top-left corner, a black quarter shape in the top-right corner and black squares in the bottom corners; inside are a black quarter circle, a black square, diagonal lines, a small black rectangle and an upward-pointing pentagon; the mirror line AB lies horizontally below the figure.",
+   "printedErrors": "",
+   "changes": "Option texts added as figure descriptions (options are images)."
+  },
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "subtopic": "Figures & mirror images",
+  "concept": "Mirror image across horizontal line",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The mirror AB lies horizontally below the figure, so the image is flipped top-to-bottom. Left and right stay the same.\n\nWhat the image must show:\n- The black squares in the bottom corners move to the **top corners**.\n- The white outlined shape (top-left) moves to the **bottom-left**, and the black shape (top-right) moves to the **bottom-right**.\n- The black quarter circle and the black square inside move down, and the small black rectangle moves just above the centre line.\n- The pentagon stays on the left but turns upside down, so it **points down**.\n\nWhy not the others:\n- **Option 1:** the bottom corner shapes are swapped (black on the left).\n- **Option 2:** the pentagon still points up.\n- **Option 3:** the figure is flipped left-to-right as well.\n\nOnly option 4 satisfies every point, so the answer is **D**, which matches the key."
+ }
+]

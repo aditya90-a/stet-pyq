@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2021-set4-q063",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में रेखांकित शब्द की संज्ञा ज्ञात कीजिए।\nबुढापा भी एक प्रकार का अभिशाप हैं।",
+   "options": [
+    "व्यक्तिवाचक संज्ञा",
+    "भाववाचक संज्ञा",
+    "जातिवाचक संज्ञा",
+    "द्रव्यवाचक संज्ञा"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "'बुढापा' is underlined. The sentence ends with 'हैं' where 'है' is correct.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "संज्ञा, सर्वनाम, विशेषण",
+  "concept": "Hindi: भाववाचक संज्ञा (बुढ़ापा)",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **भाववाचक संज्ञा** है।\n\nजिस संज्ञा शब्द से किसी व्यक्ति या वस्तु के गुण, दशा, अवस्था या भाव का बोध हो, उसे भाववाचक संज्ञा कहते हैं। 'बुढ़ापा' (बूढ़ा + आपा) किसी व्यक्ति या वस्तु का नाम नहीं, बल्कि जीवन की एक **अवस्था** का नाम है। इसे छुआ या देखा नहीं जा सकता, केवल अनुभव किया जा सकता है। इसी प्रकार बचपन, जवानी, मिठास, सुंदरता भी भाववाचक संज्ञाएँ हैं।\n\nअन्य विकल्प क्यों नहीं:\n- **व्यक्तिवाचक** किसी विशेष व्यक्ति, स्थान या वस्तु का नाम होता है (राम, दिल्ली)।\n- **जातिवाचक** पूरी जाति या वर्ग का बोध कराता है (लड़का, नदी)।\n- **द्रव्यवाचक** किसी द्रव्य या पदार्थ का बोध कराता है (दूध, सोना)।"
+ },
+ {
+  "id": "2021-set4-q064",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्यांश के लिए उचित शब्द का चयन कीजिए।\nजो देखने योग्य हो।",
+   "options": [
+    "स्वर्णिम",
+    "गोपनीय",
+    "दर्शनीय",
+    "अविस्मरणीय"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "अनेक शब्दों के लिए एक शब्द",
+  "concept": "Hindi: जो देखने योग्य हो – दर्शनीय",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **दर्शनीय** है।\n\n'दर्शनीय' शब्द 'दर्शन' (देखना) + 'अनीय' प्रत्यय से बना है। 'अनीय' प्रत्यय 'योग्य' का अर्थ देता है, इसलिए दर्शनीय = जो देखने योग्य हो। उदाहरण: ताजमहल एक दर्शनीय स्थल है।\n\nअन्य विकल्प क्यों नहीं:\n- **स्वर्णिम**: सोने जैसा या सोने से बना; सुनहरा।\n- **गोपनीय**: जो छिपाने योग्य हो (गोपन + अनीय)।\n- **अविस्मरणीय**: जिसे भुलाया न जा सके।\n\nध्यान दें कि गोपनीय, दर्शनीय, अविस्मरणीय तीनों में 'अनीय' प्रत्यय है, पर केवल 'दर्शनीय' का अर्थ देखने से जुड़ा है।"
+ },
+ {
+  "id": "2021-set4-q065",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअग्रगामी",
+   "options": [
+    "निगामी",
+    "संगामी",
+    "पश्चगामी",
+    "विगामी"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "विलोम",
+  "concept": "Hindi: विलोम of अग्रगामी",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **पश्चगामी** है।\n\n'अग्रगामी' का अर्थ है आगे चलने वाला या आगे बढ़ने वाला (अग्र = आगे, गामी = जाने वाला)। इसका विलोम वह शब्द होगा जिसका अर्थ 'पीछे जाने वाला' हो। 'पश्च' का अर्थ है पीछे, इसलिए **पश्चगामी** = पीछे चलने वाला, जो अग्रगामी का ठीक विपरीत है।\n\nअन्य विकल्प क्यों नहीं:\n- **संगामी** का अर्थ साथ-साथ चलने वाला है, विपरीत नहीं।\n- **निगामी** और **विगामी** अग्रगामी के मानक विलोम के रूप में प्रचलित नहीं हैं।\n\nइसी प्रकार के अन्य युग्म: अग्र – पश्च, अग्रज – अनुज।"
+ },
+ {
+  "id": "2021-set4-q066",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए शब्दों में शुद्ध वर्तनी का चयन कीजिए।",
+   "options": [
+    "विधांचल",
+    "विदांचल",
+    "विंध्याचल",
+    "विद्यांचल"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "वर्तनी शुद्धि",
+  "concept": "Hindi: शुद्ध वर्तनी विंध्याचल",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **विंध्याचल** है।\n\nयह शब्द 'विंध्य' (विंध्य पर्वत) + 'अचल' (पर्वत) से बना है: विंध्य + अचल = विंध्याचल (दीर्घ संधि, अ + अ = आ)। इसलिए इसमें 'विं' पर अनुस्वार और 'ध्य' (ध + य) संयुक्ताक्षर होना आवश्यक है।\n\nअन्य विकल्प क्यों नहीं:\n- **विधांचल**: इसमें 'ध्य' की जगह केवल 'ध' है और अनुस्वार गलत स्थान पर है।\n- **विदांचल**: 'ध्य' की जगह 'द' लिखा है।\n- **विद्यांचल**: 'ध्य' की जगह 'द्य' है, जिससे यह 'विद्या' जैसा शब्द बन जाता है।\n\nसंधि-विच्छेद से वर्तनी जाँचना ऐसे प्रश्नों में सबसे विश्वसनीय तरीका है।"
+ },
+ {
+  "id": "2021-set4-q067",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्यांश के लिए उचित शब्द का चयन कीजिए।\nजो प्रमाण से सिद्ध न हो सके",
+   "options": [
+    "अप्रमित",
+    "प्रमनीय",
+    "अप्रमेय",
+    "अपंग"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "subtopic": "अनेक शब्दों के लिए एक शब्द",
+  "concept": "Hindi: जो प्रमाण से सिद्ध न हो – अप्रमेय",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **अप्रमेय** है।\n\n'प्रमेय' का अर्थ है जिसे प्रमाण द्वारा सिद्ध किया जा सके या मापा जा सके। इसमें 'अ' (नहीं) उपसर्ग लगाने पर **अप्रमेय** बनता है, अर्थात् जो प्रमाण से सिद्ध न हो सके, जिसे मापा या जाना न जा सके। ईश्वर को प्रायः 'अप्रमेय' कहा जाता है।\n\nअन्य विकल्प क्यों नहीं:\n- **अप्रमित** और **प्रमनीय** इस अर्थ में मानक शब्द नहीं हैं; ये भ्रम पैदा करने के लिए गढ़े गए रूप लगते हैं।\n- **अपंग** का अर्थ है जिसका कोई अंग बेकार हो (विकलांग), इसका प्रमाण से कोई संबंध नहीं।\n\nयाद रखें: प्रमेय – सिद्ध किया जा सकने वाला; अप्रमेय – जो सिद्ध न किया जा सके।"
+ },
+ {
+  "id": "2021-set4-q068",
+  "transcription": {
+   "verdict": "match",
+   "text": "कौन सा शब्द स्त्रीलिंग और पुल्लिंग में एक समान रहता है?",
+   "options": [
+    "घोड़ा",
+    "नर",
+    "प्रधानमंत्री",
+    "चिड़ा"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "लिंग-वचन",
+  "concept": "Hindi: उभयलिंगी शब्द (प्रधानमंत्री)",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **प्रधानमंत्री** है।\n\nकुछ शब्द, विशेषकर पद या व्यवसाय-सूचक शब्द, पुरुष और स्त्री दोनों के लिए एक ही रूप में प्रयुक्त होते हैं। इन्हें उभयलिंगी शब्द कहा जाता है। जैसे प्रधानमंत्री, राष्ट्रपति, मंत्री, डॉक्टर, इंजीनियर। इनका लिंग वाक्य में क्रिया से पता चलता है: 'प्रधानमंत्री आए' / 'प्रधानमंत्री आईं'।\n\nअन्य विकल्प क्यों नहीं:\n- **घोड़ा** का स्त्रीलिंग 'घोड़ी' है।\n- **नर** का स्त्रीलिंग 'नारी' (या 'मादा') है।\n- **चिड़ा** का स्त्रीलिंग 'चिड़िया' है।\n\nइन तीनों के अलग-अलग स्त्रीलिंग रूप हैं, इसलिए ये एक समान नहीं रहते।"
+ },
+ {
+  "id": "2021-set4-q069",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "दिए गए वाक्य का कारक ज्ञात कीजिए।\nपत्ता पेड़ से गिरा।",
+   "options": [
+    "संप्रदान",
+    "कर्म",
+    "अपादान",
+    "करण"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option B: कम→कर्म"
+  },
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "subtopic": "कारक एवं अव्यय",
+  "concept": "Hindi: अपादान कारक (अलग होना)",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **अपादान** कारक है।\n\nसंज्ञा या सर्वनाम के जिस रूप से किसी वस्तु के **अलग होने** का बोध हो, उसे अपादान कारक कहते हैं। इसका विभक्ति चिह्न 'से' (अलग होने के अर्थ में) है। वाक्य 'पत्ता पेड़ से गिरा' में पत्ता पेड़ से अलग हो रहा है, इसलिए 'पेड़ से' में अपादान कारक है।\n\nअन्य विकल्प क्यों नहीं:\n- **करण** कारक में भी 'से' आता है, पर वह साधन का बोध कराता है (जैसे: वह कलम से लिखता है)। यहाँ पेड़ गिरने का साधन नहीं है।\n- **संप्रदान** में 'के लिए / को' (देने के अर्थ में) आता है।\n- **कर्म** में 'को' आता है और क्रिया का फल उस पर पड़ता है।"
+ },
+ {
+  "id": "2021-set4-q070",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित वाक्यों में से शुद्ध वाक्य का चयन कीजिए।",
+   "options": [
+    "बच्चे को छीलकर केला खिलाओ।",
+    "बच्चों को केले छीलकर खिला।",
+    "बच्चों को केला छिलकर खिलाओ।",
+    "बच्चे को केला छीलकर खिलाओ।"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "वाक्य शुद्धि",
+  "concept": "Hindi: पदक्रम दोष वाक्य शुद्धि",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "Option B is not strictly ungrammatical (informal तू-form imperative), but D is clearly the intended standard correction of the sentence.",
+  "explanation": "सही उत्तर **बच्चे को केला छीलकर खिलाओ।** है।\n\nइस वाक्य में पदक्रम सही है: 'केला' (कर्म) के तुरंत बाद 'छीलकर' आया है, जिससे स्पष्ट है कि केला छीलना है।\n\nअन्य विकल्प क्यों नहीं:\n- **A** 'बच्चे को छीलकर केला खिलाओ' में 'छीलकर' बच्चे के बाद आया है, जिससे अर्थ निकलता है कि बच्चे को छीलना है। यह पदक्रम का दोष है।\n- **B** 'बच्चों को केले छीलकर खिला' में 'खिला' (तू-रूप) अनौपचारिक आज्ञार्थक है और वचन भी बदल दिया गया है; बोलचाल में यह चल सकता है, पर दिए गए वाक्य का मानक शुद्ध रूप D ही है।\n- **C** में 'छिलकर' अशुद्ध है; शुद्ध रूप 'छीलकर' है (छिलना = अपने आप छिल जाना, छीलना = छिलका उतारना)।"
+ },
+ {
+  "id": "2021-set4-q071",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित वाक्यों में से सरल वाक्य ज्ञात कीजिए।",
+   "options": [
+    "सुरेश के पढ़ने पर नरेश नहीं पढ़ेगा।",
+    "अगर सुरेश पढ़ेगा तो नरेश नहीं पढ़ेगा।",
+    "या तो सुरेश पढ़ेगा या नरेश पढ़ेगा।",
+    "सुरेश पढ़ेगा परंतु नरेश नहीं पढ़ेगा।"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "वाक्य क्रम",
+  "concept": "Hindi: सरल, संयुक्त और मिश्र वाक्य",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **सुरेश के पढ़ने पर नरेश नहीं पढ़ेगा।** है।\n\n**सरल वाक्य** में एक ही उद्देश्य और एक ही मुख्य (समापिका) क्रिया होती है। विकल्प A में केवल एक समापिका क्रिया 'नहीं पढ़ेगा' है; 'सुरेश के पढ़ने पर' एक पदबंध है, अलग उपवाक्य नहीं। इसलिए यह सरल वाक्य है।\n\nअन्य विकल्प क्यों नहीं:\n- **B** 'अगर ... तो ...' से जुड़ा है, जिसमें एक प्रधान और एक आश्रित उपवाक्य है, इसलिए यह **मिश्र वाक्य** है।\n- **C** 'या तो ... या ...' से दो स्वतंत्र उपवाक्य जुड़े हैं, यह **संयुक्त वाक्य** है।\n- **D** 'परंतु' से दो स्वतंत्र उपवाक्य जुड़े हैं, यह भी **संयुक्त वाक्य** है।\n\nपहचान का सरल तरीका: समापिका क्रियाएँ गिनें; एक हो तो सरल वाक्य।"
+ },
+ {
+  "id": "2021-set4-q072",
+  "transcription": {
+   "verdict": "match",
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nतुम इतनी जल्दी नहा भी आए",
+   "options": [
+    "।",
+    "!",
+    ";",
+    "?"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "विराम चिह्न",
+  "concept": "Hindi: विस्मयादिबोधक चिह्न (!) का प्रयोग",
+  "difficulty": "medium",
+  "derivedAnswer": "B",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **! (विस्मयादिबोधक चिह्न)** है।\n\nवाक्य 'तुम इतनी जल्दी नहा भी आए' में वक्ता किसी बात की जानकारी नहीं माँग रहा, बल्कि इतनी जल्दी नहाकर आ जाने पर **आश्चर्य** प्रकट कर रहा है। 'इतनी जल्दी' और 'भी' शब्द इसी आश्चर्य के भाव को प्रबल करते हैं। हर्ष, शोक, आश्चर्य, घृणा आदि भाव प्रकट करने वाले वाक्यों के अंत में विस्मयादिबोधक चिह्न (!) लगाया जाता है: तुम इतनी जल्दी नहा भी आए!\n\nअन्य विकल्प क्यों नहीं:\n- **।** (पूर्ण विराम) सामान्य कथन के लिए है, यहाँ आश्चर्य का भाव खो जाएगा।\n- **;** (अर्द्ध विराम) वाक्य के बीच में ठहराव के लिए है, अंत में नहीं।\n- **?** बोलने के लहजे में प्रश्न जैसा लग सकता है, पर वाक्य में कोई प्रश्नवाचक शब्द नहीं है और मुख्य भाव आश्चर्य का है, इसलिए परीक्षा की दृष्टि से ! ही उपयुक्त है।"
+ },
+ {
+  "id": "2021-set4-q073",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nक्या आप दिल्ली के रहनेवाले हैं",
+   "options": [
+    "योजक",
+    "लोप",
+    "विस्मयादिबोधक",
+    "प्रश्नवाचक"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "ह→हैं"
+  },
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "subtopic": "विराम चिह्न",
+  "concept": "Hindi: प्रश्नवाचक चिह्न (?) का प्रयोग",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **प्रश्नवाचक** चिह्न (?) है।\n\nवाक्य 'क्या आप दिल्ली के रहनेवाले हैं' प्रश्नवाचक शब्द 'क्या' से शुरू होता है और वक्ता सामने वाले से जानकारी पूछ रहा है। प्रश्न पूछने वाले वाक्यों के अंत में प्रश्नवाचक चिह्न (?) लगाया जाता है: क्या आप दिल्ली के रहनेवाले हैं?\n\nअन्य विकल्प क्यों नहीं:\n- **योजक** चिह्न (-) दो शब्दों को जोड़ने के लिए प्रयुक्त होता है, जैसे माता-पिता।\n- **लोप** चिह्न (...) किसी अंश के छूट जाने को दिखाता है।\n- **विस्मयादिबोधक** चिह्न (!) आश्चर्य, हर्ष, शोक आदि भावों के लिए है; यहाँ कोई ऐसा भाव नहीं, केवल प्रश्न है।"
+ },
+ {
+  "id": "2021-set4-q074",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।\nचने की झाड़ पर चढ़ाना",
+   "options": [
+    "लाभ से ज़्यादा खर्च करना",
+    "झूठी तारीफ करना",
+    "शोभा बढ़ाना",
+    "किसी को भड़काना"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "अर्थको→अर्थ को; खर्चकरना→खर्च करना (spacing only)"
+  },
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopic": "मुहावरे",
+  "concept": "Hindi: मुहावरा चने के झाड़ पर चढ़ाना",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **झूठी तारीफ करना** है।\n\n'चने के झाड़ पर चढ़ाना' मुहावरे का अर्थ है किसी की झूठी या बढ़ा-चढ़ाकर प्रशंसा करके उसे फुला देना। चने का पौधा बहुत छोटा और कमज़ोर होता है, उस पर कोई चढ़ नहीं सकता; इसलिए किसी को उस पर 'चढ़ाना' यानी उसे झूठी ऊँचाई का एहसास कराना है।\n\nउदाहरण: दोस्तों ने उसे चने के झाड़ पर चढ़ा दिया और वह बिना तैयारी के मंच पर गाने चला गया।\n\nअन्य विकल्प क्यों नहीं:\n- **लाभ से ज़्यादा खर्च करना** के लिए 'आमदनी अठन्नी खर्चा रुपया' जैसी उक्ति प्रयुक्त होती है।\n- **शोभा बढ़ाना** और **किसी को भड़काना** इस मुहावरे के अर्थ नहीं हैं; भड़काने के लिए 'आग में घी डालना' जैसे मुहावरे हैं।"
+ },
+ {
+  "id": "2021-set4-q075",
+  "transcription": {
+   "verdict": "match",
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थ को सर्वश्रेष्ठ रूप से व्यक्त करता है।\nएक और एक ग्यारह होना",
+   "options": [
+    "महत्वहीन समझना",
+    "चापलूस होना",
+    "बहुत जल्दी-जल्दी विचार",
+    "संगठन में शक्ति का होना"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "अर्थको→अर्थ को (spacing only)"
+  },
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopic": "मुहावरे",
+  "concept": "Hindi: मुहावरा एक और एक ग्यारह होना",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **संगठन में शक्ति का होना** है।\n\n'एक और एक ग्यारह होना' का अर्थ है एकता या संगठन में बड़ी शक्ति होती है। अंकों में 1 और 1 को साथ रखने पर 11 बनता है, जो दोनों के अलग-अलग मूल्य से कहीं अधिक है। इसी तरह जब दो लोग मिलकर काम करते हैं तो उनकी शक्ति कई गुना बढ़ जाती है।\n\nउदाहरण: दोनों भाइयों ने मिलकर व्यापार शुरू किया तो सचमुच एक और एक ग्यारह हो गए।\n\nअन्य विकल्प क्यों नहीं:\n- **महत्वहीन समझना** के लिए 'तिनके के बराबर समझना' जैसे मुहावरे हैं।\n- **चापलूस होना** और **बहुत जल्दी-जल्दी विचार** का इस मुहावरे से कोई संबंध नहीं है।"
+ },
+ {
+  "id": "2021-set4-q076",
+  "transcription": {
+   "verdict": "match",
+   "text": "आज संसार किसकी मुट्ठी में समाया हुआ हैं?",
+   "options": [
+    "मानवों",
+    "कम्पनी",
+    "शोध",
+    "सुविधओं"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "'हुआ हैं' should be 'हुआ है'; option 4 'सुविधओं' should be 'सुविधाओं'.",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – संसार मानव की मुट्ठी में",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **मानवों** है।\n\nगद्यांश में स्पष्ट लिखा है: \"आज संसार मानव की मुट्ठी में समाया हुआ है।\" इसका भाव यह है कि प्रगति के पथ पर आगे बढ़ते हुए मनुष्य ने इतनी उपलब्धियाँ प्राप्त कर ली हैं कि पूरा संसार उसके नियंत्रण में आ गया है। विकल्प में 'मानवों' (बहुवचन रूप) दिया गया है, जो इसी 'मानव' को सूचित करता है।\n\nअन्य विकल्प क्यों नहीं:\n- **कम्पनी** शब्द गद्यांश में एडवान्स्ड रिसर्च प्रोजेक्ट्स एजेंसी के लिए आया है, संसार को मुट्ठी में रखने के लिए नहीं।\n- **शोध** और **सुविधाओं** (प्रश्न-पत्र में 'सुविधओं' छपा है) का उल्लेख अन्य प्रसंगों में है।\n\nप्रश्न में 'हैं' छपा है, शुद्ध रूप 'है' होगा।"
+ },
+ {
+  "id": "2021-set4-q077",
+  "transcription": {
+   "verdict": "match",
+   "text": "इंटरनेट इंडेक्स का प्रयोग किस यूनिवर्सिटी ने लिया था?",
+   "options": [
+    "यूनिवर्सिटी ऑफ़ कलकत्ता",
+    "मैक्-गिल यूनिवर्सिटी",
+    "इंडियन इंस्टीटयूट ऑफ़ साइंस",
+    "दिल्ली यूनिवर्सिटी"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – इंटरनेट इंडेक्स मैक्-गिल",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **मैक्-गिल यूनिवर्सिटी** है।\n\nगद्यांश में लिखा है: \"मोन्ट्रीयल के पीटर ड्यूस ने पहली बार 1989 में मैक्-गिल यूनिवर्सिटी में इंटरनेट इंडेक्स बनाने का प्रयोग किया।\" अतः इंटरनेट इंडेक्स का प्रयोग मैक्-गिल यूनिवर्सिटी में हुआ था।\n\nअन्य विकल्प क्यों नहीं:\n- **यूनिवर्सिटी ऑफ़ कलकत्ता**, **इंडियन इंस्टीटयूट ऑफ़ साइंस** और **दिल्ली यूनिवर्सिटी** का गद्यांश में कोई उल्लेख नहीं है। गद्यांश में भारत का उल्लेख केवल इंटरनेट कनेक्शनों और प्रयोगकर्ताओं की संख्या के संदर्भ में है।\n\nध्यान दें: 'मोन्ट्रीयल' व्यक्ति के निवास-स्थान (शहर) का नाम है, यूनिवर्सिटी का नहीं। अपठित गद्यांश में उत्तर गद्यांश के तथ्य से ही देना चाहिए।"
+ },
+ {
+  "id": "2021-set4-q078",
+  "transcription": {
+   "verdict": "match",
+   "text": "किस कम्पनी ने 1971 तक दो दर्जन कंप्यूटरों को नेट से जोड़ दिया था?",
+   "options": [
+    "एडवान्स्ड रिसर्च प्रोजेक्टस एजेंसिज",
+    "मोन्ट्रीयल",
+    "मैक्-गिल यूनिवर्सिटी",
+    "सरकारी संस्थाओं"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "रिसर्चप्रोजेक्टस→रिसर्च प्रोजेक्टस (spacing only)"
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – एडवान्स्ड रिसर्च प्रोजेक्ट्स एजेंसी",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **एडवान्स्ड रिसर्च प्रोजेक्टस एजेंसिज** है।\n\nगद्यांश के अनुसार इंटरनेट की शुरुआत 1969 में एडवान्स्ड रिसर्च प्रोजेक्टस एजेंसिज द्वारा संयुक्त राज्य अमेरिका के चार विश्वविद्यालयों के कम्प्यूटरों की नेटवर्किंग से हुई थी। आगे लिखा है: \"1971 तक इस कम्पनी ने लगभग दो दर्जन कम्प्यूटरों को इस नेट से जोड़ दिया था।\" यहाँ 'इस कम्पनी' उसी एजेंसी की ओर संकेत करता है।\n\nअन्य विकल्प क्यों नहीं:\n- **मोन्ट्रीयल** एक शहर है, जहाँ के पीटर ड्यूस का उल्लेख है।\n- **मैक्-गिल यूनिवर्सिटी** का संबंध 1989 के इंटरनेट इंडेक्स प्रयोग से है।\n- **सरकारी संस्थाओं** के लिए इंटरनेट का विकास किया गया था, उन्होंने कम्प्यूटर नहीं जोड़े।"
+ },
+ {
+  "id": "2021-set4-q079",
+  "transcription": {
+   "verdict": "match",
+   "text": "किसके माध्यम से संचार जगत में क्रांति आ गयी थी?",
+   "options": [
+    "इंटरनेट इंडेक्स",
+    "वायरस",
+    "शिक्षा",
+    "इलेक्ट्रोनिक मेल"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश तथ्य – ई-मेल से संचार क्रांति",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **इलेक्ट्रोनिक मेल** है।\n\nगद्यांश में लिखा है: \"1972 में शुरूआत हुई ई-मेल की जिसने संचार जगत में क्रांति ला दी।\" ई-मेल का पूरा नाम इलेक्ट्रॉनिक मेल है, इसलिए विकल्प D सही है।\n\nअन्य विकल्प क्यों नहीं:\n- **इंटरनेट इंडेक्स** का उल्लेख 1989 के मैक्-गिल यूनिवर्सिटी वाले प्रयोग के लिए है, संचार क्रांति के लिए नहीं।\n- **वायरस** को गद्यांश में एक समस्या बताया गया है जो वर्ष 2000 तक इंटरनेट के बढ़ने के साथ आई।\n- **शिक्षा** उन क्षेत्रों में से एक है जिनके लिए इंटरनेट का विकास किया गया था।\n\nअपठित गद्यांश में प्रश्न के मुख्य शब्द ('संचार जगत में क्रांति') को गद्यांश में खोजकर उत्तर तुरंत मिल जाता है।"
+ },
+ {
+  "id": "2021-set4-q080",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "दिए गए गद्यांश का उपयुक्त शीर्षक क्या होगा?",
+   "options": [
+    "आधुनिक संचार क्रांति",
+    "कनेक्शनों और प्रयोगकर्ता",
+    "कम्प्यूटरों की नेटवर्किंग",
+    "वायरस समस्या"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option D: removed the comprehension header and passage text that had been appended after 'वायरस समस्या'"
+  },
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "subtopic": "अपठित गद्यांश",
+  "concept": "Hindi: गद्यांश का उपयुक्त शीर्षक",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "सही उत्तर **आधुनिक संचार क्रांति** है।\n\nगद्यांश का मुख्य विषय संचार क्षेत्र में हुई प्रगति है। इसमें कहा गया है कि जीवन के क्षेत्रों में सबसे अधिक क्रांतिकारी कदम संचार क्षेत्र में उठाए गए हैं, और फिर इंटरनेट के आरंभ (1969), ई-मेल (1972), इंटरनेट इंडेक्स (1989), इंटरनेट की बढ़ती लोकप्रियता और भारत में इसके प्रसार का क्रमवार वर्णन है। ये सब मिलकर आधुनिक संचार क्रांति की कहानी बताते हैं।\n\nअन्य विकल्प क्यों नहीं:\n- **कनेक्शनों और प्रयोगकर्ता** केवल अंतिम पंक्तियों का एक तथ्य है।\n- **कम्प्यूटरों की नेटवर्किंग** केवल इंटरनेट की शुरुआत से जुड़ा अंश है।\n- **वायरस समस्या** गद्यांश में एक छोटा प्रसंग मात्र है।\n\nउपयुक्त शीर्षक वही है जो पूरे गद्यांश के केंद्रीय भाव को समेटे।"
+ },
+ {
+  "id": "2021-set4-q101",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "If u = sin⁻¹((x + 2y)/(x^8 + y^8)), then what is the value of x ∂u/∂x + y ∂u/∂y?",
+   "options": [
+    "–7cos(u)",
+    "7tan(u)",
+    "7sin(u)",
+    "–7tan(u)"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Rebuilt the garbled OCR stem: u = sin⁻¹((x + 2y)/(x^8 + y^8)) and x ∂u/∂x + y ∂u/∂y"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Matrices & calculus",
+  "concept": "Euler's theorem on homogeneous functions",
+  "difficulty": "hard",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "u itself is not homogeneous, but sin u is:\n\nsin u = f(x, y) = (x + 2y)/(x⁸ + y⁸)\n\nThe numerator has degree 1 and the denominator degree 8, so f is homogeneous of degree n = 1 − 8 = **−7**.\n\nBy **Euler's theorem**, x ∂f/∂x + y ∂f/∂y = n·f.\n\nSince f = sin u, ∂f/∂x = cos u · ∂u/∂x and ∂f/∂y = cos u · ∂u/∂y. Substituting:\n\ncos u · (x ∂u/∂x + y ∂u/∂y) = −7 sin u\n\nx ∂u/∂x + y ∂u/∂y = −7 sin u / cos u = **−7 tan u**\n\nSo option D is correct.\n\nWhy not the others:\n- 7 tan u has the wrong sign (degree taken as 8 − 1).\n- −7 cos u and 7 sin u come from not dividing by cos u correctly."
+ },
+ {
+  "id": "2021-set4-q119",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Minimize the three variable logic function using K-Map.\nf(A, B, C) = PM(0, 3, 4, 7)",
+   "options": [
+    "(B̄ + C)(B + C̄)",
+    "(B + C̄)(B + C)",
+    "(B̄ + C)(B + C)",
+    "(B̄ + C̄)(B + C)"
+   ],
+   "keyInImage": "none",
+   "figureDescription": "An empty 3-variable K-map grid (AB across four columns, C down two rows) is printed below the function.",
+   "printedErrors": "'PM' is printed where ΠM (product of maxterms) is meant.",
+   "changes": "Restored overbars lost in OCR: (B+C)(B+Ґ→(B̄ + C)(B + C̄); (B+C) (B+C)→(B + C̄)(B + C); (B+c)(B+C)→(B̄ + C)(B + C); (B+c)(B+c)→(B̄ + C̄)(B + C)"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "K-map minimisation",
+  "concept": "POS K-map minimisation from maxterms",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "ambiguous",
+  "keyNote": "DSSSB dropped this question for all candidates and no key is shown. Read as a product of maxterms ΠM(0, 3, 4, 7), option D is correct; the discrepancy may come from the misprinted 'PM' or from treating the list as minterms, which would give B ⊙ C = (B̄ + C)(B + C̄), option A.",
+  "explanation": "Read 'PM' as **ΠM**: f is 0 at maxterms 0, 3, 4 and 7 (order A B C).\n\n- M0 = 000 and M4 = 100: A changes, B = 0 and C = 0 stay fixed → group gives **(B + C)**\n- M3 = 011 and M7 = 111: A changes, B = 1 and C = 1 stay fixed → group gives **(B̄ + C̄)**\n\nf = (B + C)(B̄ + C̄), which is option D written in the other order. It equals B ⊕ C: f is 1 only when B and C differ (minterms 1, 2, 5, 6).\n\nWhy not the others:\n- A, (B̄ + C)(B + C̄), is B XNOR C. That is the answer if 0, 3, 4, 7 are read as minterms instead of maxterms.\n- B simplifies to B alone, and C simplifies to C alone. Neither fits these cells.\n\nDSSSB dropped this question for all candidates, so no key was given. Read as printed, D is the correct minimisation."
+ },
+ {
+  "id": "2021-set4-q123",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following represents XNOR gate?",
+   "options": [
+    "Y = A ⊕ B",
+    "Y = A ⊙ B",
+    "Y = (A + B)′",
+    "Y = (A.B)′"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "AФB→A ⊕ B; AOB→A ⊙ B; restored the overbars on options 3 and 4 (shown here as ′)"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "XNOR gate expression A ⊙ B",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The XNOR (exclusive-NOR, or equivalence) gate outputs 1 when both inputs are equal:\n\n- A=0, B=0 → 1\n- A=0, B=1 → 0\n- A=1, B=0 → 0\n- A=1, B=1 → 1\n\nIts expression is Y = AB + ĀB̄ = (A ⊕ B)′, written with the **coincidence operator** as **Y = A ⊙ B**. So option B is correct.\n\nWhy not the others:\n- **A ⊕ B** is XOR, which outputs 1 when the inputs differ.\n- **(A + B)′** with an overbar over the whole sum is NOR.\n- **(A.B)′** with an overbar over the whole product is NAND."
+ },
+ {
+  "id": "2021-set4-q129",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is a symbol of multivalued attribute in Entity relationship diagram?",
+   "options": [
+    "[Symbol] Double ellipse (ellipse inside an ellipse)",
+    "[Symbol] Double diamond",
+    "[Symbol] Double rectangle",
+    "[Symbol] Ellipse with a small rectangle inside"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "All four options are ER-diagram symbols drawn as images.",
+   "printedErrors": "",
+   "changes": "Options were empty; replaced with descriptions of the printed symbols"
+  },
+  "subject": "Computer Science",
+  "topic": "DBMS & SQL",
+  "subtopic": "ER model & keys",
+  "concept": "ER symbol for multivalued attribute",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In Chen's ER notation:\n\n- Ellipse → attribute\n- **Double ellipse → multivalued attribute** (an attribute that can hold several values, e.g. a person's phone numbers or skills)\n- Dashed ellipse → derived attribute (e.g. age from date of birth)\n- Rectangle → entity; **double rectangle** → weak entity\n- Diamond → relationship; **double diamond** → identifying relationship of a weak entity\n\nSo the double ellipse, option A, is the symbol for a multivalued attribute.\n\nWhy not the others:\n- B, the double diamond, is an identifying relationship.\n- C, the double rectangle, is a weak entity.\n- D, an ellipse containing a rectangle, is not a standard Chen symbol for a multivalued attribute."
+ },
+ {
+  "id": "2021-set4-q132",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "How many full adders are required for n-bit binary adder?",
+   "options": [
+    "2 × n",
+    "n/2",
+    "n",
+    "n^2"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option 2 was empty; restored n/2"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Combinational circuits",
+  "concept": "Full adders in n-bit parallel adder",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "An n-bit binary (parallel / ripple-carry) adder adds two n-bit numbers bit by bit. Each bit position needs to add three bits: Aᵢ, Bᵢ and the carry-in from the previous position. One **full adder** does exactly that and produces Sᵢ and the carry-out Cᵢ₊₁, which feeds the next stage.\n\nSo one full adder per bit is needed: **n full adders**. For example, a 4-bit adder (such as the 7483 IC) uses 4 full adders.\n\nNote: since the least significant bit has no carry-in, it can also be built with n − 1 full adders plus 1 half adder, but the standard answer for an n-bit adder is n full adders.\n\nWhy not the others: 2 × n, n/2 and n² do not match the one-stage-per-bit structure."
+ },
+ {
+  "id": "2021-set4-q140",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Given the following table of value of f(x) = logx, what is the value of f '(3)?\nX | 1 | 2 | 3 | 4\nf(x) | 0 | 0.301 | 0.477 | 0.602",
+   "options": [
+    "0.125",
+    "0.225",
+    "0.208",
+    "0.278"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "f°(3)→f '(3); rebuilt the scrambled table as x = 1, 2, 3, 4 and f(x) = 0, 0.301, 0.477, 0.602"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Interpolation & numerical methods",
+  "concept": "Numerical differentiation using forward differences",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Numerical differentiation with step h = 1.\n\nNewton's forward formula at x₀ is f′(x₀) = (1/h)[Δf₀ − Δ²f₀/2 + Δ³f₀/3 − …]. With x₀ = 3, only one forward difference is available:\n\nΔf(3) = f(4) − f(3) = 0.602 − 0.477 = **0.125**\n\nSo f′(3) ≈ 0.125, option A, which is the intended answer.\n\nCheck: f(x) = log₁₀x gives exactly f′(3) = 1/(3 ln 10) ≈ 0.145. A cubic through all four points gives about 0.138. Of the options, 0.125 is the only one close to these values.\n\nWhy not the others:\n- 0.225, 0.208 and 0.278 are all much larger than the true slope.\n- The backward difference f(3) − f(2) = 0.176 is not an option either."
+ },
+ {
+  "id": "2021-set4-q142",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the symbol used in DFD with their function.\n1 | Rectangle | i | Output\n2 | Two parallel lines (=) | ii | Process\n3 | Rectangle with one cut corner | iii | Data store\n4 | Circle | iv | External entity",
+   "options": [
+    "1-iv, 2-iii, 3-i, 4-ii",
+    "1-ii, 2-iii, 3-i, 4-ii",
+    "1-iv, 2-i, 3-iii, 4-ii",
+    "1-i, 2-iii, 3-iv, 4-ii"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "The first column shows DFD symbols drawn as images: a small rectangle, two parallel horizontal lines, a rectangle with its top-right corner cut, and a circle.",
+   "printedErrors": "Option 2 pairs both 1 and 4 with ii.",
+   "changes": "Added the match table (symbols described in words) that the text layer omitted"
+  },
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "subtopic": "Requirements & design",
+  "concept": "DFD symbols and their meaning",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In a data flow diagram (DeMarco–Yourdon notation):\n\n- **Rectangle (1) → External entity (iv)**: a source or sink of data outside the system, such as a customer.\n- **Two parallel lines (2) → Data store (iii)**: a file or database where data is held.\n- **Rectangle with a cut corner (3) → Output (i)**: a document or output produced by the system. This is a less standard symbol, but it is the only one left for 'Output'.\n- **Circle / bubble (4) → Process (ii)**: a step that transforms incoming data into outgoing data.\n\nThe matching is 1-iv, 2-iii, 3-i, 4-ii, option A.\n\nWhy not the others:\n- B gives ii to both 1 and 4, which is impossible.\n- C swaps the data store and the output.\n- D makes the rectangle the output instead of the external entity."
+ }
+]

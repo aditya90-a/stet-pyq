@@ -1,0 +1,275 @@
+{
+  "slug": "society-ethics-e-waste",
+  "subject": "Computer Science",
+  "topic": "Society, Ethics & E-waste",
+  "titleHi": "समाज, नैतिकता एवं ई-अपशिष्ट",
+  "summary": "Covers cyber ethics, cyber crime and India's IT Act, AI ethics (bias, black boxes, deepfakes), intellectual property rights and software licences, e-waste hazards and the E-Waste (Management) Rules, and digital footprints, privacy and the DPDP Act, 2023. Questions are factual and scenario based: which right or section applies, which substance is hazardous, what counts as a child or a passive footprint.",
+  "sections": [
+    {
+      "heading": "Cyber ethics and netiquette",
+      "level": "basic",
+      "subtopic": "Cyber ethics & AI ethics",
+      "body": "**Cyber ethics** is the code of responsible behaviour on the Internet and with computers. **Netiquette** (net etiquette) covers polite online conduct.\n- Respect others' privacy and property; do not access systems or data without permission.\n- Do not plagiarise, pirate software or share copyrighted material illegally.\n- Communicate respectfully: no cyberbullying, trolling, hate speech or spreading fake news; avoid ALL-CAPS (shouting) and spam.\n- Verify information before sharing; give credit to sources.\n- Use strong passwords and never share them; log out of shared computers.\n\n**Hackers**: **white hat** (ethical hackers testing security with permission), **black hat** (malicious), **grey hat** (in between). Common **cyber crimes**: hacking, **phishing** (fraudulent messages to steal credentials), **identity theft**, cyber stalking, cyberbullying, ransomware and malware attacks, denial of service, software piracy, online financial fraud, cyber terrorism.\n\n**Staying safe**: keep the OS and antivirus updated, do not open unknown attachments or links, check the sender and the URL before entering credentials, enable two-factor authentication, back up important data, and report cyber crimes to the police cyber cell or the national cyber-crime reporting portal. Teachers should model these habits and teach students to think before they click, post or share."
+    },
+    {
+      "heading": "Cyber law: the IT Act, 2000",
+      "level": "intermediate",
+      "subtopic": "Cyber ethics & AI ethics",
+      "body": "India's primary cyber law is the **Information Technology Act, 2000**, substantially **amended in 2008**. It gives legal recognition to **electronic records** and **digital signatures**, provides for Certifying Authorities (under the Controller of Certifying Authorities) and defines cyber offences with remedies of **compensation, fine and imprisonment**. **CERT-In** is the national agency for responding to cyber-security incidents.\n\nSection 66A (offensive messages) was struck down by the Supreme Court in the Shreya Singhal case and is no longer valid.",
+      "table": {
+        "columns": [
+          "Section",
+          "Deals with"
+        ],
+        "rows": [
+          [
+            "43",
+            "Damage to a computer system without permission (unauthorised access, downloading, virus) - compensation"
+          ],
+          [
+            "65",
+            "Tampering with computer source documents"
+          ],
+          [
+            "66",
+            "Computer-related offences such as hacking done dishonestly or fraudulently"
+          ],
+          [
+            "66C",
+            "Identity theft (fraudulent use of password, digital signature or other unique identification)"
+          ],
+          [
+            "66D",
+            "Cheating by personation using a computer resource"
+          ],
+          [
+            "66E",
+            "Violation of privacy (capturing or publishing private images)"
+          ],
+          [
+            "66F",
+            "Cyber terrorism (punishable with up to life imprisonment)"
+          ],
+          [
+            "67",
+            "Publishing or transmitting obscene material in electronic form"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "AI ethics",
+      "level": "intermediate",
+      "subtopic": "Cyber ethics & AI ethics",
+      "body": "AI systems learn from data and can affect people's jobs, loans, admissions and safety, so they must be governed by ethical principles:\n- **Fairness / non-discrimination** - avoid **bias** that arises from unrepresentative or prejudiced training data.\n- **Transparency and explainability** - many AI models, especially deep neural networks, are **black boxes** whose decisions are hard to explain.\n- **Accountability** - humans and organisations remain responsible for an AI system's decisions.\n- **Privacy** - data minimisation, consent, anonymisation. **k-anonymity** is a privacy technique in which each released record is indistinguishable from at least k − 1 others.\n- **Safety, reliability and human oversight** - a human should be able to review or override important decisions.\n- **Inclusiveness** - AI should benefit all groups.\n\nEthical risks: **deepfakes** (realistic fake audio/video created with AI, used for fraud or misinformation), mass surveillance, job displacement, misinformation from generative AI, autonomous weapons."
+    },
+    {
+      "heading": "Intellectual property rights",
+      "level": "basic",
+      "subtopic": "Intellectual property",
+      "body": "**Intellectual Property Rights (IPR)** are legal rights over creations of the mind. They let the creator or owner earn **recognition or financial benefit** from the creation and are granted for a **certain (limited) period**, after which the work enters the public domain (trademarks can be renewed indefinitely).\n\nMain Indian laws: the **Copyright Act, 1957**, the **Patents Act, 1970** and the **Trade Marks Act, 1999**. Internationally, IPR is administered through **WIPO** (World Intellectual Property Organization) and the WTO's **TRIPS** agreement. Copyright protects the **expression** of an idea, not the idea itself; limited use for teaching, research, criticism or news reporting is allowed as **fair dealing**. Using protected work without permission beyond such limits is **infringement**, which can lead to civil remedies (injunction, damages) and criminal penalties. In the digital realm, IPR covers software, databases, e-books, music, videos, images and website content.",
+      "table": {
+        "columns": [
+          "Right",
+          "Protects",
+          "Term in India (main rule)"
+        ],
+        "rows": [
+          [
+            "Copyright",
+            "literary, artistic, musical works, films, sound recordings; software is protected as a literary work",
+            "author's lifetime + 60 years for literary works; arises automatically on creation"
+          ],
+          [
+            "Patent",
+            "inventions that are new, involve an inventive step and are industrially applicable",
+            "20 years from filing"
+          ],
+          [
+            "Trademark",
+            "brand names, logos, slogans that distinguish goods/services",
+            "10 years, renewable"
+          ],
+          [
+            "Industrial design",
+            "shape, pattern or ornamentation of an article",
+            "10 years, extendable by 5"
+          ],
+          [
+            "Geographical Indication (GI)",
+            "products from a specific region (e.g. Darjeeling tea)",
+            "10 years, renewable"
+          ],
+          [
+            "Trade secret",
+            "confidential business information (recipes, algorithms)",
+            "as long as it stays secret"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Software licences, plagiarism and piracy",
+      "level": "intermediate",
+      "subtopic": "Intellectual property",
+      "body": "- **Proprietary software** - source closed, use governed by a licence (EULA); copying beyond the licence is **software piracy**.\n- **Freeware** - free to use, source usually not available. **Shareware** - free trial, pay to continue.\n- **Free and Open Source Software (FOSS / FLOSS)** - source available; users may study, modify and redistribute. Examples: Linux, Apache, MySQL, PHP, LibreOffice, Python.\n- **GPL (GNU General Public License)** - a **copyleft** licence: modified versions that are distributed must also be released under the GPL with source code.\n- **Permissive licences** (MIT, BSD, Apache) - allow reuse even in proprietary software if the notice is kept.\n- **Creative Commons (CC)** licences for content: **BY** (attribution), **SA** (share-alike), **NC** (non-commercial), **ND** (no derivatives); **CC0** places work in the public domain.\n- **Plagiarism** - presenting someone else's work or ideas as your own without credit; avoid by citing sources and quoting properly."
+    },
+    {
+      "heading": "E-waste: sources and hazards",
+      "level": "basic",
+      "subtopic": "E-waste management",
+      "body": "**E-waste** (electronic waste) is discarded electrical and electronic equipment: computers, phones, TVs, printers, batteries, chargers, CFLs. It is among the fastest-growing waste streams. It contains valuable materials (gold, silver, copper) and **hazardous substances**:\n- **Lead** - CRT glass, solder → damages the nervous system and kidneys.\n- **Mercury** - fluorescent lamps (CFL), old LCD backlights, switches → brain and kidney damage.\n- **Cadmium** - batteries, chip resistors → kidney and bone damage.\n- **Hexavalent chromium**, **beryllium** (motherboards), **arsenic**, **brominated flame retardants** and **PVC** (release dioxins when burned).\n\nExposure to e-waste toxins varies mainly with the **type of e-waste** and the way it is handled. Informal recycling (open burning of cables, acid baths to extract metals, dumping) pollutes air, soil and water and harms workers.\n\nHandled properly, e-waste is also a resource: formal recycling recovers metals (\"urban mining\"), saves energy compared with mining new ores and reduces landfill. Schools can run e-waste collection drives and teach students to extend the life of devices through repair and reuse."
+    },
+    {
+      "heading": "E-waste management and rules",
+      "level": "intermediate",
+      "subtopic": "E-waste management",
+      "body": "**Management hierarchy**: **Reduce** (buy only what is needed, durable products) → **Reuse** (donate, refurbish, repair) → **Recycle** (authorised recyclers recover metals and plastics) → safe disposal of residues.\n\n**E-Waste (Management) Rules, 2016** (India):\n- Apply to producers, consumers and bulk consumers, collection centres, dealers, refurbishers, dismantlers and recyclers.\n- Introduced **Extended Producer Responsibility (EPR)** - producers are responsible for collecting and channelising their end-of-life products to authorised recyclers, with collection targets.\n- Schedule I recognises two broad categories: **IT and telecommunication equipment**, and **consumer electrical and electronics**, which explicitly include **CFLs and other mercury-containing lamps**.\n- The **Central Pollution Control Board (CPCB)** and state boards regulate; these rules were later replaced by the E-Waste (Management) Rules, 2022.\n\nInternationally, the **Basel Convention** controls transboundary movement of hazardous waste. Individuals should return devices through take-back schemes or authorised collection centres, wipe personal data first, and never burn or dump electronics."
+    },
+    {
+      "heading": "Digital footprint, privacy and data protection",
+      "level": "intermediate",
+      "subtopic": "Digital footprint & privacy",
+      "body": "A **digital footprint** is the trail of data a person leaves online; it is hard to erase and affects reputation, admissions and jobs.\n- **Active footprint** - data shared intentionally: posts, comments, photos, emails, online forms.\n- **Passive footprint** - data collected without active input: browsing history, cookies, IP address, location, search logs.\n\n**Protecting privacy**: review privacy settings, think before posting, use strong passwords and **two-factor authentication**, avoid public Wi-Fi for sensitive work, clear or block third-party **cookies**, use HTTPS sites, share minimum personal data. **Children's** social media sharing should be monitored and guided by parents and teachers; social media addiction can harm health and studies.\n\n**Digital Personal Data Protection (DPDP) Act, 2023** (India):\n- **Data Principal** - the individual to whom the data relates; **Data Fiduciary** - the entity deciding the purpose and means of processing; **Data Processor** - processes on its behalf.\n- **Digital personal data** = personal data in digital form (collected digitally, or collected offline and then digitised).\n- A **\"child\" means an individual who has not completed eighteen years**; processing a child's data needs verifiable parental consent.\n- Processing is based on **consent** (free, specific, informed) or certain legitimate uses; principals have rights to information, correction and erasure, and grievance redressal.\n- The **Data Protection Board of India** adjudicates breaches and imposes monetary penalties.\n\n**Health and digital well-being**: limit screen time, take breaks (eye strain, posture), maintain ergonomics."
+    }
+  ],
+  "formulas": [],
+  "workedExamples": [
+    {
+      "problem": "Which IPR protects each item? (a) a new process to make a cheaper vaccine; (b) the logo of a sports brand; (c) a novel and the source code of an app; (d) Darjeeling tea; (e) the secret recipe of a soft drink.",
+      "solution": "(a) **Patent** - a new, inventive, industrially applicable process (20 years).\n(b) **Trademark** - distinguishes the brand's goods (10 years, renewable).\n(c) **Copyright** - literary works; software code is protected as a literary work.\n(d) **Geographical Indication**.\n(e) **Trade secret** - protected only while it stays confidential."
+    },
+    {
+      "problem": "Name the IT Act section: (a) Ravi logs in with his classmate's stolen password to make purchases; (b) a fraudster creates a fake profile of a bank officer to cheat customers; (c) someone secretly photographs a person and posts the images online; (d) an attacker damages a company server through a virus.",
+      "solution": "(a) **Section 66C** - identity theft (fraudulent use of password).\n(b) **Section 66D** - cheating by personation using a computer resource.\n(c) **Section 66E** - violation of privacy.\n(d) **Section 43** (compensation for damage) and **Section 66** (computer-related offence when done dishonestly or fraudulently)."
+    },
+    {
+      "problem": "Classify as active or passive digital footprint: (a) a blog comment; (b) cookies recording pages visited; (c) filling an online scholarship form; (d) location history recorded by an app running in the background.",
+      "solution": "(a) **Active** - intentionally posted.\n(b) **Passive** - collected without the user actively sharing.\n(c) **Active** - data knowingly submitted.\n(d) **Passive** - collected in the background."
+    },
+    {
+      "problem": "Can you do this legally? (a) Modify a GPL program and sell the binary without sharing the source; (b) use an MIT-licensed library inside a closed-source app; (c) use a CC BY-NC photo in a paid advertisement; (d) use a CC BY photo in a school magazine.",
+      "solution": "(a) **No** - GPL is copyleft; distributed modified versions must be released under GPL with source.\n(b) **Yes** - permissive licence; keep the copyright and licence notice.\n(c) **No** - NC means non-commercial use only.\n(d) **Yes** - with attribution to the creator."
+    }
+  ],
+  "pitfalls": [
+    "IPR is granted for a certain (limited) period, not unlimited (trademarks can be renewed).",
+    "Copyright arises automatically on creation; patents and trademarks must be registered.",
+    "Software is protected by copyright as a literary work; a patent needs a technical invention.",
+    "Section 66A of the IT Act was struck down; do not quote it as valid law.",
+    "Freeware is not the same as open source; free of cost does not mean source code is available.",
+    "Passive footprint is collected without the user's active input (cookies, IP); posts are active footprint.",
+    "Under the DPDP Act a child is a person who has not completed 18 years.",
+    "E-waste Rules 2016 include CFLs and other mercury-containing lamps under consumer electrical and electronics."
+  ],
+  "quickRevision": [
+    "Netiquette = etiquette on the Internet.",
+    "White hat = ethical hacker; black hat = malicious hacker.",
+    "IT Act 2000, amended 2008: legal recognition of e-records and digital signatures.",
+    "66C identity theft; 66D cheating by personation; 66E privacy; 66F cyber terrorism.",
+    "Main AI ethics issues: bias, black-box opacity, privacy, accountability, deepfakes.",
+    "Patent 20 years; trademark 10 years renewable; copyright life + 60 years (literary works, India).",
+    "GPL = copyleft; MIT/BSD/Apache = permissive; CC BY-NC = non-commercial.",
+    "E-waste toxins: lead, mercury, cadmium, chromium, beryllium, brominated flame retardants.",
+    "EPR = Extended Producer Responsibility.",
+    "Basel Convention: transboundary movement of hazardous waste.",
+    "Digital footprint: active (shared) and passive (collected).",
+    "DPDP Act 2023: Data Principal, Data Fiduciary, Data Protection Board."
+  ],
+  "flashcards": [
+    {
+      "front": "What is netiquette?",
+      "back": "Rules of polite, responsible behaviour on the Internet."
+    },
+    {
+      "front": "IT Act section for identity theft?",
+      "back": "Section 66C."
+    },
+    {
+      "front": "What remedies does cyber law provide?",
+      "back": "Compensation, fines and imprisonment."
+    },
+    {
+      "front": "Why are many AI models called black boxes?",
+      "back": "Their internal decision process is not transparent or easily explainable."
+    },
+    {
+      "front": "What is a deepfake?",
+      "back": "AI-generated realistic fake image, audio or video of a person."
+    },
+    {
+      "front": "Term of a patent in India?",
+      "back": "20 years from filing."
+    },
+    {
+      "front": "Which IPR protects software code?",
+      "back": "Copyright (as a literary work)."
+    },
+    {
+      "front": "What is copyleft?",
+      "back": "Licensing (e.g. GPL) requiring modified versions to be distributed under the same free terms."
+    },
+    {
+      "front": "Name three hazardous substances in e-waste.",
+      "back": "Lead, mercury, cadmium (also chromium, beryllium, BFRs)."
+    },
+    {
+      "front": "Two broad categories in India's E-waste Rules 2016?",
+      "back": "IT and telecommunication equipment; consumer electrical and electronics (incl. CFL/mercury lamps)."
+    },
+    {
+      "front": "What is EPR?",
+      "back": "Extended Producer Responsibility: producers must manage collection and recycling of their end-of-life products."
+    },
+    {
+      "front": "Active vs passive digital footprint?",
+      "back": "Active: data you share deliberately; passive: data collected without your active input."
+    },
+    {
+      "front": "Who is a 'child' under the DPDP Act, 2023?",
+      "back": "An individual who has not completed eighteen years."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Cyber ethics",
+      "hi": "साइबर नैतिकता"
+    },
+    {
+      "en": "Cyber crime",
+      "hi": "साइबर अपराध"
+    },
+    {
+      "en": "Intellectual property",
+      "hi": "बौद्धिक संपदा"
+    },
+    {
+      "en": "Copyright",
+      "hi": "प्रतिलिप्यधिकार / कॉपीराइट"
+    },
+    {
+      "en": "Patent",
+      "hi": "एकस्व (पेटेंट)"
+    },
+    {
+      "en": "Trademark",
+      "hi": "व्यापार चिह्न"
+    },
+    {
+      "en": "Plagiarism",
+      "hi": "साहित्यिक चोरी"
+    },
+    {
+      "en": "E-waste",
+      "hi": "ई-अपशिष्ट"
+    },
+    {
+      "en": "Digital footprint",
+      "hi": "डिजिटल पदचिह्न"
+    },
+    {
+      "en": "Privacy",
+      "hi": "निजता"
+    }
+  ]
+}

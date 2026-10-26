@@ -1,0 +1,246 @@
+{
+ "slug": "language-across-the-curriculum",
+ "subject": "Teaching Methodology",
+ "topic": "Language Across the Curriculum",
+ "titleHi": "पाठ्यचर्या में भाषा",
+ "summary": "Covers the idea that every teacher is a language teacher: language and thought (Piaget, Vygotsky, Chomsky, Skinner, Krashen), Cummins' BICS and CALP, subject-specific vocabulary, home language and multilingualism in policy (NCF 2005, NEP 2020, Article 350A, Eighth Schedule), and practical reading, writing and talk strategies, including in the Computer Science classroom. A small but regular source of one-mark questions.",
+ "sections": [
+  {
+   "heading": "What is Language Across the Curriculum?",
+   "level": "basic",
+   "subtopic": "Language in learning",
+   "body": "**Language Across the Curriculum (LAC)** is the idea that language is the main medium of learning in **every** subject, not only in language classes; therefore **every teacher is a language teacher**. Children learn science, mathematics or computer science through listening, talking, reading and writing about them.\nThe idea became influential through the UK **Bullock Report, \"A Language for Life\" (1975)**, which recommended that every school have a policy for language across the curriculum.\nCore principles:\n- Language and learning are inseparable: we think and understand by putting ideas into words.\n- Students must be helped with the **language of each subject** – its vocabulary, sentence patterns and text types.\n- The child's **home language** is a resource, not an obstacle; a child who cannot yet express an idea in English may still understand it perfectly well.\n- Talk, discussion and writing are tools for learning, not only for showing what has been learned.\nNCF 2005 reflects this view: it describes language as a means of constructing knowledge and treats **multilingualism** as a classroom resource."
+  },
+  {
+   "heading": "Language and thought: key theories",
+   "level": "intermediate",
+   "subtopic": "Language in learning",
+   "body": "Different theorists explain the relation between language, thought and language acquisition differently.\n**Stephen Krashen** distinguishes **acquisition** (natural, subconscious, through meaningful input) from **learning** (conscious study of rules). His **input hypothesis** says learners progress with comprehensible input slightly above their level (i + 1), and the **affective filter** (anxiety, low motivation) can block acquisition – so a fearless classroom helps language growth.",
+   "table": {
+    "columns": [
+     "Theorist",
+     "View"
+    ],
+    "rows": [
+     [
+      "Jean Piaget",
+      "Thought develops first; language reflects the child's cognitive stage; egocentric speech fades with age"
+     ],
+     [
+      "Lev Vygotsky",
+      "Language and thought develop together through social interaction; social speech → private speech → inner speech; language shapes thinking"
+     ],
+     [
+      "Noam Chomsky",
+      "Language is innate: Language Acquisition Device (LAD), universal grammar; children create new sentences never heard before"
+     ],
+     [
+      "B.F. Skinner",
+      "Language is learned behaviour through imitation and reinforcement (Verbal Behavior, 1957)"
+     ],
+     [
+      "Sapir and Whorf",
+      "Linguistic relativity: the language we speak influences how we think and perceive"
+     ],
+     [
+      "Jerome Bruner",
+      "Language Acquisition Support System (LASS): adults support language learning through routines and interaction"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "BICS, CALP and the language of a subject",
+   "level": "intermediate",
+   "subtopic": "Language in learning",
+   "body": "**Jim Cummins** distinguished two kinds of language proficiency:\n- **BICS – Basic Interpersonal Communicative Skills**: everyday conversational language, supported by context (gestures, situations). Usually developed in about 1–2 years in a new language.\n- **CALP – Cognitive Academic Language Proficiency**: the abstract, context-reduced language of textbooks, explanations and exams. It takes much longer, often 5–7 years.\nA child who chats fluently may still struggle with \"Explain why the algorithm terminates\" – fluent BICS does not mean adequate CALP.\n**Common Underlying Proficiency**: concepts learned in one language transfer to another; strong home-language skills support learning in the second language.\n**Subject register**: every discipline has special vocabulary and ways of writing. In CS, many words have an everyday meaning that differs from the technical one – *string*, *bug*, *mouse*, *table*, *loop*, *memory*, *key*, *virus*, *window*, *bus*. Such words cause misconceptions unless the teacher explicitly contrasts the two meanings."
+  },
+  {
+   "heading": "Home language and multilingual classrooms",
+   "level": "intermediate",
+   "subtopic": "Language in learning",
+   "body": "**Policy positions**:\n- **NCF 2005**: home language(s) of children should be the medium of learning in schools wherever possible; multilingualism is a resource; teachers should accept children's language and build on it.\n- **Three-language formula**: recommended by the Kothari Commission and adopted in **NPE 1968**; continued with flexibility in **NEP 2020**, with at least two of the three languages native to India.\n- **NEP 2020**: medium of instruction to be the home language/mother tongue/local language at least until **Grade 5**, preferably till Grade 8 and beyond; bilingual teaching–learning materials encouraged.\n- **Article 350A**: every state should provide facilities for instruction in the mother tongue at the primary stage to children of linguistic minority groups.\n**Classroom strategies**: allow students to discuss in their home language and then present in the language of instruction (**translanguaging**); prepare bilingual glossaries; accept code-switching as a natural bilingual skill; use visuals and demonstrations to reduce language load; never ridicule accent or grammar."
+  },
+  {
+   "heading": "Languages in the Eighth Schedule",
+   "level": "basic",
+   "subtopic": "Language in learning",
+   "body": "The **Eighth Schedule** of the Constitution lists the scheduled languages of India; it now has **22** languages.\n- The original Constitution listed **14** languages.\n- **21st Amendment (1967)** added **Sindhi** (15).\n- **71st Amendment (1992)** added **Konkani, Manipuri and Nepali** (18).\n- **92nd Amendment (2003)** added **Bodo, Dogri, Maithili and Santhali** (22).\nRelated articles: **Art. 343** – Hindi in Devanagari script is the official language of the Union; **Art. 350A** – mother-tongue instruction at the primary stage; **Art. 350B** – Special Officer for linguistic minorities; **Art. 351** – directive for the development of the Hindi language.\nThis diversity is why teachers in Delhi classrooms often meet students with many different home languages.",
+   "table": {
+    "columns": [
+     "Amendment",
+     "Year",
+     "Languages added"
+    ],
+    "rows": [
+     [
+      "21st",
+      "1967",
+      "Sindhi"
+     ],
+     [
+      "71st",
+      "1992",
+      "Konkani, Manipuri, Nepali"
+     ],
+     [
+      "92nd",
+      "2003",
+      "Bodo, Dogri, Maithili, Santhali"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Reading and writing to learn in every subject",
+   "level": "intermediate",
+   "subtopic": "Language in learning",
+   "body": "The four language skills are **Listening, Speaking, Reading and Writing (LSRW)**; listening and reading are **receptive**, speaking and writing **productive**.\n**Reading strategies for content subjects**:\n- **KWL chart** (Donna Ogle): What I **K**now – What I **W**ant to know – What I **L**earned.\n- **SQ3R** (Francis Robinson): **Survey, Question, Read, Recite, Review**.\n- **Graphic organisers** – concept maps, flowcharts, Venn diagrams, tables – make relationships in a text visible.\n- **Pre-teaching key vocabulary**, word walls and glossaries.\n- **Think-aloud** – the teacher models how an expert reads a difficult passage or an error message.\n**Writing to learn**: short summaries, exit slips, learning journals, explaining a concept to a younger student, writing an algorithm in plain steps before coding. Writing forces learners to organise their thinking and reveals misconceptions to the teacher.\n**Text types** differ across subjects: a CS student must read and write definitions, step-by-step procedures (algorithms), comparisons (compiler vs interpreter), cause–effect explanations (why a loop never ends), reports of a project and user instructions. Teachers should show a model of each text type, point out its typical structure and signal words (*first, then, whereas, because, therefore*), and let students practise writing it before assessing it."
+  },
+  {
+   "heading": "Classroom talk and questioning",
+   "level": "intermediate",
+   "subtopic": "Language in learning",
+   "body": "Talk is a powerful tool for building understanding.\n- **Dialogic teaching** – teacher and students build ideas together through genuine discussion, rather than a one-way lecture or only \"teacher asks – student answers – teacher evaluates\" exchanges.\n- **Open questions** (\"Why might this program run forever?\") invite reasoning; **closed questions** (\"What is the output?\") check recall. Use both, with more open questions for higher-order thinking.\n- **Wait time** – research by **Mary Budd Rowe** found that teachers often wait only about a second after asking a question; waiting 3 seconds or more leads to longer, more thoughtful answers and more students responding.\n- **Think–pair–share** – students think alone, discuss with a partner, then share with the class; it supports students who are shy or learning in a second language.\n- **Exploratory talk** in small groups, where students reason aloud and challenge ideas respectfully.\n- **Reciprocal teaching** (Palincsar and Brown) – students take turns leading a group through four strategies: **predicting, questioning, clarifying and summarising** a text.\n- Encourage students to **explain in their own words**; accept partially correct answers and build on them."
+  },
+  {
+   "heading": "LAC in the Computer Science classroom",
+   "level": "advanced",
+   "subtopic": "Language in learning",
+   "body": "Computer Science adds a third language layer – the **programming language** – to the home language and the language of instruction.\n- **Pseudocode and flowcharts** act as a bridge between natural language and code: students first describe the steps in their own words, then translate them into code.\n- Explicitly teach the **difference between everyday and technical meanings** (a *bug* is an error; *string* is a sequence of characters).\n- Build a **bilingual CS glossary** (e.g. algorithm – कलन विधि; variable – चर; loop – लूप/पुनरावृत्ति) on the class wall.\n- Ask students to **read code aloud** and **explain** it line by line (code-reading before code-writing).\n- Teach students to read **error messages** carefully – they are short technical texts.\n- Require meaningful **comments, variable names and documentation**: these are writing tasks.\n- Use group projects with presentations so students practise technical speaking.\n- Remember that keywords of most programming languages are English words: students with less English may need extra support in understanding them, but their reasoning ability is not lower."
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "A Class IX student converses fluently in English with friends but cannot answer 'Compare RAM and ROM with reasons'. Explain using Cummins' framework and suggest two supports.",
+   "solution": "- The student has developed **BICS** (conversational language) but not yet **CALP** (academic language needed for comparison and reasoning).\n- Supports: give a sentence frame (\"RAM is ___ whereas ROM is ___ because ___\") and a comparison table/graphic organiser; pre-teach words like *volatile* and *permanent*; allow discussion in the home language before writing."
+  },
+  {
+   "problem": "A teacher begins a chapter on networks by asking students to fill three columns: what they already know about the internet, what they want to know, and later what they learned. Name the strategy and its originator.",
+   "solution": "- Columns of Know – Want to know – Learned = **KWL chart**.\n- Proposed by **Donna Ogle**. It activates prior knowledge (constructivism) and sets a purpose for reading."
+  },
+  {
+   "problem": "Arrange the languages by the amendment that added them to the Eighth Schedule: Bodo, Sindhi, Nepali.",
+   "solution": "- Sindhi – **21st Amendment (1967)**\n- Nepali – **71st Amendment (1992)**\n- Bodo – **92nd Amendment (2003)**"
+  },
+  {
+   "problem": "A student says, 'My code has a bug, so I sprayed my keyboard with insect spray.' Which language issue does this joke illustrate, and how should a teacher handle such words?",
+   "solution": "- It illustrates the gap between the **everyday meaning** and the **technical register** of a word (bug = error in a program).\n- The teacher should explicitly list such words, contrast both meanings, show examples, and add them to a bilingual subject glossary."
+  }
+ ],
+ "pitfalls": [
+  "LAC does not mean that only language teachers handle language: every subject teacher is responsible for the language of their subject.",
+  "The Bullock Report (1975) is from the UK and is titled 'A Language for Life'.",
+  "Chomsky's LAD is about innate capacity; Skinner explained language by imitation and reinforcement – do not swap them.",
+  "BICS develops in about 1–2 years; CALP takes about 5–7 years.",
+  "The 71st Amendment (1992) added Konkani, Manipuri and Nepali; Bodo, Dogri, Maithili and Santhali came with the 92nd (2003).",
+  "Code-switching and use of the home language in class are resources, not errors to be punished (NCF 2005)."
+ ],
+ "quickRevision": [
+  "LAC: every teacher is a language teacher.",
+  "Bullock Report 'A Language for Life', UK, 1975.",
+  "Vygotsky: social → private → inner speech; language shapes thought.",
+  "Chomsky: Language Acquisition Device; Skinner: Verbal Behavior (1957).",
+  "Krashen: comprehensible input (i + 1) and affective filter.",
+  "Cummins: BICS (1–2 years) and CALP (5–7 years).",
+  "NEP 2020: mother tongue medium at least until Grade 5, preferably till Grade 8.",
+  "Three-language formula: Kothari Commission → NPE 1968.",
+  "Art. 350A: mother-tongue instruction at primary stage for linguistic minorities.",
+  "Eighth Schedule: 22 languages; 71st Amendment added Konkani, Manipuri, Nepali.",
+  "KWL: Donna Ogle; SQ3R: Survey, Question, Read, Recite, Review.",
+  "Wait time research: Mary Budd Rowe."
+ ],
+ "flashcards": [
+  {
+   "front": "Which report popularised 'language across the curriculum'?",
+   "back": "Bullock Report, 'A Language for Life' (UK, 1975)"
+  },
+  {
+   "front": "Who proposed the Language Acquisition Device?",
+   "back": "Noam Chomsky"
+  },
+  {
+   "front": "Who held that language is learned by imitation and reinforcement?",
+   "back": "B.F. Skinner"
+  },
+  {
+   "front": "BICS stands for?",
+   "back": "Basic Interpersonal Communicative Skills"
+  },
+  {
+   "front": "CALP stands for?",
+   "back": "Cognitive Academic Language Proficiency"
+  },
+  {
+   "front": "Who distinguished BICS and CALP?",
+   "back": "Jim Cummins"
+  },
+  {
+   "front": "Languages added by the 71st Amendment (1992)?",
+   "back": "Konkani, Manipuri, Nepali"
+  },
+  {
+   "front": "How many languages are in the Eighth Schedule?",
+   "back": "22"
+  },
+  {
+   "front": "Article on mother-tongue instruction at primary stage?",
+   "back": "Article 350A"
+  },
+  {
+   "front": "Expand SQ3R.",
+   "back": "Survey, Question, Read, Recite, Review"
+  },
+  {
+   "front": "Linguistic relativity hypothesis is associated with?",
+   "back": "Sapir and Whorf"
+  },
+  {
+   "front": "Receptive language skills?",
+   "back": "Listening and reading"
+  },
+  {
+   "front": "Who studied teacher wait time?",
+   "back": "Mary Budd Rowe"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Language across the curriculum",
+   "hi": "पाठ्यचर्या में भाषा"
+  },
+  {
+   "en": "Mother tongue",
+   "hi": "मातृभाषा"
+  },
+  {
+   "en": "Multilingualism",
+   "hi": "बहुभाषिकता"
+  },
+  {
+   "en": "Language acquisition",
+   "hi": "भाषा अर्जन"
+  },
+  {
+   "en": "Register (subject language)",
+   "hi": "प्रयुक्ति / विषयगत भाषा"
+  },
+  {
+   "en": "Reading comprehension",
+   "hi": "पठन बोध"
+  },
+  {
+   "en": "Medium of instruction",
+   "hi": "शिक्षण का माध्यम"
+  },
+  {
+   "en": "Code-switching",
+   "hi": "कोड परिवर्तन"
+  },
+  {
+   "en": "Vocabulary",
+   "hi": "शब्द भंडार"
+  }
+ ]
+}

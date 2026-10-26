@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2021-set2-q091",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Spelling of different words; correctly vs incorrectly spelt."
+ },
+ {
+  "a": "2021-set2-q092",
+  "b": "2021-set3-q091",
+  "verdict": "different",
+  "reason": "Spelling of different words."
+ },
+ {
+  "a": "2021-set2-q092",
+  "b": "2021-set3-q092",
+  "verdict": "different",
+  "reason": "Incorrect spelling among different word sets."
+ },
+ {
+  "a": "2021-set2-q092",
+  "b": "2021-set4-q091",
+  "verdict": "different",
+  "reason": "Spelling of different words."
+ },
+ {
+  "a": "2021-set2-q092",
+  "b": "2021-set4-q092",
+  "verdict": "different",
+  "reason": "Incorrect spelling among different word sets."
+ },
+ {
+  "a": "2021-set2-q092",
+  "b": "2021-set5-q091",
+  "verdict": "different",
+  "reason": "Spelling of different words."
+ },
+ {
+  "a": "2021-set2-q092",
+  "b": "2021-set5-q092",
+  "verdict": "different",
+  "reason": "Incorrect spelling among different word sets."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set2-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set3-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set3-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set4-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q093",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q094",
+  "b": "2021-set3-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q094",
+  "b": "2021-set3-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q094",
+  "b": "2021-set4-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q094",
+  "b": "2021-set4-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q094",
+  "b": "2021-set5-q093",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q094",
+  "b": "2021-set5-q094",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ },
+ {
+  "a": "2021-set2-q096",
+  "b": "2021-set3-q096",
+  "verdict": "different",
+  "reason": "Title questions on different passages."
+ },
+ {
+  "a": "2021-set2-q096",
+  "b": "2023-06-24-s2-q076",
+  "verdict": "different",
+  "reason": "Title questions on different passages."
+ },
+ {
+  "a": "2021-set2-q106",
+  "b": "2021-set3-q117",
+  "verdict": "different",
+  "reason": "Full forms of different early computers (ENIAC vs EDVAC)."
+ },
+ {
+  "a": "2021-set2-q108",
+  "b": "2021-set3-q106",
+  "verdict": "different",
+  "reason": "Software evolution aspects vs open-source software; different facts."
+ },
+ {
+  "a": "2021-set2-q115",
+  "b": "2021-set3-q111",
+  "verdict": "different",
+  "reason": "C modulus with negative operands vs pre-increment expression; different concepts."
+ },
+ {
+  "a": "2021-set2-q115",
+  "b": "2021-set4-q111",
+  "verdict": "different",
+  "reason": "C modulus with negatives vs comma operator; different concepts."
+ },
+ {
+  "a": "2021-set2-q115",
+  "b": "2021-set5-q114",
+  "verdict": "different",
+  "reason": "C modulus with negatives vs integer division with pre-increment; different concepts."
+ },
+ {
+  "a": "2021-set2-q119",
+  "b": "2021-set2-q199",
+  "verdict": "different",
+  "reason": "Unrelated statement-type questions (stem missing vs gender/sex)."
+ },
+ {
+  "a": "2021-set2-q119",
+  "b": "2021-set3-q106",
+  "verdict": "different",
+  "reason": "Unrelated statement-type questions; only option format shared."
+ },
+ {
+  "a": "2021-set2-q119",
+  "b": "2021-set4-q105",
+  "verdict": "different",
+  "reason": "Unrelated statement-type questions; only option format shared."
+ },
+ {
+  "a": "2021-set2-q119",
+  "b": "2021-set5-q035",
+  "verdict": "different",
+  "reason": "Unrelated statement-type questions; only option format shared."
+ },
+ {
+  "a": "2021-set2-q123",
+  "b": "2021-set4-q135",
+  "verdict": "different",
+  "reason": "Compiler converting source to object code vs pseudo instructions for assembler."
+ },
+ {
+  "a": "2021-set2-q125",
+  "b": "2021-set3-q121",
+  "verdict": "concept",
+  "reason": "Both apply series resistance formula R_eq = sum of resistances."
+ },
+ {
+  "a": "2021-set2-q126",
+  "b": "2021-set3-q122",
+  "verdict": "different",
+  "reason": "Truth tables of different gates (AND vs OR)."
+ },
+ {
+  "a": "2021-set2-q128",
+  "b": "2021-set3-q123",
+  "verdict": "different",
+  "reason": "Half subtractor borrow vs half adder carry; different expressions."
+ },
+ {
+  "a": "2021-set2-q130",
+  "b": "2021-set3-q125",
+  "verdict": "concept",
+  "reason": "Both test select lines relation n = 2^m (demux outputs / mux inputs)."
+ },
+ {
+  "a": "2021-set2-q131",
+  "b": "2021-set3-q127",
+  "verdict": "different",
+  "reason": "XOR with identical inputs (0) vs NAND with tied inputs (NOT A); different facts."
+ },
+ {
+  "a": "2021-set2-q134",
+  "b": "2021-set5-q153",
+  "verdict": "different",
+  "reason": "Alternate names of different models (deductive DBMS vs spiral)."
+ },
+ {
+  "a": "2021-set2-q145",
+  "b": "2021-set3-q142",
+  "verdict": "different",
+  "reason": "Spiral model incremental releases vs other name of linear sequential model."
+ },
+ {
+  "a": "2021-set2-q146",
+  "b": "2021-set3-q142",
+  "verdict": "different",
+  "reason": "CASE full form vs linear sequential model name."
+ },
+ {
+  "a": "2021-set2-q161",
+  "b": "2021-set3-q114",
+  "verdict": "different",
+  "reason": "Half duplex definition vs full duplex definition; different answers."
+ },
+ {
+  "a": "2021-set2-q161",
+  "b": "2021-set5-q121",
+  "verdict": "paraphrase",
+  "reason": "Both define half duplex: two-way transmission but not simultaneously."
+ },
+ {
+  "a": "2021-set2-q162",
+  "b": "2021-set3-q159",
+  "verdict": "different",
+  "reason": "Full forms of different protocols (DVMRP vs WDMA)."
+ },
+ {
+  "a": "2021-set2-q166",
+  "b": "2021-set4-q160",
+  "verdict": "different",
+  "reason": "Different match-the-following content."
+ },
+ {
+  "a": "2021-set2-q166",
+  "b": "2021-set4-q168",
+  "verdict": "different",
+  "reason": "Different match-the-following content (firewalls vs unknown list)."
+ },
+ {
+  "a": "2021-set2-q172",
+  "b": "2021-set4-q170",
+  "verdict": "concept",
+  "reason": "Both test AVL rotation classification: LL/RR single, LR/RL double."
+ },
+ {
+  "a": "2021-set2-q174",
+  "b": "2021-set2-q175",
+  "verdict": "different",
+  "reason": "AVL insertion vs BST preorder-to-postorder conversion; different tasks."
+ },
+ {
+  "a": "2021-set2-q178",
+  "b": "2021-set3-q175",
+  "verdict": "different",
+  "reason": "Full forms of different terms (GPRS vs GSM)."
+ },
+ {
+  "a": "2021-set2-q181",
+  "b": "2021-set2-q182",
+  "verdict": "different",
+  "reason": "RGB to CMY conversion vs 2D scaling; different concepts."
+ },
+ {
+  "a": "2021-set2-q181",
+  "b": "2021-set3-q042",
+  "verdict": "different",
+  "reason": "Colour model conversion vs arithmetic simplification."
+ },
+ {
+  "a": "2021-set2-q181",
+  "b": "2021-set4-q179",
+  "verdict": "concept",
+  "reason": "Both apply CMY = 1 - RGB conversion formula."
+ },
+ {
+  "a": "2021-set2-q189",
+  "b": "2021-set4-q041",
+  "verdict": "different",
+  "reason": "Median problem vs BODMAS simplification."
+ },
+ {
+  "a": "2021-set2-q195",
+  "b": "2021-set2-q196",
+  "verdict": "different",
+  "reason": "First step of language learning vs classroom listening-speaking activities."
+ },
+ {
+  "a": "2021-set3-q001",
+  "b": "2021-set5-q001",
+  "verdict": "different",
+  "reason": "Monuments in different states (Telangana vs Gujarat)."
+ },
+ {
+  "a": "2021-set3-q002",
+  "b": "2021-set5-q002",
+  "verdict": "concept",
+  "reason": "Both test Natya Shastra instrument classification (tata, sushir, avanaddha)."
+ },
+ {
+  "a": "2021-set3-q021",
+  "b": "2021-set3-q022",
+  "verdict": "different",
+  "reason": "Different letter-number series patterns."
+ },
+ {
+  "a": "2021-set3-q021",
+  "b": "2021-set5-q022",
+  "verdict": "different",
+  "reason": "Different letter series patterns."
+ },
+ {
+  "a": "2021-set3-q022",
+  "b": "2021-set5-q022",
+  "verdict": "different",
+  "reason": "Different letter series patterns."
+ },
+ {
+  "a": "2021-set3-q023",
+  "b": "2021-set3-q025",
+  "verdict": "different",
+  "reason": "Odd letter pair vs letter group analogy; different patterns."
+ },
+ {
+  "a": "2021-set3-q023",
+  "b": "2021-set5-q038",
+  "verdict": "different",
+  "reason": "Letter pair odd one vs figure analogy."
+ },
+ {
+  "a": "2021-set3-q026",
+  "b": "2021-set4-q026",
+  "verdict": "different",
+  "reason": "Letter-position coding vs sum-based coding; different coding rules."
+ },
+ {
+  "a": "2021-set3-q027",
+  "b": "2021-set5-q027",
+  "verdict": "different",
+  "reason": "Different blood relation puzzles with different answers."
+ },
+ {
+  "a": "2021-set3-q029",
+  "b": "2021-set4-q027",
+  "verdict": "different",
+  "reason": "Different circular seating arrangements."
+ },
+ {
+  "a": "2021-set3-q029",
+  "b": "2021-set5-q029",
+  "verdict": "different",
+  "reason": "Different circular seating arrangements."
+ },
+ {
+  "a": "2021-set3-q029",
+  "b": "2023-06-24-s2-q001",
+  "verdict": "different",
+  "reason": "Different circular seating arrangements."
+ },
+ {
+  "a": "2021-set3-q030",
+  "b": "2021-set5-q031",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set3-q031",
+  "b": "2021-set4-q030",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set3-q031",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogisms with different statements and answers."
+ },
+ {
+  "a": "2021-set3-q032",
+  "b": "2021-set3-q038",
+  "verdict": "different",
+  "reason": "Missing number vs odd figure pair; different tasks."
+ },
+ {
+  "a": "2021-set3-q032",
+  "b": "2021-set5-q032",
+  "verdict": "different",
+  "reason": "Different missing-number puzzles with different answers."
+ },
+ {
+  "a": "2021-set3-q033",
+  "b": "2021-set4-q032",
+  "verdict": "different",
+  "reason": "Symbol substitution with different mappings; finding correct vs false equation."
+ },
+ {
+  "a": "2021-set3-q035",
+  "b": "2021-set4-q035",
+  "verdict": "different",
+  "reason": "Different Venn diagrams and statements."
+ },
+ {
+  "a": "2021-set3-q035",
+  "b": "2021-set5-q035",
+  "verdict": "different",
+  "reason": "Different Venn diagrams and statements."
+ },
+ {
+  "a": "2021-set3-q037",
+  "b": "2021-set4-q037",
+  "verdict": "different",
+  "reason": "Rotation direction problem vs distance-direction problem."
+ },
+ {
+  "a": "2021-set3-q038",
+  "b": "2021-set4-q023",
+  "verdict": "different",
+  "reason": "Odd figure pair vs odd word; different tasks."
+ },
+ {
+  "a": "2021-set3-q038",
+  "b": "2021-set4-q025",
+  "verdict": "different",
+  "reason": "Odd figure pair vs letter-pair analogy."
+ },
+ {
+  "a": "2021-set3-q038",
+  "b": "2021-set4-q038",
+  "verdict": "different",
+  "reason": "Odd figure pair vs wrong figure in series."
+ },
+ {
+  "a": "2021-set3-q038",
+  "b": "2021-set5-q023",
+  "verdict": "different",
+  "reason": "Odd figure pair vs odd word."
+ },
+ {
+  "a": "2021-set3-q038",
+  "b": "2021-set5-q025",
+  "verdict": "different",
+  "reason": "Odd figure pair vs letter-pair analogy."
+ },
+ {
+  "a": "2021-set3-q038",
+  "b": "2021-set5-q032",
+  "verdict": "different",
+  "reason": "Odd figure pair vs missing number."
+ },
+ {
+  "a": "2021-set3-q039",
+  "b": "2023-06-24-s2-q014",
+  "verdict": "different",
+  "reason": "Pattern completion vs embedded figure; different tasks."
+ },
+ {
+  "a": "2021-set3-q040",
+  "b": "2021-set4-q039",
+  "verdict": "different",
+  "reason": "Different cube painting setups and counts asked."
+ },
+ {
+  "a": "2021-set3-q042",
+  "b": "2021-set4-q041",
+  "verdict": "different",
+  "reason": "Different arithmetic simplifications."
+ },
+ {
+  "a": "2021-set3-q042",
+  "b": "2021-set4-q179",
+  "verdict": "different",
+  "reason": "Arithmetic simplification vs colour model conversion."
+ },
+ {
+  "a": "2021-set3-q044",
+  "b": "2021-set4-q042",
+  "verdict": "different",
+  "reason": "Divisibility by 15 vs divisibility by 36; different rules."
+ },
+ {
+  "a": "2021-set3-q046",
+  "b": "2021-set4-q046",
+  "verdict": "concept",
+  "reason": "Both apply discount% = (MP - SP)/MP x 100 using MP and SP relation."
+ },
+ {
+  "a": "2021-set3-q049",
+  "b": "2021-set4-q049",
+  "verdict": "concept",
+  "reason": "Both derive CP from SP at a given loss%, then compute new SP/profit."
+ },
+ {
+  "a": "2021-set3-q049",
+  "b": "2021-set5-q049",
+  "verdict": "different",
+  "reason": "Finding new SP from loss vs ratio of SPs from CPs; different problems."
+ },
+ {
+  "a": "2021-set3-q050",
+  "b": "2021-set5-q043",
+  "verdict": "different",
+  "reason": "Ratio from sum and difference vs HCF-product problem."
+ },
+ {
+  "a": "2021-set3-q050",
+  "b": "2021-set5-q050",
+  "verdict": "different",
+  "reason": "Ratio from sum/difference vs sum of squares from ratio."
+ },
+ {
+  "a": "2021-set3-q051",
+  "b": "2021-set4-q044",
+  "verdict": "different",
+  "reason": "Ratio of pairwise sums vs LCM problem."
+ },
+ {
+  "a": "2021-set3-q052",
+  "b": "2021-set5-q052",
+  "verdict": "different",
+  "reason": "SI time at same rate vs SI difference across years; different problems."
+ },
+ {
+  "a": "2021-set3-q052",
+  "b": "2023-06-24-s2-q051",
+  "verdict": "different",
+  "reason": "Different simple interest problems with different unknowns."
+ },
+ {
+  "a": "2021-set3-q053",
+  "b": "2023-06-24-s2-q054",
+  "verdict": "different",
+  "reason": "Different boat-stream problems (given speeds vs equal-time ratio)."
+ },
+ {
+  "a": "2021-set3-q055",
+  "b": "2021-set5-q055",
+  "verdict": "different",
+  "reason": "Wage share by work done vs finding third worker's time."
+ },
+ {
+  "a": "2021-set3-q057",
+  "b": "2021-set4-q057",
+  "verdict": "concept",
+  "reason": "Both use volume conservation when a solid hemisphere is melted and recast."
+ },
+ {
+  "a": "2021-set3-q057",
+  "b": "2021-set5-q057",
+  "verdict": "concept",
+  "reason": "Both count solids formed by melting and recasting via volume equality (hemisphere/cone)."
+ },
+ {
+  "a": "2021-set3-q063",
+  "b": "2021-set3-q065",
+  "verdict": "different",
+  "reason": "Suffix-based word vs incorrect word pair; different topics."
+ },
+ {
+  "a": "2021-set3-q063",
+  "b": "2023-06-24-s2-q097",
+  "verdict": "different",
+  "reason": "Suffix-based word vs synonym; different topics."
+ },
+ {
+  "a": "2021-set3-q064",
+  "b": "2021-set3-q067",
+  "verdict": "different",
+  "reason": "Meanings of different word pairs."
+ },
+ {
+  "a": "2021-set3-q064",
+  "b": "2021-set5-q064",
+  "verdict": "different",
+  "reason": "Meanings of different word pairs."
+ },
+ {
+  "a": "2021-set3-q064",
+  "b": "2021-set5-q066",
+  "verdict": "different",
+  "reason": "Meanings of different word pairs."
+ },
+ {
+  "a": "2021-set3-q065",
+  "b": "2023-06-24-s2-q097",
+  "verdict": "different",
+  "reason": "Word pair vs synonym; different topics."
+ },
+ {
+  "a": "2021-set3-q066",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "One-word substitution vs punctuation."
+ },
+ {
+  "a": "2021-set3-q066",
+  "b": "2021-set4-q064",
+  "verdict": "different",
+  "reason": "One-word substitutions for different phrases."
+ },
+ {
+  "a": "2021-set3-q066",
+  "b": "2021-set4-q067",
+  "verdict": "different",
+  "reason": "One-word substitutions for different phrases."
+ },
+ {
+  "a": "2021-set3-q067",
+  "b": "2021-set4-q065",
+  "verdict": "different",
+  "reason": "Word pair meaning vs antonym."
+ },
+ {
+  "a": "2021-set3-q067",
+  "b": "2021-set5-q064",
+  "verdict": "different",
+  "reason": "Meanings of different word pairs."
+ },
+ {
+  "a": "2021-set3-q067",
+  "b": "2021-set5-q066",
+  "verdict": "different",
+  "reason": "Meanings of different word pairs."
+ },
+ {
+  "a": "2021-set3-q069",
+  "b": "2021-set4-q069",
+  "verdict": "different",
+  "reason": "Sampradan karak markers vs identifying apadan in a sentence; different facts."
+ },
+ {
+  "a": "2021-set3-q070",
+  "b": "2021-set5-q070",
+  "verdict": "concept",
+  "reason": "Both test correct placement of quantifier adjective (kai/ek) before the noun in a sentence."
+ },
+ {
+  "a": "2021-set3-q072",
+  "b": "2021-set3-q073",
+  "verdict": "different",
+  "reason": "Semicolon vs exclamation mark; different rules."
+ },
+ {
+  "a": "2021-set3-q072",
+  "b": "2021-set4-q072",
+  "verdict": "different",
+  "reason": "Semicolon vs exclamation mark; different rules."
+ },
+ {
+  "a": "2021-set3-q073",
+  "b": "2021-set4-q064",
+  "verdict": "different",
+  "reason": "Punctuation vs one-word substitution."
+ },
+ {
+  "a": "2021-set3-q073",
+  "b": "2021-set4-q066",
+  "verdict": "different",
+  "reason": "Punctuation vs spelling."
+ },
+ {
+  "a": "2021-set3-q073",
+  "b": "2021-set4-q072",
+  "verdict": "concept",
+  "reason": "Both test exclamation mark for exclamatory/surprise sentence."
+ },
+ {
+  "a": "2021-set3-q073",
+  "b": "2021-set4-q073",
+  "verdict": "different",
+  "reason": "Exclamation mark vs question mark; different rules."
+ },
+ {
+  "a": "2021-set3-q073",
+  "b": "2021-set5-q072",
+  "verdict": "concept",
+  "reason": "Both test exclamation mark (vismayadibodhak) after interjection."
+ },
+ {
+  "a": "2021-set3-q073",
+  "b": "2021-set5-q073",
+  "verdict": "different",
+  "reason": "Exclamation mark vs question mark; different rules."
+ },
+ {
+  "a": "2021-set3-q074",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different idioms."
+ }
+]

@@ -1,0 +1,500 @@
+{
+ "slug": "learning-teaching",
+ "subject": "Teaching Methodology",
+ "topic": "Learning & Teaching",
+ "titleHi": "अधिगम एवं शिक्षण",
+ "summary": "Covers how children learn and how teachers teach: behaviourist, cognitive and constructivist theories (Pavlov, Thorndike, Skinner, Piaget, Vygotsky, Bruner, Bandura), teaching approaches, methods and maxims, motivation theories, and Bloom's taxonomy with writing of instructional objectives. Theory–thinker matching, Piaget's stage ages and Bloom's levels are among the most frequently asked pedagogy questions.",
+ "sections": [
+  {
+   "heading": "What is learning? Three big schools of thought",
+   "level": "basic",
+   "subtopic": "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "body": "**Learning** is a relatively permanent change in behaviour or in mental structures that results from experience or practice (not from maturation, fatigue, illness or drugs).\nKey features: it is a continuous, lifelong process; it is purposeful and goal-directed; it can be positive or negative; it transfers to new situations; and it is affected by readiness, motivation, the learner's previous knowledge and the environment.\nLearning theories fall into three broad families:\n- **Behaviourism** – learning is a change in observable behaviour produced by stimulus–response (S–R) connections and reinforcement. The learner is relatively passive.\n- **Cognitivism** – learning is a change in internal mental processes (perception, insight, memory, information processing).\n- **Constructivism** – the learner actively builds (constructs) knowledge by connecting new experiences with prior knowledge; it may be individual (Piaget) or social (Vygotsky).\nNCF 2005 adopts a **constructivist** view: children are active learners, and teachers are facilitators who connect knowledge to life outside school.",
+   "table": {
+    "columns": [
+     "School",
+     "Key thinkers",
+     "Learner is",
+     "Teacher is"
+    ],
+    "rows": [
+     [
+      "Behaviourism",
+      "Pavlov, Thorndike, Watson, Skinner",
+      "Passive responder",
+      "Controller of stimuli and reinforcement"
+     ],
+     [
+      "Cognitivism",
+      "Köhler (Gestalt), Ausubel, Bruner",
+      "Information processor",
+      "Organiser of material"
+     ],
+     [
+      "Constructivism",
+      "Piaget, Vygotsky, Bruner",
+      "Active constructor of meaning",
+      "Facilitator, scaffold"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Behaviourism: Pavlov and Thorndike",
+   "level": "basic",
+   "subtopic": "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "body": "**Ivan Pavlov – Classical conditioning** (experiments on dogs and salivation). A neutral stimulus (bell) is repeatedly paired with an **unconditioned stimulus** (food) that naturally produces an **unconditioned response** (salivation). The bell becomes a **conditioned stimulus** and produces a **conditioned response**.\n- **Extinction**: CS presented repeatedly without UCS → CR weakens.\n- **Spontaneous recovery**: an extinguished response reappears after a rest.\n- **Generalisation**: responding to similar stimuli; **discrimination**: responding only to the specific stimulus.\n- Classroom link: a child who was humiliated in a computer lab may develop anxiety about labs (conditioned fear). J.B. Watson's \"Little Albert\" study showed fear can be conditioned.\n**E.L. Thorndike – Connectionism / trial-and-error learning** (cat in a puzzle box). Learning is the strengthening of S–R bonds. His three primary laws:\n- **Law of Readiness** – learning is satisfying when the learner is ready to act.\n- **Law of Exercise** – use strengthens and disuse weakens connections (practice).\n- **Law of Effect** – responses followed by satisfaction are strengthened; those followed by discomfort are weakened.",
+   "diagram": {
+    "title": "Classical conditioning",
+    "ascii": "Before:  Food (UCS) ---------> Salivation (UCR)\n         Bell (NS)  ---------> no salivation\nDuring:  Bell + Food --------> Salivation\nAfter:   Bell (CS)  ---------> Salivation (CR)"
+   }
+  },
+  {
+   "heading": "Skinner: operant conditioning",
+   "level": "intermediate",
+   "subtopic": "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "body": "**B.F. Skinner** studied rats and pigeons in the **Skinner box**. In **operant conditioning** behaviour is controlled by its **consequences**: the organism first emits a response, then is reinforced or punished.\n- **Reinforcement** always *increases* the behaviour. **Positive** reinforcement adds something pleasant (praise, marks); **negative** reinforcement removes something unpleasant (excusing homework when work is complete).\n- **Punishment** always *decreases* the behaviour. Negative reinforcement is **not** punishment.\n- **Shaping**: reinforcing successive approximations of the target behaviour.\n- **Schedules**: continuous reinforcement gives fast learning; partial (intermittent) schedules – fixed ratio, variable ratio, fixed interval, variable interval – give behaviour that is more resistant to extinction. **Variable ratio** produces the highest, steadiest response rate.\n- Educational applications: **programmed instruction** (small steps, active response, immediate feedback, self-pacing), **teaching machines**, behaviour modification, and today's computer-assisted instruction and drill software.",
+   "table": {
+    "columns": [
+     "",
+     "Add a stimulus",
+     "Remove a stimulus"
+    ],
+    "rows": [
+     [
+      "Behaviour increases",
+      "Positive reinforcement",
+      "Negative reinforcement"
+     ],
+     [
+      "Behaviour decreases",
+      "Positive punishment",
+      "Negative punishment (e.g. loss of lab time)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Piaget: cognitive development and constructivism",
+   "level": "intermediate",
+   "subtopic": "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "body": "**Jean Piaget** (Swiss) explained how thinking develops through four invariant stages. Key concepts:\n- **Schema** – an organised pattern of thought or action.\n- **Assimilation** – fitting new information into an existing schema.\n- **Accommodation** – changing a schema to fit new information.\n- **Equilibration** – the drive to balance assimilation and accommodation; disequilibrium (cognitive conflict) motivates learning.\nImplications: match tasks to the child's stage, use concrete materials before abstractions, create cognitive conflict, encourage discovery and peer interaction. Piaget saw the child as a \"little scientist\"; development precedes learning. Ages are approximate averages; the **sequence** is fixed but the timing varies.",
+   "table": {
+    "columns": [
+     "Stage",
+     "Approx. age",
+     "Key features"
+    ],
+    "rows": [
+     [
+      "Sensorimotor",
+      "0–2 years",
+      "Learning through senses and actions; object permanence develops; goal-directed behaviour"
+     ],
+     [
+      "Pre-operational",
+      "2–7 years",
+      "Symbolic thought, language, pretend play; egocentrism, animism, centration, irreversibility; no conservation"
+     ],
+     [
+      "Concrete operational",
+      "7–11 years",
+      "Conservation, reversibility, classification, seriation; logical thinking about concrete objects"
+     ],
+     [
+      "Formal operational",
+      "11 years onwards",
+      "Abstract and hypothetico-deductive reasoning; propositional thought"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Vygotsky: socio-cultural theory",
+   "level": "intermediate",
+   "subtopic": "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "body": "**Lev Vygotsky** (Russian) held that learning is a **social** process that comes before and drives development.\n- **Zone of Proximal Development (ZPD)** – the gap between what a learner can do alone and what he/she can do with guidance from a more capable person.\n- **More Knowledgeable Other (MKO)** – teacher, parent, older child or peer who provides guidance.\n- **Scaffolding** – temporary, adjustable support that is gradually withdrawn as competence grows. (The term itself was introduced by Wood, Bruner and Ross in 1976, building on Vygotsky's ideas.)\n- **Language** is the main cultural tool of thought: social speech → **private speech** (talking to oneself) → inner speech. Private speech helps children regulate their behaviour.\n- Culture and cultural tools shape cognition.\nImplications: group work, peer tutoring, reciprocal teaching, collaborative problem solving and dynamic assessment.",
+   "table": {
+    "columns": [
+     "Point",
+     "Piaget",
+     "Vygotsky"
+    ],
+    "rows": [
+     [
+      "Nature of constructivism",
+      "Cognitive / individual",
+      "Social / cultural"
+     ],
+     [
+      "Development vs learning",
+      "Development precedes learning",
+      "Learning leads development"
+     ],
+     [
+      "Private speech",
+      "Egocentric, disappears with age",
+      "Tool for self-regulation, becomes inner speech"
+     ],
+     [
+      "Role of adults/peers",
+      "Peers create cognitive conflict",
+      "MKO scaffolds within ZPD"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Bruner, Bandura, Gestalt and Ausubel",
+   "level": "intermediate",
+   "subtopic": "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "body": "**Jerome Bruner** – cognitive constructivist.\n- Three **modes of representation**: **enactive** (action-based), **iconic** (image-based), **symbolic** (language/symbols). Teach in this order where possible.\n- **Discovery learning** – learners find principles themselves through guided exploration.\n- **Spiral curriculum** – revisit the same ideas at increasing levels of complexity. His claim (The Process of Education, 1960): any subject can be taught effectively in some intellectually honest form to any child at any stage of development.\n**Albert Bandura – Social (observational) learning**: learning by watching models (Bobo doll experiment). Four processes: **attention, retention, reproduction, motivation**. Key ideas: vicarious reinforcement, modelling, self-efficacy.\n**Gestalt psychology** (Wertheimer, Köhler, Koffka) – the whole is more than the sum of its parts; **insight learning** (Köhler's chimpanzee Sultan) is sudden understanding after perceiving relationships.\n**David Ausubel** – **meaningful reception learning**: new material is anchored to what the learner already knows; use **advance organisers** to introduce a lesson.",
+   "table": {
+    "columns": [
+     "Bruner's mode",
+     "Example: teaching sorting"
+    ],
+    "rows": [
+     [
+      "Enactive",
+      "Students physically rearrange themselves by height"
+     ],
+     [
+      "Iconic",
+      "A picture/animation showing cards being swapped"
+     ],
+     [
+      "Symbolic",
+      "Pseudocode or Python code of bubble sort"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Approaches: teacher-, learner- and subject-centred",
+   "level": "basic",
+   "subtopic": "Teaching methods & strategies",
+   "body": "- **Teacher-centred** approach: the teacher is the main source of knowledge; methods are lecture, narration, demonstration. Efficient for large content but students are passive.\n- **Learner-centred (child-centred)** approach: learning by doing; students are engaged through activities, projects, discussion and inquiry; the teacher facilitates. Supported by Rousseau, Froebel, Montessori, Dewey and NCF 2005.\n- **Subject-centred** approach: both teacher and students work strictly within the prescribed content or textbook; coverage of syllabus is the goal.\n- **Discipline-centred** approach organises learning around the structure of an academic discipline.\n**Elements of an effective learning activity**: spontaneous (voluntary) involvement, a suitable level of challenge, clear purpose, relevance to life, opportunities for interaction and feedback.\n**Phases of teaching** (P.W. Jackson): **pre-active** (planning), **interactive** (classroom delivery), **post-active** (evaluation and reflection).\n**Levels of teaching**: memory level (Herbart), understanding level (Morrison), reflective level (Hunt) – the reflective level is the highest and most learner-centred."
+  },
+  {
+   "heading": "Teaching methods",
+   "level": "intermediate",
+   "subtopic": "Teaching methods & strategies",
+   "body": "A **method** is a planned procedure for teaching; a **strategy** is the broader plan for achieving objectives; a **technique** is a specific classroom device (questioning, brainstorming).",
+   "table": {
+    "columns": [
+     "Method",
+     "Associated with / key idea",
+     "Best used for"
+    ],
+    "rows": [
+     [
+      "Lecture",
+      "Teacher explains; one-way",
+      "Introducing theory to large groups"
+     ],
+     [
+      "Demonstration",
+      "Teacher shows a process",
+      "Software tools, lab procedures"
+     ],
+     [
+      "Project method",
+      "W.H. Kilpatrick, based on Dewey's pragmatism",
+      "Real-life purposeful tasks, e.g. building a school website"
+     ],
+     [
+      "Heuristic method",
+      "H.E. Armstrong; learner as discoverer",
+      "Science / inquiry"
+     ],
+     [
+      "Problem-solving",
+      "Dewey's reflective thinking steps",
+      "Algorithms, debugging"
+     ],
+     [
+      "Inquiry / discovery",
+      "Bruner",
+      "Concept formation"
+     ],
+     [
+      "Discussion / Socratic",
+      "Questioning to draw out ideas",
+      "Ethics, cyber safety"
+     ],
+     [
+      "Cooperative learning",
+      "Jigsaw (Elliot Aronson), think-pair-share",
+      "Peer learning in mixed groups"
+     ],
+     [
+      "Programmed instruction",
+      "Skinner; small steps, feedback",
+      "Self-paced drill"
+     ],
+     [
+      "Flipped classroom",
+      "Content at home, practice in class",
+      "Blended learning"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Maxims of teaching and inductive–deductive approach",
+   "level": "basic",
+   "subtopic": "Teaching methods & strategies",
+   "body": "**Maxims of teaching** are time-tested guiding principles:\n- Known to unknown\n- Simple to complex\n- Concrete to abstract\n- Particular to general\n- Whole to part (Gestalt view)\n- Seen to unseen, empirical to rational, psychological to logical, analysis to synthesis\n**Inductive approach**: examples → rule (particular to general). It is learner-centred, encourages discovery and is better for beginners, but slower.\n**Deductive approach**: rule → examples (general to particular). It is quick and suits revision and higher classes, but can encourage rote learning.\nIn practice the **inducto-deductive** approach is preferred: discover the rule from examples, then apply it to new cases.\nExample (CS): show students several decimal numbers and their binary equivalents and let them discover the repeated-division-by-2 rule (inductive), then give them new numbers to convert (deductive application)."
+  },
+  {
+   "heading": "Motivation",
+   "level": "intermediate",
+   "subtopic": "Motivation",
+   "body": "**Motivation** is the internal state that arouses, directs and sustains behaviour towards a goal.\n- **Intrinsic** motivation comes from interest, curiosity and enjoyment of the task itself; it produces deeper, longer-lasting learning.\n- **Extrinsic** motivation comes from outside rewards or pressures (marks, prizes, fear of punishment). Over-use of rewards can weaken intrinsic interest.\n**Maslow's hierarchy of needs**: physiological → safety → love/belonging → esteem → self-actualisation. The first four are deficiency needs; self-actualisation is a growth need. A hungry or frightened child cannot focus on learning.\n**McClelland**: needs for **achievement**, **affiliation** and **power**. High achievers prefer moderately difficult tasks.\n**Weiner's attribution theory**: how students explain success/failure – along **locus** (internal/external), **stability** and **controllability**. Attributing failure to effort (internal, unstable, controllable) is the healthiest pattern.\n**Self-determination theory** (Deci & Ryan): needs for **autonomy, competence and relatedness**.\n**Classroom strategies**: set clear, achievable goals; give specific feedback and praise effort; arouse curiosity; offer choice; connect tasks to real life (e.g. coding a game); use cooperative rather than only competitive structures.",
+   "diagram": {
+    "title": "Maslow's hierarchy",
+    "ascii": "          /\\\n         /SA\\        Self-actualisation (growth)\n        /----\\\n       /Esteem\\\n      /--------\\\n     /Love/Belong\\\n    /-------------\\\n   /    Safety     \\\n  /-----------------\\\n /   Physiological   \\\n/---------------------\\"
+   }
+  },
+  {
+   "heading": "Bloom's taxonomy: cognitive domain",
+   "level": "intermediate",
+   "subtopic": "Bloom's taxonomy & objectives",
+   "body": "**Benjamin Bloom** and colleagues (1956) classified educational objectives into three domains: **cognitive** (thinking), **affective** (feelings, attitudes), **psychomotor** (physical skills).\n**Original cognitive levels (1956)**, lowest to highest: Knowledge → Comprehension → Application → Analysis → Synthesis → Evaluation.\n**Revised taxonomy (Anderson & Krathwohl, 2001)** uses verbs and moves \"create\" to the top: **Remember → Understand → Apply → Analyse → Evaluate → Create**. It also adds a **knowledge dimension**: factual, conceptual, procedural and metacognitive.\n**Affective domain** (Krathwohl et al., 1964): Receiving → Responding → Valuing → Organisation → Characterisation by a value (complex).\n**Psychomotor domain**: several versions exist. R.H. Dave's: Imitation → Manipulation → Precision → Articulation → Naturalisation. (Simpson and Harrow gave other versions; textbooks differ.)",
+   "table": {
+    "columns": [
+     "Revised level",
+     "Typical verbs",
+     "CS example"
+    ],
+    "rows": [
+     [
+      "Remember",
+      "define, list, recall",
+      "List the logic gates"
+     ],
+     [
+      "Understand",
+      "explain, classify, summarise",
+      "Explain why a loop terminates"
+     ],
+     [
+      "Apply",
+      "use, execute, implement",
+      "Convert 45 to binary"
+     ],
+     [
+      "Analyse",
+      "compare, debug, differentiate",
+      "Find the error in a given program"
+     ],
+     [
+      "Evaluate",
+      "judge, justify, critique",
+      "Choose the better algorithm and justify"
+     ],
+     [
+      "Create",
+      "design, construct, develop",
+      "Write a program for a library system"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Writing instructional objectives",
+   "level": "advanced",
+   "subtopic": "Bloom's taxonomy & objectives",
+   "body": "**Aims** are broad, long-term goals (e.g. \"develop computational thinking\"). **Objectives** are specific, short-term and measurable statements of what the learner will be able to do at the end of a lesson.\n**Behavioural (specific) objectives** use observable action verbs – \"write\", \"identify\", \"convert\" – not vague ones such as \"know\", \"understand\" or \"appreciate\".\n**Robert Mager's** objective has three parts: **performance** (what the learner does), **condition** (under what circumstances) and **criterion** (how well). The **ABCD** format adds **Audience**:\n- A – Audience: Class IX students\n- B – Behaviour: will convert decimal numbers to binary\n- C – Condition: without using a calculator\n- D – Degree: with at least 8 out of 10 correct\n**RCEM approach** (Regional College of Education, Mysore) is an Indian system of writing objectives with mental-process categories; it is mentioned in some B.Ed texts.\nGood objectives guide the choice of method, learning experiences and assessment items, making teaching, learning and evaluation aligned (the \"triangle\" of objectives, learning experiences and evaluation)."
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "A teacher tells students that anyone who finishes the lab task correctly will not have to write the lab record that day, and lab completion rises. Identify the learning principle.",
+   "solution": "- The behaviour (completing the lab task) **increased**, so it is reinforcement, not punishment.\n- Something unpleasant (writing the record) was **removed**.\n- Removing an unpleasant stimulus to increase behaviour = **negative reinforcement** (Skinner's operant conditioning)."
+  },
+  {
+   "problem": "A 5-year-old insists that the moon follows her when she walks, and a taller narrow glass holds 'more juice' than a short wide one with the same amount. Name the stage and the features shown.",
+   "solution": "- Age 5 lies in Piaget's **pre-operational stage (2–7 years)**.\n- \"The moon follows me\" = **animism / egocentrism**.\n- Judging by height alone = **centration**, showing **lack of conservation**.\n- Answer: pre-operational stage."
+  },
+  {
+   "problem": "Classify these objectives under the revised Bloom's taxonomy: (a) state the full form of CPU; (b) find the logical error in a given loop; (c) design a quiz app; (d) justify which of two search algorithms is better for sorted data.",
+   "solution": "- (a) recalling a fact → **Remember**\n- (b) examining parts to find a fault → **Analyse**\n- (c) producing a new product → **Create**\n- (d) making a judgement with reasons → **Evaluate**"
+  },
+  {
+   "problem": "A student cannot write a nested loop alone but succeeds when the teacher gives a partly completed template and hints, which are then removed over three classes. Which theory and concepts explain this?",
+   "solution": "- The task lies inside the learner's **Zone of Proximal Development**: not possible alone, possible with help.\n- The teacher acts as the **More Knowledgeable Other**.\n- The template and hints are **scaffolding**, gradually withdrawn (fading).\n- Theory: **Vygotsky's socio-cultural theory**."
+  },
+  {
+   "problem": "Rewrite the vague objective \"Students will understand binary numbers\" as a behavioural objective in ABCD form.",
+   "solution": "- Audience: Students of Class IX\n- Behaviour: will convert 8-bit binary numbers to decimal\n- Condition: using place values, without a calculator\n- Degree: correctly in at least 8 of 10 questions\n- Objective: \"Given ten 8-bit binary numbers, Class IX students will convert them to decimal without a calculator, getting at least 8 correct.\" The verb 'convert' is observable, unlike 'understand'."
+  }
+ ],
+ "pitfalls": [
+  "Negative reinforcement is not punishment: reinforcement (positive or negative) always increases a behaviour.",
+  "Pre-operational stage is 2–7 years and concrete operational is 7–11 years; do not swap them. Conservation appears only in the concrete operational stage.",
+  "Piaget divided cognitive development (not moral or socio-emotional development) into four stages.",
+  "Scaffolding as a term was coined by Wood, Bruner and Ross (1976); ZPD is Vygotsky's own concept.",
+  "Bruner's modes are enactive → iconic → symbolic, in that order; 'spiral curriculum' is Bruner's, not Piaget's.",
+  "In the original Bloom's taxonomy Evaluation is the highest level; in the 2001 revision Create is the highest.",
+  "Words like 'know', 'understand' and 'appreciate' are not behavioural verbs; objectives need observable verbs.",
+  "The project method is credited to Kilpatrick (a student of Dewey), and the heuristic method to Armstrong.",
+  "Subject-centred means strict confinement to prescribed content/textbook; learner-centred means learning by doing through activities.",
+  "Thorndike's three primary laws are Readiness, Exercise and Effect; 'insight' belongs to Gestalt (Köhler)."
+ ],
+ "quickRevision": [
+  "Learning = relatively permanent change in behaviour due to experience.",
+  "Pavlov: classical conditioning (dogs, bell); Thorndike: trial and error (cats, puzzle box); Skinner: operant conditioning (rats/pigeons, Skinner box).",
+  "Thorndike's laws: Readiness, Exercise, Effect.",
+  "Piaget's stages: sensorimotor 0–2, pre-operational 2–7, concrete operational 7–11, formal operational 11+.",
+  "Piaget: schema, assimilation, accommodation, equilibration.",
+  "Vygotsky: ZPD, MKO, scaffolding, private speech; learning leads development.",
+  "Bruner: enactive–iconic–symbolic; discovery learning; spiral curriculum.",
+  "Bandura: observational learning – attention, retention, reproduction, motivation.",
+  "Köhler: insight learning (Gestalt); Ausubel: advance organisers.",
+  "Kilpatrick: project method; Armstrong: heuristic method; Aronson: jigsaw.",
+  "Phases of teaching: pre-active, interactive, post-active (Jackson).",
+  "Maslow: physiological, safety, belonging, esteem, self-actualisation.",
+  "Bloom (1956): knowledge, comprehension, application, analysis, synthesis, evaluation.",
+  "Revised Bloom (2001): remember, understand, apply, analyse, evaluate, create.",
+  "Mager objective: performance, condition, criterion (ABCD adds audience)."
+ ],
+ "flashcards": [
+  {
+   "front": "Stage of Piaget for ages 2–7?",
+   "back": "Pre-operational stage"
+  },
+  {
+   "front": "Changing an existing schema to fit new information is called?",
+   "back": "Accommodation"
+  },
+  {
+   "front": "Who gave the Zone of Proximal Development?",
+   "back": "Lev Vygotsky"
+  },
+  {
+   "front": "Bruner's three modes of representation?",
+   "back": "Enactive, iconic, symbolic"
+  },
+  {
+   "front": "Removing an unpleasant stimulus to increase behaviour?",
+   "back": "Negative reinforcement"
+  },
+  {
+   "front": "Which reinforcement schedule is most resistant to extinction?",
+   "back": "Variable ratio (intermittent schedules in general)"
+  },
+  {
+   "front": "Thorndike's three primary laws?",
+   "back": "Readiness, Exercise, Effect"
+  },
+  {
+   "front": "Who experimented with chimpanzee Sultan?",
+   "back": "Wolfgang Köhler – insight learning"
+  },
+  {
+   "front": "Four processes of observational learning?",
+   "back": "Attention, retention, reproduction, motivation (Bandura)"
+  },
+  {
+   "front": "Who is associated with the project method?",
+   "back": "W.H. Kilpatrick"
+  },
+  {
+   "front": "Highest level of revised Bloom's taxonomy?",
+   "back": "Create"
+  },
+  {
+   "front": "Who revised Bloom's taxonomy in 2001?",
+   "back": "Anderson and Krathwohl"
+  },
+  {
+   "front": "Highest level of the affective domain?",
+   "back": "Characterisation by a value (or value complex)"
+  },
+  {
+   "front": "Three phases of teaching?",
+   "back": "Pre-active, interactive, post-active"
+  },
+  {
+   "front": "Learning by doing through student activities belongs to which approach?",
+   "back": "Student/learner-centred approach"
+  },
+  {
+   "front": "Top of Maslow's hierarchy?",
+   "back": "Self-actualisation"
+  },
+  {
+   "front": "Three needs in self-determination theory?",
+   "back": "Autonomy, competence, relatedness"
+  },
+  {
+   "front": "Advance organisers were proposed by?",
+   "back": "David Ausubel"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Learning",
+   "hi": "अधिगम"
+  },
+  {
+   "en": "Conditioning",
+   "hi": "अनुबंधन"
+  },
+  {
+   "en": "Reinforcement",
+   "hi": "पुनर्बलन"
+  },
+  {
+   "en": "Punishment",
+   "hi": "दंड"
+  },
+  {
+   "en": "Schema",
+   "hi": "स्कीमा / अवधारणात्मक ढाँचा"
+  },
+  {
+   "en": "Assimilation",
+   "hi": "आत्मसात्करण"
+  },
+  {
+   "en": "Accommodation",
+   "hi": "समायोजन"
+  },
+  {
+   "en": "Zone of Proximal Development",
+   "hi": "समीपस्थ विकास का क्षेत्र"
+  },
+  {
+   "en": "Scaffolding",
+   "hi": "पाड़ / आधार प्रदान करना"
+  },
+  {
+   "en": "Insight learning",
+   "hi": "सूझ द्वारा अधिगम"
+  },
+  {
+   "en": "Motivation",
+   "hi": "अभिप्रेरणा"
+  },
+  {
+   "en": "Intrinsic motivation",
+   "hi": "आंतरिक अभिप्रेरणा"
+  },
+  {
+   "en": "Instructional objective",
+   "hi": "अनुदेशात्मक उद्देश्य"
+  },
+  {
+   "en": "Cognitive domain",
+   "hi": "संज्ञानात्मक क्षेत्र"
+  },
+  {
+   "en": "Affective domain",
+   "hi": "भावात्मक क्षेत्र"
+  }
+ ]
+}

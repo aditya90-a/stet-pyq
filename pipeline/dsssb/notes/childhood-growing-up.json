@@ -1,0 +1,421 @@
+{
+ "slug": "childhood-growing-up",
+ "subject": "Teaching Methodology",
+ "topic": "Childhood & Growing Up",
+ "titleHi": "बाल्यावस्था एवं विकास",
+ "summary": "Covers how children grow and develop: principles and stages of development, heredity and environment, Erikson's psychosocial and Kohlberg's moral stages, socialisation and play, intelligence (IQ, theories, intellectual disability ranges), individual differences and creativity, and the needs of adolescents. Stage ages, theorist–theory matching and IQ calculations are regular exam questions.",
+ "sections": [
+  {
+   "heading": "Growth and development",
+   "level": "basic",
+   "subtopic": "Stages of development",
+   "body": "**Growth** is quantitative physical change – increase in height, weight and size. It is measurable and stops at maturity.\n**Development** is qualitative and quantitative change in all domains – physical, cognitive, language, socio-emotional and moral. It is continuous and lifelong.\n**Maturation** is change that unfolds from genetic programming (e.g. walking), largely independent of training.\n**Principles of development**:\n- **Continuity** – development is a continuous process.\n- **Cephalocaudal** – proceeds from head to toe (head control before walking).\n- **Proximodistal** – from the centre of the body outwards (arm control before finger control).\n- **General to specific** – mass movements before specific, refined ones.\n- **Predictable sequence**, but the **rate** differs between individuals (individual differences).\n- **Interrelated domains** – physical, cognitive and social development influence each other.\n- Development is the product of **interaction of heredity and environment**.",
+   "table": {
+    "columns": [
+     "Growth",
+     "Development"
+    ],
+    "rows": [
+     [
+      "Quantitative",
+      "Qualitative and quantitative"
+     ],
+     [
+      "Physical change in size",
+      "Change in all aspects of personality"
+     ],
+     [
+      "Stops at maturity",
+      "Continues throughout life"
+     ],
+     [
+      "Directly measurable",
+      "Observed through changes in behaviour"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Stages of development and heredity–environment",
+   "level": "basic",
+   "subtopic": "Stages of development",
+   "body": "Commonly used stages (age limits vary slightly across textbooks):\n- **Prenatal** – conception to birth\n- **Infancy** – birth to about 2 years\n- **Early childhood** – about 2 to 6 years (pre-school years)\n- **Later childhood** – about 6 to 12 years (the \"gang age\"; elementary school years)\n- **Adolescence** – about 12 to 18 years\n- **Adulthood** – early, middle and late\n**Heredity vs environment (nature vs nurture)**: heredity provides the potential (genes from parents); environment (nutrition, family, school, culture) decides how much of it is realised. Francis Galton emphasised heredity; J.B. Watson famously emphasised environment. Studies of identical twins reared apart are used to separate their effects. The accepted view is **interaction**: development = f(heredity × environment).\nEducational implication: a teacher cannot change heredity but can enrich the environment – nutrition, stimulation, encouragement and good teaching."
+  },
+  {
+   "heading": "Erikson: psychosocial development",
+   "level": "intermediate",
+   "subtopic": "Stages of development",
+   "body": "**Erik Erikson** described eight lifelong stages, each with a psychosocial crisis. Successful resolution gives a basic virtue; ages are approximate.\nSchool teachers deal mainly with stage 4 (**industry vs inferiority**: competence through tasks and praise) and stage 5 (**identity vs role confusion**: the central task of adolescence).\nFreud's psychosexual stages (oral, anal, phallic, latency, genital) are the older psychoanalytic model; Erikson extended it to social relationships and the whole lifespan.",
+   "table": {
+    "columns": [
+     "Stage",
+     "Approx. age",
+     "Crisis"
+    ],
+    "rows": [
+     [
+      "1",
+      "0–1½ years",
+      "Trust vs mistrust"
+     ],
+     [
+      "2",
+      "1½–3 years",
+      "Autonomy vs shame and doubt"
+     ],
+     [
+      "3",
+      "3–5 years",
+      "Initiative vs guilt"
+     ],
+     [
+      "4",
+      "5–12 years",
+      "Industry vs inferiority"
+     ],
+     [
+      "5",
+      "12–18 years",
+      "Identity vs role confusion"
+     ],
+     [
+      "6",
+      "Young adulthood",
+      "Intimacy vs isolation"
+     ],
+     [
+      "7",
+      "Middle adulthood",
+      "Generativity vs stagnation"
+     ],
+     [
+      "8",
+      "Late adulthood",
+      "Integrity vs despair"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Moral development: Piaget and Kohlberg",
+   "level": "intermediate",
+   "subtopic": "Stages of development",
+   "body": "**Piaget**: younger children show **heteronomous morality** (moral realism – rules are fixed, judged by consequences); older children show **autonomous morality** (rules are agreements; intentions matter).\n**Lawrence Kohlberg** used moral dilemmas (the **Heinz dilemma**) and judged the *reasoning*, not the answer. Three levels, six stages:\n- **Pre-conventional**: (1) obedience and punishment orientation; (2) individualism and exchange (instrumental purpose – \"what's in it for me\").\n- **Conventional**: (3) good interpersonal relationships (\"good boy–good girl\"); (4) maintaining social order (law and order).\n- **Post-conventional**: (5) social contract and individual rights; (6) universal ethical principles.\n**Carol Gilligan** criticised Kohlberg's theory as male-biased (based mainly on male participants) and proposed an **ethics of care** alongside the ethics of justice.\nClassroom use: discuss dilemmas (e.g. \"Should you share your friend's password to help him submit work?\"), encourage reasoning one stage above the student's current stage."
+  },
+  {
+   "heading": "Socialisation, ecology and play",
+   "level": "intermediate",
+   "subtopic": "Stages of development",
+   "body": "**Socialisation** is the process by which a child learns the norms, values and behaviour of society. Family is the **primary** agency; school, peers, media and community are **secondary** agencies.\n**Bronfenbrenner's ecological systems theory**: the child is at the centre of nested systems – **microsystem** (family, school, peers), **mesosystem** (links between microsystems, e.g. parent–teacher contact), **exosystem** (settings that affect the child indirectly, e.g. parent's workplace), **macrosystem** (culture, values, laws) and **chronosystem** (changes over time).\n**Play** supports every domain:\n- Physical/motor: running, balance, fine motor control.\n- Cognitive: memory, attention, problem solving, symbolic thinking.\n- Socio-emotional: sharing, turn-taking, expressing feelings, and an opportunity for children to demonstrate their abilities and skills to others, which builds self-esteem.\n- Language: vocabulary and conversation.\n**Mildred Parten's stages of social play**: unoccupied → solitary → onlooker → parallel → associative → cooperative.",
+   "diagram": {
+    "title": "Bronfenbrenner's ecological model",
+    "ascii": "+--------------------------------------------+\n| Macrosystem: culture, values, laws         |\n|  +--------------------------------------+  |\n|  | Exosystem: parent's job, media       |  |\n|  |  +--------------------------------+  |  |\n|  |  | Mesosystem: home-school links  |  |  |\n|  |  |  +--------------------------+  |  |  |\n|  |  |  | Microsystem: family,     |  |  |  |\n|  |  |  | school, peers  [CHILD]   |  |  |  |\n|  |  |  +--------------------------+  |  |  |\n|  |  +--------------------------------+  |  |\n|  +--------------------------------------+  |\n+--------------------------------------------+\n  Chronosystem: change over time"
+   }
+  },
+  {
+   "heading": "Intelligence and IQ",
+   "level": "intermediate",
+   "subtopic": "Intelligence & individual differences",
+   "body": "**Intelligence** is broadly the ability to learn, reason, solve problems and adapt to new situations. Definitions: Binet – judgement and adaptation; Wechsler – the aggregate or global capacity to act purposefully, think rationally and deal effectively with the environment; Terman – the ability to carry on abstract thinking.\n**Alfred Binet and Théodore Simon** made the first practical intelligence test (1905) to identify children needing special help. Binet introduced **mental age (MA)**.\n**William Stern** proposed the ratio of mental age to chronological age; **Lewis Terman** (Stanford–Binet, 1916) multiplied it by 100 to give **IQ = (MA ÷ CA) × 100**.\nModern tests (e.g. Wechsler scales) use a **deviation IQ**: scores standardised with mean 100 and standard deviation 15.\nIntelligence tests may be **verbal or non-verbal/performance** (e.g. Raven's Progressive Matrices – useful for children with limited language) and **individual or group**.\n**Levels of intellectual disability** by IQ (ICD-10 style; ranges differ slightly by source, and current diagnosis also requires deficits in adaptive behaviour):",
+   "table": {
+    "columns": [
+     "Level",
+     "Approx. IQ range"
+    ],
+    "rows": [
+     [
+      "Mild",
+      "50–69"
+     ],
+     [
+      "Moderate",
+      "35–49"
+     ],
+     [
+      "Severe",
+      "20–34"
+     ],
+     [
+      "Profound",
+      "Below 20"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Theories of intelligence",
+   "level": "advanced",
+   "subtopic": "Intelligence & individual differences",
+   "body": "Single-factor views treated intelligence as one general ability; later theories made it multi-dimensional.",
+   "table": {
+    "columns": [
+     "Theorist",
+     "Theory",
+     "Key idea"
+    ],
+    "rows": [
+     [
+      "Charles Spearman",
+      "Two-factor theory",
+      "General factor 'g' + specific factors 's'"
+     ],
+     [
+      "L.L. Thurstone",
+      "Primary mental abilities",
+      "Seven abilities: verbal comprehension, word fluency, number, space, memory, perceptual speed, reasoning"
+     ],
+     [
+      "J.P. Guilford",
+      "Structure of Intellect",
+      "Operations × Contents × Products (3-D model); convergent vs divergent thinking"
+     ],
+     [
+      "R.B. Cattell",
+      "Fluid and crystallised",
+      "Fluid = reasoning on novel problems; crystallised = acquired knowledge"
+     ],
+     [
+      "Howard Gardner",
+      "Multiple intelligences (Frames of Mind, 1983)",
+      "Linguistic, logical-mathematical, spatial, musical, bodily-kinaesthetic, interpersonal, intrapersonal; naturalist added later"
+     ],
+     [
+      "Robert Sternberg",
+      "Triarchic theory",
+      "Analytical (componential), creative (experiential), practical (contextual)"
+     ],
+     [
+      "Salovey & Mayer; Daniel Goleman",
+      "Emotional intelligence",
+      "Perceiving and managing emotions; popularised by Goleman (1995)"
+     ],
+     [
+      "J.P. Das",
+      "PASS model",
+      "Planning, Attention, Simultaneous and Successive processing"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Individual differences and creativity",
+   "level": "intermediate",
+   "subtopic": "Intelligence & individual differences",
+   "body": "**Individual differences** are the ways in which people differ in intelligence, aptitude, interests, attitudes, personality, learning pace and achievement. Causes: heredity, environment, age, gender-related socialisation, socio-economic status, culture, language, health.\nEducational implications:\n- **Differentiated instruction** – vary content, process and product to suit learners.\n- Flexible grouping, enrichment for fast learners, remedial teaching for slow learners.\n- Varied methods and resources; self-paced work in the computer lab.\n- Avoid labelling; assess progress against the child's own previous level as well.\n**Creativity** is the ability to produce ideas that are novel and useful. Guilford linked it to **divergent thinking** (many possible answers) as opposed to **convergent thinking** (one correct answer). Components of divergent thinking: **fluency, flexibility, originality, elaboration**.\n**Aptitude** is the potential to learn a particular skill; **achievement** is what has already been learned.\n**Learning styles** (e.g. visual, auditory, kinaesthetic) are popular, but research has not shown that matching teaching to a single preferred style improves learning; using multiple modes for all students is the safer practice."
+  },
+  {
+   "heading": "Adolescence: changes and characteristics",
+   "level": "basic",
+   "subtopic": "Adolescence",
+   "body": "**Adolescence** (roughly 12–18/19 years) is the transition from childhood to adulthood. G. Stanley Hall (1904) described it as a period of **\"storm and stress\"**; later researchers point out that most adolescents do not experience extreme turmoil.\n- **Physical**: puberty, growth spurt, secondary sexual characteristics; girls typically enter puberty earlier than boys.\n- **Cognitive**: Piaget's formal operational thinking – abstract, hypothetical reasoning, idealism, argumentativeness.\n- **Adolescent egocentrism** (David Elkind): **imaginary audience** (feeling that everyone is watching) and **personal fable** (belief that one is unique and invulnerable – linked to risk-taking).\n- **Emotional**: intense and fluctuating emotions, sensitivity to criticism, need for independence.\n- **Social**: peer group becomes very important; peer pressure; interest in relationships.\n- **Identity**: Erikson's identity vs role confusion. James Marcia's identity statuses: **diffusion, foreclosure, moratorium, achievement**."
+  },
+  {
+   "heading": "Adolescence: needs, risks and role of the school",
+   "level": "intermediate",
+   "subtopic": "Adolescence",
+   "body": "Adolescents need acceptance, independence with guidance, accurate information about their bodies and health, and a sense of achievement.\n**Concerns and risks**: academic stress, body-image issues, substance abuse, internet addiction and cyberbullying, unsafe relationships, depression.\n**WHO core life skills** (ten): self-awareness, empathy, critical thinking, creative thinking, decision-making, problem-solving, effective communication, interpersonal relationship skills, coping with stress, coping with emotions.\n**Role of the teacher/school**:\n- Treat students with respect; give responsibility and leadership roles (class projects, tech clubs).\n- Provide guidance and counselling; keep confidentiality.\n- Run life-skills and adolescence education sessions; teach digital safety and responsible use of social media.\n- Channel energy through sports, arts and projects; use peer-group work positively.\n- Be a role model; avoid humiliation and comparison.\n**Child protection facts**: the UN Convention on the Rights of the Child (1989) defines a child as a person below 18; India ratified it in 1992. The POCSO Act, 2012 protects children (below 18) from sexual offences."
+  },
+  {
+   "heading": "Juvenile justice: age definitions",
+   "level": "advanced",
+   "subtopic": "Adolescence",
+   "body": "The age at which a person is treated as a \"juvenile\" has changed across Indian laws:\n- **Juvenile Justice Act, 1986**: a juvenile was a **boy below 16 years** or a **girl below 18 years**.\n- **Juvenile Justice (Care and Protection of Children) Act, 2000**: a uniform age of **below 18 years** for both boys and girls, in line with the UNCRC.\n- **Juvenile Justice (Care and Protection of Children) Act, 2015**: retains 18, but children aged **16–18** accused of **heinous offences** may be tried as adults after a preliminary assessment by the Juvenile Justice Board.\nThe JJ framework distinguishes a \"child in conflict with law\" from a \"child in need of care and protection\". For teachers the main message is that children are to be protected, rehabilitated and educated rather than simply punished."
+  }
+ ],
+ "formulas": [
+  {
+   "name": "Ratio IQ",
+   "formula": "IQ = (Mental Age ÷ Chronological Age) × 100",
+   "note": "Stern's ratio, ×100 by Terman; use the same unit (years or months) for MA and CA."
+  },
+  {
+   "name": "Deviation IQ",
+   "formula": "IQ = 100 + 15 × z, where z = (X − mean) ÷ SD",
+   "note": "Wechsler-type tests: mean 100, SD 15."
+  },
+  {
+   "name": "Mental age from IQ",
+   "formula": "MA = (IQ × CA) ÷ 100",
+   "note": "Rearranged ratio formula."
+  }
+ ],
+ "workedExamples": [
+  {
+   "problem": "A child aged 8 years has a mental age of 10 years. Find the IQ and interpret it.",
+   "solution": "- IQ = (MA ÷ CA) × 100 = (10 ÷ 8) × 100 = 1.25 × 100 = **125**.\n- An IQ above 100 means mental age is ahead of chronological age; 125 is above average (superior range on most scales)."
+  },
+  {
+   "problem": "A child's chronological age is 12 years 6 months and IQ is 80. What is the mental age?",
+   "solution": "- Convert to months: CA = 12 × 12 + 6 = 150 months.\n- MA = (IQ × CA) ÷ 100 = (80 × 150) ÷ 100 = 120 months.\n- 120 months = **10 years**."
+  },
+  {
+   "problem": "On a deviation-IQ test (mean 100, SD 15) a student scores 1.6 standard deviations above the mean. What is the IQ?",
+   "solution": "- IQ = 100 + 15 × z = 100 + 15 × 1.6 = 100 + 24 = **124**."
+  },
+  {
+   "problem": "A student says: \"I will not copy in the exam because the teacher will catch me and punish me.\" Another says: \"Copying is wrong because exams must be fair to everyone; rules made by agreement protect us all.\" Identify Kohlberg's stages.",
+   "solution": "- First student: avoiding punishment → **Stage 1, obedience and punishment orientation** (pre-conventional level).\n- Second student: rules as agreements protecting everyone's rights → **Stage 5, social contract** (post-conventional level)."
+  },
+  {
+   "problem": "Two 4-year-olds sit side by side, each building with blocks, sometimes looking at each other's work but not sharing or interacting. Name Parten's play stage and one feature of this age from Piaget.",
+   "solution": "- Playing beside, but not with, another child = **parallel play**.\n- Age 4 is in Piaget's **pre-operational stage**, marked by symbolic play and egocentrism."
+  }
+ ],
+ "pitfalls": [
+  "Growth is quantitative and stops at maturity; development is qualitative and lifelong – do not interchange them.",
+  "Cephalocaudal = head to toe; proximodistal = centre to periphery.",
+  "IQ formula uses mental age divided by chronological age, not the reverse; convert both to the same unit first.",
+  "Industry vs inferiority is Erikson's school-age stage; identity vs role confusion is adolescence.",
+  "Kohlberg judged the reasoning behind the answer to a dilemma, not the answer itself.",
+  "Gilligan's criticism of Kohlberg is gender bias (ethics of care), not cultural bias alone.",
+  "Divergent thinking (many answers) is linked to creativity; convergent thinking (one answer) is what most objective tests measure.",
+  "JJ Act 1986 set boys below 16 and girls below 18; the 2000 Act made it below 18 for both.",
+  "'Storm and stress' is Stanley Hall's description of adolescence; imaginary audience and personal fable are Elkind's.",
+  "IQ ranges for intellectual disability vary slightly by source; current diagnosis also requires deficits in adaptive behaviour."
+ ],
+ "quickRevision": [
+  "Development proceeds cephalocaudally and proximodistally, from general to specific.",
+  "Development = interaction of heredity and environment.",
+  "Later childhood (about 6–12) is called the gang age.",
+  "Erikson: 8 psychosocial stages; adolescence = identity vs role confusion.",
+  "Kohlberg: 3 levels × 2 stages = 6 stages; Heinz dilemma.",
+  "Gilligan: ethics of care; criticised Kohlberg for male bias.",
+  "Bronfenbrenner: micro, meso, exo, macro, chrono systems.",
+  "Parten's play: unoccupied, solitary, onlooker, parallel, associative, cooperative.",
+  "First intelligence test: Binet–Simon, 1905; IQ = MA/CA × 100.",
+  "Spearman: g and s; Thurstone: primary mental abilities; Guilford: structure of intellect.",
+  "Gardner: multiple intelligences (Frames of Mind, 1983).",
+  "Sternberg: triarchic – analytical, creative, practical.",
+  "Creativity = divergent thinking: fluency, flexibility, originality, elaboration.",
+  "Adolescence: 'storm and stress' (Stanley Hall); identity statuses (Marcia).",
+  "UNCRC 1989: child = below 18; India ratified in 1992."
+ ],
+ "flashcards": [
+  {
+   "front": "Development from head to toe is called?",
+   "back": "Cephalocaudal principle"
+  },
+  {
+   "front": "Erikson's crisis for ages about 5–12?",
+   "back": "Industry vs inferiority"
+  },
+  {
+   "front": "Kohlberg's stage 4?",
+   "back": "Maintaining social order (law and order orientation)"
+  },
+  {
+   "front": "Who criticised Kohlberg and proposed ethics of care?",
+   "back": "Carol Gilligan"
+  },
+  {
+   "front": "Links between home and school belong to which Bronfenbrenner system?",
+   "back": "Mesosystem"
+  },
+  {
+   "front": "Children playing side by side without interacting?",
+   "back": "Parallel play"
+  },
+  {
+   "front": "Who made the first intelligence test and when?",
+   "back": "Binet and Simon, 1905"
+  },
+  {
+   "front": "IQ formula?",
+   "back": "IQ = (MA ÷ CA) × 100"
+  },
+  {
+   "front": "Who gave the two-factor theory of intelligence?",
+   "back": "Charles Spearman (g and s)"
+  },
+  {
+   "front": "Who proposed multiple intelligences?",
+   "back": "Howard Gardner"
+  },
+  {
+   "front": "Three parts of Sternberg's triarchic theory?",
+   "back": "Analytical, creative, practical"
+  },
+  {
+   "front": "Thinking that produces many possible answers?",
+   "back": "Divergent thinking"
+  },
+  {
+   "front": "Who called adolescence a period of 'storm and stress'?",
+   "back": "G. Stanley Hall"
+  },
+  {
+   "front": "Adolescent belief that everyone is watching them?",
+   "back": "Imaginary audience (Elkind)"
+  },
+  {
+   "front": "JJ Act 1986 juvenile age for boys and girls?",
+   "back": "Boys below 16, girls below 18"
+  },
+  {
+   "front": "Approximate IQ range for mild intellectual disability?",
+   "back": "About 50–69 (50/55 to 70 in some sources)"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Growth",
+   "hi": "वृद्धि"
+  },
+  {
+   "en": "Development",
+   "hi": "विकास"
+  },
+  {
+   "en": "Maturation",
+   "hi": "परिपक्वता"
+  },
+  {
+   "en": "Heredity",
+   "hi": "आनुवंशिकता"
+  },
+  {
+   "en": "Environment",
+   "hi": "वातावरण"
+  },
+  {
+   "en": "Socialisation",
+   "hi": "समाजीकरण"
+  },
+  {
+   "en": "Moral development",
+   "hi": "नैतिक विकास"
+  },
+  {
+   "en": "Intelligence quotient",
+   "hi": "बुद्धि लब्धि"
+  },
+  {
+   "en": "Mental age",
+   "hi": "मानसिक आयु"
+  },
+  {
+   "en": "Chronological age",
+   "hi": "कालानुक्रमिक / वास्तविक आयु"
+  },
+  {
+   "en": "Individual differences",
+   "hi": "वैयक्तिक भिन्नताएँ"
+  },
+  {
+   "en": "Creativity",
+   "hi": "सृजनात्मकता"
+  },
+  {
+   "en": "Divergent thinking",
+   "hi": "अपसारी चिंतन"
+  },
+  {
+   "en": "Adolescence",
+   "hi": "किशोरावस्था"
+  },
+  {
+   "en": "Puberty",
+   "hi": "यौवनारंभ"
+  }
+ ]
+}

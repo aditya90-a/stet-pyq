@@ -1,0 +1,419 @@
+{
+ "slug": "grammar",
+ "subject": "English Language",
+ "topic": "Grammar",
+ "titleHi": "व्याकरण",
+ "summary": "Covers the grammar rules behind error spotting, sentence improvement and fill-in-the-blank questions: subject-verb agreement, pronouns, adjectives, adverbs and conjunctions, tenses, articles, prepositions, question tags, and the transformation rules for active-passive voice and direct-indirect speech. These rules decide a large share of the English marks in DSSSB papers, and each question usually tests exactly one of them.",
+ "sections": [
+  {
+   "heading": "Subject-verb agreement",
+   "level": "basic",
+   "subtopic": "Error spotting",
+   "body": "The verb agrees with the **real subject** in number. - Two subjects joined by **and** take a plural verb, unless they name one person or idea: \"The secretary and treasurer **has** arrived\" (one person); \"Bread and butter **is** my breakfast\".\n- **Each, every, either, neither, everyone, somebody, nobody** take a singular verb: \"Each of the boys **has** a book.\"\n- **Either … or / neither … nor**: the verb agrees with the **nearer** subject: \"Neither the teacher nor the students **were** present.\"\n- **as well as, along with, together with, besides, with**: the verb agrees with the **first** subject: \"The captain, along with his players, **was** praised.\"\n- **The number of** + singular verb; **a number of** + plural verb.\n- **One of the** + plural noun + singular verb: \"One of my friends **has** gone abroad.\"\n- **Collective nouns** take a singular verb when the group acts as one unit (\"The jury **has** given its verdict\") and a plural verb when members act separately (\"The jury **were** divided\").\n- Always plural: scissors, trousers, spectacles, cattle, police (as a body of people). Singular despite -s: news, mathematics, measles. **Many a** + singular noun takes a singular verb. Uncountable nouns have no plural: information, advice, furniture, luggage, equipment."
+  },
+  {
+   "heading": "Pronouns, adjectives, adverbs and conjunctions",
+   "level": "intermediate",
+   "subtopic": "Error spotting",
+   "body": "**Pronouns**\n- Object form after prepositions: \"between you and **me**\" (not I).\n- After than/as, use the form the full clause needs: \"He is taller than **I** (am).\"\n- Some verbs take a reflexive object: avail **oneself** of, absent **oneself** from, enjoy **ourselves**.\n\n**Adjectives**\n- No double comparison: \"more better\" ✗ → \"better\".\n- **superior, inferior, senior, junior, prior, preferable** take **to**, not than.\n- **elder/eldest** for family members (not followed by than); **older** for general comparison with than.\n- **fewer** with countable nouns (fewer mistakes), **less** with uncountable (less water).\n- **farther** for physical distance; **further** also means additional.\n\n**Adverbs and conjunctions** (fixed pairs)\n- **Hardly / scarcely … when**; **no sooner … than**: \"No sooner had he left than it rained.\"\n- **Not only … but also**, **either … or**, **neither … nor**, **both … and** (not both … as well as).\n- **Lest** takes **should** (or the base form), never not: \"Walk carefully lest you **should** fall.\"\n- **Unless** is already negative: \"Unless you work hard, you will fail\" (not \"unless you do not\")."
+  },
+  {
+   "heading": "Sentence improvement: idiom, parallelism and redundancy",
+   "level": "intermediate",
+   "subtopic": "Sentence improvement",
+   "body": "Find the rule the underlined part breaks and choose the shortest option that fixes it. Common fixes:\n- **Parallel structure**: items joined by and/or, or by paired conjunctions, must have the same form. \"She likes reading, writing and **to swim**\" → \"and swimming\".\n- **Conditionals**: If + present → will; If + past → would; If + had + past participle → would have + past participle. \"If I **had known**, I would have helped.\" Use \"If I **were** you\" for unreal situations.\n- **Redundancy**: remove words that repeat the meaning: \"return back\", \"repeat again\", \"revert back\", \"each and every\", \"the reason is because\" (use \"the reason is that\").\n- **Wrong word forms**: \"discuss about\" → \"discuss\"; \"reach at\" → \"reach\"; \"resemble with\" → \"resemble\"; \"enter into the room\" → \"enter the room\".\n- **It is time / it is high time** + past tense: \"It is high time we **left**.\"\n- **Dangling modifiers**: \"Walking down the road, a tree fell\" → \"As I was walking down the road, a tree fell.\""
+  },
+  {
+   "heading": "Fill in the blanks and question tags",
+   "level": "basic",
+   "subtopic": "Fill in the blanks",
+   "body": "Fill-in-the-blank questions test collocations (which preposition or word naturally follows), tense, articles, conjunctions and question tags.\n\n**Question tags**\n- Positive statement → negative tag; negative statement → positive tag: \"You can swim, **can't you**?\" \"She doesn't eat meat, **does she**?\"\n- Use the same auxiliary; with no auxiliary use do/does/did: \"He went home, **didn't he**?\"\n- \"I am …\" → **aren't I**? \"Let's go\" → **shall we**? Imperatives → **will you**? (\"Close the door, will you?\")\n- Words like **hardly, scarcely, seldom, never, nobody, nothing** make the statement negative → positive tag: \"He hardly works, **does he**?\"\n- **Everyone/somebody/nobody** → tag with **they**: \"Everyone was there, weren't they?\"\n\n**Clue words for tense**: since/for → perfect tense; yesterday/ago/last year → simple past; already/yet/just → present perfect; by the time (past) → past perfect."
+  },
+  {
+   "heading": "Tenses",
+   "level": "intermediate",
+   "subtopic": "Tenses, articles & prepositions",
+   "body": "Key rules tested in error-spotting:\n- **Present perfect** is never used with a definite past time: \"I have seen him yesterday\" ✗ → \"I saw him yesterday\".\n- **Since** + point of time, **for** + period: \"She has lived here since 2015 / for ten years.\"\n- **Stative verbs** (know, believe, understand, love, like, own, belong, seem, contain) are not used in continuous forms: \"I am knowing\" ✗ → \"I know\".\n- In **time and condition clauses** (when, before, after, until, as soon as, if), use the present for a future meaning: \"I will call you when he **comes**\" (not \"will come\").\n- For two past actions, the earlier one takes the **past perfect**: \"The train **had left** before we reached the station.\"",
+   "table": {
+    "columns": [
+     "Tense",
+     "Simple",
+     "Continuous",
+     "Perfect",
+     "Perfect continuous"
+    ],
+    "rows": [
+     [
+      "Present",
+      "writes",
+      "is writing",
+      "has written",
+      "has been writing"
+     ],
+     [
+      "Past",
+      "wrote",
+      "was writing",
+      "had written",
+      "had been writing"
+     ],
+     [
+      "Future",
+      "will write",
+      "will be writing",
+      "will have written",
+      "will have been writing"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Articles",
+   "level": "basic",
+   "subtopic": "Tenses, articles & prepositions",
+   "body": "**A / an** depend on the **sound**, not the letter:\n- **an** before a vowel sound: an hour, an honest man, an MLA, an FIR, an X-ray.\n- **a** before a consonant sound: a university, a European, a one-rupee coin, a useful book.\n\n**The** is used with:\n- something already mentioned or known to both speakers; unique things (the sun, the earth);\n- superlatives and ordinals (the best, the first);\n- rivers, seas, oceans, mountain ranges, groups of islands (the Ganga, the Pacific, the Himalayas, the Andamans);\n- holy books, newspapers, musical instruments (the Gita, the Hindu, play the flute);\n- country names with plural or common-noun forms (the USA, the UK, the Netherlands);\n\n**No article** with:\n- individual mountains and lakes (Mount Everest, Lake Superior), most country and city names (India, Delhi);\n- languages and subjects (He speaks Tamil; she studies physics), games (play cricket), meals in general (have lunch);\n- abstract or plural nouns used in a general sense (\"Honesty is the best policy\");\n- places visited for their main purpose: go to school, go to bed, go to hospital (as a patient)."
+  },
+  {
+   "heading": "Prepositions",
+   "level": "intermediate",
+   "subtopic": "Tenses, articles & prepositions",
+   "body": "**Time**: **at** for an exact time (at 6 pm, at night, at noon); **on** for days and dates (on Monday, on 15 August); **in** for months, years, seasons and parts of the day (in May, in 2020, in winter, in the morning).\n\n**Place**: **at** a point (at the gate), **in** an enclosed or large area (in the room, in Delhi), **on** a surface (on the table). **Into** shows movement inward (\"He jumped into the river\").\n\n**Pairs**: **between** two, **among** more than two; **beside** = next to, **besides** = in addition to; **since** = from a point of time, **for** = a period.\n\nMany verbs and adjectives take fixed prepositions (see table). Some verbs take **no** preposition: discuss, reach, enter, resemble, order, attack, comprise (\"comprises three parts\", not \"comprises of\").",
+   "table": {
+    "columns": [
+     "Word",
+     "Preposition",
+     "Word",
+     "Preposition"
+    ],
+    "rows": [
+     [
+      "accused",
+      "of",
+      "agree",
+      "with (a person), to (a proposal)"
+     ],
+     [
+      "afraid",
+      "of",
+      "angry",
+      "with (a person), at (a thing)"
+     ],
+     [
+      "abide",
+      "by",
+      "comply",
+      "with"
+     ],
+     [
+      "capable",
+      "of",
+      "congratulate",
+      "on"
+     ],
+     [
+      "consist",
+      "of",
+      "depend / rely",
+      "on"
+     ],
+     [
+      "die",
+      "of (a disease), from (a cause)",
+      "good",
+      "at"
+     ],
+     [
+      "insist",
+      "on",
+      "interested",
+      "in"
+     ],
+     [
+      "married",
+      "to",
+      "prefer",
+      "to"
+     ],
+     [
+      "proud",
+      "of",
+      "suffer",
+      "from"
+     ],
+     [
+      "superior / senior",
+      "to",
+      "aware",
+      "of"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Active and passive voice",
+   "level": "intermediate",
+   "subtopic": "Voice & narration",
+   "body": "To change active to passive: the **object becomes the subject**, the verb becomes **be (in the same tense) + past participle**, and the old subject goes after **by** (often dropped if unimportant). Pronouns change case: I → me, we → us, he → him, she → her, they → them.\n\n- Only **transitive** verbs (with an object) have a passive form.\n- Perfect continuous tenses are normally not changed into passive.\n- **Imperatives**: \"Open the window.\" → \"Let the window be opened.\" Requests: \"Please help me.\" → \"You are requested to help me.\"\n- **Questions**: \"Did she write the letter?\" → \"Was the letter written by her?\" \"Who broke the glass?\" → \"By whom was the glass broken?\"\n- **Prepositional verbs** keep their preposition: \"They laughed at him.\" → \"He was laughed at by them.\"\n- Some passives take other prepositions: known **to**, pleased **with**, surprised **at**, filled **with**, interested **in**.",
+   "table": {
+    "columns": [
+     "Tense / modal",
+     "Active",
+     "Passive"
+    ],
+    "rows": [
+     [
+      "Simple present",
+      "She writes a letter.",
+      "A letter is written by her."
+     ],
+     [
+      "Present continuous",
+      "She is writing a letter.",
+      "A letter is being written by her."
+     ],
+     [
+      "Present perfect",
+      "She has written a letter.",
+      "A letter has been written by her."
+     ],
+     [
+      "Simple past",
+      "She wrote a letter.",
+      "A letter was written by her."
+     ],
+     [
+      "Past continuous",
+      "She was writing a letter.",
+      "A letter was being written by her."
+     ],
+     [
+      "Past perfect",
+      "She had written a letter.",
+      "A letter had been written by her."
+     ],
+     [
+      "Simple future",
+      "She will write a letter.",
+      "A letter will be written by her."
+     ],
+     [
+      "Modal",
+      "She can write a letter.",
+      "A letter can be written by her."
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Direct and indirect speech (narration)",
+   "level": "advanced",
+   "subtopic": "Voice & narration",
+   "body": "**When the reporting verb is in the past** (said, told), the tense of the reported speech moves one step back.\n\n**Pronouns (SON rule)**: first person changes according to the **S**ubject of the reporting verb, second person according to the **O**bject, third person **N**o change.\n\n**Sentence types**\n- Statements: said to → **told**; connector **that**.\n- Yes/no questions: said to → **asked**; connector **if/whether**; question becomes statement order: He said to her, \"Have you finished?\" → He asked her **if she had finished**.\n- Wh-questions: the wh-word is the connector: He said to me, \"Where do you live?\" → He asked me **where I lived**.\n- Commands and requests: **ordered/told/requested/advised** + **to**-infinitive (negative: **not to**): She said to him, \"Don't shout.\" → She told him **not to shout**.\n- Exclamations: **exclaimed with joy/sorrow/surprise** that …\n- Proposals with let's: **suggested that** they **should** …\n\n**No tense change** when the reporting verb is in the present or future (\"He says that he is tired\"), or when the reported speech is a **universal truth** or habitual fact.\n\n**Time and place words**: now → then; today → that day; tomorrow → the next day; yesterday → the previous day; ago → before; here → there; this → that; these → those; last night → the previous night; next week → the following week.",
+   "table": {
+    "columns": [
+     "Direct",
+     "Indirect"
+    ],
+    "rows": [
+     [
+      "simple present (write)",
+      "simple past (wrote)"
+     ],
+     [
+      "present continuous (is writing)",
+      "past continuous (was writing)"
+     ],
+     [
+      "present perfect (has written)",
+      "past perfect (had written)"
+     ],
+     [
+      "simple past (wrote)",
+      "past perfect (had written)"
+     ],
+     [
+      "will / shall / can / may",
+      "would / should (or would) / could / might"
+     ],
+     [
+      "must (obligation)",
+      "had to (or must)"
+     ]
+    ]
+   }
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "Spot the error: Neither the principal nor the teachers (1)/ was present (2)/ at the annual function. (3)/ No error (4)",
+   "solution": "With neither … nor, the verb agrees with the nearer subject, \"the teachers\" (plural).\n\"was\" should be \"were\". **Error in part (2)**."
+  },
+  {
+   "problem": "Improve the underlined part: Hardly had I reached the platform **than the train left**.",
+   "solution": "\"Hardly\" pairs with \"when\", not \"than\" (no sooner … than).\nCorrect: \"Hardly had I reached the platform **when the train left**\"."
+  },
+  {
+   "problem": "Fill in the blank: She has been unwell ______ last Monday. (since / for / from / by)",
+   "solution": "\"Last Monday\" is a point of time and the tense is present perfect continuous, so **since** is correct. \"For\" would need a period such as \"for a week\"."
+  },
+  {
+   "problem": "Change into passive: The committee will announce the results tomorrow.",
+   "solution": "Object \"the results\" becomes the subject; future tense → will be + past participle.\n**The results will be announced by the committee tomorrow.**"
+  },
+  {
+   "problem": "Change into indirect speech: She said to me, \"I am writing a letter now.\"",
+   "solution": "said to → told; I → she (subject of reporting verb); am writing → was writing; now → then.\n**She told me that she was writing a letter then.**"
+  },
+  {
+   "problem": "Change into indirect speech: The teacher said to the boys, \"Do not make a noise.\"",
+   "solution": "A command: said to → told/ordered; negative → not to + base verb.\n**The teacher told the boys not to make a noise.**"
+  }
+ ],
+ "pitfalls": [
+  "Making the verb agree with the noun nearest to it instead of the real subject (\"The quality of the mangoes are good\" ✗ → is).",
+  "Using a plural verb after each, every, either, neither or many a.",
+  "Using present perfect with a definite past time (yesterday, last year, in 2019).",
+  "Using 'than' after superior, inferior, senior, junior, prior or preferable.",
+  "Writing 'hardly … than' or 'no sooner … when'.",
+  "Choosing a/an by the first letter instead of the first sound (a hour ✗, an university ✗).",
+  "Adding prepositions to discuss, reach, enter, resemble or comprise.",
+  "Changing a universal truth into the past tense in indirect speech.",
+  "Keeping question word order in indirect questions (\"He asked where did I live\" ✗)."
+ ],
+ "quickRevision": [
+  "Neither … nor / either … or: verb agrees with the nearer subject.",
+  "As well as / along with: verb agrees with the first subject.",
+  "The number of + singular; a number of + plural.",
+  "One of the + plural noun + singular verb.",
+  "Since + point of time; for + period.",
+  "No present perfect with yesterday/ago/last.",
+  "When/if clauses use present tense for future meaning.",
+  "an hour, an MLA, a university, a European.",
+  "The Himalayas, the Ganga; but Mount Everest, Lake Superior.",
+  "Passive = be (same tense) + past participle.",
+  "Indirect speech: present → past, past → past perfect, will → would.",
+  "SON: 1st person → subject, 2nd → object, 3rd → no change.",
+  "Question tags: I am → aren't I; Let's → shall we; imperative → will you."
+ ],
+ "flashcards": [
+  {
+   "front": "Correct the error: \"The number of students are increasing.\"",
+   "back": "The number of students is increasing."
+  },
+  {
+   "front": "Verb with 'Many a student ___ failed'?",
+   "back": "has"
+  },
+  {
+   "front": "Correct: \"He is senior than me.\"",
+   "back": "He is senior to me."
+  },
+  {
+   "front": "Article before 'honest man'?",
+   "back": "an (h is silent)"
+  },
+  {
+   "front": "Article before 'European'?",
+   "back": "a (begins with a 'yoo' sound)"
+  },
+  {
+   "front": "Question tag: \"Let's go for a walk, ___?\"",
+   "back": "shall we"
+  },
+  {
+   "front": "Question tag: \"I am right, ___?\"",
+   "back": "aren't I"
+  },
+  {
+   "front": "Passive of \"They are building a bridge.\"",
+   "back": "A bridge is being built by them."
+  },
+  {
+   "front": "Passive of \"Shut the gate.\"",
+   "back": "Let the gate be shut."
+  },
+  {
+   "front": "Indirect form of 'tomorrow'?",
+   "back": "the next day / the following day"
+  },
+  {
+   "front": "Indirect: He said, \"The sun rises in the east.\"",
+   "back": "He said that the sun rises in the east. (universal truth: no tense change)"
+  },
+  {
+   "front": "Preposition: congratulate ___ success",
+   "back": "on"
+  },
+  {
+   "front": "Between or among for three people?",
+   "back": "among"
+  },
+  {
+   "front": "Correct: \"I will call you when he will come.\"",
+   "back": "I will call you when he comes."
+  },
+  {
+   "front": "Which conjunction pairs with 'no sooner'?",
+   "back": "than"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Subject-verb agreement",
+   "hi": "कर्ता-क्रिया अन्विति"
+  },
+  {
+   "en": "Tense",
+   "hi": "काल"
+  },
+  {
+   "en": "Article",
+   "hi": "आर्टिकल / उपपद"
+  },
+  {
+   "en": "Preposition",
+   "hi": "पूर्वसर्ग / संबंधबोधक"
+  },
+  {
+   "en": "Conjunction",
+   "hi": "समुच्चयबोधक / योजक"
+  },
+  {
+   "en": "Pronoun",
+   "hi": "सर्वनाम"
+  },
+  {
+   "en": "Adjective",
+   "hi": "विशेषण"
+  },
+  {
+   "en": "Adverb",
+   "hi": "क्रियाविशेषण"
+  },
+  {
+   "en": "Active voice",
+   "hi": "कर्तृवाच्य"
+  },
+  {
+   "en": "Passive voice",
+   "hi": "कर्मवाच्य"
+  },
+  {
+   "en": "Direct speech",
+   "hi": "प्रत्यक्ष कथन"
+  },
+  {
+   "en": "Indirect speech",
+   "hi": "अप्रत्यक्ष कथन"
+  },
+  {
+   "en": "Question tag",
+   "hi": "प्रश्नवाचक पुच्छ"
+  },
+  {
+   "en": "Error spotting",
+   "hi": "त्रुटि पहचान"
+  }
+ ]
+}

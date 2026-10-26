@@ -1,0 +1,722 @@
+[
+ {
+  "a": "2024-02-07-s2-q002",
+  "b": "2024-02-07-s2-q005",
+  "verdict": "different",
+  "reason": "Both coding-decoding, but one uses letter-value sums and the other reverses letter blocks; different rules."
+ },
+ {
+  "a": "2024-02-07-s2-q002",
+  "b": "2021-set1-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding questions, but with different coding schemes and different words; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q002",
+  "b": "2021-set2-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding questions, but with different coding schemes and different words; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q002",
+  "b": "2021-set3-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding questions, but with different coding schemes and different words; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q002",
+  "b": "2021-set4-q026",
+  "verdict": "different",
+  "reason": "Both sum letter positions, but rules differ (sum÷4 vs sum+1) and data differ; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q002",
+  "b": "2021-set5-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding questions, but with different coding schemes and different words; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q003",
+  "b": "2021-set1-q021",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms; only the question format is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q003",
+  "b": "2021-set1-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms; only the question format is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q003",
+  "b": "2021-set3-q021",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms; only the question format is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q003",
+  "b": "2021-set3-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms; only the question format is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q003",
+  "b": "2021-set5-q022",
+  "verdict": "different",
+  "reason": "Letter-series questions with unrelated patterns and terms; only the question format is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q004",
+  "b": "2024-02-07-s2-q013",
+  "verdict": "different",
+  "reason": "Odd-one-out letter groups with different patterns and groups; only the question format is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q004",
+  "b": "2021-set3-q038",
+  "verdict": "different",
+  "reason": "Odd letter group vs odd figure pair; different content."
+ },
+ {
+  "a": "2024-02-07-s2-q005",
+  "b": "2021-set2-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding, but different coding schemes and words."
+ },
+ {
+  "a": "2024-02-07-s2-q005",
+  "b": "2021-set3-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding, but different coding schemes and words."
+ },
+ {
+  "a": "2024-02-07-s2-q005",
+  "b": "2021-set4-q026",
+  "verdict": "different",
+  "reason": "Both coding-decoding, but different coding schemes and words."
+ },
+ {
+  "a": "2024-02-07-s2-q007",
+  "b": "2021-set3-q033",
+  "verdict": "different",
+  "reason": "Both operator-substitution puzzles, but different symbol mappings and expressions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q007",
+  "b": "2021-set4-q032",
+  "verdict": "different",
+  "reason": "Both operator-substitution puzzles, but different symbol mappings and expressions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q009",
+  "b": "2021-set1-q027",
+  "verdict": "different",
+  "reason": "Different seating-arrangement puzzles (linear vs circular), different people and conditions."
+ },
+ {
+  "a": "2024-02-07-s2-q009",
+  "b": "2021-set2-q028",
+  "verdict": "different",
+  "reason": "Different seating-arrangement puzzles (linear vs circular), different people and conditions."
+ },
+ {
+  "a": "2024-02-07-s2-q009",
+  "b": "2021-set3-q029",
+  "verdict": "different",
+  "reason": "Different seating-arrangement puzzles (linear vs circular), different people and conditions."
+ },
+ {
+  "a": "2024-02-07-s2-q009",
+  "b": "2021-set5-q029",
+  "verdict": "different",
+  "reason": "Different seating-arrangement puzzles (linear vs circular), different people and conditions."
+ },
+ {
+  "a": "2024-02-07-s2-q009",
+  "b": "2023-06-24-s2-q001",
+  "verdict": "different",
+  "reason": "Different seating-arrangement puzzles (linear vs circular), different people and conditions."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set1-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set3-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set3-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set4-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set4-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set5-q030",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2021-set5-q031",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q010",
+  "b": "2023-06-24-s2-q003",
+  "verdict": "different",
+  "reason": "Syllogism questions with different statements and conclusions; only the question type is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q013",
+  "b": "2021-set3-q038",
+  "verdict": "different",
+  "reason": "Odd letter group vs odd figure pair; different content."
+ },
+ {
+  "a": "2024-02-07-s2-q016",
+  "b": "2021-set1-q033",
+  "verdict": "different",
+  "reason": "Same puzzle type (interchanging two numbers) but different numbers and equations, different answer."
+ },
+ {
+  "a": "2024-02-07-s2-q016",
+  "b": "2021-set5-q187",
+  "verdict": "different",
+  "reason": "Number-interchange equation puzzle vs mean of mode and median; unrelated."
+ },
+ {
+  "a": "2024-02-07-s2-q045",
+  "b": "2021-set5-q050",
+  "verdict": "different",
+  "reason": "Three-number ratio with difference vs two-number ratio sum of squares; different problems."
+ },
+ {
+  "a": "2024-02-07-s2-q046",
+  "b": "2024-02-07-s2-q051",
+  "verdict": "different",
+  "reason": "Compute CI for given principal vs find principal from SI and CI; different problems."
+ },
+ {
+  "a": "2024-02-07-s2-q048",
+  "b": "2021-set3-q044",
+  "verdict": "different",
+  "reason": "Divisibility by 9 vs divisibility by 15; different rules and numbers."
+ },
+ {
+  "a": "2024-02-07-s2-q049",
+  "b": "2021-set3-q046",
+  "verdict": "different",
+  "reason": "Different profit/loss/discount calculations with different data."
+ },
+ {
+  "a": "2024-02-07-s2-q049",
+  "b": "2021-set3-q049",
+  "verdict": "different",
+  "reason": "Different profit/loss/discount calculations with different data."
+ },
+ {
+  "a": "2024-02-07-s2-q051",
+  "b": "2021-set1-q052",
+  "verdict": "different",
+  "reason": "Principal from SI and CI vs scaling SI over time; different problems."
+ },
+ {
+  "a": "2024-02-07-s2-q053",
+  "b": "2021-set3-q190",
+  "verdict": "different",
+  "reason": "BODMAS evaluation vs reading y from a table; unrelated."
+ },
+ {
+  "a": "2024-02-07-s2-q053",
+  "b": "2021-set4-q041",
+  "verdict": "different",
+  "reason": "Both BODMAS evaluations, but different expressions and answers."
+ },
+ {
+  "a": "2024-02-07-s2-q055",
+  "b": "2021-set5-q044",
+  "verdict": "different",
+  "reason": "HCF of integers vs HCF of decimals; different numbers and answers."
+ },
+ {
+  "a": "2024-02-07-s2-q057",
+  "b": "2021-set2-q055",
+  "verdict": "different",
+  "reason": "Different time-and-work problems with different data and unknowns."
+ },
+ {
+  "a": "2024-02-07-s2-q057",
+  "b": "2021-set4-q055",
+  "verdict": "different",
+  "reason": "Different time-and-work problems with different data and unknowns."
+ },
+ {
+  "a": "2024-02-07-s2-q057",
+  "b": "2021-set5-q055",
+  "verdict": "different",
+  "reason": "Different time-and-work problems with different data and unknowns."
+ },
+ {
+  "a": "2024-02-07-s2-q060",
+  "b": "2021-set1-q052",
+  "verdict": "different",
+  "reason": "Different simple-interest problems with different data and unknowns."
+ },
+ {
+  "a": "2024-02-07-s2-q060",
+  "b": "2021-set3-q052",
+  "verdict": "different",
+  "reason": "Different simple-interest problems with different data and unknowns."
+ },
+ {
+  "a": "2024-02-07-s2-q060",
+  "b": "2021-set5-q052",
+  "verdict": "different",
+  "reason": "Different simple-interest problems with different data and unknowns."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2024-02-07-s2-q071",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2024-02-07-s2-q072",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2024-02-07-s2-q073",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set1-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set1-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set2-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q070",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2024-02-07-s2-q072",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2024-02-07-s2-q073",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set1-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set1-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set2-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set5-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q071",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set1-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set1-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set2-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q072",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set1-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set1-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set2-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set2-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set3-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set3-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set4-q085",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set4-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q073",
+  "b": "2021-set5-q086",
+  "verdict": "different",
+  "reason": "Fill-in-the-blank sentences testing different words/grammar points; only the instructions are shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2024-02-07-s2-q084",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2024-02-07-s2-q086",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set1-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set1-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set2-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set2-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q082",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q083",
+  "b": "2024-02-07-s2-q088",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blank testing different word classes and sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q083",
+  "b": "2024-02-07-s2-q092",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blank testing different word classes and sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q083",
+  "b": "2024-02-07-s2-q094",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blank testing different word classes and sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q083",
+  "b": "2021-set5-q065",
+  "verdict": "different",
+  "reason": "Hindi fill-in-the-blank testing different word classes and sentences."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2024-02-07-s2-q086",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set1-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set1-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set2-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set2-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set3-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set3-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set4-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set4-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set5-q074",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q084",
+  "b": "2021-set5-q075",
+  "verdict": "different",
+  "reason": "Meanings of different Hindi idioms/proverbs; only the instruction text is shared."
+ },
+ {
+  "a": "2024-02-07-s2-q085",
+  "b": "2024-02-07-s2-q100",
+  "verdict": "different",
+  "reason": "Sandhi-viccheda of प्रमाण vs synonym of प्रमाण; same word, different facts tested."
+ }
+]

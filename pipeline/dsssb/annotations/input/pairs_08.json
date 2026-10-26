@@ -1,0 +1,1762 @@
+[
+ {
+  "a": "2021-set4-q086",
+  "b": "2021-set5-q085",
+  "scores": {
+   "stem": 75.1,
+   "stemTokenSet": 79.8,
+   "cosine": 0.231,
+   "options": 26.2,
+   "answer": 26.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nWhen she ______ at her place, Mahima had left.",
+   "options": [
+    "has arrived",
+    "arrived",
+    "arrives",
+    "had arrived"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nNo matter how tough a situation gets, you can always ______ it with your will power.",
+   "options": [
+    "covert",
+    "overwhelm",
+    "come",
+    "overcome"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q086",
+  "b": "2021-set5-q086",
+  "scores": {
+   "stem": 87.7,
+   "stemTokenSet": 90.0,
+   "cosine": 0.421,
+   "options": 21.1,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nWhen she ______ at her place, Mahima had left.",
+   "options": [
+    "has arrived",
+    "arrived",
+    "arrives",
+    "had arrived"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nShe is the girl ______ stole my handbag.",
+   "options": [
+    "that",
+    "whom",
+    "which",
+    "who"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q089",
+  "b": "2021-set5-q089",
+  "scores": {
+   "stem": 92.9,
+   "stemTokenSet": 91.1,
+   "cosine": 0.288,
+   "options": 45.4,
+   "answer": 15.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Choose the word that means the same as the given word.\nEncounter",
+   "options": [
+    "Avoiding",
+    "Meeting",
+    "Sale",
+    "Announcing"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Choose the word that means the same as the given word.\nConsistent",
+   "options": [
+    "Slow",
+    "Steady",
+    "Often",
+    "Certain"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q090",
+  "b": "2021-set5-q090",
+  "scores": {
+   "stem": 93.7,
+   "stemTokenSet": 92.8,
+   "cosine": 0.273,
+   "options": 42.4,
+   "answer": 37.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Choose the word that is opposite in meaning to the given word.\nAllegiance",
+   "options": [
+    "Piety",
+    "Clarity",
+    "Paucity",
+    "Falsity"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Choose the word that is opposite in meaning to the given word.\nAppellant",
+   "options": [
+    "Litigant",
+    "Accuser",
+    "Defendant",
+    "Plaintiff"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q091",
+  "b": "2021-set4-q092",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.392,
+   "options": 32.3,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Honourable",
+    "Honorable",
+    "Hounorable",
+    "Honourble"
+   ],
+   "key": ""
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Stimulus",
+    "Nostelgic",
+    "Precision",
+    "Quarrel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q091",
+  "b": "2021-set5-q091",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.593,
+   "options": 34.8,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Honourable",
+    "Honorable",
+    "Hounorable",
+    "Honourble"
+   ],
+   "key": ""
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Intirnational",
+    "International",
+    "Intirnationel",
+    "Internationel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q091",
+  "b": "2021-set5-q092",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.39,
+   "options": 34.3,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Honourable",
+    "Honorable",
+    "Hounorable",
+    "Honourble"
+   ],
+   "key": ""
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Clinical",
+    "Dictionery",
+    "Bilingual",
+    "Redemption"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q092",
+  "b": "2021-set5-q091",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.4,
+   "options": 34.6,
+   "answer": 36.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Stimulus",
+    "Nostelgic",
+    "Precision",
+    "Quarrel"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Intirnational",
+    "International",
+    "Intirnationel",
+    "Internationel"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q092",
+  "b": "2021-set5-q092",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.593,
+   "options": 41.0,
+   "answer": 21.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Stimulus",
+    "Nostelgic",
+    "Precision",
+    "Quarrel"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Clinical",
+    "Dictionery",
+    "Bilingual",
+    "Redemption"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q093",
+  "b": "2021-set4-q094",
+  "scores": {
+   "stem": 92.1,
+   "stemTokenSet": 92.7,
+   "cosine": 0.231,
+   "options": 38.2,
+   "answer": 32.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q093",
+  "b": "2021-set5-q093",
+  "scores": {
+   "stem": 92.3,
+   "stemTokenSet": 96.4,
+   "cosine": 0.288,
+   "options": 36.8,
+   "answer": 36.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q093",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 92.5,
+   "stemTokenSet": 95.1,
+   "cosine": 0.357,
+   "options": 47.7,
+   "answer": 39.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nLook to one’s laurels",
+   "options": [
+    "According to one’s convenience",
+    "Make a great deal of something",
+    "Counting one’s success",
+    "Work hard to remain successful"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q094",
+  "b": "2021-set5-q093",
+  "scores": {
+   "stem": 93.9,
+   "stemTokenSet": 96.4,
+   "cosine": 0.278,
+   "options": 46.0,
+   "answer": 37.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q094",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 91.0,
+   "stemTokenSet": 93.3,
+   "cosine": 0.272,
+   "options": 46.2,
+   "answer": 35.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo throw cold water on",
+   "options": [
+    "To be perplexed",
+    "A worthless, dishonest person",
+    "To discourage",
+    "To wake someone up"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set4-q097",
+  "b": "2021-set4-q100",
+  "scores": {
+   "stem": 58.7,
+   "stemTokenSet": 72.2,
+   "cosine": 0.442,
+   "options": 17.7,
+   "answer": 19.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is NOT one of the norms taken by FSSAI to promote healthy diet?",
+   "options": [
+    "FSSAI has prohibited food companies to print their brand name and logos on textbooks.",
+    "It has prohibited food companies to advertise their product name on school buildings, buses and athletics fields.",
+    "It has formulated general guidelines for selection of food products that can be offered in schools.",
+    "It has prohibited food companies to sell junk food rich in fat, sugar and salt in school proximity after 50 m."
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Who made FSSAI to frame norms to promote healthy diet in children?",
+   "options": [
+    "Delhi High Court",
+    "Supreme Court",
+    "Schools",
+    "Parents\nQuestion Id : 2752284618 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group Comprehension Questions\n: No\nQuestion Numbers : (96 to 100)\nRead the following information carefully and answer the given questions.\nIn a welcome step, the Food Safety and Standards Authority of India (FSSAI) has notified a draft regulation aimed at prohibiting the sale and\nadvertisement of food rich in fat, sugar and salt to school children inside the school premises and within 50 m around it. It comes in response to\nthe 2015 order from the Delhi High Court directing the central agency to frame norms to promote healthy diets in schools. Besides prohibiting\nthe sale of junk food, the FSSAI requires schools to simultaneously encourage and promote a safe and balanced diet. In a bid to shield the\nchildren from consuming unhealthy food items and snacks, the FSSAI prohibits food companies that manufacture such items from advertising or\noffering for free such foods in school premises and within 50 m of the campus. To thwart food companies from luring children to consume foods\nrich in fat, sugar and salt, the companies are prohibited from using their logos, brand names and product names on books and other educational\nmaterials, as well as on school property such as buildings, buses, and athletic fields. As general guidance to provide wholesome food, the agency\nrecommends the use of a combination of whole grains, milk, eggs, and millets; it also listed a set of general guidelines for selection of food\nproducts that can be offered in schools.\nThe onus of inculcating healthy eating habits also starts at home. Besides taking steps to reduce the intake of unhealthy food, both schools and\nparents should ensure children get adequate physical activity, which is increasingly being neglected for various reasons. It is a combination of\nhealthy food and regular physical activity that will go a long way in bringing up healthier children.\nSub questions"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q104",
+  "b": "2021-set5-q123",
+  "scores": {
+   "stem": 81.9,
+   "stemTokenSet": 81.9,
+   "cosine": 0.285,
+   "options": 54.7,
+   "answer": 24.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is an input device?",
+   "options": [
+    "Plotter",
+    "Printer",
+    "Joystick",
+    "Speaker"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following is a impact printer?",
+   "options": [
+    "Inkjet printer",
+    "Dot-matrix printer",
+    "Laser printer",
+    "Thermal printer"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q111",
+  "b": "2021-set5-q114",
+  "scores": {
+   "stem": 87.4,
+   "stemTokenSet": 88.9,
+   "cosine": 0.53,
+   "options": 46.7,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k, v;\nk=(v=20,v+2);\nprintf(\"%d\",k);\n}",
+   "options": [
+    "2",
+    "20",
+    "22",
+    "Error"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "What is the output of the code written in C?\nvoid main()\n{\nint k=8, v=8,i;\ni=k/++v;\nprintf(\"%d\\n\",i);\n}",
+   "options": [
+    "0",
+    "1",
+    "0.8",
+    "Error"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q114",
+  "b": "2021-set5-q119",
+  "scores": {
+   "stem": 42.1,
+   "stemTokenSet": 55.8,
+   "cosine": 0.479,
+   "options": 33.2,
+   "answer": 27.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is a type of Real time operating system?\nI. Hard real time system\nII. Soft real time system",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "An operating system that helps in sharing the files across the network is known as ______.",
+   "options": [
+    "network operating system",
+    "real operating system",
+    "time operating system",
+    "coupling operating system"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q128",
+  "b": "2021-set5-q135",
+  "scores": {
+   "stem": 50.5,
+   "stemTokenSet": 63.3,
+   "cosine": 0.555,
+   "options": 31.3,
+   "answer": 34.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "______ are some problems that may arise while creating the Entity relationship model.",
+   "options": [
+    "Connection traps",
+    "Transition traps",
+    "Groups traps",
+    "Data traps"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following is a type of connection trap in Entity relationship model?\nI. Fan traps\nII. Chasm traps",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q129",
+  "b": "2021-set5-q136",
+  "scores": {
+   "stem": 72.4,
+   "stemTokenSet": 81.6,
+   "cosine": 0.604,
+   "options": 100.0,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "Which of the following is a symbol of multivalued attribute in Entity relationship diagram?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following symbol represent one to one cardinality relationship in Entity relationship diagram?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set4-q131",
+  "b": "2021-set5-q139",
+  "scores": {
+   "stem": 90.6,
+   "stemTokenSet": 93.8,
+   "cosine": 0.835,
+   "options": 93.3,
+   "answer": 90.9
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "How many address lines and input-output data lines are needed in 2k × 16 memory unit?",
+   "options": [
+    "10 address line, 16 data line",
+    "10 address line, 4 data line",
+    "11 address line, 4 data line",
+    "11 address line, 16 data line"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "How many address lines and input-output data line are needed for the 64k × 8 memory unit?",
+   "options": [
+    "16 address line, 3 data line",
+    "6 address line, 3 data line",
+    "16 address line, 8 data line",
+    "10 address line, 8 data line"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q160",
+  "b": "2021-set4-q168",
+  "scores": {
+   "stem": 38.5,
+   "stemTokenSet": 57.1,
+   "cosine": 0.537,
+   "options": 92.5,
+   "answer": 73.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Match the following TCP/IP protocol with their use.",
+   "options": [
+    "a-ii, b-iv, c-i, d-iii",
+    "a-i, b-ii, c-iii, d-iv",
+    "a-iii, b-iv, c-ii, d-i",
+    "a-iii, b-iv, c-i, d-ii"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Match List – I of firewalls with List – II of their usage. Select the correct answer from the given options.",
+   "options": [
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-iv, c-ii, d-iii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set4-q168",
+  "b": "2023-06-24-s2-q169",
+  "scores": {
+   "stem": 37.0,
+   "stemTokenSet": 47.2,
+   "cosine": 0.464,
+   "options": 92.5,
+   "answer": 80.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Match List – I of firewalls with List – II of their usage. Select the correct answer from the given options.",
+   "options": [
+    "a-iv, b-ii, c-iii, d-i",
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-iv, c-ii, d-iii",
+    "a-iii, b-i, c-iv, d-ii"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Match the column Well-known ports used by ICP with the column Protocol.\nWell-known ports used by TCP Protocol\ni) Davtime\na) 7\nb) 9\nii) Echo\niii) Discard\nc) 11\niv) SYSTAT\nd) 13",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-ii, b-i, c-iv, d-ii"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set4-q172",
+  "b": "2021-set4-q173",
+  "scores": {
+   "stem": 82.3,
+   "stemTokenSet": 82.9,
+   "cosine": 0.274,
+   "options": 30.0,
+   "answer": 30.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Sort the following list using Radix sort algorithm.\n329, 457, 839, 436, 720, 355, 657\nWhat is the output of the algorithm after 2nd pass?",
+   "options": [
+    "720, 355, 436, 457, 657, 329, 839",
+    "720, 329, 436, 839, 355, 457, 657",
+    "329, 355, 436, 457, 657, 720, 839",
+    "355, 329, 457, 436, 720, 657, 839"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Sort the following list using selection sort algorithm.\nH, V, A, T, L, N, K\nWhat is the output of the algorithm after 3rd pass?",
+   "options": [
+    "A, V, H, T, L, N, K",
+    "A, H, K, T, L, N, V",
+    "A, V, T, H, L, N, K",
+    "A, T, H, K, L, N, V"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q003",
+  "b": "2021-set5-q163",
+  "scores": {
+   "stem": 71.3,
+   "stemTokenSet": 87.2,
+   "cosine": 0.762,
+   "options": 100.0,
+   "answer": 80.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the following is/are the policy instrument of Reserve Bank of India?\nI. Repo Rate\nII. Reverse Repo Rate\nIII. Exchange Rate",
+   "options": [
+    "I and II",
+    "II and III",
+    "Only III",
+    "I, II and III"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following is/are the tool(s) of monetary policy of the RBI?\nI. Reverse Repo Rate\nII. Repo Rate\nIII. Bank Rate",
+   "options": [
+    "I and II",
+    "II and III",
+    "Only III",
+    "I, II and III"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set5-q029",
+  "b": "2023-06-24-s2-q001",
+  "scores": {
+   "stem": 53.4,
+   "stemTokenSet": 69.1,
+   "cosine": 0.427,
+   "options": 10.3,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Nine boys P, Q, R, S, T, U, V, W and X are sitting around a circular table facing towards the centre (not necessarily in the same order). U is fourth\nto the right of P. P is third to the right of Q. X is fourth to the left of Q. S is third to the left of X. R is third to the right of W. T is second to the left\nof V.\nWhich of the following statement(s) is/are not correct?\nI. U and V are not the immediate neighbours.\nII. V is the immediate neighbour of Q and U.\nIII. R is second to the right of T.\nIV. W is third to the left of U.",
+   "options": [
+    "Only II",
+    "II and III",
+    "I, II, III and IV",
+    "I, III and IV"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Six friends, A, B, C, D, E and E, are sitting around a round table facing toward the centre and equidistant from each\nother. A is sitting second to the left of C. D is sitting opposite to B. F is sitting to the immediate right of B. Who is\nsitting second to the right of E?",
+   "options": [
+    "A",
+    "B",
+    "D",
+    "F"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set5-q030",
+  "b": "2023-06-24-s2-q003",
+  "scores": {
+   "stem": 63.8,
+   "stemTokenSet": 75.9,
+   "cosine": 0.461,
+   "options": 88.7,
+   "answer": 96.3
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. No X are Y.\nII. Some Z are Y.\nConclusions:\nI. All Z are X.\nII. No Y is X.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follows",
+    "Neither conclusion follows"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+   "options": [
+    "Only conclusions III follows",
+    "Only conclusions II and III follow",
+    "All the conclusions, I, II and III, follow",
+    "Only conclusions I and II follow"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set5-q031",
+  "b": "2023-06-24-s2-q003",
+  "scores": {
+   "stem": 64.6,
+   "stemTokenSet": 78.4,
+   "cosine": 0.498,
+   "options": 89.5,
+   "answer": 80.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements\nto be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given\nconclusion logically follows the given statements.\nStatements:\nI. All F are C.\nII. No D is F.\nConclusions:\nI. Some C are F.\nII. All C are D.\nIII. No F is D.",
+   "options": [
+    "Both conclusions I and II follows",
+    "Only conclusion III follows",
+    "Both conclusions I and III follows",
+    "All conclusion follows"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is trte, even\nif it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s)\nfrom the statements.\nStatements:\nA. All ducks are cats.\nB. All cats are lions.\nC. Some lions are jungles.\nConclusions:\nI. No lions are cats.\nII. No cat is a duck.\nIII. All ducks are lions.",
+   "options": [
+    "Only conclusions III follows",
+    "Only conclusions II and III follow",
+    "All the conclusions, I, II and III, follow",
+    "Only conclusions I and II follow"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set5-q039",
+  "b": "2023-06-24-s2-q014",
+  "scores": {
+   "stem": 46.7,
+   "stemTokenSet": 59.1,
+   "cosine": 0.448,
+   "options": 87.5,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ)",
+  "qa": {
+   "text": "Which answer figure will complete the pattern in the question figure?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the alternative figure in which the given figure (X) is embedded.",
+   "options": [
+    "",
+    "",
+    "",
+    "4"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q040",
+  "b": "2023-06-24-s2-q013",
+  "scores": {
+   "stem": 49.8,
+   "stemTokenSet": 71.3,
+   "cosine": 0.509,
+   "options": 100.0,
+   "answer": null
+  },
+  "reason": "Similar wording; needs review (borderline similarity)",
+  "qa": {
+   "text": "If a mirror is placed on the line AB, then which of the answer figures is the right image of the given figure?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Select the correct mirror image of the given figure when the mirror is held at the right side.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set5-q064",
+  "b": "2021-set5-q066",
+  "scores": {
+   "stem": 86.5,
+   "stemTokenSet": 85.2,
+   "cosine": 0.282,
+   "options": 48.5,
+   "answer": 42.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nप्रणय : परिणय",
+   "options": [
+    "विवाह : प्रेम",
+    "विवाह : विच्छेद",
+    "विच्छेद : शत्रुता",
+    "प्रेम : विवाह"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nअगद : अंगद",
+   "options": [
+    "इत्र : पुत्र",
+    "नीरोग : इत्र",
+    "पुत्र : भेद",
+    "नीरोग : बालि का पुत्र"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set5-q064",
+  "b": "2021-set5-q067",
+  "scores": {
+   "stem": 73.8,
+   "stemTokenSet": 78.9,
+   "cosine": 0.204,
+   "options": 48.9,
+   "answer": 42.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए शब्द युग्म का सही शब्द युग्म ज्ञात कीजिए।\nप्रणय : परिणय",
+   "options": [
+    "विवाह : प्रेम",
+    "विवाह : विच्छेद",
+    "विच्छेद : शत्रुता",
+    "प्रेम : विवाह"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "दिए गए शब्द का विलोम शब्द ज्ञात कीजिए।\nअल्पप्राण",
+   "options": [
+    "प्राण",
+    "महाप्राण",
+    "निप्राण",
+    "आदृ त"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q072",
+  "b": "2021-set5-q073",
+  "scores": {
+   "stem": 85.2,
+   "stemTokenSet": 90.7,
+   "cosine": 0.472,
+   "options": 76.7,
+   "answer": 34.8
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nछिः यहाँ तो बहुत गंदगी है।",
+   "options": [
+    "अर्द्धविराम",
+    "उपविराम",
+    "विस्मयादिबोधक",
+    "प्रश्नवाचक"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "दिए गए वाक्य में उपयुक्त विराम चिह्न का चयन कीजिए।\nतुम कब आओगे",
+   "options": [
+    "कोष्ठक",
+    "पूर्णविराम",
+    "प्रश्नवाचक",
+    "अर्द्धविराम"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set5-q074",
+  "b": "2021-set5-q075",
+  "scores": {
+   "stem": 92.2,
+   "stemTokenSet": 94.9,
+   "cosine": 0.534,
+   "options": 54.7,
+   "answer": 52.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nउड़ती चिड़िया के पंख गिनना",
+   "options": [
+    "अज्ञान का पर्दादूर करना",
+    "अनुभवी होना",
+    "व्यर्थसमय गंवाना",
+    "छुपी हुई प्रतिभा"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "निम्नलिखित प्रश्न में, दिए गए चार विकल्पों में से, उस विकल्प का चयन करें जो दिए गए मुहावरे के अर्थको सर्वश्रेष्ठ रूप से व्यक्त करता है।\nइधर का न उधर का होना",
+   "options": [
+    "बे-आबरू होना",
+    "खुद पर थोड़ा खर्चकरना",
+    "जीवन की परवाह न करना",
+    "कलंक लगना"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2021-set5-q083",
+  "b": "2021-set5-q084",
+  "scores": {
+   "stem": 82.4,
+   "stemTokenSet": 87.1,
+   "cosine": 0.438,
+   "options": 53.0,
+   "answer": 27.6
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nAt the age of 83, she published her first book. What an inspiring!",
+   "options": [
+    "What a inspiration",
+    "What an inspiration",
+    "What a inspiring",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q084",
+  "b": "2023-06-24-s2-q069",
+  "scores": {
+   "stem": 66.4,
+   "stemTokenSet": 80.1,
+   "cosine": 0.304,
+   "options": 38.5,
+   "answer": 36.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option that can substitute the underlined segment in the given\nsentence. If there is no need to substitute it, select ‘No substitution required’.\nNo sooner did we arrived at the railway station than we got into an argument with the auto driver.",
+   "options": [
+    "No sooner did we arrives",
+    "No sooner had we arrive",
+    "No sooner did we arrive",
+    "No substitution required"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set5-q084",
+  "b": "2023-06-24-s2-q070",
+  "scores": {
+   "stem": 68.8,
+   "stemTokenSet": 78.4,
+   "cosine": 0.325,
+   "options": 35.1,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No\nimprovement.\nI usually did not add cheese to my toast.",
+   "options": [
+    "do not added",
+    "do not add",
+    "did not adding",
+    "No Improvement"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the most appropriate option that can substitute the underlined segment in the given\nsentence. If there is no need to substitute it, select ‘No substitution required’.\nWhen plastic waste was burnt, a complex weave of toxic chemicals is released.",
+   "options": [
+    "were burnt",
+    "is burnt",
+    "are burnt",
+    "No substitution required"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q085",
+  "b": "2021-set5-q086",
+  "scores": {
+   "stem": 75.1,
+   "stemTokenSet": 82.9,
+   "cosine": 0.287,
+   "options": 35.5,
+   "answer": 18.2
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.\nNo matter how tough a situation gets, you can always ______ it with your will power.",
+   "options": [
+    "covert",
+    "overwhelm",
+    "come",
+    "overcome"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "A sentence has been given with a blank to be filled with an appropriate word/words. Choose the correct alternative.\nShe is the girl ______ stole my handbag.",
+   "options": [
+    "that",
+    "whom",
+    "which",
+    "who"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set5-q091",
+  "b": "2021-set5-q092",
+  "scores": {
+   "stem": 98.3,
+   "stemTokenSet": 98.8,
+   "cosine": 0.398,
+   "options": 48.5,
+   "answer": 43.5
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the given question, four words are given out of which one word is correctly spelt. Choose the correctly spelt word.",
+   "options": [
+    "Intirnational",
+    "International",
+    "Intirnationel",
+    "Internationel"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "In the given question, four words are given out of which one word is incorrectly spelt. Choose the incorrectly spelt word.",
+   "options": [
+    "Clinical",
+    "Dictionery",
+    "Bilingual",
+    "Redemption"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q093",
+  "b": "2021-set5-q094",
+  "scores": {
+   "stem": 93.0,
+   "stemTokenSet": 96.4,
+   "cosine": 0.25,
+   "options": 42.3,
+   "answer": 42.9
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo bell the cat",
+   "options": [
+    "To become angry",
+    "Abandoned",
+    "To attempt something dangerous",
+    "To run away"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase.\nTo paddle one’s own canoe",
+   "options": [
+    "To struggle for recognition",
+    "To destroy one’s chances",
+    "To never give up",
+    "To depend on oneself alone"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2021-set5-q157",
+  "b": "2021-set5-q158",
+  "scores": {
+   "stem": 69.2,
+   "stemTokenSet": 82.3,
+   "cosine": 0.566,
+   "options": 100.0,
+   "answer": 50.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following statement(s) is/are true regarding processes and threads in operating system?\nI. Threads encapsulates concurrency within a process.\nII. Process encapsulates protection within the system.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following statement(s) is/are true regarding threads in operating system?\nI. The threads in a process are visible to other processes.\nII. A thread is strictly private resource of a process.",
+   "options": [
+    "Only I",
+    "Only II",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2021-set5-q187",
+  "b": "2023-06-24-s2-q121",
+  "scores": {
+   "stem": 33.8,
+   "stemTokenSet": 52.0,
+   "cosine": 0.432,
+   "options": 35.5,
+   "answer": 22.2
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "What is the mean of the mode and median of the data given below?\n8, 7, 5, 4, 9, 1, 3, 7, 6, 5, 2, 1, 6, 3, 9, 8, 4, 6",
+   "options": [
+    "6.5",
+    "5.75",
+    "6.25",
+    "5.5"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "IfA= (1,2,3,4), B = (2,4,5) and C = (2,5), then (A-B)x(B-C)=?",
+   "options": [
+    "{1,3)",
+    "(1.4)",
+    "{1,3,4)",
+    "(1,3,4,5)"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2021-set5-q193",
+  "b": "2023-06-24-s2-q197",
+  "scores": {
+   "stem": 43.9,
+   "stemTokenSet": 86.8,
+   "cosine": 0.47,
+   "options": 32.7,
+   "answer": 28.6
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following is not a feature of formative assessment?",
+   "options": [
+    "It is diagnostic and remedial",
+    "It provides a platform for the active involvement of students in their own learning",
+    "It is not conducted at regular intervals on informal basis",
+    "It ensure provision for effective feedback"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the following statements is correct regarding formative assessment?\nI. It is conducted at regular intervals on informal basis.\nII. It involves self-assessment and peer appraisal.\nIII. It is diagnostic and remedial.",
+   "options": [
+    "Only I",
+    "II and III",
+    "I, II and III",
+    "Only III"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q005",
+  "b": "2023-06-24-s2-q016",
+  "scores": {
+   "stem": 84.1,
+   "stemTokenSet": 87.8,
+   "cosine": 0.228,
+   "options": 0.0,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nHXK, MUC, ?, WOP, BIK",
+   "options": [
+    "RRU",
+    "RRV",
+    "RSV",
+    "SRV"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "Select the number from among the given options that can replace the question mark (?) in the following series.\n6, 7, 15, 24, 88, 7, 329",
+   "options": [
+    "113",
+    "114",
+    "115",
+    "116"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q011",
+  "b": "2023-06-24-s2-q012",
+  "scores": {
+   "stem": 100.0,
+   "stemTokenSet": 100.0,
+   "cosine": 0.473,
+   "options": 53.8,
+   "answer": 40.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Four letter-cluster pairs have been giveu, out of which three are alike in some manner and one is different. Select the\none that is different.",
+   "options": [
+    "SX - UZ",
+    "HM - JO",
+    "EJ - GL",
+    "AF - CI"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Four letter-cluster pairs have been giveu, out of which three are alike in some manner and one is different. Select the\none that is different.",
+   "options": [
+    "FHJ - KMO",
+    "CEG - HJL",
+    "KMО - PRI",
+    "VXZ -ACF"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q011",
+  "b": "2023-06-24-s2-q017",
+  "scores": {
+   "stem": 94.8,
+   "stemTokenSet": 94.4,
+   "cosine": 0.426,
+   "options": 15.4,
+   "answer": 15.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Four letter-cluster pairs have been giveu, out of which three are alike in some manner and one is different. Select the\none that is different.",
+   "options": [
+    "SX - UZ",
+    "HM - JO",
+    "EJ - GL",
+    "AF - CI"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Four number-pairs have been giveu, out of which three are alike in some manner and one is different. Select the one that\nis different.",
+   "options": [
+    "17-42.5",
+    "19-47.5",
+    "23-57.5",
+    "29-78.3"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q012",
+  "b": "2023-06-24-s2-q017",
+  "scores": {
+   "stem": 94.8,
+   "stemTokenSet": 94.4,
+   "cosine": 0.418,
+   "options": 13.9,
+   "answer": 14.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Four letter-cluster pairs have been giveu, out of which three are alike in some manner and one is different. Select the\none that is different.",
+   "options": [
+    "FHJ - KMO",
+    "CEG - HJL",
+    "KMО - PRI",
+    "VXZ -ACF"
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "Four number-pairs have been giveu, out of which three are alike in some manner and one is different. Select the one that\nis different.",
+   "options": [
+    "17-42.5",
+    "19-47.5",
+    "23-57.5",
+    "29-78.3"
+   ],
+   "key": "D"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q069",
+  "b": "2023-06-24-s2-q070",
+  "scores": {
+   "stem": 79.0,
+   "stemTokenSet": 79.8,
+   "cosine": 0.365,
+   "options": 50.9,
+   "answer": 19.4
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Select the most appropriate option that can substitute the underlined segment in the given\nsentence. If there is no need to substitute it, select ‘No substitution required’.\nNo sooner did we arrived at the railway station than we got into an argument with the auto driver.",
+   "options": [
+    "No sooner did we arrives",
+    "No sooner had we arrive",
+    "No sooner did we arrive",
+    "No substitution required"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Select the most appropriate option that can substitute the underlined segment in the given\nsentence. If there is no need to substitute it, select ‘No substitution required’.\nWhen plastic waste was burnt, a complex weave of toxic chemicals is released.",
+   "options": [
+    "were burnt",
+    "is burnt",
+    "are burnt",
+    "No substitution required"
+   ],
+   "key": "B"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q077",
+  "b": "2023-06-24-s2-q080",
+  "scores": {
+   "stem": 38.1,
+   "stemTokenSet": 50.0,
+   "cosine": 0.424,
+   "options": 13.3,
+   "answer": 11.1
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following sentences is NOT true in the context of the given passage?",
+   "options": [
+    "Good health is that condition in which the body and mind duly discharge their functions.",
+    "In these days of specialisation, doctors cure a patient only for his immediate disease, treating\nit in quarantine.",
+    "Dr. Hedge advocates regular yoga exercise and meditation to keep fit, but at the same time\ncautions against overindulgence.",
+    "A restful sleep at night will recharge our batteries for the following day’s cataclysmic\nendeavour."
+   ],
+   "key": "D"
+  },
+  "qb": {
+   "text": "From the given options identify the most appropriate synonym of the underlined word as used in\nthe passage.\nGood health helps everyone to be creative and work for the welfare of the society.",
+   "options": [
+    "Fertile",
+    "Imitative",
+    "Innovative",
+    "Enervated\nQuestion Id : 630680257037 Sub Question Shuffling Allowed : Yes Group Comprehension\nQuestions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A\nThink Time : N.A Minimum Instruction Time : 0\nQuestion Numbers : (76 to 80)\nRead the given passage and answer the questions that follow.\nGood health is the soundness of body, mind and soul. It is that condition in which the body and\nmind duly discharge their functions. Good health helps everyone to be creative and work for the\nwelfare of the society. He has to be, therefore, free from diseases: or, if he suffers from a disease\nhe needs treatments not only for that particular disease but for the whole body, mind and soul. In\nother words, a doctor has to have a sound approach to the patients.\nIn these days of specialisation, doctors cure a patient only for his immediate disease, treating it in\nisolation. Such an approach goes against the old aphorism that ‘prevention is better than cure’. Dr.\nHedge provides insight into the overall causes of simple and serious disease and describes the\nmethods of preventing them without having to take medicine but exercising, self-control on food\nconsumption, smoking and intake of alcoholic drinks. He also advocates regular yoga exercise and\nmeditation to keep fit, but at the same time warns against over indulgence.\nHedge stresses the importance of laughter because laughter induces secretion of good\ncatecholamine, which is a hormone produced by adrenal glands; they can be both beneficial and\nharmful. They are harmful when a person is angry, but beneficial if he laughs. For a healthy living,\n“Laughter proves to be great boon,” Hedge says.\nIn these days of hectic life, full of stress, strain and emotions, everyone needs to lead a relaxed life.\nThe best form of relaxation, according to Hedge, is sound sleep. “Restful sleep at night will\nrecharge our batteries for the following day’s fruitful endeavour,” he says. There is no use of lying\non the bed and tossing without sleep. Under those circumstances it is better to read or engage\noneself in some light mental activities which are useful. But never seek refuge in alcoholic drinks\nor pills for inducing sleep, as these are not refreshing for an individual. For a normal human being,\neight hours of sleep a day is sufficient to keep him free from stress. More than nine to ten hours of\nsleep a day would produce increased muscle protein loss in the body and might even shorten\none’s life.\nSub questions"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q082",
+  "b": "2023-06-24-s2-q083",
+  "scores": {
+   "stem": 73.0,
+   "stemTokenSet": 79.5,
+   "cosine": 0.219,
+   "options": 47.1,
+   "answer": 33.3
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "‘क़ानून की अनिभज्ञता से बहुत हािन होती है इसिलए उसकी ______ आवश्यक है।’\nउपयुक्त शब्द चुनकर, उपरोक्त वाक्य में रिक्त स्थान की पूर्ति करें।",
+   "options": [
+    "अज्ञता",
+    "विज्ञता",
+    "अज्ञानता",
+    "अल्पज्ञता"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "‘उन्नति के लिए मानसिक और आर्थिक ______ की आवश्यकता होती है।\nस्व विवेकानुसार उचित शब्द चुनकर, उपरोक्त वाक्य में रिक्त स्थान की पूर्ति करें।",
+   "options": [
+    "सकारात्मकता",
+    "आत्मिनभर्रता",
+    "सक्षमता",
+    "विविधता"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q093",
+  "b": "2023-06-24-s2-q097",
+  "scores": {
+   "stem": 91.5,
+   "stemTokenSet": 89.2,
+   "cosine": 0.295,
+   "options": 38.5,
+   "answer": 0.0
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "निम्नलिखित में से कौन सा शब्द ‘थकान’ का पर्याय नहीं है?",
+   "options": [
+    "क्लािन्त",
+    "आिश्वन",
+    "श्रािन्त",
+    "पिरश्रांित"
+   ],
+   "key": "B"
+  },
+  "qb": {
+   "text": "निम्नलिखित में से कौन-सा शब्द ‘केवल’ का पर्यायवाची नहीं है?",
+   "options": [
+    "भी",
+    "एकमात्र",
+    "निरा",
+    "सिर्फ"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q115",
+  "b": "2023-06-24-s2-q155",
+  "scores": {
+   "stem": 57.0,
+   "stemTokenSet": 68.3,
+   "cosine": 0.423,
+   "options": 94.5,
+   "answer": 78.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, different correct answer)",
+  "qa": {
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) VB.NET is an object-oriented programming language implemented in the NET Framework.\nii) VB.NET is subset of Visual basic 6.0.\ni) NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
+   "options": [
+    "i-True, ii-True, ili-True",
+    "i-False, ii-True, iii-True",
+    "1-True, il-False, ili-True",
+    "i-False, i-False, ili-Irue"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Just-In-Time compiler (JIT) is a part of Common Language Runtime (CLR).\nil) NEI Framework is part of the .NET platform, a collection of technologies for building apps for Linux, macOs,\nWindows, iOs, Android.\nil) ASPINET applications are compiled codes, written using the extensible and reusable components or objects present\nin .Net framework.",
+   "options": [
+    "1-True, il-True, ill-True",
+    "i-False, ii-True, iii-True",
+    "1-True, il-False, ili-True",
+    "i-False, ii-False, ili-True"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q129",
+  "b": "2023-06-24-s2-q168",
+  "scores": {
+   "stem": 61.8,
+   "stemTokenSet": 64.8,
+   "cosine": 0.431,
+   "options": 100.0,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (same correct answer text)",
+  "qa": {
+   "text": "Select the option that best describes the truthfulness of the following statements.\ni) RAM is a volatile memory having a limited storage capacity.\nii) Secondary memory is storage other than the RAM and ROM.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, il-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) The clock signal is required for sequential circuits.\nil) In the sequential circuit, memory elements play an important role and are required.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, il-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "key": "A"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q136",
+  "b": "2023-06-24-s2-q174",
+  "scores": {
+   "stem": 70.7,
+   "stemTokenSet": 81.4,
+   "cosine": 0.505,
+   "options": 91.7,
+   "answer": 86.7
+  },
+  "reason": "Similar wording; needs review (different correct answer)",
+  "qa": {
+   "text": "Which of the following Linux commands is/are used to search content from files?\nCommands:\ni) grep\nii) egrep\niii) fgrep\niv) find\nv) tail\nvil tr",
+   "options": [
+    "i, ii and ili only",
+    "il, iii and iv only",
+    "v and vi only",
+    "iv only"
+   ],
+   "key": "A"
+  },
+  "qb": {
+   "text": "Which of the following commands is/are used to create files in Linux?\nCommands:\ni) touch\nii) cat\niii) head\niv) finger",
+   "options": [
+    "i, ii and ili only",
+    "ii, ili and iv only",
+    "i and ii only",
+    "i only"
+   ],
+   "key": "C"
+  }
+ },
+ {
+  "a": "2023-06-24-s2-q149",
+  "b": "2023-06-24-s2-q169",
+  "scores": {
+   "stem": 46.5,
+   "stemTokenSet": 55.4,
+   "cosine": 0.437,
+   "options": 97.7,
+   "answer": 100.0
+  },
+  "reason": "Similar wording; needs review (numbers/literals in the stem differ, same correct answer text)",
+  "qa": {
+   "text": "Match the column LIST-I with the column LIST-II.\nLIST-I\nLIST-II\na) Front-End Framework i) React JS\nb) Front-End Asset\nii) Tailwind CSS\nc) Front-End Boilerplate iii) Font Awesome\nd) JavaScript Library:\niv) Reset CSS",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a- iii, b-i, c- iv, d-ii"
+   ],
+   "key": "C"
+  },
+  "qb": {
+   "text": "Match the column Well-known ports used by ICP with the column Protocol.\nWell-known ports used by TCP Protocol\ni) Davtime\na) 7\nb) 9\nii) Echo\niii) Discard\nc) 11\niv) SYSTAT\nd) 13",
+   "options": [
+    "a-ii, b-i, c-iv, d-iii",
+    "a-i, b-ii, c-iv, d-iii",
+    "a-ii, b-iii, c-iv, d-i",
+    "a-ii, b-i, c-iv, d-ii"
+   ],
+   "key": "C"
+  }
+ }
+]

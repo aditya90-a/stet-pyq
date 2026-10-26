@@ -1,0 +1,677 @@
+[
+ {
+  "id": "2023-06-24-s2-q118",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following statements is/are INCORRECT about the Z-buffer algorithm in computer graphics?\nStatements:\ni) It is an image space method to detect visible surface.\nii) In this method, a depth buffer is used to store the depth values of each position and a refresh (frame) buffer is used to store the intensity values or colour values for each position.\niii) In this method, object edges can be anti aliased.\niv) This method can only find one visible surface at each pixel position.",
+   "options": [
+    "ii, iii and iv only",
+    "i, ii, iii and iv",
+    "i, ii, and iv only",
+    "iii only"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "INCORRECI→INCORRECT; il→ii; iil→iii; ili→iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "subtopic": "Curves, surfaces & hidden surfaces",
+  "concept": "Z-buffer (depth buffer) algorithm properties",
+  "difficulty": "medium",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Check each statement about the Z-buffer (depth-buffer) method:\n- i) **Correct**. It works pixel by pixel in image space to decide which surface is visible.\n- ii) **Correct**. It uses two buffers: a depth (Z) buffer holding the nearest depth for each pixel and a refresh/frame buffer holding the colour/intensity for each pixel.\n- iii) **Incorrect**. Because it keeps only one depth and one colour per pixel, it cannot blend partial coverage at edges, so object edges cannot be anti-aliased (the A-buffer method was developed to fix this).\n- iv) **Correct**. Storing a single depth per pixel means it finds only one visible surface per pixel, which is why it cannot handle transparency directly.\n\nOnly iii is incorrect, so the answer is option 4."
+ },
+ {
+  "id": "2023-06-24-s2-q119",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the column JavaScript-Events with the column Descriptions.\nJavaScript-Events | Descriptions\na) onchange | i) The browser has finished loading the page.\nb) onmouseover | ii) An HTML element has been changed.\nc) onkeydown | iii) The user moves the mouse over an HTML element.\nd) onload | iv) The user pushes a keyboard key.",
+   "options": [
+    "a-ii, b-iii, c-iv, d-i",
+    "a-iii, b-ii, c-iv, d-i",
+    "a-ii, b-iv, c-iii, d-i",
+    "a-iv, b-iii, c-i, d-ii"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Table rows re-ordered; option 4 'b-ii'→'b-iii'"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "JavaScript & event model",
+  "concept": "Common JavaScript DOM events",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Each JavaScript event fires on a specific action:\n- **a) onchange → ii)**: fires when the value of an HTML element (input, select, textarea) has been changed.\n- **b) onmouseover → iii)**: fires when the user moves the mouse pointer over an element.\n- **c) onkeydown → iv)**: fires when the user presses a keyboard key.\n- **d) onload → i)**: fires when the browser has finished loading the page (or an image, etc.).\n\nSo the matching is a-ii, b-iii, c-iv, d-i, which is option 1.\n\nOption 2 swaps onchange and onmouseover, option 3 swaps onmouseover and onkeydown, and option 4 assigns onload to 'element changed', all of which are wrong."
+ },
+ {
+  "id": "2023-06-24-s2-q120",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is/are key knowledge management process(es)?\nProcesses:\ni) Knowledge gathering\nii) Knowledge storage and organisation\niii) Knowledge distribution\niv) Knowledge use",
+   "options": [
+    "ii, iii and iv only",
+    "i, ii, iii and iv",
+    "i, ii, and iv only",
+    "iii only"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Third item ii)→iii); il→ii"
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "Knowledge management",
+  "concept": "Knowledge management process cycle",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Knowledge management (KM) is usually described as a cycle of key processes:\n- **Knowledge gathering/creation/capture**: acquiring knowledge from people, documents and data.\n- **Knowledge storage and organisation**: codifying and structuring it in repositories so it can be found.\n- **Knowledge distribution/sharing**: making it available to the people who need it.\n- **Knowledge use/application**: applying it in decisions and work, which in turn generates new knowledge.\n\nAll four listed items are key KM processes, so option 2 (i, ii, iii and iv) is correct. Every other option leaves out at least one essential stage of the cycle."
+ },
+ {
+  "id": "2023-06-24-s2-q121",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "If A = {1,2,3,4}, B = {2,4,5} and C = {2,5}, then (A−B)×(B−C) = ?",
+   "options": [
+    "{1,3}",
+    "{1,4}",
+    "{1,3,4}",
+    "{1,3,4,5}"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "The operator printed is × (Cartesian product), but none of the options is a set of ordered pairs; the keyed option equals (A−B) ∪ (B−C).",
+   "changes": "Parentheses → set braces; IfA→If A; (1.4)→{1,4}; '-'→'−'"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Sets, relations & logic",
+  "concept": "Set difference and Cartesian product",
+  "difficulty": "medium",
+  "derivedAnswer": "C",
+  "derivedConfidence": "low",
+  "keyAssessment": "ambiguous",
+  "keyNote": "As printed with ×, the answer is {(1,4), (3,4)}, which is not among the options. The key {1,3,4} equals (A−B) ∪ (B−C), so the question was probably meant to use union.",
+  "explanation": "Step 1: A − B = elements of A not in B = {1,2,3,4} − {2,4,5} = **{1,3}**.\nStep 2: B − C = elements of B not in C = {2,4,5} − {2,5} = **{4}**.\n\nStep 3 (as printed, ×): the Cartesian product is the set of ordered pairs (a, b) with a ∈ A−B and b ∈ B−C:\n(A−B)×(B−C) = **{(1,4), (3,4)}**, which has 2 × 1 = 2 elements.\n\nNone of the options is a set of ordered pairs, so the question as printed has no correct option.\n\nThe source key marks option 3, {1,3,4}, which is what you get with union: {1,3} ∪ {4} = {1,3,4}. The setter most likely intended ∪ but printed ×. Learn the Cartesian product result, and note that the exam keyed option 3."
+ },
+ {
+  "id": "2023-06-24-s2-q122",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) In the probability theory, an outcome is the result of a random experiment.\nii) The purpose of statistical inference is to estimate the uncertainty or sample to sample variation.\niii) A sampling error is the difference between the true population values (called parameters) and the measured sample values (called statistics).",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-False, iii-True",
+    "i-False, ii-False, iii-True"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il→ii; 1-True→i-True; ill/ili/iïi→iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Descriptive statistics & distributions",
+  "concept": "Outcome, statistical inference, sampling error",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. In probability theory, an outcome is a possible result of a random experiment (e.g. getting 'Heads' when tossing a coin); the set of all outcomes is the sample space.\n- ii) **True**. Statistical inference draws conclusions about a population from a sample. Since different samples give different results, a central purpose is to estimate this uncertainty, i.e. sample-to-sample variation, through standard errors, confidence intervals and hypothesis tests.\n- iii) **True**. Sampling error is the difference between a population value (parameter, e.g. μ) and the corresponding value measured from a sample (statistic, e.g. x̄), arising because only part of the population is observed.\n\nAll three are true, so option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q123",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is/are type(s) of business communication?\nTypes:\ni) Internal Business Communication\nii) Lateral Business Communication\niii) External Business Communication\niv) Protected Business Communication",
+   "options": [
+    "i, ii and iii only",
+    "ii, iii and iv only",
+    "i and ii only",
+    "i only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "ili→iii; 'ionly'→'i only'"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Business communication & organisation",
+  "concept": "Types of business communication",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Business communication is commonly classified into these types:\n- **Internal (upward and downward)**: within the organisation, between levels of hierarchy, e.g. reports to managers, instructions to staff.\n- **Lateral (horizontal)**: between employees or departments at the same level, e.g. coordination between marketing and production.\n- **External**: with people outside the organisation, such as customers, suppliers, investors and government.\n\n'Protected business communication' is not a recognised type of business communication.\n\nSo i, ii and iii are types: option 1. Option 2 includes the non-existent 'protected' type, option 3 leaves out external communication, and option 4 leaves out both lateral and external."
+ },
+ {
+  "id": "2023-06-24-s2-q124",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the output of the following ‘C’ language statements?\n#include<stdio.h>\nint main(){\nint a=10,b=20,*p1=&a,*p2=&b;\nprintf(\"Before : **p1=%d **p2=%d\",*p1,*p2);\n*p1=*p1+*p2;\n*p2=*p1-*p2;\n*p1=*p1-*p2;\nprintf(\"\\nAfter : **p1=%d **p2=%d\",*p1,*p2);\nreturn 0;\n}",
+   "options": [
+    "Before : **p1=10 **p2=20\nAfter : **p1=20 **p2=10",
+    "Before : **p1=20 **p2=10\nAfter : **p1=10 **p2=20",
+    "Before : *p1=10 *p2=20\nAfter : *p1=20 *p2=20",
+    "Before : p1=10 p2=20\nAfter : p1=20 p2=10"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "main0f→main(){; pl/pI/pi→p1; †pi→*p1; 'nAfter'→'\\nAfter'; added missing closing brace; ' : ' spacing in strings and options"
+  },
+  "subject": "Computer Science",
+  "topic": "Programming in C",
+  "subtopic": "Pointers & dynamic memory",
+  "concept": "Swap two values via pointers without temp",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "p1 points to a, p2 points to b. Note that `**p1=` inside the format string is just literal text, so it is printed as-is.\n\n1. First printf: `Before : **p1=10 **p2=20`\n2. `*p1 = *p1 + *p2` → a = 10 + 20 = 30\n3. `*p2 = *p1 - *p2` → b = 30 − 20 = 10\n4. `*p1 = *p1 - *p2` → a = 30 − 10 = 20\n5. Second printf (after a newline): `After : **p1=20 **p2=10`\n\nThe add/subtract trick swaps the two values through the pointers without a temporary variable.\n\nWhy not the others:\n- Option 2 shows the values before and after in reverse.\n- Option 3 drops one '*' from the literal text and gives the wrong *p2.\n- Option 4 drops the literal '**' text."
+ },
+ {
+  "id": "2023-06-24-s2-q125",
+  "transcription": {
+   "verdict": "match",
+   "text": "Which of the following software is used by a wide range of industries for project planning, resource allocation and scheduling?",
+   "options": [
+    "CRM software",
+    "Project management software",
+    "Word processor",
+    "Firewall software"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Software types & utilities",
+  "concept": "Project management software purpose",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "**Project management software** (e.g. Microsoft Project, Primavera, Jira, Asana) helps plan projects, break them into tasks, schedule them (Gantt charts, critical path), allocate and track resources such as people, budget and equipment, and monitor progress. It is used across construction, IT, manufacturing, engineering and many other industries.\n\nWhy not the others:\n- CRM (Customer Relationship Management) software manages customer data, sales and support interactions.\n- A word processor creates and formats text documents.\n- Firewall software filters network traffic for security.\n\nSo option 2 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q126",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is/are associated with turbulent flow?\ni) Flow of liquid is orderly.\nii) Flow of liquid is zigzag and random.",
+   "options": [
+    "Only (i)",
+    "Only (ii)",
+    "Both (i) and (ii)",
+    "Neither (i) nor (ii)"
+   ],
+   "keyInImage": "B",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il)→ii)"
+  },
+  "subject": "Computer Science",
+  "topic": "Physics Basics",
+  "subtopic": "Units & electricity basics",
+  "concept": "Turbulent versus streamline flow",
+  "difficulty": "easy",
+  "derivedAnswer": "B",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In fluid flow there are two main regimes:\n- **Streamline (laminar) flow**: the liquid moves in smooth, parallel layers; the velocity at a point stays constant, so the flow is orderly. This happens at low speeds (low Reynolds number).\n- **Turbulent flow**: above a critical velocity (high Reynolds number) the motion becomes irregular, with eddies and whirls; particles move in a **zigzag, random** manner.\n\nStatement i (orderly flow) describes laminar/streamline flow, not turbulent flow. Statement ii describes turbulent flow.\n\nSo only (ii) is associated with turbulent flow: option 2."
+ },
+ {
+  "id": "2023-06-24-s2-q127",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Match the column ‘Moduli of elasticity’ with the column ‘Descriptions’.\nModuli of elasticity | Descriptions\na) Young's modulus | i) It is the ratio of the shearing stress applied to the body to the shearing strain produced.\nb) Bulk (or) Volume modulus | ii) It is defined as the ratio of linear stress to linear strain.\nc) Shearing (or) Rigidity modulus | iii) It is defined as the ratio of bulk stress to bulk strain.",
+   "options": [
+    "a-ii, b-iii, c-i",
+    "a-i, b-iii, c-ii",
+    "a-ii, b-i, c-iii",
+    "a-iii, b-ii, c-i"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Interleaved table rows re-ordered into matching rows; fixed quote marks"
+  },
+  "subject": "Computer Science",
+  "topic": "Physics Basics",
+  "subtopic": "Units & electricity basics",
+  "concept": "Young's, bulk and rigidity moduli",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The three moduli of elasticity are ratios of a particular stress to the matching strain:\n- **a) Young's modulus (Y) → ii)**: linear (tensile/compressive) stress ÷ linear (longitudinal) strain.\n- **b) Bulk modulus (K) → iii)**: bulk (volume) stress, i.e. pressure change, ÷ volumetric strain (ΔV/V).\n- **c) Shear/rigidity modulus (G or η) → i)**: shearing (tangential) stress ÷ shearing strain (angle of shear).\n\nSo the matching is a-ii, b-iii, c-i, which is option 1.\n\nThe other options swap these definitions; the name of each modulus tells you which stress-strain pair it uses."
+ },
+ {
+  "id": "2023-06-24-s2-q128",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A ______ counter is a cascaded arrangement of flip-flops where the output of one flip-flop drives the clock input of the following flip-flop.",
+   "options": [
+    "ripple",
+    "synchronous",
+    "ring",
+    "cascaded"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "auraugement→arrangement; moved 'A' to the start and restored the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Flip-flops, registers & counters",
+  "concept": "Ripple (asynchronous) counter definition",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In a **ripple (asynchronous) counter**, only the first flip-flop receives the external clock. The output (Q or Q′) of each flip-flop drives the clock input of the next one, so a change 'ripples' through the chain one stage after another. This makes it simple but slower, since the propagation delays add up.\n\nWhy not the others:\n- Synchronous counter: all flip-flops share the same clock and change state together.\n- Ring counter: a shift register whose last output is fed back to the first input, with a common clock.\n- 'Cascaded' only describes connecting stages in series; it is not the name of this counter type."
+ },
+ {
+  "id": "2023-06-24-s2-q129",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Select the option that best describes the truthfulness of the following statements.\ni) RAM is a volatile memory having a limited storage capacity.\nii) Secondary memory is storage other than the RAM and ROM.",
+   "options": [
+    "i-True, ii-True",
+    "i-False, ii-True",
+    "i-True, ii-False",
+    "i-False, ii-False"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Option 2 il→ii"
+  },
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "subtopic": "Memory & storage units",
+  "concept": "RAM volatility and secondary memory",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. RAM (Random Access Memory) is volatile: its contents are lost when power is switched off. It is also limited in capacity (typically a few GB to tens of GB) and costlier per byte than secondary storage.\n- ii) **True**. Secondary (auxiliary) memory is non-volatile storage other than primary memory (RAM and ROM), such as hard disks, SSDs, optical discs and pen drives. It is not directly accessed by the CPU and stores data permanently in large amounts.\n\nBoth statements are true, so option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q130",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following firewalls examine traffic and filter on application-specific commands such as http:post or http:get?",
+   "options": [
+    "Application gateways",
+    "Stateful multilayer inspection firewalls",
+    "Circuit level gateways",
+    "Packet filters"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "multilaver→multilayer"
+  },
+  "subject": "Computer Science",
+  "topic": "Network Security & Cyber Law",
+  "subtopic": "Firewalls & authentication",
+  "concept": "Application-level gateway (proxy) firewall",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "An **application gateway** (application-level gateway or proxy firewall) works at the application layer. It understands specific protocols such as HTTP, FTP and SMTP, so it can examine the content of traffic and allow or block particular application commands, e.g. permit HTTP GET but deny HTTP POST.\n\nWhy not the others:\n- Packet filters check only network/transport-layer header fields (IP addresses, ports, protocol).\n- Circuit-level gateways work at the session layer, validating TCP handshakes/sessions without inspecting application content.\n- Stateful multilayer inspection firewalls track connection state across layers, but the classic firewall type defined by filtering on application commands is the application gateway."
+ },
+ {
+  "id": "2023-06-24-s2-q131",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following are the objectives of financial accounting?\ni) Proper recording of transactions\nii) Ascertainment of the financial position\niii) Reporting financial information\niv) Defalcation prevention\nv) Digital marketing",
+   "options": [
+    "i, ii, iii and iv only",
+    "ii and iii only",
+    "i, iii and iv only",
+    "i and ii only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "il→ii; V)→v); 'it and ili'→'ii and iii'; ili→iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "subtopic": "Financial accounting",
+  "concept": "Objectives of financial accounting",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The commonly listed objectives of financial accounting are:\n- **Systematic and proper recording** of business transactions in the books.\n- **Ascertaining the results** (profit or loss) and the **financial position** of the business through the balance sheet.\n- **Communicating/reporting financial information** to owners, creditors, investors and government.\n- **Prevention of frauds and defalcation** (misappropriation of funds) through proper records and checks.\n\n**Digital marketing** is a marketing activity, not an objective of accounting.\n\nSo i, ii, iii and iv are objectives: option 1. Options 2, 3 and 4 each leave out one or more genuine objectives."
+ },
+ {
+  "id": "2023-06-24-s2-q132",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) When a Java program is compiled, it generates Byte code.\nii) SOAP and RESTFUL are java web services.\niii) PATH Environment variable identifies the location of Java compiler.\niv) The || logical operator returns true if both statements are true.",
+   "options": [
+    "i-True, ii-True, iii-True, iv-False",
+    "i-False, ii-True, iii-True, iv-False",
+    "i-True, ii-False, iii-True, iv-False",
+    "i-True, ii-False, iii-True, iv-True"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "1)→i); il→ii; iil/ill/ili→iii; 1-True→i-True"
+  },
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "subtopic": "Java basics & JVM",
+  "concept": "Java bytecode, PATH, web services, || operator",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. `javac` compiles Java source (.java) into platform-independent bytecode (.class) that the JVM executes.\n- ii) **True** (in the sense intended). Java supports two styles of web services: SOAP-based (JAX-WS) and RESTful (JAX-RS).\n- iii) **True**. The PATH environment variable tells the OS where to find executables, so it is set to the JDK's bin folder so that `javac` (the compiler) can be run from any directory.\n- iv) **False**. `||` is logical OR: it returns true if **at least one** operand is true. 'True only if both are true' describes `&&` (logical AND).\n\nSo the pattern is i-T, ii-T, iii-T, iv-F: option 1."
+ },
+ {
+  "id": "2023-06-24-s2-q133",
+  "transcription": {
+   "verdict": "match",
+   "text": "Consider the following disk request sequence for a disk with 100 tracks:\n60, 45, 21, 67\nHead pointer starting at 60 and moving in the left direction. Find the number of head movements in cylinders using FCFS scheduling.",
+   "options": [
+    "85",
+    "90",
+    "80",
+    "193"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": ""
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "File systems & disk scheduling",
+  "concept": "FCFS disk scheduling head movement",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "FCFS (First Come First Served) services requests strictly in arrival order; the direction ('moving left') does not matter for FCFS.\n\nHead starts at 60. Requests: 60, 45, 21, 67.\n- 60 → 60: |60 − 60| = 0\n- 60 → 45: |60 − 45| = 15\n- 45 → 21: |45 − 21| = 24\n- 21 → 67: |67 − 21| = 46\n\nTotal head movement = 0 + 15 + 24 + 46 = **85 cylinders**.\n\nSo option 1 is correct. The direction information would matter only for algorithms like SCAN, C-SCAN or LOOK."
+ },
+ {
+  "id": "2023-06-24-s2-q134",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following languages is a non .NET language?",
+   "options": [
+    "C#",
+    "F#",
+    "J#",
+    "Pascal"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "FO→C#"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "Front-end tools & .NET",
+  "concept": ".NET languages (C#, F#, J#)",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Microsoft's .NET languages compile to Common Intermediate Language (CIL) and run on the Common Language Runtime (CLR):\n- **C#**: Microsoft's flagship object-oriented .NET language.\n- **F#**: Microsoft's functional-first .NET language.\n- **J#**: Microsoft's Java-syntax language for the .NET Framework (now discontinued).\n\n**Pascal** is a procedural language designed by Niklaus Wirth around 1970, long before .NET existed; standard Pascal is not a .NET language. (Some third-party Pascal-family compilers later targeted .NET, but Pascal is not one of the .NET languages.)\n\nSo option 4 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q135",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following is NOT an input/output redirection symbol that Linux shell assigns?",
+   "options": [
+    "<",
+    ">",
+    ">>",
+    "!"
+   ],
+   "keyInImage": "D",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Empty options filled from image: <, >, >>, !"
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "Linux commands & shell",
+  "concept": "Shell I/O redirection operators",
+  "difficulty": "easy",
+  "derivedAnswer": "D",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "Linux shells provide these I/O redirection operators:\n- `<` : input redirection, reads standard input from a file (e.g. `sort < data.txt`).\n- `>` : output redirection, writes standard output to a file, overwriting it (e.g. `ls > list.txt`).\n- `>>` : append redirection, adds output to the end of a file (e.g. `date >> log.txt`).\n\n`!` is not a redirection symbol. In bash it is used for history expansion (e.g. `!!` repeats the last command) and for logical negation in tests and pipelines (e.g. `! grep ...`).\n\nSo option 4 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q136",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the following Linux commands is/are used to search content from files?\nCommands:\ni) grep\nii) egrep\niii) fgrep\niv) find\nv) tail\nvi) tr",
+   "options": [
+    "i, ii and iii only",
+    "ii, iii and iv only",
+    "v and vi only",
+    "iv only"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "'vil tr'→'vi) tr'; il→ii; ili→iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "subtopic": "Linux commands & shell",
+  "concept": "grep family for searching file content",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The grep family searches inside files for lines matching a pattern:\n- **grep**: searches using basic regular expressions, e.g. `grep \"error\" log.txt`.\n- **egrep**: extended-regex grep (same as `grep -E`).\n- **fgrep**: fixed-string grep, matches literal text (same as `grep -F`).\n\nThe others do not search file contents:\n- `find` searches for **files** by name, size, type, date etc., not for text inside them.\n- `tail` shows the last lines of a file.\n- `tr` translates or deletes characters from standard input.\n\nSo i, ii and iii: option 1."
+ },
+ {
+  "id": "2023-06-24-s2-q137",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "The main purpose of a/an ______ is to record, process validate and store transition that take place in various function areas of a business for future retrieval of use.",
+   "options": [
+    "transition processing system",
+    "decision support system",
+    "executive support system",
+    "knowledge management system"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "'transition' is printed for 'transaction' (in the stem and option 1); also 'process validate' lacks a comma, 'function areas' for 'functional areas', and 'retrieval of use' for 'retrieval or use'.",
+   "changes": "Restored the blank; joined wrapped lines"
+  },
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "subtopic": "MIS & decision support",
+  "concept": "Transaction processing system purpose",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "The option printed as 'transition processing system' means a **Transaction Processing System (TPS)**; 'transition' is a printing error for 'transaction'.\n\nA TPS is the operational-level information system that records, processes, validates and stores the routine day-to-day transactions (sales, payroll, orders, receipts) of the various functional areas of a business, so the data can be retrieved and used later, for example by MIS and DSS.\n\nWhy not the others:\n- A Decision Support System helps managers analyse data for semi-structured decisions.\n- An Executive Support System gives senior executives summarised, strategic information.\n- A Knowledge Management System captures and shares organisational knowledge.\n\nSo option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q138",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "In Managed Ad-hoc Network (MANET), under which attack, malicious node injects fault routing information to the network, in order to locate packets into a loop?",
+   "options": [
+    "Byzantine attack",
+    "Worm Hole attack",
+    "Snooping attack",
+    "DNS attack"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "MANET is normally expanded as Mobile Ad-hoc Network, not 'Managed'; 'fault routing information' means false routing information and 'locate packets into a loop' presumably means route packets into a loop.",
+   "changes": "MANEI→MANET"
+  },
+  "subject": "Computer Science",
+  "topic": "Network Security & Cyber Law",
+  "subtopic": "Threats & malware",
+  "concept": "MANET Byzantine attack",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "medium",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In a MANET (Mobile Ad-hoc Network) every node also acts as a router, so a compromised node can disrupt routing.\n\nIn a **Byzantine attack**, a compromised intermediate node (or a set of colluding nodes) injects false routing information and creates **routing loops**, forwards packets along non-optimal paths, or selectively drops packets. This disrupts or degrades routing services while being hard to detect.\n\nWhy not the others:\n- Wormhole attack: two colluding nodes tunnel packets between distant points through a private link, misleading others about route lengths.\n- Snooping: eavesdropping on traffic to read data, not altering routes.\n- DNS attack: targets name resolution (e.g. DNS spoofing), not ad-hoc routing loops.\n\nSo option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q139",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) Class is one of the html global attributes which specifies one or more class names for an element (refers to a class in a style sheet).\nii) HTML is a markup language used for server-side processing.\niii) CSS describes how HTML elements are to be displayed on screen, paper, or in other media.",
+   "options": [
+    "i-True, ii-True, iii-True",
+    "i-False, ii-True, iii-True",
+    "i-True, ii-False, iii-True",
+    "i-False, ii-True, iii-False"
+   ],
+   "keyInImage": "C",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "givew→given; sewver→server; iñ)→iii); il→ii; 1-True→i-True; ili/ill→iii"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "HTML",
+  "concept": "HTML class attribute, HTML client-side, CSS role",
+  "difficulty": "easy",
+  "derivedAnswer": "C",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. `class` is an HTML global attribute (usable on any element). It specifies one or more class names for an element, which CSS and JavaScript use to select it, e.g. `<p class=\"note big\">`.\n- ii) **False**. HTML is a markup language that structures content rendered by the browser on the client side. Server-side processing is done by languages such as PHP, Java, Python or ASP.NET.\n- iii) **True**. CSS (Cascading Style Sheets) describes how HTML elements are displayed on screen, on paper or in other media.\n\nSo the pattern is i-True, ii-False, iii-True: option 3."
+ },
+ {
+  "id": "2023-06-24-s2-q140",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "Which of the given options best describes the truthfulness of the following statements?\ni) XML schemas define datatypes for elements and attributes, while DTD doesn't support datatypes.\nii) DTD are the declarations that define a document type for SGML.\niii) In XML, Tag names can begin with a numeric value.",
+   "options": [
+    "i-True, ii-True, iii-False",
+    "i-False, ii-True, iii-False",
+    "i-True, ii-False, iii-False",
+    "i-False, ii-False, iii-False"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Iag→Tag; il→ii; 1-True→i-True; ill/ili→iii; 'i-False, i-False'→'i-False, ii-False'"
+  },
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "subtopic": "XML, DTD & parsers",
+  "concept": "XML Schema vs DTD and XML naming rules",
+  "difficulty": "medium",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "- i) **True**. XML Schema (XSD) supports data types such as xs:integer, xs:date and xs:string for elements and attributes. A DTD treats content essentially as text (#PCDATA/CDATA) and has no real data-type support.\n- ii) **True**. A DTD (Document Type Definition) is a set of markup declarations that define a document type; DTDs come from SGML, and XML inherited them.\n- iii) **False**. XML element (tag) names must start with a letter or underscore (or colon in some contexts); they cannot start with a digit, so `<1item>` is invalid.\n\nSo the pattern is i-T, ii-T, iii-F: option 1."
+ },
+ {
+  "id": "2023-06-24-s2-q141",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "A/An ______ is a rectangular array of numbers arranged in rows and columns enclosed by brackets.",
+   "options": [
+    "matrix",
+    "record",
+    "object",
+    "field name"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Moved 'A/An' to the start and restored the blank"
+  },
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "subtopic": "Matrices & calculus",
+  "concept": "Definition of a matrix",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "A **matrix** is a rectangular arrangement (array) of numbers in rows and columns, written inside brackets. A matrix with m rows and n columns has order m × n. For example,\n[1 2 3]\n[4 5 6]\nis a 2 × 3 matrix.\n\nWhy not the others:\n- A record is a set of related fields describing one entity in a database or file.\n- An object is an instance of a class in object-oriented programming.\n- A field name is the label of a column/attribute in a record or table.\n\nSo option 1 is correct."
+ },
+ {
+  "id": "2023-06-24-s2-q142",
+  "transcription": {
+   "verdict": "corrected",
+   "text": "What is the degree of the following function?\nF(A,B,C,D) = A′B′C′D′",
+   "options": [
+    "4",
+    "8",
+    "0",
+    "5"
+   ],
+   "keyInImage": "A",
+   "figureDescription": "",
+   "printedErrors": "",
+   "changes": "Primes restored (A'B'C'D → A′B′C′D′); empty options 3 and 4 filled from image: 0, 5"
+  },
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "subtopic": "Boolean algebra & logic gates",
+  "concept": "Degree of a Boolean minterm",
+  "difficulty": "easy",
+  "derivedAnswer": "A",
+  "derivedConfidence": "high",
+  "keyAssessment": "agree",
+  "keyNote": "",
+  "explanation": "In Boolean algebra, the **degree** of a product term (minterm) is the number of literals in it, i.e. the number of variables that appear (complemented or not).\n\nF(A,B,C,D) = A′B′C′D′ contains four literals: A′, B′, C′ and D′. So its degree is **4**. It is a minterm (m₀) of the four-variable function, the only input combination that makes F = 1 being A = B = C = D = 0.\n\nWhy not the others:\n- 8 has no basis here (it is just 2 × 4).\n- 0 would mean a constant.\n- 5 exceeds the number of variables.\n\nSo option 1 is correct."
+ }
+]

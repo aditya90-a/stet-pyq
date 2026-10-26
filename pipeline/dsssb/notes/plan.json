@@ -1,0 +1,901 @@
+[
+ {
+  "slug": "current-affairs-sports",
+  "subject": "General Awareness",
+  "topic": "Current Affairs & Sports",
+  "topicHi": "समसामयिकी एवं खेल",
+  "subtopics": [
+   "National events & schemes",
+   "International events & organisations",
+   "Sports events & awards",
+   "Science & technology news",
+   "Reports, indices & days"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "history",
+  "subject": "General Awareness",
+  "topic": "History",
+  "topicHi": "इतिहास",
+  "subtopics": [
+   "Ancient India",
+   "Medieval India",
+   "Modern India & freedom struggle",
+   "Literature, authors & epics"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "polity-constitution",
+  "subject": "General Awareness",
+  "topic": "Polity & Constitution",
+  "topicHi": "राजव्यवस्था एवं संविधान",
+  "subtopics": [
+   "Articles & schedules",
+   "Fundamental rights & duties",
+   "Parliament, President & executive",
+   "Judiciary & constitutional bodies",
+   "Local government"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "geography",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "topicHi": "भूगोल",
+  "subtopics": [
+   "Physical geography of India",
+   "Rivers, lakes & mountains",
+   "Climate & natural phenomena",
+   "World geography",
+   "Resources & agriculture"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "economy",
+  "subject": "General Awareness",
+  "topic": "Economy",
+  "topicHi": "अर्थव्यवस्था",
+  "subtopics": [
+   "Money & banking",
+   "Budget, taxation & fiscal policy",
+   "Economic concepts",
+   "Organisations (RBI, NITI Aayog, etc.)"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "everyday-science",
+  "subject": "General Awareness",
+  "topic": "Everyday Science",
+  "topicHi": "दैनिक विज्ञान",
+  "subtopics": [
+   "Physics in daily life",
+   "Chemistry in daily life",
+   "Biology & health",
+   "Environment & ecology"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "art-culture-awards",
+  "subject": "General Awareness",
+  "topic": "Art, Culture & Awards",
+  "topicHi": "कला, संस्कृति एवं पुरस्कार",
+  "subtopics": [
+   "Music & musical instruments",
+   "Dance & theatre",
+   "Festivals, monuments & heritage",
+   "Awards & honours",
+   "Books & personalities"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "analogy-classification",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Analogy & Classification",
+  "topicHi": "सादृश्यता एवं वर्गीकरण",
+  "subtopics": [
+   "Word / letter analogy",
+   "Number analogy",
+   "Odd one out"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "series",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Series",
+  "topicHi": "श्रृंखला",
+  "subtopics": [
+   "Number series",
+   "Letter / alphanumeric series",
+   "Missing term"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "coding-decoding",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Coding-Decoding",
+  "topicHi": "कूटलेखन-कूटवाचन",
+  "subtopics": [
+   "Letter coding",
+   "Number coding",
+   "Symbol / mathematical operations"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "blood-relations-directions",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Blood Relations & Directions",
+  "topicHi": "रक्त संबंध एवं दिशा",
+  "subtopics": [
+   "Blood relations",
+   "Direction & distance"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "arrangement-puzzles",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Arrangement & Puzzles",
+  "topicHi": "व्यवस्था एवं पहेली",
+  "subtopics": [
+   "Linear / circular seating",
+   "Ranking & order",
+   "Comparison puzzles",
+   "Calendar & clock"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "logical-verbal-reasoning",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Logical & Verbal Reasoning",
+  "topicHi": "तार्किक एवं शाब्दिक तर्क",
+  "subtopics": [
+   "Syllogism",
+   "Statement & arguments",
+   "Statement & assumptions / conclusions",
+   "Cause & effect / course of action",
+   "Assertion & reason"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "venn-diagrams-non-verbal",
+  "subject": "General Intelligence & Reasoning",
+  "topic": "Venn Diagrams & Non-verbal",
+  "topicHi": "वेन आरेख एवं अशाब्दिक",
+  "subtopics": [
+   "Venn diagrams",
+   "Figures & mirror images",
+   "Counting figures"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "number-system-simplification",
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Number System & Simplification",
+  "topicHi": "संख्या पद्धति एवं सरलीकरण",
+  "subtopics": [
+   "Divisibility, HCF & LCM",
+   "Simplification & surds",
+   "Fractions & decimals"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "percentage-profit-loss",
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Percentage, Profit & Loss",
+  "topicHi": "प्रतिशत, लाभ एवं हानि",
+  "subtopics": [
+   "Percentage",
+   "Profit, loss & discount",
+   "Simple & compound interest"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "ratio-average-ages",
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Ratio, Average & Ages",
+  "topicHi": "अनुपात, औसत एवं आयु",
+  "subtopics": [
+   "Ratio & proportion",
+   "Average",
+   "Problems on ages",
+   "Mixture & partnership"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "time-work-distance",
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Time, Work & Distance",
+  "topicHi": "समय, कार्य एवं दूरी",
+  "subtopics": [
+   "Time & work / pipes",
+   "Speed, time & distance",
+   "Trains, boats & streams"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "mensuration-geometry",
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Mensuration & Geometry",
+  "topicHi": "क्षेत्रमिति एवं ज्यामिति",
+  "subtopics": [
+   "2-D figures (area, perimeter)",
+   "3-D solids (volume, surface area)",
+   "Lines, triangles & circles"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "algebra-trigonometry-data",
+  "subject": "Arithmetical & Numerical Ability",
+  "topic": "Algebra, Trigonometry & Data",
+  "topicHi": "बीजगणित, त्रिकोणमिति एवं आँकड़े",
+  "subtopics": [
+   "Algebraic identities & equations",
+   "Trigonometry",
+   "Data interpretation & statistics"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "hindi-vocabulary",
+  "subject": "Hindi Language",
+  "topic": "शब्द ज्ञान (Vocabulary)",
+  "topicHi": "शब्द ज्ञान",
+  "subtopics": [
+   "पर्यायवाची",
+   "विलोम",
+   "अनेक शब्दों के लिए एक शब्द",
+   "तत्सम-तद्भव-देशज-विदेशज",
+   "युग्म शब्द"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "hindi-grammar",
+  "subject": "Hindi Language",
+  "topic": "व्याकरण (Grammar)",
+  "topicHi": "व्याकरण",
+  "subtopics": [
+   "संधि",
+   "समास",
+   "संज्ञा, सर्वनाम, विशेषण",
+   "क्रिया, काल एवं वाच्य",
+   "कारक एवं अव्यय",
+   "उपसर्ग-प्रत्यय",
+   "लिंग-वचन"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "hindi-correction",
+  "subject": "Hindi Language",
+  "topic": "शुद्धि (Correction)",
+  "topicHi": "शुद्धि",
+  "subtopics": [
+   "वर्तनी शुद्धि",
+   "वाक्य शुद्धि",
+   "विराम चिह्न"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "hindi-idioms",
+  "subject": "Hindi Language",
+  "topic": "मुहावरे एवं लोकोक्तियाँ",
+  "topicHi": "मुहावरे एवं लोकोक्तियाँ",
+  "subtopics": [
+   "मुहावरे",
+   "लोकोक्तियाँ"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "hindi-comprehension",
+  "subject": "Hindi Language",
+  "topic": "गद्यांश एवं वाक्य संरचना",
+  "topicHi": "गद्यांश एवं वाक्य संरचना",
+  "subtopics": [
+   "अपठित गद्यांश",
+   "वाक्य क्रम",
+   "रिक्त स्थान"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "vocabulary",
+  "subject": "English Language",
+  "topic": "Vocabulary",
+  "topicHi": "शब्दावली",
+  "subtopics": [
+   "Synonyms",
+   "Antonyms",
+   "One-word substitution",
+   "Spelling",
+   "Idioms & phrases"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "grammar",
+  "subject": "English Language",
+  "topic": "Grammar",
+  "topicHi": "व्याकरण",
+  "subtopics": [
+   "Error spotting",
+   "Sentence improvement",
+   "Fill in the blanks",
+   "Voice & narration",
+   "Tenses, articles & prepositions"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "comprehension-para-jumbles",
+  "subject": "English Language",
+  "topic": "Comprehension & Para Jumbles",
+  "topicHi": "बोधगम्यता एवं वाक्य क्रम",
+  "subtopics": [
+   "Reading comprehension",
+   "Para jumbles / sentence order",
+   "Cloze test"
+  ],
+  "officialUnits": [],
+  "outside41_26": false
+ },
+ {
+  "slug": "computer-fundamentals-pc-software",
+  "subject": "Computer Science",
+  "topic": "Computer Fundamentals & PC Software",
+  "topicHi": "कंप्यूटर मूल सिद्धांत एवं पीसी सॉफ्टवेयर",
+  "subtopics": [
+   "Generations, types & history",
+   "Hardware, input/output devices",
+   "Memory & storage units",
+   "Software types & utilities",
+   "Office tools & shortcuts",
+   "Internet & e-mail basics"
+  ],
+  "officialUnits": [
+   3,
+   5
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "number-systems-digital-electronics",
+  "subject": "Computer Science",
+  "topic": "Number Systems & Digital Electronics",
+  "topicHi": "संख्या पद्धति एवं डिजिटल इलेक्ट्रॉनिक्स",
+  "subtopics": [
+   "Number systems & conversions",
+   "Complements & binary arithmetic",
+   "Codes (BCD, Gray, ASCII)",
+   "Boolean algebra & logic gates",
+   "K-map minimisation",
+   "Combinational circuits",
+   "Flip-flops, registers & counters"
+  ],
+  "officialUnits": [
+   7
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "computer-architecture",
+  "subject": "Computer Science",
+  "topic": "Computer Architecture",
+  "topicHi": "कंप्यूटर आर्किटेक्चर",
+  "subtopics": [
+   "CPU, registers & instruction cycle",
+   "Instruction formats & addressing modes",
+   "Memory hierarchy & cache",
+   "Pipelining & parallelism",
+   "I/O, interrupts & DMA",
+   "Assembly language basics"
+  ],
+  "officialUnits": [
+   9
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "programming-in-c",
+  "subject": "Computer Science",
+  "topic": "Programming in C",
+  "topicHi": "C प्रोग्रामिंग",
+  "subtopics": [
+   "Data types, operators & expressions",
+   "Control statements & loops",
+   "Functions & recursion",
+   "Arrays & strings",
+   "Pointers & dynamic memory",
+   "Structures, unions & files",
+   "Preprocessor & compilation"
+  ],
+  "officialUnits": [
+   4,
+   29
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "oop-c-java",
+  "subject": "Computer Science",
+  "topic": "OOP, C++ & Java",
+  "topicHi": "OOP, C++ एवं जावा",
+  "subtopics": [
+   "OOP concepts",
+   "Classes, objects & constructors",
+   "Inheritance & polymorphism",
+   "Overloading & virtual functions",
+   "Templates & exceptions",
+   "Java basics & JVM",
+   "Java packages, interfaces & threads"
+  ],
+  "officialUnits": [
+   4,
+   12,
+   14
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "python-programming",
+  "subject": "Computer Science",
+  "topic": "Python Programming",
+  "topicHi": "पायथन प्रोग्रामिंग",
+  "subtopics": [
+   "Syntax, data types & operators",
+   "Control flow",
+   "Strings, lists, tuples & dictionaries",
+   "Functions & modules",
+   "File handling"
+  ],
+  "officialUnits": [
+   29
+  ],
+  "outside41_26": true
+ },
+ {
+  "slug": "data-structures",
+  "subject": "Computer Science",
+  "topic": "Data Structures",
+  "topicHi": "डेटा संरचना",
+  "subtopics": [
+   "Arrays & complexity basics",
+   "Stacks & queues",
+   "Linked lists",
+   "Trees & binary search trees",
+   "Graphs",
+   "Hashing",
+   "Searching & sorting"
+  ],
+  "officialUnits": [
+   4
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "algorithms",
+  "subject": "Computer Science",
+  "topic": "Algorithms",
+  "topicHi": "एल्गोरिदम",
+  "subtopics": [
+   "Asymptotic analysis",
+   "Divide & conquer",
+   "Greedy",
+   "Dynamic programming",
+   "Graph algorithms",
+   "Flowcharts & pseudocode"
+  ],
+  "officialUnits": [
+   21,
+   29
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "operating-systems-linux",
+  "subject": "Computer Science",
+  "topic": "Operating Systems & Linux",
+  "topicHi": "ऑपरेटिंग सिस्टम एवं लिनक्स",
+  "subtopics": [
+   "OS types & functions",
+   "Processes, threads & scheduling",
+   "Synchronisation & deadlock",
+   "Memory management & paging",
+   "File systems & disk scheduling",
+   "Linux commands & shell"
+  ],
+  "officialUnits": [
+   15,
+   19
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "dbms-sql",
+  "subject": "Computer Science",
+  "topic": "DBMS & SQL",
+  "topicHi": "DBMS एवं SQL",
+  "subtopics": [
+   "DBMS concepts & architecture",
+   "ER model & keys",
+   "Relational model & algebra",
+   "SQL",
+   "Normalisation",
+   "Transactions & concurrency"
+  ],
+  "officialUnits": [
+   8
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "computer-networks-protocols",
+  "subject": "Computer Science",
+  "topic": "Computer Networks & Protocols",
+  "topicHi": "कंप्यूटर नेटवर्क एवं प्रोटोकॉल",
+  "subtopics": [
+   "Network types & topologies",
+   "OSI & TCP/IP models",
+   "Transmission media & devices",
+   "Data link & error control",
+   "IP addressing & routing",
+   "Transport & application protocols"
+  ],
+  "officialUnits": [
+   17,
+   31
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "network-security-cyber-law",
+  "subject": "Computer Science",
+  "topic": "Network Security & Cyber Law",
+  "topicHi": "नेटवर्क सुरक्षा एवं साइबर कानून",
+  "subtopics": [
+   "Threats & malware",
+   "Cryptography",
+   "Firewalls & authentication",
+   "Cyber law & IT Act"
+  ],
+  "officialUnits": [
+   22
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "web-technologies",
+  "subject": "Computer Science",
+  "topic": "Web Technologies",
+  "topicHi": "वेब तकनीक",
+  "subtopics": [
+   "HTML",
+   "CSS",
+   "JavaScript & event model",
+   "XML, DTD & parsers",
+   "Web servers & hosting",
+   "Front-end tools & .NET"
+  ],
+  "officialUnits": [
+   14,
+   26,
+   10,
+   18
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "software-engineering",
+  "subject": "Computer Science",
+  "topic": "Software Engineering",
+  "topicHi": "सॉफ्टवेयर इंजीनियरिंग",
+  "subtopics": [
+   "SDLC & process models",
+   "Requirements & design",
+   "Testing",
+   "Project management & estimation",
+   "Maintenance & quality"
+  ],
+  "officialUnits": [
+   13
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "computer-graphics-multimedia",
+  "subject": "Computer Science",
+  "topic": "Computer Graphics & Multimedia",
+  "topicHi": "कंप्यूटर ग्राफिक्स एवं मल्टीमीडिया",
+  "subtopics": [
+   "Graphics hardware & displays",
+   "Line & circle drawing",
+   "Transformations",
+   "Clipping",
+   "Curves, surfaces & hidden surfaces",
+   "Multimedia & file formats"
+  ],
+  "officialUnits": [
+   25
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "e-commerce-mis-it-in-business",
+  "subject": "Computer Science",
+  "topic": "E-Commerce, MIS & IT in Business",
+  "topicHi": "ई-कॉमर्स, MIS एवं व्यवसाय में IT",
+  "subtopics": [
+   "E-commerce models & payments",
+   "MIS & decision support",
+   "Knowledge management",
+   "ERP & business systems"
+  ],
+  "officialUnits": [
+   20,
+   23,
+   27
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "mobile-computing-emerging-tech",
+  "subject": "Computer Science",
+  "topic": "Mobile Computing & Emerging Tech",
+  "topicHi": "मोबाइल कंप्यूटिंग एवं उभरती तकनीक",
+  "subtopics": [
+   "Mobile & wireless computing",
+   "Cloud computing",
+   "AI & machine learning",
+   "IoT & other emerging tech"
+  ],
+  "officialUnits": [
+   24
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "society-ethics-e-waste",
+  "subject": "Computer Science",
+  "topic": "Society, Ethics & E-waste",
+  "topicHi": "समाज, नैतिकता एवं ई-अपशिष्ट",
+  "subtopics": [
+   "Cyber ethics & AI ethics",
+   "Intellectual property",
+   "E-waste management",
+   "Digital footprint & privacy"
+  ],
+  "officialUnits": [],
+  "outside41_26": true
+ },
+ {
+  "slug": "mathematics-statistics-numerical-methods",
+  "subject": "Computer Science",
+  "topic": "Mathematics, Statistics & Numerical Methods",
+  "topicHi": "गणित, सांख्यिकी एवं संख्यात्मक विधियाँ",
+  "subtopics": [
+   "Sets, relations & logic",
+   "Matrices & calculus",
+   "Probability",
+   "Descriptive statistics & distributions",
+   "Interpolation & numerical methods"
+  ],
+  "officialUnits": [
+   1,
+   12,
+   30,
+   32
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "business-accounting-economics",
+  "subject": "Computer Science",
+  "topic": "Business, Accounting & Economics",
+  "topicHi": "व्यवसाय, लेखांकन एवं अर्थशास्त्र",
+  "subtopics": [
+   "Business communication & organisation",
+   "Financial accounting",
+   "Business economics"
+  ],
+  "officialUnits": [
+   2,
+   11,
+   16
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "physics-basics",
+  "subject": "Computer Science",
+  "topic": "Physics Basics",
+  "topicHi": "भौतिकी के मूल तत्व",
+  "subtopics": [
+   "Units & electricity basics",
+   "Semiconductors"
+  ],
+  "officialUnits": [
+   6
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "learning-teaching",
+  "subject": "Teaching Methodology",
+  "topic": "Learning & Teaching",
+  "topicHi": "अधिगम एवं शिक्षण",
+  "subtopics": [
+   "Learning theories (Piaget, Vygotsky, Skinner, Bruner)",
+   "Teaching methods & strategies",
+   "Motivation",
+   "Bloom's taxonomy & objectives"
+  ],
+  "officialUnits": [
+   "P1"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "childhood-growing-up",
+  "subject": "Teaching Methodology",
+  "topic": "Childhood & Growing Up",
+  "topicHi": "बाल्यावस्था एवं विकास",
+  "subtopics": [
+   "Stages of development",
+   "Intelligence & individual differences",
+   "Adolescence"
+  ],
+  "officialUnits": [
+   "P9"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "pedagogy-of-a-school-subject",
+  "subject": "Teaching Methodology",
+  "topic": "Pedagogy of a School Subject",
+  "topicHi": "विद्यालयी विषय का शिक्षणशास्त्र",
+  "subtopics": [
+   "Pedagogy of Computer Science",
+   "Learning resources & ICT in teaching",
+   "Lesson planning"
+  ],
+  "officialUnits": [
+   "P5",
+   "P3"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "assessment-for-learning",
+  "subject": "Teaching Methodology",
+  "topic": "Assessment for Learning",
+  "topicHi": "अधिगम हेतु आकलन",
+  "subtopics": [
+   "Formative & summative assessment",
+   "CCE & test items",
+   "Evaluation tools"
+  ],
+  "officialUnits": [
+   "P7"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "inclusive-education",
+  "subject": "Teaching Methodology",
+  "topic": "Inclusive Education",
+  "topicHi": "समावेशी शिक्षा",
+  "subtopics": [
+   "Children with special needs",
+   "Disabilities & support",
+   "Inclusive practices"
+  ],
+  "officialUnits": [
+   "P8"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "knowledge-curriculum-policy",
+  "subject": "Teaching Methodology",
+  "topic": "Knowledge, Curriculum & Policy",
+  "topicHi": "ज्ञान, पाठ्यचर्या एवं नीति",
+  "subtopics": [
+   "Curriculum & NCF",
+   "Education policy (NEP, RTE, SSA)",
+   "Education commissions"
+  ],
+  "officialUnits": [
+   "P6"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "gender-school-society",
+  "subject": "Teaching Methodology",
+  "topic": "Gender, School & Society",
+  "topicHi": "जेंडर, विद्यालय एवं समाज",
+  "subtopics": [
+   "Gender & equity",
+   "School and society"
+  ],
+  "officialUnits": [
+   "P4"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "language-across-the-curriculum",
+  "subject": "Teaching Methodology",
+  "topic": "Language Across the Curriculum",
+  "topicHi": "पाठ्यचर्या में भाषा",
+  "subtopics": [
+   "Language in learning"
+  ],
+  "officialUnits": [
+   "P2"
+  ],
+  "outside41_26": false
+ },
+ {
+  "slug": "drama-art-in-education",
+  "subject": "Teaching Methodology",
+  "topic": "Drama & Art in Education",
+  "topicHi": "शिक्षा में नाटक एवं कला",
+  "subtopics": [
+   "Art integration",
+   "Drama in education"
+  ],
+  "officialUnits": [
+   "P10"
+  ],
+  "outside41_26": false
+ }
+]

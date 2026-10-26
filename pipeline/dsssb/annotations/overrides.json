@@ -1,0 +1,5 @@
+{
+ "_doc": "Manual classification fixes applied after the AI review layer. Each entry: question id -> fields to set. Only classification fields are allowed here; answer keys are never overridden.",
+ "2023-06-24-s2-q089": {"topic": "व्याकरण (Grammar)", "subtopic": "अलंकार एवं रस", "reason": "Reviewer reported the taxonomy had no अलंकार subtopic (यमक); added and reclassified."},
+ "2023-06-24-s2-q090": {"topic": "व्याकरण (Grammar)", "subtopic": "अलंकार एवं रस", "reason": "Reviewer reported the taxonomy had no अलंकार subtopic (उत्प्रेक्षा); added and reclassified."}
+}

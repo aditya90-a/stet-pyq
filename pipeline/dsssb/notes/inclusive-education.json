@@ -1,0 +1,351 @@
+{
+ "slug": "inclusive-education",
+ "subject": "Teaching Methodology",
+ "topic": "Inclusive Education",
+ "titleHi": "समावेशी शिक्षा",
+ "summary": "Covers the move from exclusion to inclusion, models of disability, who children with special needs are, the RPwD Act 2016 and its 21 disabilities, learning disabilities and support for sensory, intellectual and developmental disabilities, inclusive practices (UDL, differentiation, IEP), Indian policies and schemes, and accessible computing in the CS lab. Expect questions on Act provisions, disability types and classroom strategies.",
+ "sections": [
+  {
+   "heading": "From exclusion to inclusion",
+   "level": "basic",
+   "subtopic": "Inclusive practices",
+   "body": "**Inclusive education** means all children – with or without disabilities, and from every social, linguistic and economic background – learn together in the same neighbourhood school, with the system adapting to meet their needs. The burden of change is on the **school**, not on the child.\nFour stages in how systems have treated children with disabilities:\n- **Exclusion** – denied education.\n- **Segregation** – educated in separate special schools.\n- **Integration** – placed in regular schools but expected to adjust to the existing system.\n- **Inclusion** – the school restructures curriculum, pedagogy, assessment and environment so every child participates and learns.\nMilestones: the **Salamanca Statement** (UNESCO World Conference on Special Needs Education, Spain, **1994**) declared that regular schools with an inclusive orientation are the most effective means of combating discriminatory attitudes. The **UN Convention on the Rights of Persons with Disabilities (UNCRPD, 2006)**, Article 24, recognises the right to inclusive education; India ratified it in 2007. **SDG 4** calls for inclusive and equitable quality education for all.",
+   "table": {
+    "columns": [
+     "Model",
+     "Who adjusts?",
+     "Setting"
+    ],
+    "rows": [
+     [
+      "Exclusion",
+      "No education",
+      "Home"
+     ],
+     [
+      "Segregation",
+      "Child goes to special system",
+      "Special school"
+     ],
+     [
+      "Integration",
+      "Child adjusts to the school",
+      "Regular school"
+     ],
+     [
+      "Inclusion",
+      "School adjusts to the child",
+      "Regular school, restructured"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Medical model vs social model of disability",
+   "level": "intermediate",
+   "subtopic": "Inclusive practices",
+   "body": "- **Medical (individual) model**: disability is a defect in the person that must be cured or fixed by professionals. Focus on diagnosis and limitations.\n- **Social model**: people are disabled mainly by **barriers in society** – inaccessible buildings, rigid curriculum, negative attitudes, lack of sign language or Braille. Remove barriers and participation increases.\n- **Rights-based approach** (UNCRPD, RPwD Act 2016): persons with disabilities are rights-holders entitled to equality, dignity, accessibility and **reasonable accommodation**.\nTypes of barriers in school: **attitudinal** (low expectations, pity, labelling), **physical** (steps, no ramps or accessible toilets), **curricular** (rigid content, timed written-only tests), **communication** (no sign language, inaccessible materials), **systemic** (policies, lack of trained staff).\nTeacher's attitude is the single most important factor: high expectations, person-first language (\"a child with visual impairment\"), and focusing on strengths."
+  },
+  {
+   "heading": "Who are children with special needs?",
+   "level": "basic",
+   "subtopic": "Children with special needs",
+   "body": "**Children with Special Needs (CWSN)** require additional or different support to participate and learn. The term is broader than disability:\n- Children with disabilities (sensory, physical, intellectual, developmental, learning, multiple).\n- **Gifted and talented** children.\n- Children with learning difficulties not caused by disability (e.g. due to poor earlier schooling).\n- Children facing social or economic disadvantage – NEP 2020 groups these as **Socio-Economically Disadvantaged Groups (SEDGs)**: based on gender identity (girls, transgender students), socio-cultural identity (SC, ST, OBC, minorities), geography (rural, remote areas), disability, and socio-economic conditions (migrant communities, urban poor, child labour, orphans).\n**Early identification** through observation, screening checklists, medical and psychological assessment allows early intervention. Teachers should watch for signs such as squinting or holding books very close, not responding to sounds or instructions, delayed speech, persistent reversal of letters, extreme difficulty with numbers, or difficulty sustaining attention."
+  },
+  {
+   "heading": "Rights of Persons with Disabilities Act, 2016",
+   "level": "intermediate",
+   "subtopic": "Disabilities & support",
+   "body": "The **RPwD Act, 2016** replaced the **Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995** and gives effect to the UNCRPD. It came into force in 2017.\n- Recognised disabilities increased from **7** (1995 Act) to **21**.\n- **Benchmark disability**: not less than **40%** of a specified disability, as certified.\n- Every child with benchmark disability aged **6 to 18 years** has the right to **free education** in a neighbourhood school or special school of choice.\n- Educational institutions funded or recognised by government must provide **inclusive education**: admission without discrimination, accessible buildings, reasonable accommodation, individualised support, Braille, sign language, suitable modes of communication, and monitoring of participation and progress.\n- Reservation: at least **4%** of vacancies in government establishments; at least **5%** of seats in government and government-aided higher education institutions, with an upper age relaxation of 5 years.\n- Uses the term **intellectual disability** in place of \"mental retardation\".\nRelated laws: **Rehabilitation Council of India (RCI) Act, 1992** (regulates training of rehabilitation professionals and special educators) and the **National Trust Act, 1999** (welfare of persons with autism, cerebral palsy, mental retardation and multiple disabilities)."
+  },
+  {
+   "heading": "The 21 disabilities under the RPwD Act",
+   "level": "intermediate",
+   "subtopic": "Disabilities & support",
+   "body": "The seven disabilities in the 1995 Act were: blindness, low vision, leprosy-cured, hearing impairment, locomotor disability, mental retardation and mental illness.\nThe 2016 Act lists 21 conditions, grouped below. New additions include dwarfism, acid attack victims, Parkinson's disease, specific learning disabilities, autism spectrum disorder, speech and language disability, and blood disorders (thalassemia, haemophilia, sickle cell disease).",
+   "table": {
+    "columns": [
+     "Group",
+     "Disabilities"
+    ],
+    "rows": [
+     [
+      "Physical / locomotor",
+      "Locomotor disability, leprosy cured persons, cerebral palsy, dwarfism, muscular dystrophy, acid attack victims"
+     ],
+     [
+      "Visual",
+      "Blindness, low vision"
+     ],
+     [
+      "Hearing / speech",
+      "Hearing impairment (deaf and hard of hearing), speech and language disability"
+     ],
+     [
+      "Intellectual",
+      "Intellectual disability, specific learning disabilities, autism spectrum disorder"
+     ],
+     [
+      "Mental behaviour",
+      "Mental illness"
+     ],
+     [
+      "Chronic neurological",
+      "Multiple sclerosis, Parkinson's disease, chronic neurological conditions"
+     ],
+     [
+      "Blood disorders",
+      "Haemophilia, thalassemia, sickle cell disease"
+     ],
+     [
+      "Multiple",
+      "Multiple disabilities including deaf-blindness"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Specific learning disabilities and ADHD",
+   "level": "intermediate",
+   "subtopic": "Disabilities & support",
+   "body": "**Specific Learning Disabilities (SLD)** are neurological conditions affecting particular academic skills in children of average or above-average intelligence; they are not due to poor teaching, low intelligence or sensory loss.\n**ADHD** (Attention Deficit Hyperactivity Disorder) is a separate neurodevelopmental condition marked by inattention, hyperactivity and impulsivity. Support: short tasks with breaks, clear routines, seating away from distractions, checklists, positive reinforcement and movement opportunities.",
+   "table": {
+    "columns": [
+     "Condition",
+     "Area affected",
+     "Classroom support"
+    ],
+    "rows": [
+     [
+      "Dyslexia",
+      "Reading (decoding, spelling, letter reversal such as b/d)",
+      "Audio books, text-to-speech, multisensory phonics, extra time"
+     ],
+     [
+      "Dysgraphia",
+      "Handwriting and written expression",
+      "Typing, oral answers, graphic organisers, scribe"
+     ],
+     [
+      "Dyscalculia",
+      "Number sense and arithmetic",
+      "Concrete materials, calculators, step-by-step cards"
+     ],
+     [
+      "Dyspraxia",
+      "Motor coordination and planning",
+      "Larger keys/mouse, extra time, simplified motor tasks"
+     ],
+     [
+      "Aphasia",
+      "Understanding or producing language",
+      "Visual cues, simple instructions"
+     ],
+     [
+      "Auditory processing disorder",
+      "Interpreting sounds/speech",
+      "Written instructions, reduced noise"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Sensory, intellectual and developmental disabilities: support",
+   "level": "intermediate",
+   "subtopic": "Disabilities & support",
+   "body": "**Visual impairment** (blindness, low vision): **Braille** (Louis Braille; a six-dot cell), screen readers (e.g. NVDA, JAWS), text-to-speech, magnifiers and large print, high-contrast displays, tactile diagrams, audio books, verbal description of everything written on the board, seating near the front, keyboard shortcuts in the computer lab.\n**Hearing impairment**: **Indian Sign Language (ISL)**, captions/subtitles, hearing aids, seating where the teacher's face is visible, written notes, visual alerts, avoiding speaking while facing the board. NEP 2020 calls for standardising ISL across the country and developing national and state curriculum materials in it.\n**Intellectual disability**: concrete examples, **task analysis** (breaking a skill into small steps), repetition, functional and life skills, positive reinforcement, extra time.\n**Autism Spectrum Disorder (ASD)**: differences in social communication and restricted/repetitive behaviour; often sensory sensitivity. Use visual schedules, predictable routines, clear literal language, advance warning of changes and a quiet space.\n**Locomotor disability / cerebral palsy**: ramps, accessible furniture and toilets, adapted keyboards, switches, voice input, trackballs.\n**Gifted children**: **enrichment** (depth and breadth: projects, competitions, open-ended problems) and **acceleration** (moving faster: grade skipping, advanced courses); also attention to their social-emotional needs."
+  },
+  {
+   "heading": "Inclusive classroom practices",
+   "level": "advanced",
+   "subtopic": "Inclusive practices",
+   "body": "**Universal Design for Learning (UDL)** (developed by CAST): plan lessons from the start for all learners by offering **multiple means of engagement** (why of learning), **multiple means of representation** (what – text, audio, video, hands-on) and **multiple means of action and expression** (how – write, speak, draw, code, present).\n**Differentiated instruction** (Carol Ann Tomlinson): adapt **content, process, product and learning environment** to learners' readiness, interests and profiles.\n**Individualised Education Programme (IEP)**: a written plan for a child with special needs, developed by teachers, special educator, parents and specialists, listing present levels, annual goals, short-term objectives, support services, accommodations and review dates.\nOther practices: **cooperative learning** and **peer tutoring**; buddy system; **resource room** with a special educator; flexible assessment (oral tests, extra time, scribe, alternative formats); multi-level teaching; assistive technology; barrier-free school environment.\n**Accommodation vs modification**: an *accommodation* changes **how** a student learns or is tested (extra time, large print) without changing the standard; a *modification* changes **what** is learned or expected (reduced content)."
+  },
+  {
+   "heading": "Policies and schemes for inclusive education in India",
+   "level": "advanced",
+   "subtopic": "Inclusive practices",
+   "body": "- **IEDC (Integrated Education for Disabled Children), 1974** – central scheme to place children with mild/moderate disabilities in regular schools.\n- **NPE 1986 and Programme of Action 1992** – emphasised integration of children with disabilities into general schools.\n- **PIED (Project Integrated Education for the Disabled), 1987** – with UNICEF support.\n- **RCI Act, 1992**; **PwD Act, 1995**; **National Trust Act, 1999**.\n- **DPEP (1994)** and **Sarva Shiksha Abhiyan (2001)** – SSA adopted a **zero-rejection policy**: no child with special needs to be left out of education.\n- **IEDSS (Inclusive Education of the Disabled at Secondary Stage), 2009** – replaced IEDC for classes IX–XII.\n- **RTE Act, 2009** (with its 2012 amendment) – children with disabilities are covered under \"disadvantaged groups\" and have the right to free education.\n- **RPwD Act, 2016**.\n- **Samagra Shiksha (2018)** – integrated scheme with a component for children with special needs from pre-school to Class XII.\n- **NEP 2020** – inclusion of SEDGs, a **Gender Inclusion Fund**, **Special Education Zones** for disadvantaged regions, **home-based education** for children with severe disabilities, cross-disability training of teachers, and standardised ISL."
+  },
+  {
+   "heading": "The CS teacher and accessible computing",
+   "level": "basic",
+   "subtopic": "Inclusive practices",
+   "body": "A Computer Science lab can either exclude or empower students with disabilities.\n- Install free accessibility tools: screen readers, screen magnifiers, on-screen keyboards, speech-to-text, high-contrast themes.\n- Teach **keyboard shortcuts** so mouse-free navigation is possible.\n- Provide materials in accessible formats: digital text (not scanned images), alt text for images, captioned videos.\n- Arrange lab furniture for wheelchair access; adjustable monitor height.\n- Use **pair programming** with rotating roles so that every student contributes.\n- Allow alternative ways to show learning: oral explanation of an algorithm, a flowchart instead of code, recorded presentations.\n- Teach all students about **digital accessibility** (designing web pages with headings, labels and alt text) – inclusion becomes part of the curriculum, not only of the classroom."
+  }
+ ],
+ "formulas": [],
+ "workedExamples": [
+  {
+   "problem": "A Class VII student of average intelligence frequently reverses 'b' and 'd', reads very slowly and avoids reading aloud, but answers well orally. Identify the likely condition and suggest three supports.",
+   "solution": "- Difficulty in reading and decoding with normal intelligence and good oral answers suggests **dyslexia** (a specific learning disability).\n- Supports: text-to-speech or audio versions of text; extra time and larger, uncluttered fonts; multisensory phonics and allowing oral answers. Avoid asking the child to read aloud in front of the class without preparation."
+  },
+  {
+   "problem": "Classify each as accommodation or modification: (a) a student with low vision gets the same question paper in large print; (b) a student with intellectual disability is assessed on 5 basic commands instead of the full chapter; (c) a student with dysgraphia types answers.",
+   "solution": "- (a) Same content, different format → **accommodation**.\n- (b) Reduced content and expectation → **modification**.\n- (c) Same standard, different mode of response → **accommodation**."
+  },
+  {
+   "problem": "Plan a lesson on 'parts of a computer' using the three UDL principles.",
+   "solution": "- **Engagement**: start with a puzzle – \"what happens if you remove the RAM?\"; allow choice of working alone or in pairs.\n- **Representation**: show real parts (realia), a labelled diagram, a short captioned video and a tactile model.\n- **Action and expression**: students may label a diagram, make a short oral presentation, build a slide or write a paragraph."
+  },
+  {
+   "problem": "A child's disability certificate shows 35% locomotor disability. Is the child covered by the benchmark-disability provisions of the RPwD Act, 2016?",
+   "solution": "- Benchmark disability requires **not less than 40%** of a specified disability.\n- 35% < 40%, so the child does **not** have a benchmark disability; benchmark-linked entitlements (e.g. reserved seats) do not apply.\n- The child is still a person with disability and the school must still provide **inclusive education and reasonable accommodation**."
+  },
+  {
+   "problem": "A school's computer lab is on the first floor with no ramp or lift, and a student who uses a wheelchair is told to 'just read the textbook'. Which model of disability does the school follow, and what should it do?",
+   "solution": "- Treating the student as the problem and excluding him reflects the **medical/individual model** and the integration mindset at best.\n- Under the **social model** and RPwD Act, the barrier is the inaccessible lab.\n- Actions: shift the class to a ground-floor lab or provide a ramp/lift, adjust furniture, and ensure the student does the same practical work (reasonable accommodation)."
+  }
+ ],
+ "pitfalls": [
+  "Integration means the child adjusts to the school; inclusion means the school adjusts to the child.",
+  "The Salamanca Statement (1994) was adopted in Spain under UNESCO; UNCRPD was adopted in 2006.",
+  "RPwD Act 2016 lists 21 disabilities; the 1995 Act listed 7.",
+  "Benchmark disability is not less than 40%, not 'more than 50%'.",
+  "Reservation under RPwD: 4% in government jobs, at least 5% seats in higher education; free education is for ages 6–18.",
+  "Dyslexia = reading, dysgraphia = writing, dyscalculia = mathematics, dyspraxia = motor coordination.",
+  "ADHD is not a specific learning disability; it is a separate neurodevelopmental condition.",
+  "Braille uses a six-dot cell; Louis Braille invented it.",
+  "IEDC was 1974; IEDSS (secondary stage) was 2009 – do not confuse the two.",
+  "An accommodation changes how; a modification changes what is learned."
+ ],
+ "quickRevision": [
+  "Exclusion → segregation → integration → inclusion.",
+  "Salamanca Statement: 1994, UNESCO, Spain.",
+  "UNCRPD: 2006; India ratified in 2007.",
+  "RPwD Act 2016 replaced PwD Act 1995; 7 → 21 disabilities.",
+  "Benchmark disability: at least 40%.",
+  "RPwD: free education 6–18 years; 4% jobs; 5% higher education seats.",
+  "RCI Act 1992; National Trust Act 1999.",
+  "IEDC 1974; PIED 1987; IEDSS 2009; SSA 2001 (zero rejection).",
+  "Social model: disability arises from barriers in society.",
+  "UDL: engagement, representation, action and expression.",
+  "IEP = Individualised Education Programme.",
+  "Gifted children: enrichment and acceleration.",
+  "NEP 2020: SEDGs, Gender Inclusion Fund, Special Education Zones, standardised ISL."
+ ],
+ "flashcards": [
+  {
+   "front": "Where and when was the Salamanca Statement adopted?",
+   "back": "Spain, 1994 (UNESCO)"
+  },
+  {
+   "front": "How many disabilities are recognised by the RPwD Act 2016?",
+   "back": "21"
+  },
+  {
+   "front": "Which Act did the RPwD Act 2016 replace?",
+   "back": "Persons with Disabilities Act, 1995"
+  },
+  {
+   "front": "Benchmark disability threshold?",
+   "back": "Not less than 40%"
+  },
+  {
+   "front": "Reservation for PwBD in government jobs under RPwD?",
+   "back": "At least 4%"
+  },
+  {
+   "front": "Age range for free education under RPwD Act?",
+   "back": "6 to 18 years"
+  },
+  {
+   "front": "Difficulty in reading despite normal intelligence?",
+   "back": "Dyslexia"
+  },
+  {
+   "front": "Difficulty with mathematics/number sense?",
+   "back": "Dyscalculia"
+  },
+  {
+   "front": "Difficulty with handwriting?",
+   "back": "Dysgraphia"
+  },
+  {
+   "front": "Three principles of UDL?",
+   "back": "Multiple means of engagement, representation, action and expression"
+  },
+  {
+   "front": "Full form of IEP?",
+   "back": "Individualised Education Programme"
+  },
+  {
+   "front": "Which scheme adopted a zero-rejection policy?",
+   "back": "Sarva Shiksha Abhiyan"
+  },
+  {
+   "front": "Year of IEDC scheme?",
+   "back": "1974"
+  },
+  {
+   "front": "Model that says disability comes from social barriers?",
+   "back": "Social model of disability"
+  },
+  {
+   "front": "Breaking a skill into small sequential steps is called?",
+   "back": "Task analysis"
+  },
+  {
+   "front": "Extra time in exams is an accommodation or modification?",
+   "back": "Accommodation"
+  }
+ ],
+ "glossary": [
+  {
+   "en": "Inclusive education",
+   "hi": "समावेशी शिक्षा"
+  },
+  {
+   "en": "Children with special needs",
+   "hi": "विशेष आवश्यकता वाले बच्चे"
+  },
+  {
+   "en": "Disability",
+   "hi": "दिव्यांगता / विकलांगता"
+  },
+  {
+   "en": "Benchmark disability",
+   "hi": "मानक दिव्यांगता"
+  },
+  {
+   "en": "Learning disability",
+   "hi": "अधिगम अक्षमता"
+  },
+  {
+   "en": "Visual impairment",
+   "hi": "दृष्टि बाधिता"
+  },
+  {
+   "en": "Hearing impairment",
+   "hi": "श्रवण बाधिता"
+  },
+  {
+   "en": "Intellectual disability",
+   "hi": "बौद्धिक दिव्यांगता"
+  },
+  {
+   "en": "Gifted child",
+   "hi": "प्रतिभाशाली बालक"
+  },
+  {
+   "en": "Reasonable accommodation",
+   "hi": "उचित सुविधा / युक्तियुक्त समायोजन"
+  },
+  {
+   "en": "Assistive technology",
+   "hi": "सहायक प्रौद्योगिकी"
+  },
+  {
+   "en": "Segregation",
+   "hi": "पृथक्करण"
+  },
+  {
+   "en": "Integration",
+   "hi": "एकीकरण"
+  },
+  {
+   "en": "Sign language",
+   "hi": "सांकेतिक भाषा"
+  }
+ ]
+}
